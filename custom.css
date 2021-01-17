@@ -1,0 +1,72 @@
+/* remove rounding from cards, buttons and inputs */
+.card, .btn, .form-control { 
+    border-radius: 0; 
+}
+
+/* Custom button */
+.btn-reddit {
+  color: #fff;
+  background-color: #FF4500;
+  border-color: #FF4500;
+}
+
+.btn-reddit:hover {
+  color: #fff;
+  background-color: #EF3F00;
+  border-color: #EF3F00;
+}
+
+.btn-reddit:focus, .btn-reddit.focus {
+  box-shadow: 0 0 0 0.2rem #EF3F00);
+}
+
+.btn-reddit.disabled, .btn-reddit:disabled {
+  color: #fff;
+  background-color: #FF4500;
+  border-color: #FF4500;
+}
+
+.btn-reddit:not(:disabled):not(.disabled):active, .btn-reddit:not(:disabled):not(.disabled).active,
+.show > .btn-reddit.dropdown-toggle {
+  color: #fff;
+  background-color: #EF3F00;
+  border-color: #EF3F00;
+}
+
+.btn-reddit:not(:disabled):not(.disabled):active:focus, .btn-reddit:not(:disabled):not(.disabled).active:focus,
+.show > .btn-reddit.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem #EF3F00);
+}
+
+.btn-outline-reddit {
+    color: #FF4500;
+    border-color: #FF4500;
+  }
+  
+  .btn-outline-reddit:hover {
+    color: #fff;
+    background-color: #FF4500;
+    border-color: #FF4500;
+  }
+  
+  .btn-outline-reddit:focus, .btn-outline-reddit.focus {
+    box-shadow: 0 0 0 0.2rem #EF3F00;
+  }
+  
+  .btn-outline-reddit.disabled, .btn-outline-reddit:disabled {
+    color: #FF4500;
+    background-color: transparent;
+  }
+  
+  .btn-outline-reddit:not(:disabled):not(.disabled):active, .btn-outline-reddit:not(:disabled):not(.disabled).active,
+  .show > .btn-outline-reddit.dropdown-toggle {
+    color: #fff;
+    background-color: #FF4500;
+    border-color: #FF4500;
+  }
+  
+  .btn-outline-reddit:not(:disabled):not(.disabled):active:focus, .btn-outline-reddit:not(:disabled):not(.disabled).active:focus,
+  .show > .btn-outline-reddit.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem #EF3F00);
+  }
+  
