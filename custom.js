@@ -57,13 +57,13 @@ function loadTable(href) {
 }
 
 $(document).ready( function () {
-    loadTable("https://raw.githubusercontent.com/janash/reddit_stocks/main/overall_top50.csv")
+    loadTable("https://raw.githubusercontent.com/janash/reddit_stocks/main/data/overall_top50.csv")
 
     buttons = document.getElementsByClassName('btn-outline-reddit')
 
     for (i=0; i<buttons.length; i++) {
         buttons[i].onclick = function() {
-            loadTable(`https://raw.githubusercontent.com/janash/reddit_stocks/main/${this.id}_top50.csv`)
+            loadTable(`https://raw.githubusercontent.com/janash/reddit_stocks/main/data/${this.id}_top50.csv`)
         };
     }
 
