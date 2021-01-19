@@ -65,6 +65,7 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
 
     return df
 
+
 # Perform sentiment analysis on comments
 def get_comment_sentiment(df):
     """
@@ -87,10 +88,11 @@ def get_comment_sentiment(df):
 
     return df_concat
 
-#perform an average on the comment sentiment 
+
+# perform an average on the comment sentiment
 def get_mean_ticker_sentiment(df):
     """
-    Translates sentiment dataframe into averages of pos, neg, neu, and compound sentiment 
+    Translates sentiment dataframe into averages of pos, neg, neu, and compound sentiment
 
     Parameters
     ----------
@@ -102,10 +104,11 @@ def get_mean_ticker_sentiment(df):
     df_comment_sentiment : pd.DataFrame
         A dataframe of the average ticker sentiments
     """
-    df['mentions'] = df.groupby('ticker')['ticker'].transform('count')
-    df_sentiment_stocks = df.groupby('ticker').mean()
+    df["mentions"] = df.groupby("ticker")["ticker"].transform("count")
+    df_sentiment_stocks = df.groupby("ticker").mean()
 
     return df_sentiment_stocks
+
 
 if __name__ == "__main__":
 
@@ -120,7 +123,7 @@ if __name__ == "__main__":
     # Set Up
     today = dt.date.today()
     subreddits = ["wallstreetbets", "stocks", "pennystocks", "investing"]
-    
+
     for subreddit in subreddits:
         print(f"Retrieving subreddit {subreddit}")
         df = get_ticker_comments(subreddit, reddit, time_period="day")
