@@ -3,7 +3,8 @@ Get comments which contain stock tickers from specified subreddits.
 """
 
 import os
-
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
 import praw
 import datetime as dt
 import pandas as pd
@@ -35,7 +36,7 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
 
     all_stocks = gt.get_tickers()
 
-    stockRegex = re.compile(r"[A-Z]{2,4}[,.\s]")
+    stockRegex = re.compile(r"[A-Z]{2,4}[,./\s]")
 
     comment_dictionary = {"ticker": [], "comment": []}
     for submission in reddit.subreddit(subreddit_name).top(time_period):
@@ -65,6 +66,46 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
     return df
 
 # Perform sentiment analysis on comments
+def get_comment_sentiment(df):
+    """
+    Analyze the  sentiment of each ticker in a comment.
+
+    Parameters
+    ----------
+    df : pd.DataFrame
+        DataFrame which contains the ticker and comment from a specific subreddit
+
+    Returns
+    -------
+    df_comment_sentiment : pd.DataFrame
+        A dataframe of the comments which contain tickers and the sentiment of the comment.
+    """
+    sia = SIA()
+    sentiment_df = df["comment"].apply(sia.polarity_scores)
+    sentiment_df = pd.json_normalize(sentiment_df.to_numpy())
+    df_concat = pd.concat([df, sentiment_df], axis=1)
+
+    return df_concat
+
+#perform an average on the comment sentiment 
+def get_mean_ticker_sentiment(df):
+    """
+    Translates sentiment dataframe into averages of pos, neg, neu, and compound sentiment 
+
+    Parameters
+    ----------
+    df : pd.DataFrame
+        DataFrame which contains the ticker, comment, sentiment from a specific subreddit
+
+    Returns
+    -------
+    df_comment_sentiment : pd.DataFrame
+        A dataframe of the average ticker sentiments
+    """
+    df['mentions'] = df.groupby('ticker')['ticker'].transform('count')
+    df_sentiment_stocks = df.groupby('ticker').mean()
+
+    return df_sentiment_stocks
 
 if __name__ == "__main__":
 
@@ -77,11 +118,13 @@ if __name__ == "__main__":
     )
 
     # Set Up
-    today = dt.datetime.today()
+    today = dt.date.today()
     subreddits = ["wallstreetbets", "stocks", "pennystocks", "investing"]
-
+    
     for subreddit in subreddits:
         print(f"Retrieving subreddit {subreddit}")
-        df = get_ticker_comments(subreddit, reddit, time_period="hour")
-
-        df.to_csv(f"{subreddit}_comments.csv", index=False)
+        df = get_ticker_comments(subreddit, reddit, time_period="day")
+        sentiment_df = get_comment_sentiment(df)
+        sentiment_df.to_csv(f"{today}_{subreddit}_comments.csv")
+        average_df = get_mean_ticker_sentiment(sentiment_df)
+        average_df.to_csv(f"{today}_{subreddit}.csv")
