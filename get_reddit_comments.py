@@ -11,7 +11,7 @@ import pandas as pd
 import numpy as np
 from get_all_tickers import get_tickers as gt
 import re
-
+import yfinance as yf
 from praw.models import Comment
 
 # Get subreddit comments. Filter for tickers
@@ -109,6 +109,38 @@ def get_mean_ticker_sentiment(df):
 
     return df_sentiment_stocks
 
+def add_stock_information(df, today, yesterday):
+    """
+    adds the %change and end-of-day price to the sentiment DataFrame
+
+    Parameters
+    ----------
+    df : pd.DataFrame
+        DataFrame which contains the ticker, average sentiment, and mentions from a specific subreddit
+
+    Returns
+    -------
+    df_comment_sentiment : pd.DataFrame
+        A dataframe with %change and EOD price to sentiment DataFrame
+    """
+    #date_time = dt.datetime.today()
+    df = df.reset_index()
+    tickers = df['ticker'].tolist()
+    stock_df = pd.DataFrame()
+    for ticker in tickers:
+        tick = yf.Ticker(ticker)
+        tickdf = tick.history('1d')
+        tickdf = tickdf.reset_index()
+        tickdf['ticker'] = ticker
+        tickdf = tickdf.groupby("ticker").mean()
+        stock_df = stock_df.append(tickdf)
+    print(stock_df)
+    df['date'] = yesterday
+    df['open'] = stock_df['Open'].values
+    df['close'] = stock_df['Close'].values
+    df["percent change"] = 100*((df['close']-df['open'])/df['open'])
+
+    return df
 
 if __name__ == "__main__":
 
@@ -122,6 +154,7 @@ if __name__ == "__main__":
 
     # Set Up
     today = dt.date.today()
+    yesterday = today - dt.timedelta(days=1)
     subreddits = ["wallstreetbets", "stocks", "pennystocks", "investing"]
 
     for subreddit in subreddits:
@@ -131,3 +164,5 @@ if __name__ == "__main__":
         sentiment_df.to_csv(f"{today}_{subreddit}_comments.csv")
         average_df = get_mean_ticker_sentiment(sentiment_df)
         average_df.to_csv(f"{today}_{subreddit}.csv")
+        stock_price_df = add_stock_information(average_df, today, yesterday)
+        stock_price_df.to_csv(f"{today}_{subreddit}_priceinfo.csv")
