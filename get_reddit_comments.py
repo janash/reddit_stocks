@@ -14,6 +14,11 @@ import re
 import yfinance as yf
 from praw.models import Comment
 
+nltk.download("vader_lexicon")
+nltk.download("stopwords")
+
+
+
 # Get subreddit comments. Filter for tickers
 def get_ticker_comments(subreddit_name, reddit, time_period="day"):
     """
