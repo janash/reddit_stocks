@@ -1,7 +1,11 @@
 ,ticker,comment,neg,neu,pos,compound
 0,BB,BB 🚀🚀,0.0,1.0,0.0,0.0
 1,FCEL,"For anyone who is interested.  FCEL has scheduled their earnings call for tomorrow, Jan. 21st at 10:00am.  Not Mar 15th",0.0,0.876,0.124,0.4019
-2,AA,"# Today is Wednesday, the 20th of January
+2,AIQ,"I'm having one of those days where I have spare cash, but nothing to buy. my silver stocks have done well, so I sold a few of those, even apple has put me in the green (been a while waiting for that one).  AIQ, JETS, BUG all going the right way....just haven't seen anything to get into this morning :(",0.064,0.893,0.044,-0.296
+3,BUG,"I'm having one of those days where I have spare cash, but nothing to buy. my silver stocks have done well, so I sold a few of those, even apple has put me in the green (been a while waiting for that one).  AIQ, JETS, BUG all going the right way....just haven't seen anything to get into this morning :(",0.064,0.893,0.044,-0.296
+4,GRTS,"GRTS is down, buy the dip or forever hold your peace",0.0,0.741,0.259,0.5423
+5,RH,Hello!  Does anyone know if RH does something shady with market orders?  Everytime I try to time the buy by the penny I notice it's always 2-3 cents over what I agreed to buy the stock for.  It may not seem like much but when you are buying hundreds or thousands of shares it adds up.  Anyone else notice?,0.026,0.89,0.084,0.5341
+6,AA,"# Today is Wednesday, the 20th of January
 
 
 
@@ -126,7 +130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-3,ACBI,"# Today is Wednesday, the 20th of January
+7,ACBI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -251,7 +255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-4,ACP,"# Today is Wednesday, the 20th of January
+8,ACP,"# Today is Wednesday, the 20th of January
 
 
 
@@ -376,7 +380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-5,ADXS,"# Today is Wednesday, the 20th of January
+9,ADXS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -501,7 +505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-6,AGD,"# Today is Wednesday, the 20th of January
+10,AGD,"# Today is Wednesday, the 20th of January
 
 
 
@@ -626,7 +630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-7,ALLY,"# Today is Wednesday, the 20th of January
+11,ALLY,"# Today is Wednesday, the 20th of January
 
 
 
@@ -751,7 +755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-8,ANIX,"# Today is Wednesday, the 20th of January
+12,ANIX,"# Today is Wednesday, the 20th of January
 
 
 
@@ -876,7 +880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-9,AOD,"# Today is Wednesday, the 20th of January
+13,AOD,"# Today is Wednesday, the 20th of January
 
 
 
@@ -1001,7 +1005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-10,APA,"# Today is Wednesday, the 20th of January
+14,APA,"# Today is Wednesday, the 20th of January
 
 
 
@@ -1126,7 +1130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-11,API,"# Today is Wednesday, the 20th of January
+15,API,"# Today is Wednesday, the 20th of January
 
 
 
@@ -1251,7 +1255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-12,ARDC,"# Today is Wednesday, the 20th of January
+16,ARDC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -1376,7 +1380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-13,ASB,"# Today is Wednesday, the 20th of January
+17,ASB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -1501,7 +1505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-14,ASGI,"# Today is Wednesday, the 20th of January
+18,ASGI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -1626,7 +1630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-15,ASML,"# Today is Wednesday, the 20th of January
+19,ASML,"# Today is Wednesday, the 20th of January
 
 
 
@@ -1751,7 +1755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-16,ATLO,"# Today is Wednesday, the 20th of January
+20,ATLO,"# Today is Wednesday, the 20th of January
 
 
 
@@ -1876,7 +1880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-17,AWP,"# Today is Wednesday, the 20th of January
+21,AWP,"# Today is Wednesday, the 20th of January
 
 
 
@@ -2001,7 +2005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-18,BANC,"# Today is Wednesday, the 20th of January
+22,BANC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -2126,7 +2130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-19,BANF,"# Today is Wednesday, the 20th of January
+23,BANF,"# Today is Wednesday, the 20th of January
 
 
 
@@ -2251,7 +2255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-20,BANR,"# Today is Wednesday, the 20th of January
+24,BANR,"# Today is Wednesday, the 20th of January
 
 
 
@@ -2376,7 +2380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-21,BEDU,"# Today is Wednesday, the 20th of January
+25,BEDU,"# Today is Wednesday, the 20th of January
 
 
 
@@ -2501,7 +2505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-22,BGH,"# Today is Wednesday, the 20th of January
+26,BGH,"# Today is Wednesday, the 20th of January
 
 
 
@@ -2626,7 +2630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-23,BK,"# Today is Wednesday, the 20th of January
+27,BK,"# Today is Wednesday, the 20th of January
 
 
 
@@ -2751,7 +2755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-24,BKR,"# Today is Wednesday, the 20th of January
+28,BKR,"# Today is Wednesday, the 20th of January
 
 
 
@@ -2876,7 +2880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-25,BKU,"# Today is Wednesday, the 20th of January
+29,BKU,"# Today is Wednesday, the 20th of January
 
 
 
@@ -3001,7 +3005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-26,BMTC,"# Today is Wednesday, the 20th of January
+30,BMTC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -3126,7 +3130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-27,BOCH,"# Today is Wednesday, the 20th of January
+31,BOCH,"# Today is Wednesday, the 20th of January
 
 
 
@@ -3251,7 +3255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-28,BOKF,"# Today is Wednesday, the 20th of January
+32,BOKF,"# Today is Wednesday, the 20th of January
 
 
 
@@ -3376,7 +3380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-29,BOTJ,"# Today is Wednesday, the 20th of January
+33,BOTJ,"# Today is Wednesday, the 20th of January
 
 
 
@@ -3501,7 +3505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-30,BRID,"# Today is Wednesday, the 20th of January
+34,BRID,"# Today is Wednesday, the 20th of January
 
 
 
@@ -3626,7 +3630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-31,BUSE,"# Today is Wednesday, the 20th of January
+35,BUSE,"# Today is Wednesday, the 20th of January
 
 
 
@@ -3751,7 +3755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-32,BWG,"# Today is Wednesday, the 20th of January
+36,BWG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -3876,7 +3880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-33,CBAN,"# Today is Wednesday, the 20th of January
+37,CBAN,"# Today is Wednesday, the 20th of January
 
 
 
@@ -4001,7 +4005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-34,CBSH,"# Today is Wednesday, the 20th of January
+38,CBSH,"# Today is Wednesday, the 20th of January
 
 
 
@@ -4126,7 +4130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-35,CCL,"# Today is Wednesday, the 20th of January
+39,CCL,"# Today is Wednesday, the 20th of January
 
 
 
@@ -4251,7 +4255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-36,CFBK,"# Today is Wednesday, the 20th of January
+40,CFBK,"# Today is Wednesday, the 20th of January
 
 
 
@@ -4376,7 +4380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-37,CFFI,"# Today is Wednesday, the 20th of January
+41,CFFI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -4501,7 +4505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-38,CFG,"# Today is Wednesday, the 20th of January
+42,CFG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -4626,7 +4630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-39,CL,"# Today is Wednesday, the 20th of January
+43,CL,"# Today is Wednesday, the 20th of January
 
 
 
@@ -4751,7 +4755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-40,CLB,"# Today is Wednesday, the 20th of January
+44,CLB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -4876,7 +4880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-41,CMC,"# Today is Wednesday, the 20th of January
+45,CMC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -5001,7 +5005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-42,COG,"# Today is Wednesday, the 20th of January
+46,COG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -5126,7 +5130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-43,COKE,"# Today is Wednesday, the 20th of January
+47,COKE,"# Today is Wednesday, the 20th of January
 
 
 
@@ -5251,7 +5255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-44,COO,"# Today is Wednesday, the 20th of January
+48,COO,"# Today is Wednesday, the 20th of January
 
 
 
@@ -5376,7 +5380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-45,CSX,"# Today is Wednesday, the 20th of January
+49,CSX,"# Today is Wednesday, the 20th of January
 
 
 
@@ -5501,7 +5505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-46,CTXS,"# Today is Wednesday, the 20th of January
+50,CTXS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -5626,7 +5630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-47,CUK,"# Today is Wednesday, the 20th of January
+51,CUK,"# Today is Wednesday, the 20th of January
 
 
 
@@ -5751,7 +5755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-48,CVLY,"# Today is Wednesday, the 20th of January
+52,CVLY,"# Today is Wednesday, the 20th of January
 
 
 
@@ -5876,7 +5880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-49,CVS,"# Today is Wednesday, the 20th of January
+53,CVS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -6001,7 +6005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-50,CWBC,"# Today is Wednesday, the 20th of January
+54,CWBC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -6126,7 +6130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-51,CZNC,"# Today is Wednesday, the 20th of January
+55,CZNC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -6251,7 +6255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-52,DEX,"# Today is Wednesday, the 20th of January
+56,DEX,"# Today is Wednesday, the 20th of January
 
 
 
@@ -6376,7 +6380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-53,DFP,"# Today is Wednesday, the 20th of January
+57,DFP,"# Today is Wednesday, the 20th of January
 
 
 
@@ -6501,7 +6505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-54,DFS,"# Today is Wednesday, the 20th of January
+58,DFS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -6626,7 +6630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-55,DHC,"# Today is Wednesday, the 20th of January
+59,DHC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -6751,7 +6755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-56,DMB,"# Today is Wednesday, the 20th of January
+60,DMB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -6876,7 +6880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-57,DMO,"# Today is Wednesday, the 20th of January
+61,DMO,"# Today is Wednesday, the 20th of January
 
 
 
@@ -7001,7 +7005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-58,DX,"# Today is Wednesday, the 20th of January
+62,DX,"# Today is Wednesday, the 20th of January
 
 
 
@@ -7126,7 +7130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-59,EDU,"# Today is Wednesday, the 20th of January
+63,EDU,"# Today is Wednesday, the 20th of January
 
 
 
@@ -7251,7 +7255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-60,EFF,"# Today is Wednesday, the 20th of January
+64,EFF,"# Today is Wednesday, the 20th of January
 
 
 
@@ -7376,7 +7380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-61,EHI,"# Today is Wednesday, the 20th of January
+65,EHI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -7501,7 +7505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-62,EMD,"# Today is Wednesday, the 20th of January
+66,EMD,"# Today is Wednesday, the 20th of January
 
 
 
@@ -7626,7 +7630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-63,ENIA,"# Today is Wednesday, the 20th of January
+67,ENIA,"# Today is Wednesday, the 20th of January
 
 
 
@@ -7751,7 +7755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-64,EOI,"# Today is Wednesday, the 20th of January
+68,EOI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -7876,7 +7880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-65,EOS,"# Today is Wednesday, the 20th of January
+69,EOS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -8001,7 +8005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-66,EOT,"# Today is Wednesday, the 20th of January
+70,EOT,"# Today is Wednesday, the 20th of January
 
 
 
@@ -8126,7 +8130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-67,ESQ,"# Today is Wednesday, the 20th of January
+71,ESQ,"# Today is Wednesday, the 20th of January
 
 
 
@@ -8251,7 +8255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-68,ESXB,"# Today is Wednesday, the 20th of January
+72,ESXB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -8376,7 +8380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-69,ETB,"# Today is Wednesday, the 20th of January
+73,ETB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -8501,7 +8505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-70,ETG,"# Today is Wednesday, the 20th of January
+74,ETG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -8626,7 +8630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-71,ETJ,"# Today is Wednesday, the 20th of January
+75,ETJ,"# Today is Wednesday, the 20th of January
 
 
 
@@ -8751,7 +8755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-72,ETO,"# Today is Wednesday, the 20th of January
+76,ETO,"# Today is Wednesday, the 20th of January
 
 
 
@@ -8876,7 +8880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-73,ETV,"# Today is Wednesday, the 20th of January
+77,ETV,"# Today is Wednesday, the 20th of January
 
 
 
@@ -9001,7 +9005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-74,ETW,"# Today is Wednesday, the 20th of January
+78,ETW,"# Today is Wednesday, the 20th of January
 
 
 
@@ -9126,7 +9130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-75,ETY,"# Today is Wednesday, the 20th of January
+79,ETY,"# Today is Wednesday, the 20th of January
 
 
 
@@ -9251,7 +9255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-76,EVG,"# Today is Wednesday, the 20th of January
+80,EVG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -9376,7 +9380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-77,EXD,"# Today is Wednesday, the 20th of January
+81,EXD,"# Today is Wednesday, the 20th of January
 
 
 
@@ -9501,7 +9505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-78,EXG,"# Today is Wednesday, the 20th of January
+82,EXG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -9626,7 +9630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-79,FAST,"# Today is Wednesday, the 20th of January
+83,FAST,"# Today is Wednesday, the 20th of January
 
 
 
@@ -9751,7 +9755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-80,FBC,"# Today is Wednesday, the 20th of January
+84,FBC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -9876,7 +9880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-81,FCEL,"# Today is Wednesday, the 20th of January
+85,FCEL,"# Today is Wednesday, the 20th of January
 
 
 
@@ -10001,7 +10005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-82,FFC,"# Today is Wednesday, the 20th of January
+86,FFC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -10126,7 +10130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-83,FHB,"# Today is Wednesday, the 20th of January
+87,FHB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -10251,7 +10255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-84,FHN,"# Today is Wednesday, the 20th of January
+88,FHN,"# Today is Wednesday, the 20th of January
 
 
 
@@ -10376,7 +10380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-85,FITB,"# Today is Wednesday, the 20th of January
+89,FITB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -10501,7 +10505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-86,FLC,"# Today is Wednesday, the 20th of January
+90,FLC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -10626,7 +10630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-87,FMN,"# Today is Wednesday, the 20th of January
+91,FMN,"# Today is Wednesday, the 20th of January
 
 
 
@@ -10751,7 +10755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-88,FNCB,"# Today is Wednesday, the 20th of January
+92,FNCB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -10876,7 +10880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-89,FOR,"# Today is Wednesday, the 20th of January
+93,FOR,"# Today is Wednesday, the 20th of January
 
 
 
@@ -11001,7 +11005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-90,GAIN,"# Today is Wednesday, the 20th of January
+94,GAIN,"# Today is Wednesday, the 20th of January
 
 
 
@@ -11126,7 +11130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-91,GCBC,"# Today is Wednesday, the 20th of January
+95,GCBC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -11251,7 +11255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-92,GDO,"# Today is Wednesday, the 20th of January
+96,GDO,"# Today is Wednesday, the 20th of January
 
 
 
@@ -11376,7 +11380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-93,GEO,"# Today is Wednesday, the 20th of January
+97,GEO,"# Today is Wednesday, the 20th of January
 
 
 
@@ -11501,7 +11505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-94,GLAD,"# Today is Wednesday, the 20th of January
+98,GLAD,"# Today is Wednesday, the 20th of January
 
 
 
@@ -11626,7 +11630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-95,GLBZ,"# Today is Wednesday, the 20th of January
+99,GLBZ,"# Today is Wednesday, the 20th of January
 
 
 
@@ -11751,7 +11755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-96,GOOD,"# Today is Wednesday, the 20th of January
+100,GOOD,"# Today is Wednesday, the 20th of January
 
 
 
@@ -11876,7 +11880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-97,HBAN,"# Today is Wednesday, the 20th of January
+101,HBAN,"# Today is Wednesday, the 20th of January
 
 
 
@@ -12001,7 +12005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-98,HFRO,"# Today is Wednesday, the 20th of January
+102,HFRO,"# Today is Wednesday, the 20th of January
 
 
 
@@ -12126,7 +12130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-99,HIE,"# Today is Wednesday, the 20th of January
+103,HIE,"# Today is Wednesday, the 20th of January
 
 
 
@@ -12251,7 +12255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-100,HIFS,"# Today is Wednesday, the 20th of January
+104,HIFS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -12376,7 +12380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-101,HIO,"# Today is Wednesday, the 20th of January
+105,HIO,"# Today is Wednesday, the 20th of January
 
 
 
@@ -12501,7 +12505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-102,HIX,"# Today is Wednesday, the 20th of January
+106,HIX,"# Today is Wednesday, the 20th of January
 
 
 
@@ -12626,7 +12630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-103,HOMB,"# Today is Wednesday, the 20th of January
+107,HOMB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -12751,7 +12755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-104,HWC,"# Today is Wednesday, the 20th of January
+108,HWC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -12876,7 +12880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-105,HYI,"# Today is Wednesday, the 20th of January
+109,HYI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -13001,7 +13005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-106,IBM,"# Today is Wednesday, the 20th of January
+110,IBM,"# Today is Wednesday, the 20th of January
 
 
 
@@ -13126,7 +13130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-107,IBN,"# Today is Wednesday, the 20th of January
+111,IBN,"# Today is Wednesday, the 20th of January
 
 
 
@@ -13251,7 +13255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-108,ICBK,"# Today is Wednesday, the 20th of January
+112,ICBK,"# Today is Wednesday, the 20th of January
 
 
 
@@ -13376,7 +13380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-109,IGI,"# Today is Wednesday, the 20th of January
+113,IGI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -13501,7 +13505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-110,IHT,"# Today is Wednesday, the 20th of January
+114,IHT,"# Today is Wednesday, the 20th of January
 
 
 
@@ -13626,7 +13630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-111,IIIN,"# Today is Wednesday, the 20th of January
+115,IIIN,"# Today is Wednesday, the 20th of January
 
 
 
@@ -13751,7 +13755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-112,ILPT,"# Today is Wednesday, the 20th of January
+116,ILPT,"# Today is Wednesday, the 20th of January
 
 
 
@@ -13876,7 +13880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-113,INBK,"# Today is Wednesday, the 20th of January
+117,INBK,"# Today is Wednesday, the 20th of January
 
 
 
@@ -14001,7 +14005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-114,INDB,"# Today is Wednesday, the 20th of January
+118,INDB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -14126,7 +14130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-115,INDT,"# Today is Wednesday, the 20th of January
+119,INDT,"# Today is Wednesday, the 20th of January
 
 
 
@@ -14251,7 +14255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-116,INTC,"# Today is Wednesday, the 20th of January
+120,INTC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -14376,7 +14380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-117,INTG,"# Today is Wednesday, the 20th of January
+121,INTG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -14501,7 +14505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-118,ISRG,"# Today is Wednesday, the 20th of January
+122,ISRG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -14626,7 +14630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-119,KALU,"# Today is Wednesday, the 20th of January
+123,KALU,"# Today is Wednesday, the 20th of January
 
 
 
@@ -14751,7 +14755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-120,KEY,"# Today is Wednesday, the 20th of January
+124,KEY,"# Today is Wednesday, the 20th of January
 
 
 
@@ -14876,7 +14880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-121,KMI,"# Today is Wednesday, the 20th of January
+125,KMI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -15001,7 +15005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-122,KSU,"# Today is Wednesday, the 20th of January
+126,KSU,"# Today is Wednesday, the 20th of January
 
 
 
@@ -15126,7 +15130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-123,LAND,"# Today is Wednesday, the 20th of January
+127,LAND,"# Today is Wednesday, the 20th of January
 
 
 
@@ -15251,7 +15255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-124,LBAI,"# Today is Wednesday, the 20th of January
+128,LBAI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -15376,7 +15380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-125,LKFN,"# Today is Wednesday, the 20th of January
+129,LKFN,"# Today is Wednesday, the 20th of January
 
 
 
@@ -15501,7 +15505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-126,LTC,"# Today is Wednesday, the 20th of January
+130,LTC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -15626,7 +15630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-127,LYTS,"# Today is Wednesday, the 20th of January
+131,LYTS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -15751,7 +15755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-128,MBCN,"# Today is Wednesday, the 20th of January
+132,MBCN,"# Today is Wednesday, the 20th of January
 
 
 
@@ -15876,7 +15880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-129,MCBS,"# Today is Wednesday, the 20th of January
+133,MCBS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -16001,7 +16005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-130,MGU,"# Today is Wednesday, the 20th of January
+134,MGU,"# Today is Wednesday, the 20th of January
 
 
 
@@ -16126,7 +16130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-131,MMU,"# Today is Wednesday, the 20th of January
+135,MMU,"# Today is Wednesday, the 20th of January
 
 
 
@@ -16251,7 +16255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-132,MOV,"# Today is Wednesday, the 20th of January
+136,MOV,"# Today is Wednesday, the 20th of January
 
 
 
@@ -16376,7 +16380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-133,MS,"# Today is Wednesday, the 20th of January
+137,MS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -16501,7 +16505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-134,MTB,"# Today is Wednesday, the 20th of January
+138,MTB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -16626,7 +16630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-135,MTT,"# Today is Wednesday, the 20th of January
+139,MTT,"# Today is Wednesday, the 20th of January
 
 
 
@@ -16751,7 +16755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-136,NBHC,"# Today is Wednesday, the 20th of January
+140,NBHC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -16876,7 +16880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-137,NHF,"# Today is Wednesday, the 20th of January
+141,NHF,"# Today is Wednesday, the 20th of January
 
 
 
@@ -17001,7 +17005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-138,NTRS,"# Today is Wednesday, the 20th of January
+142,NTRS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -17126,7 +17130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-139,NVT,"# Today is Wednesday, the 20th of January
+143,NVT,"# Today is Wednesday, the 20th of January
 
 
 
@@ -17251,7 +17255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-140,OPI,"# Today is Wednesday, the 20th of January
+144,OPI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -17376,7 +17380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-141,OZK,"# Today is Wednesday, the 20th of January
+145,OZK,"# Today is Wednesday, the 20th of January
 
 
 
@@ -17501,7 +17505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-142,PBA,"# Today is Wednesday, the 20th of January
+146,PBA,"# Today is Wednesday, the 20th of January
 
 
 
@@ -17626,7 +17630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-143,PBCT,"# Today is Wednesday, the 20th of January
+147,PBCT,"# Today is Wednesday, the 20th of January
 
 
 
@@ -17751,7 +17755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-144,PBIP,"# Today is Wednesday, the 20th of January
+148,PBIP,"# Today is Wednesday, the 20th of January
 
 
 
@@ -17876,7 +17880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-145,PFD,"# Today is Wednesday, the 20th of January
+149,PFD,"# Today is Wednesday, the 20th of January
 
 
 
@@ -18001,7 +18005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-146,PFIS,"# Today is Wednesday, the 20th of January
+150,PFIS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -18126,7 +18130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-147,PG,"# Today is Wednesday, the 20th of January
+151,PG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -18251,7 +18255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-148,PKI,"# Today is Wednesday, the 20th of January
+152,PKI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -18376,7 +18380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-149,PLBC,"# Today is Wednesday, the 20th of January
+153,PLBC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -18501,7 +18505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-150,PLXS,"# Today is Wednesday, the 20th of January
+154,PLXS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -18626,7 +18630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-151,PNR,"# Today is Wednesday, the 20th of January
+155,PNR,"# Today is Wednesday, the 20th of January
 
 
 
@@ -18751,7 +18755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-152,PPG,"# Today is Wednesday, the 20th of January
+156,PPG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -18876,7 +18880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-153,PPT,"# Today is Wednesday, the 20th of January
+157,PPT,"# Today is Wednesday, the 20th of January
 
 
 
@@ -19001,7 +19005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-154,RBNC,"# Today is Wednesday, the 20th of January
+158,RBNC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -19126,7 +19130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-155,RF,"# Today is Wednesday, the 20th of January
+159,RF,"# Today is Wednesday, the 20th of January
 
 
 
@@ -19251,7 +19255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-156,RMR,"# Today is Wednesday, the 20th of January
+160,RMR,"# Today is Wednesday, the 20th of January
 
 
 
@@ -19376,7 +19380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-157,SAL,"# Today is Wednesday, the 20th of January
+161,SAL,"# Today is Wednesday, the 20th of January
 
 
 
@@ -19501,7 +19505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-158,SASR,"# Today is Wednesday, the 20th of January
+162,SASR,"# Today is Wednesday, the 20th of January
 
 
 
@@ -19626,7 +19630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-159,SBI,"# Today is Wednesday, the 20th of January
+163,SBI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -19751,7 +19755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-160,SBNY,"# Today is Wednesday, the 20th of January
+164,SBNY,"# Today is Wednesday, the 20th of January
 
 
 
@@ -19876,7 +19880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-161,SDHY,"# Today is Wednesday, the 20th of January
+165,SDHY,"# Today is Wednesday, the 20th of January
 
 
 
@@ -20001,7 +20005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-162,SGU,"# Today is Wednesday, the 20th of January
+166,SGU,"# Today is Wednesday, the 20th of January
 
 
 
@@ -20126,7 +20130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-163,SIVB,"# Today is Wednesday, the 20th of January
+167,SIVB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -20251,7 +20255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-164,SLB,"# Today is Wednesday, the 20th of January
+168,SLB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -20376,7 +20380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-165,SLCT,"# Today is Wednesday, the 20th of January
+169,SLCT,"# Today is Wednesday, the 20th of January
 
 
 
@@ -20501,7 +20505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-166,SLG,"# Today is Wednesday, the 20th of January
+170,SLG,"# Today is Wednesday, the 20th of January
 
 
 
@@ -20626,7 +20630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-167,SLP,"# Today is Wednesday, the 20th of January
+171,SLP,"# Today is Wednesday, the 20th of January
 
 
 
@@ -20751,7 +20755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-168,SMMF,"# Today is Wednesday, the 20th of January
+172,SMMF,"# Today is Wednesday, the 20th of January
 
 
 
@@ -20876,7 +20880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-169,SNX,"# Today is Wednesday, the 20th of January
+173,SNX,"# Today is Wednesday, the 20th of January
 
 
 
@@ -21001,7 +21005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-170,STL,"# Today is Wednesday, the 20th of January
+174,STL,"# Today is Wednesday, the 20th of January
 
 
 
@@ -21126,7 +21130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-171,STX,"# Today is Wednesday, the 20th of January
+175,STX,"# Today is Wednesday, the 20th of January
 
 
 
@@ -21251,7 +21255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-172,SUNS,"# Today is Wednesday, the 20th of January
+176,SUNS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -21376,7 +21380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-173,SVC,"# Today is Wednesday, the 20th of January
+177,SVC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -21501,7 +21505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-174,TAL,"# Today is Wednesday, the 20th of January
+178,TAL,"# Today is Wednesday, the 20th of January
 
 
 
@@ -21626,7 +21630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-175,TBK,"# Today is Wednesday, the 20th of January
+179,TBK,"# Today is Wednesday, the 20th of January
 
 
 
@@ -21751,7 +21755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-176,TCBI,"# Today is Wednesday, the 20th of January
+180,TCBI,"# Today is Wednesday, the 20th of January
 
 
 
@@ -21876,7 +21880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-177,TFC,"# Today is Wednesday, the 20th of January
+181,TFC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -22001,7 +22005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-178,THQ,"# Today is Wednesday, the 20th of January
+182,THQ,"# Today is Wednesday, the 20th of January
 
 
 
@@ -22126,7 +22130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-179,THW,"# Today is Wednesday, the 20th of January
+183,THW,"# Today is Wednesday, the 20th of January
 
 
 
@@ -22251,7 +22255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-180,TPZ,"# Today is Wednesday, the 20th of January
+184,TPZ,"# Today is Wednesday, the 20th of January
 
 
 
@@ -22376,7 +22380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-181,TQQQ,"# Today is Wednesday, the 20th of January
+185,TQQQ,"# Today is Wednesday, the 20th of January
 
 
 
@@ -22501,7 +22505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-182,TRST,"# Today is Wednesday, the 20th of January
+186,TRST,"# Today is Wednesday, the 20th of January
 
 
 
@@ -22626,7 +22630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-183,TRV,"# Today is Wednesday, the 20th of January
+187,TRV,"# Today is Wednesday, the 20th of January
 
 
 
@@ -22751,7 +22755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-184,UAL,"# Today is Wednesday, the 20th of January
+188,UAL,"# Today is Wednesday, the 20th of January
 
 
 
@@ -22876,7 +22880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-185,UMPQ,"# Today is Wednesday, the 20th of January
+189,UMPQ,"# Today is Wednesday, the 20th of January
 
 
 
@@ -23001,7 +23005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-186,UNB,"# Today is Wednesday, the 20th of January
+190,UNB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -23126,7 +23130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-187,UNH,"# Today is Wednesday, the 20th of January
+191,UNH,"# Today is Wednesday, the 20th of January
 
 
 
@@ -23251,7 +23255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-188,UNP,"# Today is Wednesday, the 20th of January
+192,UNP,"# Today is Wednesday, the 20th of January
 
 
 
@@ -23376,7 +23380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-189,USA,"# Today is Wednesday, the 20th of January
+193,USA,"# Today is Wednesday, the 20th of January
 
 
 
@@ -23501,7 +23505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-190,USAC,"# Today is Wednesday, the 20th of January
+194,USAC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -23626,7 +23630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-191,USB,"# Today is Wednesday, the 20th of January
+195,USB,"# Today is Wednesday, the 20th of January
 
 
 
@@ -23751,7 +23755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-192,WABC,"# Today is Wednesday, the 20th of January
+196,WABC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -23876,7 +23880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-193,WAL,"# Today is Wednesday, the 20th of January
+197,WAL,"# Today is Wednesday, the 20th of January
 
 
 
@@ -24001,7 +24005,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-194,WBS,"# Today is Wednesday, the 20th of January
+198,WBS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -24126,7 +24130,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-195,WEA,"# Today is Wednesday, the 20th of January
+199,WEA,"# Today is Wednesday, the 20th of January
 
 
 
@@ -24251,7 +24255,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-196,WIA,"# Today is Wednesday, the 20th of January
+200,WIA,"# Today is Wednesday, the 20th of January
 
 
 
@@ -24376,7 +24380,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-197,WIT,"# Today is Wednesday, the 20th of January
+201,WIT,"# Today is Wednesday, the 20th of January
 
 
 
@@ -24501,7 +24505,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-198,WIW,"# Today is Wednesday, the 20th of January
+202,WIW,"# Today is Wednesday, the 20th of January
 
 
 
@@ -24626,7 +24630,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-199,WNS,"# Today is Wednesday, the 20th of January
+203,WNS,"# Today is Wednesday, the 20th of January
 
 
 
@@ -24751,7 +24755,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-200,WSM,"# Today is Wednesday, the 20th of January
+204,WSM,"# Today is Wednesday, the 20th of January
 
 
 
@@ -24876,7 +24880,7 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-201,WTFC,"# Today is Wednesday, the 20th of January
+205,WTFC,"# Today is Wednesday, the 20th of January
 
 
 
@@ -25001,30 +25005,30 @@
     - U.S. Baker Hughes Total Rig Count (previous: 360)
 
 ^^^^2021-01-20",0.06,0.897,0.044,-0.9671
-202,SENS,SENS 🚀🚀,0.0,1.0,0.0,0.0
-203,SENS,I see no talk of SENS anywhere after it double in price yesterday. What gives?,0.145,0.855,0.0,-0.296
-204,CEO,"LNDC CEO purchased 10,000 shares last night 🤔",0.0,0.732,0.268,0.296
-205,LNDC,"LNDC CEO purchased 10,000 shares last night 🤔",0.0,0.732,0.268,0.296
-206,VISL,"VISL made a big jump yesterday, still looking at a dollar increase",0.0,0.796,0.204,0.3182
-207,INUV,INUV is ballistic pre-market,0.0,1.0,0.0,0.0
-208,GRTS,"GRTS is down, buy the dip or forever hold your peace",0.0,0.741,0.259,0.5423
-209,BABA,$BABA making me money,0.0,1.0,0.0,0.0
-210,ATOS,"Big money play.... seriously I'm just trying to help someone out that might happen to see this.
+206,SENS,I see no talk of SENS anywhere after it double in price yesterday. What gives?,0.145,0.855,0.0,-0.296
+207,SENS,SENS 🚀🚀,0.0,1.0,0.0,0.0
+208,ATOS,"Big money play.... seriously I'm just trying to help someone out that might happen to see this.
 
 ATOS calls are insanely cheap right now. You can get 3/19 calls $1.00 calls for a price that is just 20. cents over market value. I'm holding 100+ calls right now. This has huge potential upside and very low down side risk IMO.
 
 Not a PUMP.",0.09,0.802,0.108,0.2975
-211,IMO,"Big money play.... seriously I'm just trying to help someone out that might happen to see this.
+209,IMO,"Big money play.... seriously I'm just trying to help someone out that might happen to see this.
 
 ATOS calls are insanely cheap right now. You can get 3/19 calls $1.00 calls for a price that is just 20. cents over market value. I'm holding 100+ calls right now. This has huge potential upside and very low down side risk IMO.
 
 Not a PUMP.",0.09,0.802,0.108,0.2975
-212,PUMP,"Big money play.... seriously I'm just trying to help someone out that might happen to see this.
+210,PUMP,"Big money play.... seriously I'm just trying to help someone out that might happen to see this.
 
 ATOS calls are insanely cheap right now. You can get 3/19 calls $1.00 calls for a price that is just 20. cents over market value. I'm holding 100+ calls right now. This has huge potential upside and very low down side risk IMO.
 
 Not a PUMP.",0.09,0.802,0.108,0.2975
-213,AAL,"Stocks I think are worthy of investing in for a biden presidency: 
+211,CEO,"LNDC CEO purchased 10,000 shares last night 🤔",0.0,0.732,0.268,0.296
+212,LNDC,"LNDC CEO purchased 10,000 shares last night 🤔",0.0,0.732,0.268,0.296
+213,VISL,"VISL made a big jump yesterday, still looking at a dollar increase",0.0,0.796,0.204,0.3182
+214,INUV,INUV is ballistic pre-market,0.0,1.0,0.0,0.0
+215,BABA,$BABA making me money,0.0,1.0,0.0,0.0
+216,VIAC,VIAC,0.0,1.0,0.0,0.0
+217,AAL,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25056,7 +25060,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-214,ACB,"Stocks I think are worthy of investing in for a biden presidency: 
+218,ACB,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25088,7 +25092,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-215,APHA,"Stocks I think are worthy of investing in for a biden presidency: 
+219,APHA,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25120,7 +25124,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-216,AZUL,"Stocks I think are worthy of investing in for a biden presidency: 
+220,AZUL,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25152,7 +25156,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-217,DAL,"Stocks I think are worthy of investing in for a biden presidency: 
+221,DAL,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25184,7 +25188,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-218,GRWG,"Stocks I think are worthy of investing in for a biden presidency: 
+222,GRWG,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25216,7 +25220,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-219,HYLN,"Stocks I think are worthy of investing in for a biden presidency: 
+223,HYLN,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25248,7 +25252,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-220,IPWR,"Stocks I think are worthy of investing in for a biden presidency: 
+224,IPWR,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25280,7 +25284,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-221,LI,"Stocks I think are worthy of investing in for a biden presidency: 
+225,LI,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25312,7 +25316,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-222,MAXN,"Stocks I think are worthy of investing in for a biden presidency: 
+226,MAXN,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25344,7 +25348,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-223,NIO,"Stocks I think are worthy of investing in for a biden presidency: 
+227,NIO,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25376,7 +25380,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-224,PEI,"Stocks I think are worthy of investing in for a biden presidency: 
+228,PEI,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25408,7 +25412,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-225,PHX,"Stocks I think are worthy of investing in for a biden presidency: 
+229,PHX,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25440,7 +25444,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-226,PLUG,"Stocks I think are worthy of investing in for a biden presidency: 
+230,PLUG,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25472,7 +25476,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-227,QCLN,"Stocks I think are worthy of investing in for a biden presidency: 
+231,QCLN,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25504,7 +25508,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-228,QS,"Stocks I think are worthy of investing in for a biden presidency: 
+232,QS,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25536,7 +25540,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-229,RIDE,"Stocks I think are worthy of investing in for a biden presidency: 
+233,RIDE,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25568,7 +25572,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-230,RUN,"Stocks I think are worthy of investing in for a biden presidency: 
+234,RUN,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25600,7 +25604,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-231,SOL,"Stocks I think are worthy of investing in for a biden presidency: 
+235,SOL,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25632,7 +25636,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-232,SOLO,"Stocks I think are worthy of investing in for a biden presidency: 
+236,SOLO,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25664,7 +25668,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-233,SPWR,"Stocks I think are worthy of investing in for a biden presidency: 
+237,SPWR,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25696,7 +25700,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-234,TELL,"Stocks I think are worthy of investing in for a biden presidency: 
+238,TELL,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25728,7 +25732,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-235,TLRY,"Stocks I think are worthy of investing in for a biden presidency: 
+239,TLRY,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25760,7 +25764,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-236,TRXC,"Stocks I think are worthy of investing in for a biden presidency: 
+240,TRXC,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25792,7 +25796,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-237,UAL,"Stocks I think are worthy of investing in for a biden presidency: 
+241,UAL,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25824,7 +25828,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-238,WKHS,"Stocks I think are worthy of investing in for a biden presidency: 
+242,WKHS,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25856,7 +25860,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-239,XL,"Stocks I think are worthy of investing in for a biden presidency: 
+243,XL,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25888,7 +25892,7 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-240,XPEV,"Stocks I think are worthy of investing in for a biden presidency: 
+244,XPEV,"Stocks I think are worthy of investing in for a biden presidency: 
 
 MAXN
 XPEV
@@ -25920,36 +25924,34 @@ XL
 SOL 
 RUN
 NRGU",0.0,0.931,0.069,0.4404
-241,JAGX,So why did JAGX tank the way it did?,0.0,1.0,0.0,0.0
-242,MOTS,Bout to lose my portfolio on MOTS if it don’t stop dropping lol,0.277,0.565,0.158,-0.2732
-243,AIQ,"I'm having one of those days where I have spare cash, but nothing to buy. my silver stocks have done well, so I sold a few of those, even apple has put me in the green (been a while waiting for that one).  AIQ, JETS, BUG all going the right way....just haven't seen anything to get into this morning :(",0.064,0.893,0.044,-0.296
-244,BUG,"I'm having one of those days where I have spare cash, but nothing to buy. my silver stocks have done well, so I sold a few of those, even apple has put me in the green (been a while waiting for that one).  AIQ, JETS, BUG all going the right way....just haven't seen anything to get into this morning :(",0.064,0.893,0.044,-0.296
-245,RH,Hello!  Does anyone know if RH does something shady with market orders?  Everytime I try to time the buy by the penny I notice it's always 2-3 cents over what I agreed to buy the stock for.  It may not seem like much but when you are buying hundreds or thousands of shares it adds up.  Anyone else notice?,0.026,0.89,0.084,0.5341
-246,CCIV,"https://www.idahoreporter.com/2021/ipof-not-cciv-to-merge-with-lucid-motors-what-you-need-to-know/ 
+245,JAGX,So why did JAGX tank the way it did?,0.0,1.0,0.0,0.0
+246,MOTS,Bout to lose my portfolio on MOTS if it don’t stop dropping lol,0.277,0.565,0.158,-0.2732
+247,MDLY,Any reason MDLY just shot way up?,0.0,1.0,0.0,0.0
+248,CCIV,"https://www.idahoreporter.com/2021/ipof-not-cciv-to-merge-with-lucid-motors-what-you-need-to-know/ 
 
 LUCID MOTORS MERGING WITH IPOF NOT CCIV. pulling out of cciv asap, got in at 12.",0.0,1.0,0.0,0.0
-247,IPOF,"https://www.idahoreporter.com/2021/ipof-not-cciv-to-merge-with-lucid-motors-what-you-need-to-know/ 
+249,IPOF,"https://www.idahoreporter.com/2021/ipof-not-cciv-to-merge-with-lucid-motors-what-you-need-to-know/ 
 
 LUCID MOTORS MERGING WITH IPOF NOT CCIV. pulling out of cciv asap, got in at 12.",0.0,1.0,0.0,0.0
-248,BEP,"Brokerages usually send consolidated 1099s (B, Div, Int) in mid-February and may send modified forms in March. If you owned any securities that generate K-1 forms (limited partnerships, trusts, commodities ETFs), the K-1 will probably come in late March also.
+250,GME,I’m on the GME hype 🚀,0.0,1.0,0.0,0.0
+251,BEP,"Brokerages usually send consolidated 1099s (B, Div, Int) in mid-February and may send modified forms in March. If you owned any securities that generate K-1 forms (limited partnerships, trusts, commodities ETFs), the K-1 will probably come in late March also.
 
 Most Robinhood users probably haven't owned any K-1 shares, but there are some common ones that beginning investors might not realize fall into that category. USO, BEP, FUN, NEP, SUN, for example, are all master limited partnerships or commodities ETFs that I've seen mentioned in this sub.",0.025,0.862,0.114,0.8151
-249,FUN,"Brokerages usually send consolidated 1099s (B, Div, Int) in mid-February and may send modified forms in March. If you owned any securities that generate K-1 forms (limited partnerships, trusts, commodities ETFs), the K-1 will probably come in late March also.
+252,FUN,"Brokerages usually send consolidated 1099s (B, Div, Int) in mid-February and may send modified forms in March. If you owned any securities that generate K-1 forms (limited partnerships, trusts, commodities ETFs), the K-1 will probably come in late March also.
 
 Most Robinhood users probably haven't owned any K-1 shares, but there are some common ones that beginning investors might not realize fall into that category. USO, BEP, FUN, NEP, SUN, for example, are all master limited partnerships or commodities ETFs that I've seen mentioned in this sub.",0.025,0.862,0.114,0.8151
-250,NEP,"Brokerages usually send consolidated 1099s (B, Div, Int) in mid-February and may send modified forms in March. If you owned any securities that generate K-1 forms (limited partnerships, trusts, commodities ETFs), the K-1 will probably come in late March also.
+253,NEP,"Brokerages usually send consolidated 1099s (B, Div, Int) in mid-February and may send modified forms in March. If you owned any securities that generate K-1 forms (limited partnerships, trusts, commodities ETFs), the K-1 will probably come in late March also.
 
 Most Robinhood users probably haven't owned any K-1 shares, but there are some common ones that beginning investors might not realize fall into that category. USO, BEP, FUN, NEP, SUN, for example, are all master limited partnerships or commodities ETFs that I've seen mentioned in this sub.",0.025,0.862,0.114,0.8151
-251,SUN,"Brokerages usually send consolidated 1099s (B, Div, Int) in mid-February and may send modified forms in March. If you owned any securities that generate K-1 forms (limited partnerships, trusts, commodities ETFs), the K-1 will probably come in late March also.
+254,SUN,"Brokerages usually send consolidated 1099s (B, Div, Int) in mid-February and may send modified forms in March. If you owned any securities that generate K-1 forms (limited partnerships, trusts, commodities ETFs), the K-1 will probably come in late March also.
 
 Most Robinhood users probably haven't owned any K-1 shares, but there are some common ones that beginning investors might not realize fall into that category. USO, BEP, FUN, NEP, SUN, for example, are all master limited partnerships or commodities ETFs that I've seen mentioned in this sub.",0.025,0.862,0.114,0.8151
-252,GME,I’m on the GME hype 🚀,0.0,1.0,0.0,0.0
-253,IPOF,Read the article is says there is almost 0 chance that Lucid Merges with IPOF,0.0,0.884,0.116,0.1796
-254,CCIV,Well shit.. CCIV is my best stock at the moment. Hope this doesn't fall through.,0.0,0.566,0.434,0.8481
-255,GRTS,">GRTS 
+255,IPOF,Read the article is says there is almost 0 chance that Lucid Merges with IPOF,0.0,0.884,0.116,0.1796
+256,CCIV,Well shit.. CCIV is my best stock at the moment. Hope this doesn't fall through.,0.0,0.566,0.434,0.8481
+257,GRTS,">GRTS 
 
 False",0.0,1.0,0.0,0.0
-256,RH,the cap is $1000 for instant deposit funds... basically the buying power funds you have before your deposit is fully deposited to RH,0.0,1.0,0.0,0.0
-257,RH,Because the UI/UX sucks on schwab. I work for a publically traded company and i get shares as part of my compensation and they give it ot me in my schwab account. I started trading on there but then I found RH. I’d like to move everything but the shares i get from my salary,0.032,0.827,0.141,0.7096
-258,UI,Because the UI/UX sucks on schwab. I work for a publically traded company and i get shares as part of my compensation and they give it ot me in my schwab account. I started trading on there but then I found RH. I’d like to move everything but the shares i get from my salary,0.032,0.827,0.141,0.7096
-259,GME,No expert here but Cohen is making moves for GME and a bunch of retards on WSB are dumping a ton of cash into it. It's only gonna do better but it's definitely not a long term hold.,0.106,0.722,0.172,0.5927
+258,RH,the cap is $1000 for instant deposit funds... basically the buying power funds you have before your deposit is fully deposited to RH,0.0,1.0,0.0,0.0
+259,RH,Because the UI/UX sucks on schwab. I work for a publically traded company and i get shares as part of my compensation and they give it ot me in my schwab account. I started trading on there but then I found RH. I’d like to move everything but the shares i get from my salary,0.032,0.827,0.141,0.7096
+260,UI,Because the UI/UX sucks on schwab. I work for a publically traded company and i get shares as part of my compensation and they give it ot me in my schwab account. I started trading on there but then I found RH. I’d like to move everything but the shares i get from my salary,0.032,0.827,0.141,0.7096
+261,GME,No expert here but Cohen is making moves for GME and a bunch of retards on WSB are dumping a ton of cash into it. It's only gonna do better but it's definitely not a long term hold.,0.106,0.722,0.172,0.5927
