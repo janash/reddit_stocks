@@ -64,6 +64,14 @@ $(document).ready( function () {
     for (i=0; i<buttons.length; i++) {
         buttons[i].onclick = function() {
             loadTable(`https://raw.githubusercontent.com/janash/reddit_stocks/data/website_data/${this.id}_top50.csv`)
+            
+            // remove active class from all buttons
+            for (j=0; j<buttons.length; j++) {
+                buttons[j].classList.remove("active")
+            }
+
+            // add active class for button of interest
+            this.classList.add("active")
         };
     }
 
