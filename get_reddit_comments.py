@@ -155,7 +155,7 @@ if __name__ == "__main__":
     # Set Up
     today = dt.date.today()
     yesterday = today - dt.timedelta(days=1)
-    subreddits = ["wallstreetbets", "stocks", "pennystocks", "investing"]
+    subreddits = ["wallstreetbets", "stocks", "pennystocks", "investing", "robinhood", "robinhoodpennystocks"]
 
     for subreddit in subreddits:
         print(f"Retrieving subreddit {subreddit}")
@@ -164,5 +164,5 @@ if __name__ == "__main__":
         sentiment_df.to_csv(f"{today}_{subreddit}_comments.csv")
         average_df = get_mean_ticker_sentiment(sentiment_df)
         average_df.to_csv(f"{today}_{subreddit}.csv")
-        stock_price_df = add_stock_information(average_df, today, yesterday)
-        stock_price_df.to_csv(f"{today}_{subreddit}_priceinfo.csv")
+        # stock_price_df = add_stock_information(average_df, today, yesterday)
+        # stock_price_df.to_csv(f"{today}_{subreddit}_priceinfo.csv")
