@@ -10,7 +10,7 @@ import pandas as pd
 
 today = dt.date.today()
 
-subreddits = ["wallstreetbets", "stocks", "pennystocks", "investing", "robinhood", "robinhoodpennystocks"]
+subreddits = ["wallstreetbets", "stocks", "pennystocks", "investing"]
 
 df = pd.DataFrame()
 
