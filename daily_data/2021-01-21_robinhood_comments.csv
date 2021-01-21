@@ -16770,30 +16770,30 @@
 168,INTC,Excited to hear about INTC,0.0,0.625,0.375,0.34
 169,RH,Anyone else’s portfolio way down but RH says they’re up?,0.0,1.0,0.0,0.0
 170,ASML,I couldn’t find ASML on the Robinhood app and I sent my biggest deposit to Robinhood after realizing I could open a private brokerage account on my companies 401k Fidelity account...... ASML Holding NV is available there. FML,0.0,1.0,0.0,0.0
-171,BEP,Anyone know why BEP is not supported by robinhood?,0.197,0.803,0.0,-0.2411
-172,TXMD,I’ve been watching TXMD for a few weeks. Bought in @1.35. Hoping it’s heading for $2,0.0,0.833,0.167,0.4215
-173,TQQQ,Why did TQQQ lose $99 overnight?,0.351,0.649,0.0,-0.4019
-174,RH,"I have a debit spread itm and it is approaching expiration. 
+171,RH,"I have a debit spread itm and it is approaching expiration. 
 
 Will RH handle closing the spread for max profit and do I have to have buying power for it to do so ?
 
 From what I’ve read, if you’re fairly itm rh will handle it for you but if the price is close to the short call it could excercise and do some stuff.
 
 Can someone who’s held till expiration or who knows the answer tell me what happens and how? Thanks",0.0,0.926,0.074,0.7319
+172,BEP,Anyone know why BEP is not supported by robinhood?,0.197,0.803,0.0,-0.2411
+173,TXMD,I’ve been watching TXMD for a few weeks. Bought in @1.35. Hoping it’s heading for $2,0.0,0.833,0.167,0.4215
+174,TQQQ,Why did TQQQ lose $99 overnight?,0.351,0.649,0.0,-0.4019
 175,ATOS,ATOS,0.0,1.0,0.0,0.0
 176,PEI,PEI,0.0,1.0,0.0,0.0
 177,RIOT,RIOT is tanking solely because Crypto is. Isn't that the same issue with MARA?,0.25,0.75,0.0,-0.6523
 178,ZOM,ZOM is a cool penny stock. I keep it simple with my stuff for the most part - nothing wrong with just playing with 40. I’m with you.,0.0,0.761,0.239,0.7112
-179,NOK,NOK and F,0.0,1.0,0.0,0.0
-180,CCIV,"STPK, GNRS, CCIV",0.0,1.0,0.0,0.0
-181,GNRS,"STPK, GNRS, CCIV",0.0,1.0,0.0,0.0
-182,STPK,"STPK, GNRS, CCIV",0.0,1.0,0.0,0.0
-183,SENS,LFG SENS,0.0,1.0,0.0,0.0
-184,RH,"Without seeing the specific trade, I’ll suggest that this is most likely the result of a wide bid/ask spread. RH is probably displaying the mean value, which can be misleading. Look specifically at the bid and ask.",0.069,0.87,0.061,-0.0772
-185,RH,"General advice is close it before expiration, not exercise, to get your profit.  I would not advise letting RH handle it.",0.0,0.868,0.132,0.4404
-186,RH,"Generally, RH will complete a risk-assessment just prior to the expiration of your position. If it exceeds their threshold, the position will be closed. There is no guarantee that this action is performed for maximum profit. With some forms of spreads, if you do not manage your position before expiration, you run the risk of suffering a loss beyond the spreads defined maximum loss. This happens as a result of assignment. 
+179,RH,"General advice is close it before expiration, not exercise, to get your profit.  I would not advise letting RH handle it.",0.0,0.868,0.132,0.4404
+180,RH,"Generally, RH will complete a risk-assessment just prior to the expiration of your position. If it exceeds their threshold, the position will be closed. There is no guarantee that this action is performed for maximum profit. With some forms of spreads, if you do not manage your position before expiration, you run the risk of suffering a loss beyond the spreads defined maximum loss. This happens as a result of assignment. 
 
 I recommend you always close your positions before expiration.",0.137,0.778,0.085,-0.5574
+181,NOK,NOK and F,0.0,1.0,0.0,0.0
+182,CCIV,"STPK, GNRS, CCIV",0.0,1.0,0.0,0.0
+183,GNRS,"STPK, GNRS, CCIV",0.0,1.0,0.0,0.0
+184,STPK,"STPK, GNRS, CCIV",0.0,1.0,0.0,0.0
+185,SENS,LFG SENS,0.0,1.0,0.0,0.0
+186,RH,"Without seeing the specific trade, I’ll suggest that this is most likely the result of a wide bid/ask spread. RH is probably displaying the mean value, which can be misleading. Look specifically at the bid and ask.",0.069,0.87,0.061,-0.0772
 187,RH,Yup it's literally just a debit card to access the cash in your account. You can use it like any other ATM debit card. You have to have free sitting cash in your RH account though. If you have 100% of your funds invested at all times then the card is kinda pointless.,0.0,0.896,0.104,0.7003
 188,CEO,Not so much the earning but the conference call. Basically the first time new CEO will talk about future of INTC that a lot audience will pay attention to,0.056,0.944,0.0,-0.1531
 189,INTC,Not so much the earning but the conference call. Basically the first time new CEO will talk about future of INTC that a lot audience will pay attention to,0.056,0.944,0.0,-0.1531
@@ -16805,3 +16805,4 @@ So just RH being RH I guess.",0.04,0.914,0.046,0.0772
 191,RH,Thanks for the clarification. Sounds like a very RH thing to do lol,0.0,0.523,0.477,0.802
 192,CEO,Change in CEO makes me not super confident about the earnings report for INTC.,0.325,0.675,0.0,-0.6979
 193,INTC,Change in CEO makes me not super confident about the earnings report for INTC.,0.325,0.675,0.0,-0.6979
+194,CEO,"The Q4 reports was actually higher than their expectations, wall street expectations, and etc. And Pat the new CEO will be assuming the role in February so that's probably going to be next bump",0.0,1.0,0.0,0.0
