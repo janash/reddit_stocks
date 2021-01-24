@@ -1,3 +1,9 @@
+blockquote {
+  margin: 0 0 1rem;
+  white-space: pre-wrap;
+}
+
+
 .ticker-link:hover {
   text-decoration: underline;
   font-weight: bold;

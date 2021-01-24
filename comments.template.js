@@ -74,7 +74,7 @@ $(document).ready( function (){
           r/${comments[i][7]}
         </div>
         <div class="card-body">
-            <h5 class="card-title">${comments[i][1]}</h5>
+            <h3 class="card-title">${comments[i][1]}</h3>
             <blockquote class="blockquote">
                 ${comments[i][2]}
             </blockquote>
