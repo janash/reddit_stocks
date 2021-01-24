@@ -1,3 +1,9 @@
+.ticker-link:hover {
+  text-decoration: underline;
+  font-weight: bold;
+  cursor: pointer;
+}
+
 /* remove rounding from cards, buttons and inputs */
 .card, .btn, .form-control { 
     border-radius: 0; 

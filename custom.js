@@ -32,6 +32,10 @@ function loadTable(href) {
     var data = separated.slice(1,)
 
     for (let i=0; i<data.length; i++) {
+
+        let tickerLink = `<span class="ticker-link" id="${data[i][0]}">${data[i][0]}</span>`
+
+        data[i][0] = tickerLink
         
         let num = parseFloat(data[i][1])
 
@@ -49,6 +53,7 @@ function loadTable(href) {
         "responsive": true,
         "aaData": data,
         "columns": headers,
+        "pageLength": 50,
         "initComplete": function (settings, json) {  
             $("#csv-data").wrap("<div style='overflow:auto; width:100%;position:relative;'></div>");
         },
@@ -57,11 +62,24 @@ function loadTable(href) {
 }
 
 $(document).ready( function () {
+
+    localStorage.clear()
+
     loadTable("https://raw.githubusercontent.com/janash/reddit_stocks/data/website_data/overall_top50.csv")
 
     buttons = document.getElementsByClassName('btn-outline-reddit')
+    localStorage.setItem("subreddit", "overall")
 
-    for (i=0; i<buttons.length; i++) {
+    // Gather all subreddit names
+    let subreddits = []
+
+    // Define button behavior
+    for (let i=0; i<buttons.length; i++) {
+        
+        if (i>0) {
+            subreddits.push(buttons[i].id)
+        }
+
         buttons[i].onclick = function() {
             loadTable(`https://raw.githubusercontent.com/janash/reddit_stocks/data/website_data/${this.id}_top50.csv`)
             
@@ -72,7 +90,31 @@ $(document).ready( function () {
 
             // add active class for button of interest
             this.classList.add("active")
+            localStorage.setItem("subreddit", `${this.id}`)
+
+            // Add ticker click behavior again
+           
+            let tickers = document.getElementsByClassName("ticker-link")
+
+            for (let i=0; i<tickers.length; i++) {
+                tickers[i].onclick = function() {
+                    localStorage.setItem("ticker", this.id);
+                    window.location = "comments.html";
+                }
+            }
         };
+
+        localStorage.setItem("subreddits", subreddits)
+    };
+
+    // Define ticker link behavior
+    let tickers = document.getElementsByClassName("ticker-link")
+
+    for (let i=0; i<tickers.length; i++) {
+        tickers[i].onclick = function() {
+            localStorage.setItem("ticker", this.id);
+            window.location = "comments.html";
+        }
     }
 
 });
