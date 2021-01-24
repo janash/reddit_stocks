@@ -9,7 +9,7 @@ import datetime as dt
 
 today = dt.date.today()
 
-to_analyze = ["wallstreetbets", "pennystocks", "stocks", "overall", "investing", "robinhood", "robinhoodpennystocks"]
+to_analyze = ["wallstreetbets", "pennystocks", "stocks", "overall", "investing"]
 
 for subreddit in to_analyze:
     print(subreddit)
