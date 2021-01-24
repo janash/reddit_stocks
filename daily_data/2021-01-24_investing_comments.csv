@@ -324,49 +324,51 @@ In al of these cases, whomever bought the call options last ends up holding the 
 99,GME,"paging /u/unlucky-prize sorry for paging you again, but you are kinda my go to guy for gamma things now :D
 
 do you agree with OP's assessment? ""Should millions of retail buy the January 29 70C or January 29 75C, and the infinite short squeeze continues. If the GME 70C or 75C is hit, GME share price enters a gamma squeeze.""",0.017,0.812,0.171,0.9091
-100,GME,"That happened on Friday on GME puts - the February $20 contract jumped from $1 to $5 - nothing in between - a few mins before trading was halted.
+100,DD,Outstanding DD. Novice q: how certain is the infinite short squeeze? People on WSB are talking about this like it is written. Is this like... science at this point?,0.0,0.736,0.264,0.8532
+101,GME,"Sorry for the total noob question, but what is ""c""? I've been trying to read up on what's going on with GME and I'm not familiar with the terms.",0.077,0.923,0.0,-0.0644
+102,GME,"That happened on Friday on GME puts - the February $20 contract jumped from $1 to $5 - nothing in between - a few mins before trading was halted.
 
 My hope is that hedge funds are going to start rumors of new GME issue - or even better, GME announces an issuance this week - to pop this bubble.",0.0,0.898,0.102,0.7003
-101,GME,"> GME themselves (or a massive insider) thinks the market has overpriced their company and issues more shares
+103,GME,"> GME themselves (or a massive insider) thinks the market has overpriced their company and issues more shares
 
 Why can't this be a bullish indicator?  So what, GME issues a couple million shares to bank on this crazy price, and now they would be flush with fresh capital to make the company even stronger long term (acquisitions, hiring expansion, etc.)  Unless they release a LOT of shares, I don't see it impacting a lot.
 
 This is an argument I read elsewhere and it seems plausible without crunching the exact numbers myself.",0.056,0.812,0.132,0.7294
-102,GME,"The market cap of GME even know is $4.5b.  Back when I was selling puts at $4 it was $300m.  Far less money is needed to create this effect.  On say a $30b company it would take at least 100x as much money and likely more like 300x as much since liquidity is non linear with market cap, one of the original reasons for the SP500 index of shares with lots of liquidity.",0.0,0.877,0.123,0.8122
-103,DD,"If i may add, it actually has some long term value to be made, if you factor Cohens plans and average multiples for the same field you go to 120/share, if you factor cohens chewie multiples (a f# dog food company pitched against amazon and what not) it goes through the roof. +There is massive free marketing being done because of the short, it will deeply burn GME on ppls minds better than any coca-cola ad (which no ones factoring).  
+104,GME,"The market cap of GME even know is $4.5b.  Back when I was selling puts at $4 it was $300m.  Far less money is needed to create this effect.  On say a $30b company it would take at least 100x as much money and likely more like 300x as much since liquidity is non linear with market cap, one of the original reasons for the SP500 index of shares with lots of liquidity.",0.0,0.877,0.123,0.8122
+105,DD,"If i may add, it actually has some long term value to be made, if you factor Cohens plans and average multiples for the same field you go to 120/share, if you factor cohens chewie multiples (a f# dog food company pitched against amazon and what not) it goes through the roof. +There is massive free marketing being done because of the short, it will deeply burn GME on ppls minds better than any coca-cola ad (which no ones factoring).  
 
 
 So even if you sleep heavily and loose all of the bonanza, you can still just hold it for a nice profit (there's rational good chance that ppl will just have to wait a bit more for some good viable gains, not uncommon in stock market)  
 
 
 I cant cite the DD but i know its there, on WSB, and therefore, you could actually find it",0.022,0.857,0.121,0.8705
-104,GME,"If i may add, it actually has some long term value to be made, if you factor Cohens plans and average multiples for the same field you go to 120/share, if you factor cohens chewie multiples (a f# dog food company pitched against amazon and what not) it goes through the roof. +There is massive free marketing being done because of the short, it will deeply burn GME on ppls minds better than any coca-cola ad (which no ones factoring).  
+106,GME,"If i may add, it actually has some long term value to be made, if you factor Cohens plans and average multiples for the same field you go to 120/share, if you factor cohens chewie multiples (a f# dog food company pitched against amazon and what not) it goes through the roof. +There is massive free marketing being done because of the short, it will deeply burn GME on ppls minds better than any coca-cola ad (which no ones factoring).  
 
 
 So even if you sleep heavily and loose all of the bonanza, you can still just hold it for a nice profit (there's rational good chance that ppl will just have to wait a bit more for some good viable gains, not uncommon in stock market)  
 
 
 I cant cite the DD but i know its there, on WSB, and therefore, you could actually find it",0.022,0.857,0.121,0.8705
-105,GME,"The vast majority of Tesla calls expire OTM and plenty of shares are available so market makers have a motivation to keep selling. MM is definitely winning on Tesla. 
+107,GME,"The vast majority of Tesla calls expire OTM and plenty of shares are available so market makers have a motivation to keep selling. MM is definitely winning on Tesla. 
 
 Right now all the currently available GME options are ITM, float is being deteriorated and MM *knows* what's happening, so they have no reason to keep selling calls.",0.038,0.795,0.167,0.804
-106,TSLA,Yep. TSLA is exhibit A,0.0,0.577,0.423,0.296
-107,GME,"""surely this couldn't happen again, GME is only worth $20...""
+108,TSLA,Yep. TSLA is exhibit A,0.0,0.577,0.423,0.296
+109,GME,"""surely this couldn't happen again, GME is only worth $20...""
 
 - some boomer MM",0.0,0.696,0.304,0.5859
-108,RC,"> Let's not forget they're in a dying industry
+110,RC,"> Let's not forget they're in a dying industry
 
 What do you mean?  Gaming as a dying industry?  Or their current retail presence?
 
 > has companies like Amazon
 
 This is part of the RC hype, who built up Chewy and sold it for 3B, and beating Amazon at the same game.",0.056,0.791,0.153,0.4777
-109,GME,"Uh what would you be losing?
+111,GME,"Uh what would you be losing?
 
 If you sell covered calls for 100 you just sell your shares at 100 if GME actually closes at 100 (more likely you get a sell off because of a bunch of people setting their sell orders).
 
 You can then get back in if you want to.",0.048,0.887,0.065,-0.0258
-110,GME,"MM have already created higher strike calls on the option chains.
+112,GME,"MM have already created higher strike calls on the option chains.
 
 They must continue to make a market.
 
@@ -375,19 +377,19 @@ Regarding your original, question about if the option change had not expanded, y
 However, should GME price fall below 60, say like 40 AND people start to sell their call options, MM can return to market neutral faster with few losses.
 
 What's happening is retails are buying at any price realizing that MM and brokers are in a corner.  If this continues MM stand to lose more money.  If retails stop relentlessly buying shares, MM/brokers dont lose money.",0.135,0.802,0.063,-0.8929
-111,GME,"And that's shares. Buy them, don't borrow them on margin. GME is revamping their business model, so holding shares for the long term is a better move than the short sellers want you to believe.",0.0,0.777,0.223,0.765
-112,GME,"> GME is revamping their business model, so holding shares for the long term is a better move than the short sellers want you to believe.
+113,GME,"And that's shares. Buy them, don't borrow them on margin. GME is revamping their business model, so holding shares for the long term is a better move than the short sellers want you to believe.",0.0,0.777,0.223,0.765
+114,GME,"> GME is revamping their business model, so holding shares for the long term is a better move than the short sellers want you to believe.
 
 It is of course *possible* that the current valuation is too high despite that.",0.0,0.84,0.16,0.6887
-113,GME,"This is the free marketing play that will rebrand GME.  If this squeeze works out, many will profit and become fanatical about GameStop.",0.0,0.699,0.301,0.8225
-114,GME,"It’s really not that hard lol. It’s hard to get the exact bottom, easy to get near the bottom after confirmation of support. If you get it wrong, stop loss hits and it’s NBD because you secured profit earlier. 
+115,GME,"This is the free marketing play that will rebrand GME.  If this squeeze works out, many will profit and become fanatical about GameStop.",0.0,0.699,0.301,0.8225
+116,GME,"It’s really not that hard lol. It’s hard to get the exact bottom, easy to get near the bottom after confirmation of support. If you get it wrong, stop loss hits and it’s NBD because you secured profit earlier. 
 
 Or are you saying a smart idea is to leave your money in GME for months to years so that one day maybe it’ll squeeze again? 
 
 Or more likely GME hits you with a huge offering and the entire squeeze evaporates overnight",0.113,0.66,0.227,0.8812
-115,DD,Would love to see this answered. If you are going to reference solid DD with real info then link it!,0.0,0.747,0.253,0.7263
-116,GME,"I've had 2 people message me so far, they've mentioned investment discussions but stop responding when I tell them I'm going all in on GME 115c's",0.109,0.891,0.0,-0.4215
-117,CFO,"BB:
+117,DD,Would love to see this answered. If you are going to reference solid DD with real info then link it!,0.0,0.747,0.253,0.7263
+118,GME,"I've had 2 people message me so far, they've mentioned investment discussions but stop responding when I tell them I'm going all in on GME 115c's",0.109,0.891,0.0,-0.4215
+119,CFO,"BB:
 
 CFO just dumped all his shares, and CMO sold 60% of his shares
 
@@ -412,7 +414,7 @@ P/S = 0.9
 P/FCF = 34
 
 Cash/share = 5.7",0.067,0.823,0.11,0.1779
-118,CMO,"BB:
+120,CMO,"BB:
 
 CFO just dumped all his shares, and CMO sold 60% of his shares
 
@@ -437,7 +439,7 @@ P/S = 0.9
 P/FCF = 34
 
 Cash/share = 5.7",0.067,0.823,0.11,0.1779
-119,FCF,"BB:
+121,FCF,"BB:
 
 CFO just dumped all his shares, and CMO sold 60% of his shares
 
@@ -462,38 +464,38 @@ P/S = 0.9
 P/FCF = 34
 
 Cash/share = 5.7",0.067,0.823,0.11,0.1779
-120,BB,"Yes, explains why the execs divested part of their earnings. Original question was about Prem Watsa, the largest institutional investor in BB. Wonder if he is just sitting and watching?",0.0,0.848,0.152,0.6124
-121,BB,"Of course he is! He knows damn well that BB will still fly, Im all in so join up youll thank me later! ;)",0.085,0.6,0.314,0.7392
-122,DD,Solid DD.,0.0,0.385,0.615,0.1531
-123,GME,"You have to look at incremental short risk A) inclusive of current short interest as a percent of float and B) the company’s market cap.
+122,BB,"Yes, explains why the execs divested part of their earnings. Original question was about Prem Watsa, the largest institutional investor in BB. Wonder if he is just sitting and watching?",0.0,0.848,0.152,0.6124
+123,BB,"Of course he is! He knows damn well that BB will still fly, Im all in so join up youll thank me later! ;)",0.085,0.6,0.314,0.7392
+124,DD,Solid DD.,0.0,0.385,0.615,0.1531
+125,GME,"You have to look at incremental short risk A) inclusive of current short interest as a percent of float and B) the company’s market cap.
 
 Saying a company is good to short based on fundamentals without accounting for those factors is like saying a company is doing well therefore worth buying at any price without looking at its PE multiple or other valuation indicators.
 
 Shorting a smaller market cap company that already has short interest > total float is like thinking that walking blindfolded across a 6 lane freeway during rush hour to pick up $20 you saw lying on the median is a good trade because it’s free money.
 
 If you do that with a smaller market cap company that actually has a credible case for a higher re-rating based on fundamentals like GME arguably does, it’s like the scenario above but add in that the drivers are paid a bounty specifically to go after you.",0.034,0.831,0.135,0.872
-124,TSLA,"Why would you short a meme stock that has been exploding? 
+126,TSLA,"Why would you short a meme stock that has been exploding? 
 
 That's like trying to short TSLA. 
 
 Yeah maybe you're right and it's overvalued but you're trying to cross the train tracks while the train is going full steam. If you're wrong on the timing you're going to get run over. 
 
 Actually it's even worse than trying to short TSLA. TSLA is what it is. Gamestop is literally in the midst of a huge transformation of its business model. That just compounds the risk.",0.117,0.815,0.068,-0.7684
-125,BB,After WSB is done with GME then BB will be next.,0.0,1.0,0.0,0.0
-126,GME,After WSB is done with GME then BB will be next.,0.0,1.0,0.0,0.0
-127,BB,"Strong buy.
+127,BB,After WSB is done with GME then BB will be next.,0.0,1.0,0.0,0.0
+128,GME,After WSB is done with GME then BB will be next.,0.0,1.0,0.0,0.0
+129,BB,"Strong buy.
 
 People laugh at BB because they think of the bb phones.",0.0,0.615,0.385,0.7845
-128,BB,"BB closed on its highs of the day, and will likely be gunned to the high 16's next week.  I am of the mind that [NOK is going to run with it.](https://www.youtube.com/watch?v=x3pdJ7G9WR8&t=2s&ab_channel=KingCAMBO%3ATHETRADERSTHINKTANK)",0.0,1.0,0.0,0.0
-129,NOK,"BB closed on its highs of the day, and will likely be gunned to the high 16's next week.  I am of the mind that [NOK is going to run with it.](https://www.youtube.com/watch?v=x3pdJ7G9WR8&t=2s&ab_channel=KingCAMBO%3ATHETRADERSTHINKTANK)",0.0,1.0,0.0,0.0
-130,CEO,"Look at their CEO pay structure 
+130,BB,"BB closed on its highs of the day, and will likely be gunned to the high 16's next week.  I am of the mind that [NOK is going to run with it.](https://www.youtube.com/watch?v=x3pdJ7G9WR8&t=2s&ab_channel=KingCAMBO%3ATHETRADERSTHINKTANK)",0.0,1.0,0.0,0.0
+131,NOK,"BB closed on its highs of the day, and will likely be gunned to the high 16's next week.  I am of the mind that [NOK is going to run with it.](https://www.youtube.com/watch?v=x3pdJ7G9WR8&t=2s&ab_channel=KingCAMBO%3ATHETRADERSTHINKTANK)",0.0,1.0,0.0,0.0
+132,CEO,"Look at their CEO pay structure 
 
 BlackBerry Ltd. Chief Executive Officer John Chen signed a new contract worth at least US$128 million to keep him on the job for at least five years.
 
 The pay package includes 10 million restricted stock grants that will vest through November 2023. Half will pay out if share-price goals of US$16 to US$20 are reached. He’ll also get a performance-based cash award if the stock hits US$30. The value of the cash grant will be disclosed in the company’s proxy circular in May, according to the statement.
 
 Full disclosure got it at $11. It rose a lot this week due to hype, but can see it $20 in few months.",0.046,0.871,0.083,0.5267
-131,BB,"Depends a lot on what they do in the future.They have a lot of pattents, and they have divisions in automotive and cybersecurity which make them a good long position
+133,BB,"Depends a lot on what they do in the future.They have a lot of pattents, and they have divisions in automotive and cybersecurity which make them a good long position
 
 The problem is that the earnings are weak, depends a lot on the next quarter perfomance, they have a lot of businesses in automotive sector and given that the pandemics end look to be near, this will likely help BB in increasing their earnings.
 
@@ -501,7 +503,7 @@ I think that it may be $20 at EOD, but this depends more about what WSB  thinks 
 It's possible that the recent BB growth to be more correated with the GME success that with the real company outlook.
 
 My personal opinion is that they are a good long term position, even if it may suffer a corection after the ""hype"" will end.",0.058,0.832,0.11,0.8201
-132,EOD,"Depends a lot on what they do in the future.They have a lot of pattents, and they have divisions in automotive and cybersecurity which make them a good long position
+134,EOD,"Depends a lot on what they do in the future.They have a lot of pattents, and they have divisions in automotive and cybersecurity which make them a good long position
 
 The problem is that the earnings are weak, depends a lot on the next quarter perfomance, they have a lot of businesses in automotive sector and given that the pandemics end look to be near, this will likely help BB in increasing their earnings.
 
@@ -509,7 +511,7 @@ I think that it may be $20 at EOD, but this depends more about what WSB  thinks 
 It's possible that the recent BB growth to be more correated with the GME success that with the real company outlook.
 
 My personal opinion is that they are a good long term position, even if it may suffer a corection after the ""hype"" will end.",0.058,0.832,0.11,0.8201
-133,GME,"Depends a lot on what they do in the future.They have a lot of pattents, and they have divisions in automotive and cybersecurity which make them a good long position
+135,GME,"Depends a lot on what they do in the future.They have a lot of pattents, and they have divisions in automotive and cybersecurity which make them a good long position
 
 The problem is that the earnings are weak, depends a lot on the next quarter perfomance, they have a lot of businesses in automotive sector and given that the pandemics end look to be near, this will likely help BB in increasing their earnings.
 
@@ -517,7 +519,8 @@ I think that it may be $20 at EOD, but this depends more about what WSB  thinks 
 It's possible that the recent BB growth to be more correated with the GME success that with the real company outlook.
 
 My personal opinion is that they are a good long term position, even if it may suffer a corection after the ""hype"" will end.",0.058,0.832,0.11,0.8201
-134,CFO,"BB:
+136,IMO,It’s definitely a little speculative but they do hold an immense number of patents in the tech sector and have a growing number of cyber security clients. Their Amazon partnership is definitely why this stock has gotten kicked into high gear IMO. I’m bullish so I’m currently holding 110 shares priced in at 8.50,0.0,0.69,0.31,0.9366
+137,CFO,"BB:
 
 CFO just dumped all his shares, and CMO sold 60% of his shares
 
@@ -542,7 +545,7 @@ P/S = 0.9
 P/FCF = 34
 
 Cash/share = 5.7",0.067,0.823,0.11,0.1779
-135,CMO,"BB:
+138,CMO,"BB:
 
 CFO just dumped all his shares, and CMO sold 60% of his shares
 
@@ -567,7 +570,7 @@ P/S = 0.9
 P/FCF = 34
 
 Cash/share = 5.7",0.067,0.823,0.11,0.1779
-136,FCF,"BB:
+139,FCF,"BB:
 
 CFO just dumped all his shares, and CMO sold 60% of his shares
 
@@ -592,67 +595,66 @@ P/S = 0.9
 P/FCF = 34
 
 Cash/share = 5.7",0.067,0.823,0.11,0.1779
-137,IMO,It’s definitely a little speculative but they do hold an immense number of patents in the tech sector and have a growing number of cyber security clients. Their Amazon partnership is definitely why this stock has gotten kicked into high gear IMO. I’m bullish so I’m currently holding 110 shares priced in at 8.50,0.0,0.69,0.31,0.9366
-138,BB,Think you've found a hidden gem. Better get in before anybody else finds out about BB.,0.0,0.828,0.172,0.4404
-139,BB,"I love my old BB. My wife asked why I purchased BB, a month ago. I told her because it’s going in a new direction. Hopefully that direction is up.",0.0,0.769,0.231,0.7845
-140,BB,"I second this. Nokia is laying out the same broad spectrum approach of product, service, and infrastructure that BB implemented the past couple of years. I got very bullish this past summer with BB and then the news of partnerships and contracts started rolling in. Didn't see real movement until Oct-Nov time frame. Nokia is priced right now just below where BB was at in August, with 5x the market cap.
+140,BB,Think you've found a hidden gem. Better get in before anybody else finds out about BB.,0.0,0.828,0.172,0.4404
+141,BB,"I love my old BB. My wife asked why I purchased BB, a month ago. I told her because it’s going in a new direction. Hopefully that direction is up.",0.0,0.769,0.231,0.7845
+142,BB,"I second this. Nokia is laying out the same broad spectrum approach of product, service, and infrastructure that BB implemented the past couple of years. I got very bullish this past summer with BB and then the news of partnerships and contracts started rolling in. Didn't see real movement until Oct-Nov time frame. Nokia is priced right now just below where BB was at in August, with 5x the market cap.
 
 I just see good things coming out of both companies. Their reach is beginning to stretch thru hot, hot sectors - security, cloud, ev infrastructure, 5g.
 
 Just the beginning for both in my humble opinion. I'm looking at 10-15y DCA into each.",0.0,0.943,0.057,0.6597
-141,BB,Yes that’s partly my concern. I know WSB are tinkering with BB and that worries me. I think BB has potential to be a good bet but WSB may throw off some ability to gauge real performance,0.049,0.776,0.175,0.5927
-142,BB,Have you been on WSB lately? Everyone knows about BB,0.0,1.0,0.0,0.0
-143,BB,"Their QNX is heading towards 200 million cars too. Although I have a good few thousand shares in BB, I'm holding my breath until the WSB hype fades. I'd be happy with 12 USD near term, with 20 before year end.",0.0,0.804,0.196,0.8316
-144,BB,"The biggest one is microsoft, then CS, but CS is gaining more. BB owns cylance.",0.0,0.791,0.209,0.5719
-145,CS,"The biggest one is microsoft, then CS, but CS is gaining more. BB owns cylance.",0.0,0.791,0.209,0.5719
-146,BB,"I’m aware they’re talking about it but their opinions and feedback isn’t really very trustworthy is it. I was hoping for some grounded and considered feedback on BB and thought that maybe, just maybe, this may be a better place",0.0,0.725,0.275,0.9361
-147,BB,"I’m saying that BB isn’t comparable to GME, I don’t think  WSB has the capital or cohesiveness to pump stocks",0.0,1.0,0.0,0.0
-148,GME,"I’m saying that BB isn’t comparable to GME, I don’t think  WSB has the capital or cohesiveness to pump stocks",0.0,1.0,0.0,0.0
-149,DASH,"If you look at the volume and price action on Friday, it was big institutional buying. Retail and small fry cannot drive that volume and continuous sustaining of the price with a close at the day high. 
+143,BB,Yes that’s partly my concern. I know WSB are tinkering with BB and that worries me. I think BB has potential to be a good bet but WSB may throw off some ability to gauge real performance,0.049,0.776,0.175,0.5927
+144,BB,Have you been on WSB lately? Everyone knows about BB,0.0,1.0,0.0,0.0
+145,BB,"Their QNX is heading towards 200 million cars too. Although I have a good few thousand shares in BB, I'm holding my breath until the WSB hype fades. I'd be happy with 12 USD near term, with 20 before year end.",0.0,0.804,0.196,0.8316
+146,BB,"The biggest one is microsoft, then CS, but CS is gaining more. BB owns cylance.",0.0,0.791,0.209,0.5719
+147,CS,"The biggest one is microsoft, then CS, but CS is gaining more. BB owns cylance.",0.0,0.791,0.209,0.5719
+148,BB,"I’m aware they’re talking about it but their opinions and feedback isn’t really very trustworthy is it. I was hoping for some grounded and considered feedback on BB and thought that maybe, just maybe, this may be a better place",0.0,0.725,0.275,0.9361
+149,BB,"I’m saying that BB isn’t comparable to GME, I don’t think  WSB has the capital or cohesiveness to pump stocks",0.0,1.0,0.0,0.0
+150,GME,"I’m saying that BB isn’t comparable to GME, I don’t think  WSB has the capital or cohesiveness to pump stocks",0.0,1.0,0.0,0.0
+151,DASH,"If you look at the volume and price action on Friday, it was big institutional buying. Retail and small fry cannot drive that volume and continuous sustaining of the price with a close at the day high. 
 
 The big boys that got in Friday would not let this tank back down so fast IMO. I think we at least gun to new IPO high (look at DASH and ABNB). 
 
 You have Ark’s initial buy around $15s, and subsequent buy in the $25s. $27 had been the key and whoever was slapping it down at that level has switched sides. I think a PB would be at most to the $27 range. Whales that got in Friday will prob defend the $28-30.
 
 IMO we may gap up Monday and gun even higher for demo day.",0.036,0.964,0.0,-0.5859
-150,IMO,"If you look at the volume and price action on Friday, it was big institutional buying. Retail and small fry cannot drive that volume and continuous sustaining of the price with a close at the day high. 
+152,IMO,"If you look at the volume and price action on Friday, it was big institutional buying. Retail and small fry cannot drive that volume and continuous sustaining of the price with a close at the day high. 
 
 The big boys that got in Friday would not let this tank back down so fast IMO. I think we at least gun to new IPO high (look at DASH and ABNB). 
 
 You have Ark’s initial buy around $15s, and subsequent buy in the $25s. $27 had been the key and whoever was slapping it down at that level has switched sides. I think a PB would be at most to the $27 range. Whales that got in Friday will prob defend the $28-30.
 
 IMO we may gap up Monday and gun even higher for demo day.",0.036,0.964,0.0,-0.5859
-151,PB,"If you look at the volume and price action on Friday, it was big institutional buying. Retail and small fry cannot drive that volume and continuous sustaining of the price with a close at the day high. 
+153,PB,"If you look at the volume and price action on Friday, it was big institutional buying. Retail and small fry cannot drive that volume and continuous sustaining of the price with a close at the day high. 
 
 The big boys that got in Friday would not let this tank back down so fast IMO. I think we at least gun to new IPO high (look at DASH and ABNB). 
 
 You have Ark’s initial buy around $15s, and subsequent buy in the $25s. $27 had been the key and whoever was slapping it down at that level has switched sides. I think a PB would be at most to the $27 range. Whales that got in Friday will prob defend the $28-30.
 
 IMO we may gap up Monday and gun even higher for demo day.",0.036,0.964,0.0,-0.5859
-152,ESG,"This tech/new economy/ESG craze is astonishing. I have 214% gain on PLTR, but of course it was my smallest position so it went from cab fare to one month rent. I'm gonna sell just out of spite and being a bitter broke boy. I wonder when sensible, cash flow positive holdings will get rewarded in the market again. Somebody ought to write a book about that particular type of pain when people who don't know what a balance sheet is yolo on Tesla for 500% on a friends recommendation while you sit there with 5% YOY on a balanced portfolio.",0.149,0.698,0.153,0.1154
-153,PLTR,"This tech/new economy/ESG craze is astonishing. I have 214% gain on PLTR, but of course it was my smallest position so it went from cab fare to one month rent. I'm gonna sell just out of spite and being a bitter broke boy. I wonder when sensible, cash flow positive holdings will get rewarded in the market again. Somebody ought to write a book about that particular type of pain when people who don't know what a balance sheet is yolo on Tesla for 500% on a friends recommendation while you sit there with 5% YOY on a balanced portfolio.",0.149,0.698,0.153,0.1154
-154,PLTR,"That's a terrible entry point. Think about the level of volatility we've had with PLTR. How often has it been above $30? What happened to buy low and sell high? If you're talking about a stock that has been adopted by the WSB gang and is subject to manic buying and selling, why would a rarely hit price point be a good place to enter for a long term hold?",0.081,0.878,0.041,-0.4291
-155,PLTR,"What is not speculation right now?  People are creating stories and spinning stories in positive ways to justify valuations and their positions. Analysts are doing the same. For reference, Lockheed Martin and Boeing got $5B worth of contracts this month and their stocks haven't moved a cent on that news. Now PLTR got a contract worth some millions and I saw that story 56 times on Reddit with huge moves in the stock. If you pump it enough, people will believe in it.",0.0,0.863,0.137,0.872
-156,NIO,"I remember buying NIO at $16 when it wasn't often above $15 at the time. I had to sit on those shares for a while.
+154,ESG,"This tech/new economy/ESG craze is astonishing. I have 214% gain on PLTR, but of course it was my smallest position so it went from cab fare to one month rent. I'm gonna sell just out of spite and being a bitter broke boy. I wonder when sensible, cash flow positive holdings will get rewarded in the market again. Somebody ought to write a book about that particular type of pain when people who don't know what a balance sheet is yolo on Tesla for 500% on a friends recommendation while you sit there with 5% YOY on a balanced portfolio.",0.149,0.698,0.153,0.1154
+155,PLTR,"This tech/new economy/ESG craze is astonishing. I have 214% gain on PLTR, but of course it was my smallest position so it went from cab fare to one month rent. I'm gonna sell just out of spite and being a bitter broke boy. I wonder when sensible, cash flow positive holdings will get rewarded in the market again. Somebody ought to write a book about that particular type of pain when people who don't know what a balance sheet is yolo on Tesla for 500% on a friends recommendation while you sit there with 5% YOY on a balanced portfolio.",0.149,0.698,0.153,0.1154
+156,PLTR,"That's a terrible entry point. Think about the level of volatility we've had with PLTR. How often has it been above $30? What happened to buy low and sell high? If you're talking about a stock that has been adopted by the WSB gang and is subject to manic buying and selling, why would a rarely hit price point be a good place to enter for a long term hold?",0.081,0.878,0.041,-0.4291
+157,PLTR,"What is not speculation right now?  People are creating stories and spinning stories in positive ways to justify valuations and their positions. Analysts are doing the same. For reference, Lockheed Martin and Boeing got $5B worth of contracts this month and their stocks haven't moved a cent on that news. Now PLTR got a contract worth some millions and I saw that story 56 times on Reddit with huge moves in the stock. If you pump it enough, people will believe in it.",0.0,0.863,0.137,0.872
+158,NIO,"I remember buying NIO at $16 when it wasn't often above $15 at the time. I had to sit on those shares for a while.
 
 Now look at the stock price, cabron.",0.0,0.927,0.073,0.296
-157,BA,"I think this is a poor take. BA and LMT are both mature companies with ~100B+ market cap. PLTR is a growing company SOFTWARE company, meaning it can scale fast. Fast growth is not in the future for BA and LMT so the upside for investors is limited. On top of that, I think we can all agree that BA is a morally dubious company after they tried to cover up wrong doing in the 747-MAX story.",0.125,0.741,0.134,-0.0516
-158,LMT,"I think this is a poor take. BA and LMT are both mature companies with ~100B+ market cap. PLTR is a growing company SOFTWARE company, meaning it can scale fast. Fast growth is not in the future for BA and LMT so the upside for investors is limited. On top of that, I think we can all agree that BA is a morally dubious company after they tried to cover up wrong doing in the 747-MAX story.",0.125,0.741,0.134,-0.0516
-159,MAX,"I think this is a poor take. BA and LMT are both mature companies with ~100B+ market cap. PLTR is a growing company SOFTWARE company, meaning it can scale fast. Fast growth is not in the future for BA and LMT so the upside for investors is limited. On top of that, I think we can all agree that BA is a morally dubious company after they tried to cover up wrong doing in the 747-MAX story.",0.125,0.741,0.134,-0.0516
-160,PLTR,"I think this is a poor take. BA and LMT are both mature companies with ~100B+ market cap. PLTR is a growing company SOFTWARE company, meaning it can scale fast. Fast growth is not in the future for BA and LMT so the upside for investors is limited. On top of that, I think we can all agree that BA is a morally dubious company after they tried to cover up wrong doing in the 747-MAX story.",0.125,0.741,0.134,-0.0516
-161,PLTR,"Given the amount of attention a stock like this has, especially from the WSB crowd, it's highly likely that when this general buying mania settles out, lower price points and points of entry will present themselves as the weak hands get shaken out. Let's say you buy in at $30 and I buy in at $20. How many more shares will I be able to pick up than you? For $10,000, you'll have 333 shares, I'll have 500 shares. If the price increases to $40 a share, you'll have $13320 and I'll have $20000. What do you think happens if PLTR increases to $100 a share. Still think an entry price doesn't matter?",0.062,0.815,0.123,0.8055
-162,IR,"Thing is, you don't have to use IR website on google or amazon to know what they do.",0.0,0.909,0.091,0.1779
-163,HUGE,"Wow. Seriously? This is... jesus christ.
+159,BA,"I think this is a poor take. BA and LMT are both mature companies with ~100B+ market cap. PLTR is a growing company SOFTWARE company, meaning it can scale fast. Fast growth is not in the future for BA and LMT so the upside for investors is limited. On top of that, I think we can all agree that BA is a morally dubious company after they tried to cover up wrong doing in the 747-MAX story.",0.125,0.741,0.134,-0.0516
+160,LMT,"I think this is a poor take. BA and LMT are both mature companies with ~100B+ market cap. PLTR is a growing company SOFTWARE company, meaning it can scale fast. Fast growth is not in the future for BA and LMT so the upside for investors is limited. On top of that, I think we can all agree that BA is a morally dubious company after they tried to cover up wrong doing in the 747-MAX story.",0.125,0.741,0.134,-0.0516
+161,MAX,"I think this is a poor take. BA and LMT are both mature companies with ~100B+ market cap. PLTR is a growing company SOFTWARE company, meaning it can scale fast. Fast growth is not in the future for BA and LMT so the upside for investors is limited. On top of that, I think we can all agree that BA is a morally dubious company after they tried to cover up wrong doing in the 747-MAX story.",0.125,0.741,0.134,-0.0516
+162,PLTR,"I think this is a poor take. BA and LMT are both mature companies with ~100B+ market cap. PLTR is a growing company SOFTWARE company, meaning it can scale fast. Fast growth is not in the future for BA and LMT so the upside for investors is limited. On top of that, I think we can all agree that BA is a morally dubious company after they tried to cover up wrong doing in the 747-MAX story.",0.125,0.741,0.134,-0.0516
+163,PLTR,"Given the amount of attention a stock like this has, especially from the WSB crowd, it's highly likely that when this general buying mania settles out, lower price points and points of entry will present themselves as the weak hands get shaken out. Let's say you buy in at $30 and I buy in at $20. How many more shares will I be able to pick up than you? For $10,000, you'll have 333 shares, I'll have 500 shares. If the price increases to $40 a share, you'll have $13320 and I'll have $20000. What do you think happens if PLTR increases to $100 a share. Still think an entry price doesn't matter?",0.062,0.815,0.123,0.8055
+164,IR,"Thing is, you don't have to use IR website on google or amazon to know what they do.",0.0,0.909,0.091,0.1779
+165,HUGE,"Wow. Seriously? This is... jesus christ.
 
 NO ONE KNEW WHO THEY WERE BEFORE THEY WERE HUGE. THAT'S HOW IT WORKS.",0.169,0.583,0.249,0.4939
-164,IT,"Wow. Seriously? This is... jesus christ.
+166,IT,"Wow. Seriously? This is... jesus christ.
 
 NO ONE KNEW WHO THEY WERE BEFORE THEY WERE HUGE. THAT'S HOW IT WORKS.",0.169,0.583,0.249,0.4939
-165,ONE,"Wow. Seriously? This is... jesus christ.
+167,ONE,"Wow. Seriously? This is... jesus christ.
 
 NO ONE KNEW WHO THEY WERE BEFORE THEY WERE HUGE. THAT'S HOW IT WORKS.",0.169,0.583,0.249,0.4939
-166,AI,"Palantir has some really powerful software, including anti-money laundering AI, which is scaring the crap out of a lot of powerful people.",0.192,0.593,0.216,0.1744
-167,IT,"""chill the fuck out""
+168,AI,"Palantir has some really powerful software, including anti-money laundering AI, which is scaring the crap out of a lot of powerful people.",0.192,0.593,0.216,0.1744
+169,IT,"""chill the fuck out""
 
 Ok buddy, listen. The term GOOGLE, or AMAZON, doesnt tell you what the business does. YOU HAVE TO LOOK. IT. UP.
 
@@ -663,7 +665,7 @@ It's not name TOYS R US, or 4 SEASONS LANDSCAPING.
 Also, does amazon sell books? Do they sell merchandise? Or do they RENT SERVERS AND PROVIDE BACKBONE INFRASTRUCTURE????
 
 Just.............................................",0.054,0.833,0.113,0.4201
-168,PING,"""chill the fuck out""
+170,PING,"""chill the fuck out""
 
 Ok buddy, listen. The term GOOGLE, or AMAZON, doesnt tell you what the business does. YOU HAVE TO LOOK. IT. UP.
 
@@ -674,57 +676,57 @@ It's not name TOYS R US, or 4 SEASONS LANDSCAPING.
 Also, does amazon sell books? Do they sell merchandise? Or do they RENT SERVERS AND PROVIDE BACKBONE INFRASTRUCTURE????
 
 Just.............................................",0.054,0.833,0.113,0.4201
-169,SMH,"I've been calling it that years ago, but you won't ever see the ""PC"" media call it that. Why bother with the other acronyms? But as I found out, it's not ""PC"" to say the word ""MAN"" on national television anymore. 
+171,SMH,"I've been calling it that years ago, but you won't ever see the ""PC"" media call it that. Why bother with the other acronyms? But as I found out, it's not ""PC"" to say the word ""MAN"" on national television anymore. 
 
 SMH
 
 What is this country coming to? Fucking leftist liberal feminazis making all makes in beta cucks.",0.12,0.88,0.0,-0.8181
-170,AMD,Add AMD for FATMAGA,0.0,1.0,0.0,0.0
-171,QQQJ,"Follow ARK, MOON, QQQJ, and similar ETFS and see what they’re adding.",0.0,1.0,0.0,0.0
-172,IT,"On the research side, I like [https://www.sciencedaily.com](https://www.sciencedaily.com) though what you see there is usually going to be 5-infinity years from commercialization.  Useful though to spot when some company comes out trying to sell snake oil when you have read about how the tech was first developed and what problems it has at the basic science level.
+172,AMD,Add AMD for FATMAGA,0.0,1.0,0.0,0.0
+173,QQQJ,"Follow ARK, MOON, QQQJ, and similar ETFS and see what they’re adding.",0.0,1.0,0.0,0.0
+174,IT,"On the research side, I like [https://www.sciencedaily.com](https://www.sciencedaily.com) though what you see there is usually going to be 5-infinity years from commercialization.  Useful though to spot when some company comes out trying to sell snake oil when you have read about how the tech was first developed and what problems it has at the basic science level.
 
 I like [https://arstechnica.com](https://arstechnica.com) with a good view on a broad range of computers, IT, and a sprinkling of other science and technology.",0.033,0.834,0.133,0.7964
-173,FT,"So Market Snacks with a focus on disruption?  I think your challenge will be most newer / unproven tech is exactly that, unproven.  We don’t know if Bitcoin will be at $100k in few years (maybe one year, lol) or whether it will get replaced by the next thing (a la yahoo search), the hype cycle is mostly dreams and fluff in the beginning, by the time we know MSFT or Google is here to stay (won the game) everyone’s already over-invested.  I sort of view investing in tech akin to VC, you have to make many bets, many will be wrong, a few big winners will make you outsized returns, the way to make real money is getting in early before the price is wrong.  Although I’m no trader, I’m a buy-and-hold guy.  Interested to see other perspectives. 
+175,FT,"So Market Snacks with a focus on disruption?  I think your challenge will be most newer / unproven tech is exactly that, unproven.  We don’t know if Bitcoin will be at $100k in few years (maybe one year, lol) or whether it will get replaced by the next thing (a la yahoo search), the hype cycle is mostly dreams and fluff in the beginning, by the time we know MSFT or Google is here to stay (won the game) everyone’s already over-invested.  I sort of view investing in tech akin to VC, you have to make many bets, many will be wrong, a few big winners will make you outsized returns, the way to make real money is getting in early before the price is wrong.  Although I’m no trader, I’m a buy-and-hold guy.  Interested to see other perspectives. 
 
 https://en.m.wikipedia.org/wiki/Hype_cycle
 
 Are you thinking of collating from sites like wired, ars technica, economist, FT, WSJ, plus some more specific publications around robotics and the like?  Perhaps blogs / Twitter of industry leaders who know their shit?",0.078,0.84,0.082,-0.3049
-174,MSFT,"So Market Snacks with a focus on disruption?  I think your challenge will be most newer / unproven tech is exactly that, unproven.  We don’t know if Bitcoin will be at $100k in few years (maybe one year, lol) or whether it will get replaced by the next thing (a la yahoo search), the hype cycle is mostly dreams and fluff in the beginning, by the time we know MSFT or Google is here to stay (won the game) everyone’s already over-invested.  I sort of view investing in tech akin to VC, you have to make many bets, many will be wrong, a few big winners will make you outsized returns, the way to make real money is getting in early before the price is wrong.  Although I’m no trader, I’m a buy-and-hold guy.  Interested to see other perspectives. 
+176,MSFT,"So Market Snacks with a focus on disruption?  I think your challenge will be most newer / unproven tech is exactly that, unproven.  We don’t know if Bitcoin will be at $100k in few years (maybe one year, lol) or whether it will get replaced by the next thing (a la yahoo search), the hype cycle is mostly dreams and fluff in the beginning, by the time we know MSFT or Google is here to stay (won the game) everyone’s already over-invested.  I sort of view investing in tech akin to VC, you have to make many bets, many will be wrong, a few big winners will make you outsized returns, the way to make real money is getting in early before the price is wrong.  Although I’m no trader, I’m a buy-and-hold guy.  Interested to see other perspectives. 
 
 https://en.m.wikipedia.org/wiki/Hype_cycle
 
 Are you thinking of collating from sites like wired, ars technica, economist, FT, WSJ, plus some more specific publications around robotics and the like?  Perhaps blogs / Twitter of industry leaders who know their shit?",0.078,0.84,0.082,-0.3049
-175,VC,"So Market Snacks with a focus on disruption?  I think your challenge will be most newer / unproven tech is exactly that, unproven.  We don’t know if Bitcoin will be at $100k in few years (maybe one year, lol) or whether it will get replaced by the next thing (a la yahoo search), the hype cycle is mostly dreams and fluff in the beginning, by the time we know MSFT or Google is here to stay (won the game) everyone’s already over-invested.  I sort of view investing in tech akin to VC, you have to make many bets, many will be wrong, a few big winners will make you outsized returns, the way to make real money is getting in early before the price is wrong.  Although I’m no trader, I’m a buy-and-hold guy.  Interested to see other perspectives. 
+177,VC,"So Market Snacks with a focus on disruption?  I think your challenge will be most newer / unproven tech is exactly that, unproven.  We don’t know if Bitcoin will be at $100k in few years (maybe one year, lol) or whether it will get replaced by the next thing (a la yahoo search), the hype cycle is mostly dreams and fluff in the beginning, by the time we know MSFT or Google is here to stay (won the game) everyone’s already over-invested.  I sort of view investing in tech akin to VC, you have to make many bets, many will be wrong, a few big winners will make you outsized returns, the way to make real money is getting in early before the price is wrong.  Although I’m no trader, I’m a buy-and-hold guy.  Interested to see other perspectives. 
 
 https://en.m.wikipedia.org/wiki/Hype_cycle
 
 Are you thinking of collating from sites like wired, ars technica, economist, FT, WSJ, plus some more specific publications around robotics and the like?  Perhaps blogs / Twitter of industry leaders who know their shit?",0.078,0.84,0.082,-0.3049
-176,CCIV,"Data analytics. Sniff all latest news, blogs by scrubbing the entire WWW with some key words and see what they are and what is already too late. Alexa before Amzn bought it can sniff out the number of hits, where they come from and relevance search.
+178,CCIV,"Data analytics. Sniff all latest news, blogs by scrubbing the entire WWW with some key words and see what they are and what is already too late. Alexa before Amzn bought it can sniff out the number of hits, where they come from and relevance search.
 
 Example: CCIV and some rumors.  How many times it appeared? Where, location how credible are the sources and people who tipped off.",0.0,0.981,0.019,0.0772
-177,WWW,"Data analytics. Sniff all latest news, blogs by scrubbing the entire WWW with some key words and see what they are and what is already too late. Alexa before Amzn bought it can sniff out the number of hits, where they come from and relevance search.
+179,WWW,"Data analytics. Sniff all latest news, blogs by scrubbing the entire WWW with some key words and see what they are and what is already too late. Alexa before Amzn bought it can sniff out the number of hits, where they come from and relevance search.
 
 Example: CCIV and some rumors.  How many times it appeared? Where, location how credible are the sources and people who tipped off.",0.0,0.981,0.019,0.0772
-178,BR,https://i.imgur.com/2FL5iBR.jpg,0.0,1.0,0.0,0.0
-179,QQQJ,Pull up their holdings. So go to google and type in QQQJ holdings. Or MOON holdings. If you go to ARKs website you can sign up for a daily email of what they purchased and sold that day.,0.0,1.0,0.0,0.0
-180,OVID,"Small caps dove deeper into the March 2020 COVID crater.  Coming out of the crater they're playing catch-up.  It really is that simple.
+180,BR,https://i.imgur.com/2FL5iBR.jpg,0.0,1.0,0.0,0.0
+181,QQQJ,Pull up their holdings. So go to google and type in QQQJ holdings. Or MOON holdings. If you go to ARKs website you can sign up for a daily email of what they purchased and sold that day.,0.0,1.0,0.0,0.0
+182,OVID,"Small caps dove deeper into the March 2020 COVID crater.  Coming out of the crater they're playing catch-up.  It really is that simple.
 
 You see this same thing happen in pretty much every major market correction.",0.0,0.872,0.128,0.6124
-181,ICLN,"24 yo, wanting to know any good cheap ETF’s anyone could recommend. I have an account for riskier plays and “meme” stocks, but I want to start funneling money into more long term holds. Currently only in ICLN and look to buy in when ARKX (I believe it’s X) IPO’s. Any recommendations would be nice",0.048,0.777,0.175,0.7579
-182,ICLN,"29 YO medical resident with 10K emergency fund (in savings account), 31K in vanguard index 500, only 6300 in Roth IRA (maxed 2020), nothing currently in employer sponsored retirement fund as they don’t match. Thinking about allocating everything in Roth IRA to stocks like apple or Disney, until now none of it was invested. Planning to redistribute my vanguard index 500 into higher yield ETFs like ARKF and ICLN. Is it smart to invest that much outside my retirement fund and use my Roth IRA for stocks? I’ve been a resident since 2018 and only stared adding to my Roth IRA in the 2020 year and plan to max it throughout 2021, did I set myself back by not doing this earlier? Thanks for the help! I’ve never invested aside from slowly adding to my index 500 since college.",0.018,0.888,0.095,0.8847
-183,GME,Is it too late to get in on the GME short squeeze or do you guys think it will keep going up? Aware that I'm behind the trend here but just wanted to hear opinions on how high it could get.,0.0,1.0,0.0,0.0
-184,BB,"I have about 700usd in GME, and I have another 700 to invest. Go all in in GME or buy some BB or PLTR stock?
+183,ICLN,"24 yo, wanting to know any good cheap ETF’s anyone could recommend. I have an account for riskier plays and “meme” stocks, but I want to start funneling money into more long term holds. Currently only in ICLN and look to buy in when ARKX (I believe it’s X) IPO’s. Any recommendations would be nice",0.048,0.777,0.175,0.7579
+184,ICLN,"29 YO medical resident with 10K emergency fund (in savings account), 31K in vanguard index 500, only 6300 in Roth IRA (maxed 2020), nothing currently in employer sponsored retirement fund as they don’t match. Thinking about allocating everything in Roth IRA to stocks like apple or Disney, until now none of it was invested. Planning to redistribute my vanguard index 500 into higher yield ETFs like ARKF and ICLN. Is it smart to invest that much outside my retirement fund and use my Roth IRA for stocks? I’ve been a resident since 2018 and only stared adding to my Roth IRA in the 2020 year and plan to max it throughout 2021, did I set myself back by not doing this earlier? Thanks for the help! I’ve never invested aside from slowly adding to my index 500 since college.",0.018,0.888,0.095,0.8847
+185,GME,Is it too late to get in on the GME short squeeze or do you guys think it will keep going up? Aware that I'm behind the trend here but just wanted to hear opinions on how high it could get.,0.0,1.0,0.0,0.0
+186,BB,"I have about 700usd in GME, and I have another 700 to invest. Go all in in GME or buy some BB or PLTR stock?
 
 Also what is a call? Like buying a call.",0.0,0.91,0.09,0.4329
-185,GME,"I have about 700usd in GME, and I have another 700 to invest. Go all in in GME or buy some BB or PLTR stock?
+187,GME,"I have about 700usd in GME, and I have another 700 to invest. Go all in in GME or buy some BB or PLTR stock?
 
 Also what is a call? Like buying a call.",0.0,0.91,0.09,0.4329
-186,PLTR,"I have about 700usd in GME, and I have another 700 to invest. Go all in in GME or buy some BB or PLTR stock?
+188,PLTR,"I have about 700usd in GME, and I have another 700 to invest. Go all in in GME or buy some BB or PLTR stock?
 
 Also what is a call? Like buying a call.",0.0,0.91,0.09,0.4329
-187,UK,Just starting out as I get Into my 30s with a very small amount (£600) gained through some saving over lockdown. I'm based in the UK. Looking for a few options that will make a decent amount over the next few years so I can get the ball rolling. Perhaps anything that will benifit in the recovery from the pandemic? Using Interactive investment platform. Any suggestions would be welcome. Thank you.,0.0,0.886,0.114,0.7964
-188,NIO,"Good morning, I’m pretty new to stocks and am wanting to expand my portfolio. I have Nio and Goev right now and want to by Nvidia Disney Bb and maybe some more NIO, what do you guys think, I have a high risk tolerance and don’t care to lose money that much",0.079,0.673,0.248,0.8519
-189,TDA,"Good morning r/investing!  Seeking some advice on where the pros have their IRA.
+189,UK,Just starting out as I get Into my 30s with a very small amount (£600) gained through some saving over lockdown. I'm based in the UK. Looking for a few options that will make a decent amount over the next few years so I can get the ball rolling. Perhaps anything that will benifit in the recovery from the pandemic? Using Interactive investment platform. Any suggestions would be welcome. Thank you.,0.0,0.886,0.114,0.7964
+190,NIO,"Good morning, I’m pretty new to stocks and am wanting to expand my portfolio. I have Nio and Goev right now and want to by Nvidia Disney Bb and maybe some more NIO, what do you guys think, I have a high risk tolerance and don’t care to lose money that much",0.079,0.673,0.248,0.8519
+191,TDA,"Good morning r/investing!  Seeking some advice on where the pros have their IRA.
 
 (Current Assets:  \~$500K in Fidelity, \~$50K in Vanguard, \~$8K in a non retirement 'funmoney' TDA account)
 
@@ -750,18 +752,18 @@ Cons:  fees?  (haven't found too many, other than the normal delays in waiting f
 &#x200B;
 
 So, for the others out there, what broker(s) do you use for your rollover IRAs?  I am considering opening one up at TDA and abandoning Fidelity, but want second opinions.  Thanks for the input!",0.039,0.852,0.109,0.9103
-190,BB,Any predictions for BB over the next week?,0.0,1.0,0.0,0.0
-191,UK,Is there a UK version of the Robinhood app? Like I know theres not a robinhooduk but is there any other apps that are just as good that I can use to invest in stocks?,0.0,0.83,0.17,0.7149
-192,BB,Would this be a good time to buy some calls in BB for this upcoming week? I am super new to this.,0.0,0.726,0.274,0.7783
-193,UK,I'm 21 from the UK I'm about to finish university this year and move right into a job. I have around 8k in my banks savings. I'm not a risky person and I've always been smart with money but just having it sit in one place bugs me so I want to get into stocks. By stocks I honestly have no experience what so ever and only have a very basic understanding of it. I would like to learn about investing in stocks. Any videos or written tutorials or any apps you suggest I would really appreciate it.,0.027,0.811,0.161,0.9135
-194,ABR,"Hello, Ioooking to identify a good REIT in the US to invest in. Preferably one that is undervalued due to the rising potential for inability to pay rent, but has a strong balance sheet covered by the massive growth in real estate prices nationally. If there is one focused on the west coast I'd be interested there, but also recognize that cash flow assets are generally sitting outside of those HCOL areas. Any ideas?
+192,BB,Any predictions for BB over the next week?,0.0,1.0,0.0,0.0
+193,UK,Is there a UK version of the Robinhood app? Like I know theres not a robinhooduk but is there any other apps that are just as good that I can use to invest in stocks?,0.0,0.83,0.17,0.7149
+194,BB,Would this be a good time to buy some calls in BB for this upcoming week? I am super new to this.,0.0,0.726,0.274,0.7783
+195,UK,I'm 21 from the UK I'm about to finish university this year and move right into a job. I have around 8k in my banks savings. I'm not a risky person and I've always been smart with money but just having it sit in one place bugs me so I want to get into stocks. By stocks I honestly have no experience what so ever and only have a very basic understanding of it. I would like to learn about investing in stocks. Any videos or written tutorials or any apps you suggest I would really appreciate it.,0.027,0.811,0.161,0.9135
+196,ABR,"Hello, Ioooking to identify a good REIT in the US to invest in. Preferably one that is undervalued due to the rising potential for inability to pay rent, but has a strong balance sheet covered by the massive growth in real estate prices nationally. If there is one focused on the west coast I'd be interested there, but also recognize that cash flow assets are generally sitting outside of those HCOL areas. Any ideas?
 
 I currently have some NYMT AND ABR positions.",0.033,0.765,0.202,0.9497
-195,NYMT,"Hello, Ioooking to identify a good REIT in the US to invest in. Preferably one that is undervalued due to the rising potential for inability to pay rent, but has a strong balance sheet covered by the massive growth in real estate prices nationally. If there is one focused on the west coast I'd be interested there, but also recognize that cash flow assets are generally sitting outside of those HCOL areas. Any ideas?
+197,NYMT,"Hello, Ioooking to identify a good REIT in the US to invest in. Preferably one that is undervalued due to the rising potential for inability to pay rent, but has a strong balance sheet covered by the massive growth in real estate prices nationally. If there is one focused on the west coast I'd be interested there, but also recognize that cash flow assets are generally sitting outside of those HCOL areas. Any ideas?
 
 I currently have some NYMT AND ABR positions.",0.033,0.765,0.202,0.9497
-196,TD,"I’m deciding between using Fidelity or TD Ameritrade but as someone who only plans to invest in stocks and ETFs for the long term and maybe a little options trading, does it really make a difference which brokerage I choose or is it just based on preference at that point",0.0,1.0,0.0,0.0
-197,DCF,"Can anyone please help me with calculating effective tax rate for $TSLA? I am trying to calculate the DCF and using WACC for the required rate of return but the WACC requires a tax rate.
+198,TD,"I’m deciding between using Fidelity or TD Ameritrade but as someone who only plans to invest in stocks and ETFs for the long term and maybe a little options trading, does it really make a difference which brokerage I choose or is it just based on preference at that point",0.0,1.0,0.0,0.0
+199,DCF,"Can anyone please help me with calculating effective tax rate for $TSLA? I am trying to calculate the DCF and using WACC for the required rate of return but the WACC requires a tax rate.
 
 I'm looking at the 2019 10-K and I see a line item for Provisions for Income Tax of $110M but there was a net loss.
 
@@ -772,7 +774,7 @@ I looked at the table breaking down the income tax and the vast majority of it i
 If the effective tax rate is not 0, how does one go about finding this?
 
 Thanks",0.046,0.807,0.147,0.9194
-198,AAPL,"Overweight on single stock (20% of portfolio) - How do you decide to sell a rising stock?
+200,AAPL,"Overweight on single stock (20% of portfolio) - How do you decide to sell a rising stock?
 
 I first posted to the teslainvestorsclub as I am overweight (in my opinion) on TSLA but had replies from people who were 100% invested in that one stock so looking for a more rational perspective here. Tried posting in personalfinance but was directed here (sorry for not choosing this place first - in hindsight it does make the most sense)
 
@@ -796,7 +798,7 @@ Mid-40s. Family. High earner. Current net worth $3m.
 Thoughts?
 
 Thanks!",0.061,0.804,0.135,0.9867
-199,AMZN,"Overweight on single stock (20% of portfolio) - How do you decide to sell a rising stock?
+201,AMZN,"Overweight on single stock (20% of portfolio) - How do you decide to sell a rising stock?
 
 I first posted to the teslainvestorsclub as I am overweight (in my opinion) on TSLA but had replies from people who were 100% invested in that one stock so looking for a more rational perspective here. Tried posting in personalfinance but was directed here (sorry for not choosing this place first - in hindsight it does make the most sense)
 
@@ -820,7 +822,7 @@ Mid-40s. Family. High earner. Current net worth $3m.
 Thoughts?
 
 Thanks!",0.061,0.804,0.135,0.9867
-200,DIS,"Overweight on single stock (20% of portfolio) - How do you decide to sell a rising stock?
+202,DIS,"Overweight on single stock (20% of portfolio) - How do you decide to sell a rising stock?
 
 I first posted to the teslainvestorsclub as I am overweight (in my opinion) on TSLA but had replies from people who were 100% invested in that one stock so looking for a more rational perspective here. Tried posting in personalfinance but was directed here (sorry for not choosing this place first - in hindsight it does make the most sense)
 
@@ -844,7 +846,7 @@ Mid-40s. Family. High earner. Current net worth $3m.
 Thoughts?
 
 Thanks!",0.061,0.804,0.135,0.9867
-201,TSLA,"Overweight on single stock (20% of portfolio) - How do you decide to sell a rising stock?
+203,TSLA,"Overweight on single stock (20% of portfolio) - How do you decide to sell a rising stock?
 
 I first posted to the teslainvestorsclub as I am overweight (in my opinion) on TSLA but had replies from people who were 100% invested in that one stock so looking for a more rational perspective here. Tried posting in personalfinance but was directed here (sorry for not choosing this place first - in hindsight it does make the most sense)
 
@@ -868,28 +870,28 @@ Mid-40s. Family. High earner. Current net worth $3m.
 Thoughts?
 
 Thanks!",0.061,0.804,0.135,0.9867
-202,GME,"Looking to open an investment account with fidelity. I have a 401k and Roth IRA but I want to be able to buy stocks. Like say I wanted to buy Tesla stock or GME. 
+204,GME,"Looking to open an investment account with fidelity. I have a 401k and Roth IRA but I want to be able to buy stocks. Like say I wanted to buy Tesla stock or GME. 
 
 They have a brokerage account, Mutual funds and Cash investment. Which one should I choose?",0.0,0.897,0.103,0.5719
-203,AIV,"Alright I might be asking a stupid question, but is there any reason for why I shouldn't jump head first into stocks with high dividends? I looked at FRO 32%, TGS also 32% dividend, AIV yearly dividend of 84,4%?!? Am I misreading something, is there a reason for why you shouldn't touch these kind of stocks with a ten foot pole?",0.061,0.913,0.026,-0.4501
-204,FRO,"Alright I might be asking a stupid question, but is there any reason for why I shouldn't jump head first into stocks with high dividends? I looked at FRO 32%, TGS also 32% dividend, AIV yearly dividend of 84,4%?!? Am I misreading something, is there a reason for why you shouldn't touch these kind of stocks with a ten foot pole?",0.061,0.913,0.026,-0.4501
-205,TGS,"Alright I might be asking a stupid question, but is there any reason for why I shouldn't jump head first into stocks with high dividends? I looked at FRO 32%, TGS also 32% dividend, AIV yearly dividend of 84,4%?!? Am I misreading something, is there a reason for why you shouldn't touch these kind of stocks with a ten foot pole?",0.061,0.913,0.026,-0.4501
-206,GME,"Any way to quickly get in a stock buy for Open on Monday? I want to put in some money towards GME, but Wealthsimple (I am Canadian) requires 3 business days for transfer. Banks closed tomorrow. Are there any options for me?",0.0,0.962,0.038,0.1306
-207,GME,"I live in a different timezone and can only trade at the market open.
+205,AIV,"Alright I might be asking a stupid question, but is there any reason for why I shouldn't jump head first into stocks with high dividends? I looked at FRO 32%, TGS also 32% dividend, AIV yearly dividend of 84,4%?!? Am I misreading something, is there a reason for why you shouldn't touch these kind of stocks with a ten foot pole?",0.061,0.913,0.026,-0.4501
+206,FRO,"Alright I might be asking a stupid question, but is there any reason for why I shouldn't jump head first into stocks with high dividends? I looked at FRO 32%, TGS also 32% dividend, AIV yearly dividend of 84,4%?!? Am I misreading something, is there a reason for why you shouldn't touch these kind of stocks with a ten foot pole?",0.061,0.913,0.026,-0.4501
+207,TGS,"Alright I might be asking a stupid question, but is there any reason for why I shouldn't jump head first into stocks with high dividends? I looked at FRO 32%, TGS also 32% dividend, AIV yearly dividend of 84,4%?!? Am I misreading something, is there a reason for why you shouldn't touch these kind of stocks with a ten foot pole?",0.061,0.913,0.026,-0.4501
+208,GME,"Any way to quickly get in a stock buy for Open on Monday? I want to put in some money towards GME, but Wealthsimple (I am Canadian) requires 3 business days for transfer. Banks closed tomorrow. Are there any options for me?",0.0,0.962,0.038,0.1306
+209,GME,"I live in a different timezone and can only trade at the market open.
 
 I want in on the GME Gamma Squeeze but I am afraid I will miss the short squeeze sell window
 
 Thoughts? 
 
 I can only buy shares, not options.",0.049,0.849,0.102,0.2617
-208,USA,"I’m 35 in USA, focused on retirement. For my Traditional IRA, I’m thinking about exchanging my Vanguard Target Date 2050 for 80% VTSAX (Total Stock Market) and 20% VTIAX (International Stock Index). Before I do this, I want to double check that I wont somehow mess up or lose my earlier gains if I do what I’m thinking of doing?
+210,USA,"I’m 35 in USA, focused on retirement. For my Traditional IRA, I’m thinking about exchanging my Vanguard Target Date 2050 for 80% VTSAX (Total Stock Market) and 20% VTIAX (International Stock Index). Before I do this, I want to double check that I wont somehow mess up or lose my earlier gains if I do what I’m thinking of doing?
 
 Based on the underlying assets in Target Date 2050, The 222k I have invested in that fund is made up of about 54% total stock market, 37% international, and 9% bonds. 
 
 I have about 395k in all my retirement accounts (Roth IRA, Traditional IRA, 401k, and HSA). Currently I’m 67% domestic, 28% international, and 5% bonds. I’d rather be closer to 80% domestic and 20% international. I simply don’t want bonds right now because I have a defined benefit pension plan in addition to my own investment savings. 
 
 I want to get out of the Target Date fund because I’m finding it difficult to rebalance across my portfolio without being able to control the underlying investments in that fund. I’m not great at math so I find it really complicated to work around this.",0.043,0.876,0.081,0.5332
-209,ATH,"Right now in my Fidelity 42k brokerage account I am looking at the following...
+211,ATH,"Right now in my Fidelity 42k brokerage account I am looking at the following...
 
 37% in SPY
 
@@ -918,7 +920,7 @@ Or is it better to take the next 5-6k and put it into those types of funds and l
 What do?
 
 Ty in advanced, I'll be scrolling tonight so looking forward to chatting!",0.032,0.852,0.116,0.873
-210,CSCO,"Right now in my Fidelity 42k brokerage account I am looking at the following...
+212,CSCO,"Right now in my Fidelity 42k brokerage account I am looking at the following...
 
 37% in SPY
 
@@ -947,7 +949,7 @@ Or is it better to take the next 5-6k and put it into those types of funds and l
 What do?
 
 Ty in advanced, I'll be scrolling tonight so looking forward to chatting!",0.032,0.852,0.116,0.873
-211,IXUS,"Right now in my Fidelity 42k brokerage account I am looking at the following...
+213,IXUS,"Right now in my Fidelity 42k brokerage account I am looking at the following...
 
 37% in SPY
 
@@ -976,7 +978,7 @@ Or is it better to take the next 5-6k and put it into those types of funds and l
 What do?
 
 Ty in advanced, I'll be scrolling tonight so looking forward to chatting!",0.032,0.852,0.116,0.873
-212,TDA,"I generally have been using Robinhood but have another account with TDA.
+214,TDA,"I generally have been using Robinhood but have another account with TDA.
 
 Buying option contracts on Robinhood is relatively straight forward and fairly safe if you only buy the contract and not write it.
 
@@ -985,22 +987,23 @@ TDA had a bunch of options on options and I want to do this the proper way.
 Which buy/sell selections and I looking to do to buy the contract from someone and sell the contract to someone but not hold the original stock or be responsible for it?
 
 I’m thinking it’s Buy to Open/Sell to Close but can someone confirm that?",0.025,0.865,0.11,0.8185
-213,GME,"I’m quite new to investing and have been drawn in by all the GME drama. I wanted to know whether I should invest right now? 
+215,BND,What are you supposed to do after retiring? Let's say you reach a substantial NW and decide to FIRE or just after retiring at 65. Obviously if you've made this a good amount of money off investing you don't just quit right? So what are you supposed to do? Just put your NW into bonds like BND and live off dividends?,0.047,0.808,0.146,0.681
+216,GME,"I’m quite new to investing and have been drawn in by all the GME drama. I wanted to know whether I should invest right now? 
 
 I see that a lot of people are saying yes in other threads, but they aren’t giving clear evidence or reasons why. If you believe that I should invest right now, could you please explain why? Thanks",0.0,0.77,0.23,0.9383
-214,GME," All this hype around GME has got me wondering, is there anything that could possibly prevent a short squeeze at this point? (Except GME issuing more shares which I find highly unlikely) Why do short holders have to cover at all/want to cover at all? I know short holders keep bleeding money the longer time goes on but is there any way the squeeze can still be prevented from happening? I'd like to go in on monday and buy some more shares but all memes aside I'd also like to know how big the chance is of this squeeze not happening.",0.0,0.845,0.155,0.929
-215,UK,UK based,0.0,1.0,0.0,0.0
-216,VXUS,"Index funds are the way to go. For tax reasons, you shouldn’t own international stocks in your Roth or 401(k), so consider adding international exposure to your taxable account through VXUS.
+217,GME," All this hype around GME has got me wondering, is there anything that could possibly prevent a short squeeze at this point? (Except GME issuing more shares which I find highly unlikely) Why do short holders have to cover at all/want to cover at all? I know short holders keep bleeding money the longer time goes on but is there any way the squeeze can still be prevented from happening? I'd like to go in on monday and buy some more shares but all memes aside I'd also like to know how big the chance is of this squeeze not happening.",0.0,0.845,0.155,0.929
+218,UK,UK based,0.0,1.0,0.0,0.0
+219,VXUS,"Index funds are the way to go. For tax reasons, you shouldn’t own international stocks in your Roth or 401(k), so consider adding international exposure to your taxable account through VXUS.
 
 Also, nice job maxing the Roth and putting such a significant percentage away in the 401(k)!",0.0,0.9,0.1,0.5983
-217,VXUS,">I want to start funneling money into more long term holds
+220,VXUS,">I want to start funneling money into more long term holds
 
 VT. Exposure to the vast majority of the world market. No bets on sector or country.
 
 VTI + VXUS would accomplish the same, if used in the right ratios.
 
 Edit: Phone typo",0.073,0.837,0.09,0.2023
-218,VXUS,"Good job maxing your Roth and having an emergency fund! You’re doing well! Pat yourself on the back.
+221,VXUS,"Good job maxing your Roth and having an emergency fund! You’re doing well! Pat yourself on the back.
 
 Yes, you’ve slightly set yourself back by not adding to your Roth earlier. But don’t sweat it. A significant percentage of 29-year-olds have nothing invested at all. You’re still ahead of the curve. And you can still retire with a lot of tax-free and tax-deferred money if you play your cards right from now on, especially once you’re a fully fledged doctor.
 
@@ -1015,91 +1018,91 @@ Definitely do not sell your VFIAX/VOO in your taxable account to buy another inv
 If you do want to slightly improve your investment strategy, I recommend the following. First, direct the majority of your incoming money to VTSAX (or VTI if you do ETFs) rather than VFIAX/VOO. The total stock market fund is more diversified, so you should see benefits over time. Second, consider directing some money into VTIAX/VXUS (Vanguard’s total non-US index fund). This offers significant diversification at the cost of slightly higher fees and taxes.
 
 Good luck! Let me know if you have questions.",0.071,0.818,0.111,0.9328
-219,CPA,"Yes. 
+222,CPA,"Yes. 
 
 You might want to talk with a CPA about taxes since you might be required to pay quarterly, assuming you are in the US.",0.053,0.795,0.152,0.3818
-220,MSCI,"Hey,
+223,MSCI,"Hey,
 
 I would recommend you to choose an etf, with an monthly payment plan. MSCI World, so the Risk is relatively low.",0.179,0.721,0.1,-0.2449
-221,VGLT,"EDV holds long term bonds with zero coupons. A zero coupon bond with a yield of *r*, 100 par, and *t* years to maturity has a price of 100 / (1+*r*)^*t* . When a 30yr zero's yield falls from 4% to 1%, its price rises from 30.83 to 74.19, a whopping 141% increase. Zero-coupon bonds have longer effective duration than regular bonds with coupons, so EDV moves more in price than other bond funds, even compared to other 20-30 yr bond funds like VGLT.",0.0,0.904,0.096,0.7845
-222,EOD,"Pretty much. You can let the option expire which means it gets executed at the EOD price. You can exercise the option at any given time and the corresponding price, or you can sell the contract to someone who is willing to buy. The price you sell the option could be higher or lower depending on how the market has changed. 
+224,VGLT,"EDV holds long term bonds with zero coupons. A zero coupon bond with a yield of *r*, 100 par, and *t* years to maturity has a price of 100 / (1+*r*)^*t* . When a 30yr zero's yield falls from 4% to 1%, its price rises from 30.83 to 74.19, a whopping 141% increase. Zero-coupon bonds have longer effective duration than regular bonds with coupons, so EDV moves more in price than other bond funds, even compared to other 20-30 yr bond funds like VGLT.",0.0,0.904,0.096,0.7845
+225,EOD,"Pretty much. You can let the option expire which means it gets executed at the EOD price. You can exercise the option at any given time and the corresponding price, or you can sell the contract to someone who is willing to buy. The price you sell the option could be higher or lower depending on how the market has changed. 
 
 It differs between US and Europe.",0.031,0.923,0.045,0.25
-223,FV,"There are lots of online calculators that you can just plug the numbers into, or use the FV excel function.
+226,FV,"There are lots of online calculators that you can just plug the numbers into, or use the FV excel function.
 
 Also 4.25% dividends plus 7% appreciation is 11.25% total return, this is a bit high.
 
 However if you are asking how to do it manually check out this as it explains the formula pretty well
 
 [https://www.thecalculatorsite.com/articles/finance/future-value-formula.php](https://www.thecalculatorsite.com/articles/finance/future-value-formula.php)",0.0,0.815,0.185,0.891
-224,UK,I'm in a similar situation I live in the UK I'm 21 I have saved 8k and I dont just want to sit on it.  my goal is to get a house asap. If you get anywhere out me know maybe we can help eachover out,0.027,0.85,0.123,0.646
-225,TDA,"Pretty much based on personal preference. However TDA was bought buy schwab so eventually your TDA account will be moved to a schwab account(still probably over a year out)
+227,UK,I'm in a similar situation I live in the UK I'm 21 I have saved 8k and I dont just want to sit on it.  my goal is to get a house asap. If you get anywhere out me know maybe we can help eachover out,0.027,0.85,0.123,0.646
+228,TDA,"Pretty much based on personal preference. However TDA was bought buy schwab so eventually your TDA account will be moved to a schwab account(still probably over a year out)
 
 So if you start trading on TDA and get used to the website and tools you may have to then move to schwab and get used to their website/tools",0.0,0.945,0.055,0.4939
-226,CME,"Indirectly yes, with steel futures. I think the big one in the US has CRU for the root symbol. You can Google CME Group Steel Futures to learn more. It doesn't directly predict demand but it tells you what the market at large thinks the price for steel will be in a given month in the future.",0.0,0.946,0.054,0.2582
-227,GE,"For one, you’ll put yourself at risk of something like this: [GE slashes 119-year old dividend to a penny](https://www.cnn.com/2018/10/30/investing/ge-dividend-cut-earnings-culp/index.html). All your eggs in once basket.
+229,CME,"Indirectly yes, with steel futures. I think the big one in the US has CRU for the root symbol. You can Google CME Group Steel Futures to learn more. It doesn't directly predict demand but it tells you what the market at large thinks the price for steel will be in a given month in the future.",0.0,0.946,0.054,0.2582
+230,GE,"For one, you’ll put yourself at risk of something like this: [GE slashes 119-year old dividend to a penny](https://www.cnn.com/2018/10/30/investing/ge-dividend-cut-earnings-culp/index.html). All your eggs in once basket.
 
 Also dividends are taxed. So you’ll owe the government some $.
 
 And is your math right? $100k / $28.93 = 3456 shares of AT&T. They pay $0.52/share four times a year so: 3456 \* $0.52 \* 4 = $7188 dividends paid per year which is **$599 per month.** That’s less that the $650 you said and doesn't even subtract taxes.
 
 One suggestion is instead of being invested in just one company, you can invest in hundreds all at once. Example: Vanguard Dividend Appreciation ETF (VIG). There’s many other example ETFs that pay dividends and are lower risk than putting everything into one single stock.",0.083,0.857,0.06,-0.0
-228,ALL,"Don't dump ALL in it, that's risky. Since you're still young, try putting some of those into growth stocks and let the capital grow. If you're lazy to do homework on picling stocks, dump it into ETF",0.099,0.74,0.161,0.3956
-229,TSLA,"Tesla’s market cap is $807b, making it truly overvalued in my opinion. However, they have proven bears wrong time and time again, so it comes down to your conviction with the company. I think reverse DCA would be a decent idea to secure gains, but who knows... TSLA is truly unprecedented",0.037,0.796,0.167,0.7311
-230,TSLA,"Look at it this way. If you sell all your shares in TSLA and buy a VTIAX/VTSAX combination, you’re going to be in great financial shape in 20 years pretty much no matter what. Even a nasty bear market will still leave you with substantial holdings. On the other hand, holding TSLA is a massive risk. You could lose 15% of your net worth overnight if things go south. In my view, the obvious choice is getting out now and pocketing your gains rather than continuing to play with fire.
+231,ALL,"Don't dump ALL in it, that's risky. Since you're still young, try putting some of those into growth stocks and let the capital grow. If you're lazy to do homework on picling stocks, dump it into ETF",0.099,0.74,0.161,0.3956
+232,TSLA,"Tesla’s market cap is $807b, making it truly overvalued in my opinion. However, they have proven bears wrong time and time again, so it comes down to your conviction with the company. I think reverse DCA would be a decent idea to secure gains, but who knows... TSLA is truly unprecedented",0.037,0.796,0.167,0.7311
+233,TSLA,"Look at it this way. If you sell all your shares in TSLA and buy a VTIAX/VTSAX combination, you’re going to be in great financial shape in 20 years pretty much no matter what. Even a nasty bear market will still leave you with substantial holdings. On the other hand, holding TSLA is a massive risk. You could lose 15% of your net worth overnight if things go south. In my view, the obvious choice is getting out now and pocketing your gains rather than continuing to play with fire.
 
 The problem with setting stop orders is that you’re guaranteed to be selling low. The second problem is that the market order is created only after the price drops, and the price could drop even further before the market order is filled. So setting a stop order for an $800 share price means you could get the order filled at $700 if the price drops fast enough.",0.153,0.704,0.143,-0.1779
-231,BNDW,"Very set and forget. Seems solid.
+234,BNDW,"Very set and forget. Seems solid.
 
 I do not like target funds as they go too heavy into bonds too fast. 
 
 I am your age and only 8% bonds. I will rebalance to 10% for the foreseeable future. Hopefully at 40 bonds return something. 
 
 Moving into BNDW as well instead of straight government bonds.",0.074,0.782,0.144,0.4636
-232,IBKR,"Not with Wealthsimple. Only option is to sell existing shares and use that capital.
+235,IBKR,"Not with Wealthsimple. Only option is to sell existing shares and use that capital.
 
 Use IBKR lite to trade American stocks as a Canadian.",0.0,0.909,0.091,0.296
-233,GME,"I bought GME a month ago. I sold it all yesterday. Maybe it goes up, maybe it doesn't, but there is no way in hell I would buy in at market open on Monday.",0.247,0.753,0.0,-0.8807
-234,DD,"You're not going to get much help in this subreddit regarding that drama I think.  Stick to WSB, do a lot of research (there really has been some sharp DD recently on all of this in WSB), and then make your own decision.",0.0,0.937,0.063,0.4019
-235,INT,"Thank you for the shout out! 
+236,GME,"I bought GME a month ago. I sold it all yesterday. Maybe it goes up, maybe it doesn't, but there is no way in hell I would buy in at market open on Monday.",0.247,0.753,0.0,-0.8807
+237,DD,"You're not going to get much help in this subreddit regarding that drama I think.  Stick to WSB, do a lot of research (there really has been some sharp DD recently on all of this in WSB), and then make your own decision.",0.0,0.937,0.063,0.4019
+238,INT,"Thank you for the shout out! 
 
 So something like VOO and just let it do its thing as I continue to add $500 each month sounds about right and VXUS if I wanted to add some INT exposure?",0.0,0.859,0.141,0.6778
-236,VXUS,"Thank you for the shout out! 
+239,VXUS,"Thank you for the shout out! 
 
 So something like VOO and just let it do its thing as I continue to add $500 each month sounds about right and VXUS if I wanted to add some INT exposure?",0.0,0.859,0.141,0.6778
-237,GME,I guess I know a little more than super new. Is what everyone is doing is buying OTM calls on GME to make as much short run as possible with calls? I am looking to buy some barely OTM calls since I am bullish with GME this week. I am on RH and it doesn’t have an option for me to even buy any OTM. Is that because there is none available?,0.0,0.938,0.062,0.6457
-238,RH,I guess I know a little more than super new. Is what everyone is doing is buying OTM calls on GME to make as much short run as possible with calls? I am looking to buy some barely OTM calls since I am bullish with GME this week. I am on RH and it doesn’t have an option for me to even buy any OTM. Is that because there is none available?,0.0,0.938,0.062,0.6457
-239,OVID,"I started VOO with the idea of smaller businesses being hurt during COVID would pull VTI down a bit. If that is wrong and you can explain why that is, definitely explain - I’m here to learn. 
+240,GME,I guess I know a little more than super new. Is what everyone is doing is buying OTM calls on GME to make as much short run as possible with calls? I am looking to buy some barely OTM calls since I am bullish with GME this week. I am on RH and it doesn’t have an option for me to even buy any OTM. Is that because there is none available?,0.0,0.938,0.062,0.6457
+241,RH,I guess I know a little more than super new. Is what everyone is doing is buying OTM calls on GME to make as much short run as possible with calls? I am looking to buy some barely OTM calls since I am bullish with GME this week. I am on RH and it doesn’t have an option for me to even buy any OTM. Is that because there is none available?,0.0,0.938,0.062,0.6457
+242,OVID,"I started VOO with the idea of smaller businesses being hurt during COVID would pull VTI down a bit. If that is wrong and you can explain why that is, definitely explain - I’m here to learn. 
 
 Have been looking into it but haven’t made the plunge yet. What would you recommend for international? Emerging markets? Or what exactly. I don’t know enough to really make an informed investment there",0.059,0.865,0.076,0.2982
-240,RH,"That or more likely you’re not a high enough level in RH yet. 
+243,RH,"That or more likely you’re not a high enough level in RH yet. 
 
 WSB buys in the money and out of the money and then tries to flip them quickly. They also pump buying shares because that in turn pumps their call values.",0.0,0.891,0.109,0.5994
-241,IXUS,">with the idea of smaller businesses being hurt during COVID would pull VTI down a bit
+244,IXUS,">with the idea of smaller businesses being hurt during COVID would pull VTI down a bit
 
 That ended up costing you. According to my Fidelity app (easiest for me to check quickly on my phone right now), VTSAX (US total market) has a 1 year return of 20.99%, VFIAX (S&P 500) only had 18.37%. This lines up pretty well with what I remember the FSKAX vs FXAIX comparison ended up with the other day.
 
 >What would you recommend for international?
 
 I just do a basic combined international index: VTIAX/VXUS, IXUS, FTIHX, FZILX, etc. Roughly 25%-33% of these would be emerging.",0.034,0.889,0.077,0.5267
-242,OVID,">with the idea of smaller businesses being hurt during COVID would pull VTI down a bit
+245,OVID,">with the idea of smaller businesses being hurt during COVID would pull VTI down a bit
 
 That ended up costing you. According to my Fidelity app (easiest for me to check quickly on my phone right now), VTSAX (US total market) has a 1 year return of 20.99%, VFIAX (S&P 500) only had 18.37%. This lines up pretty well with what I remember the FSKAX vs FXAIX comparison ended up with the other day.
 
 >What would you recommend for international?
 
 I just do a basic combined international index: VTIAX/VXUS, IXUS, FTIHX, FZILX, etc. Roughly 25%-33% of these would be emerging.",0.034,0.889,0.077,0.5267
-243,VXUS,">with the idea of smaller businesses being hurt during COVID would pull VTI down a bit
+246,VXUS,">with the idea of smaller businesses being hurt during COVID would pull VTI down a bit
 
 That ended up costing you. According to my Fidelity app (easiest for me to check quickly on my phone right now), VTSAX (US total market) has a 1 year return of 20.99%, VFIAX (S&P 500) only had 18.37%. This lines up pretty well with what I remember the FSKAX vs FXAIX comparison ended up with the other day.
 
 >What would you recommend for international?
 
 I just do a basic combined international index: VTIAX/VXUS, IXUS, FTIHX, FZILX, etc. Roughly 25%-33% of these would be emerging.",0.034,0.889,0.077,0.5267
-244,TGS,"Alright what about TGS as an example, they have 27B in assets no debt give a dividend of 32% because the float is only valued at 675m?!? I mean I know fossil fuels aren't the future but surely something most be wrong for a stock to be this cheap",0.143,0.688,0.168,-0.231
-245,MSTR,"Ah yes, results is out, another one is MSTR",0.0,0.748,0.252,0.4019
-246,DD,"Very interesting DD. Share price seems to have shot up as a result of good earnings, reckon it's worth waiting for the buzz to die down before jumping in?",0.105,0.619,0.276,0.6549
-247,ACWI,"That's pretty easy, MSCI World + MSCI Emerging Markets = MSCI ACWI, and you can find the market cap for each index in their datasheets:
+247,TGS,"Alright what about TGS as an example, they have 27B in assets no debt give a dividend of 32% because the float is only valued at 675m?!? I mean I know fossil fuels aren't the future but surely something most be wrong for a stock to be this cheap",0.143,0.688,0.168,-0.231
+248,MSTR,"Ah yes, results is out, another one is MSTR",0.0,0.748,0.252,0.4019
+249,DD,"Very interesting DD. Share price seems to have shot up as a result of good earnings, reckon it's worth waiting for the buzz to die down before jumping in?",0.105,0.619,0.276,0.6549
+250,ACWI,"That's pretty easy, MSCI World + MSCI Emerging Markets = MSCI ACWI, and you can find the market cap for each index in their datasheets:
 
 [MSCI World](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj_nIiSuLLuAhXJ6aQKHc4zBEAQFjAAegQIAxAC&url=https%3A%2F%2Fwww.msci.com%2Fdocuments%2F10199%2F149ed7bc-316e-4b4c-8ea4-43fcb5bd6523&usg=AOvVaw021cjn-rfQioZzOANyU5XI) : 51.3 trillion dollars
 
@@ -1108,7 +1111,7 @@ I just do a basic combined international index: VTIAX/VXUS, IXUS, FTIHX, FZILX, 
 [MSCI ACWI](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjYqMOJuLLuAhXMyKQKHfHnC4IQFjALegQIAxAC&url=https%3A%2F%2Fwww.msci.com%2Fdocuments%2F10199%2F8d97d244-4685-4200-a24c-3e2942e3adeb&usg=AOvVaw08Pmx4ETicRK7HRRtOai12) : 59.2 trillion dollars
 
 So the correct weighting would be 51.3/59.2 = 86.7% MSCI World and 7.9/59.2 = 13.3% MSCI emerging markets.",0.0,0.889,0.111,0.7677
-248,MSCI,"That's pretty easy, MSCI World + MSCI Emerging Markets = MSCI ACWI, and you can find the market cap for each index in their datasheets:
+251,MSCI,"That's pretty easy, MSCI World + MSCI Emerging Markets = MSCI ACWI, and you can find the market cap for each index in their datasheets:
 
 [MSCI World](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj_nIiSuLLuAhXJ6aQKHc4zBEAQFjAAegQIAxAC&url=https%3A%2F%2Fwww.msci.com%2Fdocuments%2F10199%2F149ed7bc-316e-4b4c-8ea4-43fcb5bd6523&usg=AOvVaw021cjn-rfQioZzOANyU5XI) : 51.3 trillion dollars
 
@@ -1117,7 +1120,7 @@ So the correct weighting would be 51.3/59.2 = 86.7% MSCI World and 7.9/59.2 = 13
 [MSCI ACWI](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjYqMOJuLLuAhXMyKQKHfHnC4IQFjALegQIAxAC&url=https%3A%2F%2Fwww.msci.com%2Fdocuments%2F10199%2F8d97d244-4685-4200-a24c-3e2942e3adeb&usg=AOvVaw08Pmx4ETicRK7HRRtOai12) : 59.2 trillion dollars
 
 So the correct weighting would be 51.3/59.2 = 86.7% MSCI World and 7.9/59.2 = 13.3% MSCI emerging markets.",0.0,0.889,0.111,0.7677
-249,ACWI,"I want to make sure I understand that you are trying to replicate the ACWI index which is a global index that includes the US.
+252,ACWI,"I want to make sure I understand that you are trying to replicate the ACWI index which is a global index that includes the US.
 
 If that is the case you could replicate it with 3 different iShares ETFs.
 
@@ -1131,53 +1134,53 @@ ITOT: 56%
 IXUS: 44%
 
 Is this what you were asking?",0.0,0.935,0.065,0.3818
-250,BLK,"Can also verify the weightings with something like this (assuming OPs ETFs track the indexes similarly to the BLK ones):
+253,BLK,"Can also verify the weightings with something like this (assuming OPs ETFs track the indexes similarly to the BLK ones):
 
 [https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&showYield=false&reinvestDividends=true&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=ACWI&allocation1\_1=100&symbol2=URTH&allocation2\_2=87&symbol3=EEM&allocation3\_2=13](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&showYield=false&reinvestDividends=true&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=ACWI&allocation1_1=100&symbol2=URTH&allocation2_2=87&symbol3=EEM&allocation3_2=13)",0.0,0.875,0.125,0.4329
-251,BB,how about GME and BB.,0.0,1.0,0.0,0.0
-252,GME,how about GME and BB.,0.0,1.0,0.0,0.0
-253,DD,"Honestly this isn’t a good sub to find that stuff, not much quality DD here just people who will tell you to buy VTI and bonds. And nothing wrong with that just fyi.",0.0,0.732,0.268,0.8502
-254,INTC,I'm long INTC. Everyone hates them but I think they will get back or change directions in the next 3 years. It's definitely a long term play.,0.066,0.709,0.225,0.6908
-255,GME,GME will go over 100 Monday - Tuesday,0.0,1.0,0.0,0.0
-256,CEO,$LLNW just got a new CEO. Earnings are Feb 11th I believe. We'll see if he will bring anything new to the table.,0.0,1.0,0.0,0.0
-257,LLNW,$LLNW just got a new CEO. Earnings are Feb 11th I believe. We'll see if he will bring anything new to the table.,0.0,1.0,0.0,0.0
-258,NOK,NOK,0.0,1.0,0.0,0.0
-259,GM,"GM was one of those companies, but they’ve had a good few months due to ev news",0.0,0.796,0.204,0.5927
-260,CSCO,In my opinion: GM & INTC Definitely. As well as CSCO,0.0,0.625,0.375,0.5859
-261,GM,In my opinion: GM & INTC Definitely. As well as CSCO,0.0,0.625,0.375,0.5859
-262,INTC,In my opinion: GM & INTC Definitely. As well as CSCO,0.0,0.625,0.375,0.5859
-263,BBBY,BBBY,0.0,1.0,0.0,0.0
-264,AMRS,"AMRS.  It just mooned quite a bit from entering the Chinese market, but the market cap is still only around $2 billion.  Bought 1,000 shares at $3.41 last year.",0.0,0.906,0.094,0.4215
-265,BBBY,"BBBY.  GM.  
+254,BB,how about GME and BB.,0.0,1.0,0.0,0.0
+255,GME,how about GME and BB.,0.0,1.0,0.0,0.0
+256,DD,"Honestly this isn’t a good sub to find that stuff, not much quality DD here just people who will tell you to buy VTI and bonds. And nothing wrong with that just fyi.",0.0,0.732,0.268,0.8502
+257,INTC,I'm long INTC. Everyone hates them but I think they will get back or change directions in the next 3 years. It's definitely a long term play.,0.066,0.709,0.225,0.6908
+258,GME,GME will go over 100 Monday - Tuesday,0.0,1.0,0.0,0.0
+259,CEO,$LLNW just got a new CEO. Earnings are Feb 11th I believe. We'll see if he will bring anything new to the table.,0.0,1.0,0.0,0.0
+260,LLNW,$LLNW just got a new CEO. Earnings are Feb 11th I believe. We'll see if he will bring anything new to the table.,0.0,1.0,0.0,0.0
+261,NOK,NOK,0.0,1.0,0.0,0.0
+262,GM,"GM was one of those companies, but they’ve had a good few months due to ev news",0.0,0.796,0.204,0.5927
+263,CSCO,In my opinion: GM & INTC Definitely. As well as CSCO,0.0,0.625,0.375,0.5859
+264,GM,In my opinion: GM & INTC Definitely. As well as CSCO,0.0,0.625,0.375,0.5859
+265,INTC,In my opinion: GM & INTC Definitely. As well as CSCO,0.0,0.625,0.375,0.5859
+266,BBBY,BBBY,0.0,1.0,0.0,0.0
+267,AMRS,"AMRS.  It just mooned quite a bit from entering the Chinese market, but the market cap is still only around $2 billion.  Bought 1,000 shares at $3.41 last year.",0.0,0.906,0.094,0.4215
+268,BBBY,"BBBY.  GM.  
 Cisco seems freaking dead but maybe some sliver of hope, it’s making acquisitions. If you asking for possible turnarounds.",0.172,0.682,0.146,0.0772
-266,GM,"BBBY.  GM.  
+269,GM,"BBBY.  GM.  
 Cisco seems freaking dead but maybe some sliver of hope, it’s making acquisitions. If you asking for possible turnarounds.",0.172,0.682,0.146,0.0772
-267,INTC,INTC will be fine.  I have them.  They make Neurophonic chips which captures data at the edge.  They are faster chips then current,0.0,0.921,0.079,0.2023
-268,AMD,"That's a long time to try to figure out if Intel can change course.  AMD is just going to continue to gobble up market share.  I expect things to get a whole lot worse for Intel over the next two years, and the time to buy would be when the ""turnaround"" is a year off, not three.",0.055,0.906,0.039,-0.2263
-269,GME,"If I think a stock has potential and recommending to my friend, am I ""pumping"" the stock?
+270,INTC,INTC will be fine.  I have them.  They make Neurophonic chips which captures data at the edge.  They are faster chips then current,0.0,0.921,0.079,0.2023
+271,AMD,"That's a long time to try to figure out if Intel can change course.  AMD is just going to continue to gobble up market share.  I expect things to get a whole lot worse for Intel over the next two years, and the time to buy would be when the ""turnaround"" is a year off, not three.",0.055,0.906,0.039,-0.2263
+272,GME,"If I think a stock has potential and recommending to my friend, am I ""pumping"" the stock?
 
 WSB's message is never ""let's all buy GME so it gets higher"", they know they don't actually have the power to move the market by themselves, it's more recognizing a trend and hopping on it like ""GME squeeze is inevitable let's get on board"".
 
 However given WSB's publicity at this point, their stance definitely helps send out the message and accelerating the process. But this is all still based on the fact that GME does has a real risk of short squeeze regardless of WSB found out about it or not.",0.019,0.882,0.099,0.836
-270,BB,"I know what people are saying but it's just pure speculation based on memes. They are failed dinosaur corp trying to become niche security provider. The thing people forget is that there are shit ton security software providers of all sorts. Many of them new startups with great products with no legacy crap. How does BB compare to other companies in the sector? Noone cares, it's all about finding sub $10 share company with compelling story you can dream about and them pumping it. Having that said, I have to be fair. It will pump. If you want to make good short term trade, exploit momentum and jump out before it collapses. Yea BB is good for that. However, if you are looking for long term investment to hold for several years, this is not it.",0.128,0.667,0.205,0.9231
-271,BB,And I bet you know nothing about BB outside what you was told on WSB. Now be a good boy and buy some calls.,0.0,0.879,0.121,0.4404
-272,GME,"Its essentially like buying GME @ 20$ right now, LE'GO",0.0,0.762,0.238,0.3612
-273,GO,"Its essentially like buying GME @ 20$ right now, LE'GO",0.0,0.762,0.238,0.3612
-274,ATH,"What is going on: there are more shares of GME shorted than actually exist. That means that if the stock goes up for *any* reason, short sellers come under pressure to buy shares to close their short positions. But when the first short seller cracks and buys shares (taking a loss) they inadvertently drive the price up further, adding to the pressure on the other short sellers. Soon it’s a race to buy shares, but there simply aren’t enough to go around, so the price skyrockets before falling back down as shareholders finally take profits and sell. This is called a “short squeeze”. The only way a short squeeze is averted is if the stock price drops for some reason (like bad news from the company). GME is at ATH right now so it’s very unlikely that the short sellers will get out alive. It’s a matter of *when* they start to crack, not *if*. By all accounts they haven’t cracked yet, so the short squeeze hasn’t actually started.
+273,BB,"I know what people are saying but it's just pure speculation based on memes. They are failed dinosaur corp trying to become niche security provider. The thing people forget is that there are shit ton security software providers of all sorts. Many of them new startups with great products with no legacy crap. How does BB compare to other companies in the sector? Noone cares, it's all about finding sub $10 share company with compelling story you can dream about and them pumping it. Having that said, I have to be fair. It will pump. If you want to make good short term trade, exploit momentum and jump out before it collapses. Yea BB is good for that. However, if you are looking for long term investment to hold for several years, this is not it.",0.128,0.667,0.205,0.9231
+274,BB,And I bet you know nothing about BB outside what you was told on WSB. Now be a good boy and buy some calls.,0.0,0.879,0.121,0.4404
+275,GME,"Its essentially like buying GME @ 20$ right now, LE'GO",0.0,0.762,0.238,0.3612
+276,GO,"Its essentially like buying GME @ 20$ right now, LE'GO",0.0,0.762,0.238,0.3612
+277,ATH,"What is going on: there are more shares of GME shorted than actually exist. That means that if the stock goes up for *any* reason, short sellers come under pressure to buy shares to close their short positions. But when the first short seller cracks and buys shares (taking a loss) they inadvertently drive the price up further, adding to the pressure on the other short sellers. Soon it’s a race to buy shares, but there simply aren’t enough to go around, so the price skyrockets before falling back down as shareholders finally take profits and sell. This is called a “short squeeze”. The only way a short squeeze is averted is if the stock price drops for some reason (like bad news from the company). GME is at ATH right now so it’s very unlikely that the short sellers will get out alive. It’s a matter of *when* they start to crack, not *if*. By all accounts they haven’t cracked yet, so the short squeeze hasn’t actually started.
 
 What happened Friday was a “gamma squeeze”, which is unrelated to a short squeeze, but happens when call options are being bought extremely fast and the stock price is rising, which indirectly causes market makers to buy massive volumes of shares to hedge, driving the price higher, and so on.
 
 The high probability of a massive short squeeze caused retail traders to plow money into shares and calls on Friday, which in then caused a gamma squeeze, causing the stock price to go higher, making the short squeeze even *more* likely.
 
 If you have gambling money and you want to take part in this unique event, you either buy shares or call options. Shares are safer (since no matter when the squeeze occurs, you’re ready, while calls expire) but calls give you leverage. Calls, even far OTM and short expiry calls, are likely to be very expensive. Everybody knows this is going down, it’s been covered on major news, and retail money is flooding in as people try to get onboard before the shorts crack.",0.036,0.861,0.103,0.9692
-275,GME,"What is going on: there are more shares of GME shorted than actually exist. That means that if the stock goes up for *any* reason, short sellers come under pressure to buy shares to close their short positions. But when the first short seller cracks and buys shares (taking a loss) they inadvertently drive the price up further, adding to the pressure on the other short sellers. Soon it’s a race to buy shares, but there simply aren’t enough to go around, so the price skyrockets before falling back down as shareholders finally take profits and sell. This is called a “short squeeze”. The only way a short squeeze is averted is if the stock price drops for some reason (like bad news from the company). GME is at ATH right now so it’s very unlikely that the short sellers will get out alive. It’s a matter of *when* they start to crack, not *if*. By all accounts they haven’t cracked yet, so the short squeeze hasn’t actually started.
+278,GME,"What is going on: there are more shares of GME shorted than actually exist. That means that if the stock goes up for *any* reason, short sellers come under pressure to buy shares to close their short positions. But when the first short seller cracks and buys shares (taking a loss) they inadvertently drive the price up further, adding to the pressure on the other short sellers. Soon it’s a race to buy shares, but there simply aren’t enough to go around, so the price skyrockets before falling back down as shareholders finally take profits and sell. This is called a “short squeeze”. The only way a short squeeze is averted is if the stock price drops for some reason (like bad news from the company). GME is at ATH right now so it’s very unlikely that the short sellers will get out alive. It’s a matter of *when* they start to crack, not *if*. By all accounts they haven’t cracked yet, so the short squeeze hasn’t actually started.
 
 What happened Friday was a “gamma squeeze”, which is unrelated to a short squeeze, but happens when call options are being bought extremely fast and the stock price is rising, which indirectly causes market makers to buy massive volumes of shares to hedge, driving the price higher, and so on.
 
 The high probability of a massive short squeeze caused retail traders to plow money into shares and calls on Friday, which in then caused a gamma squeeze, causing the stock price to go higher, making the short squeeze even *more* likely.
 
 If you have gambling money and you want to take part in this unique event, you either buy shares or call options. Shares are safer (since no matter when the squeeze occurs, you’re ready, while calls expire) but calls give you leverage. Calls, even far OTM and short expiry calls, are likely to be very expensive. Everybody knows this is going down, it’s been covered on major news, and retail money is flooding in as people try to get onboard before the shorts crack.",0.036,0.861,0.103,0.9692
-276,CFO,"BB:
+279,CFO,"BB:
 
 CFO just dumped all his shares, and CMO sold 60% of his shares
 
@@ -1206,7 +1209,7 @@ Cash/share = 5.7
 &#x200B;
 
 Choose your meme well my friend",0.054,0.754,0.192,0.7184
-277,CMO,"BB:
+280,CMO,"BB:
 
 CFO just dumped all his shares, and CMO sold 60% of his shares
 
@@ -1235,7 +1238,7 @@ Cash/share = 5.7
 &#x200B;
 
 Choose your meme well my friend",0.054,0.754,0.192,0.7184
-278,FCF,"BB:
+281,FCF,"BB:
 
 CFO just dumped all his shares, and CMO sold 60% of his shares
 
@@ -1264,50 +1267,50 @@ Cash/share = 5.7
 &#x200B;
 
 Choose your meme well my friend",0.054,0.754,0.192,0.7184
-279,DD,"If you’re going in because of FOMO, I’d suggest reading a little bit of the DD posted over there in WSB. That way you have an idea of why GME is moving up. You’ll be less prone to making decision on just emotions alone.",0.045,0.955,0.0,-0.25
-280,GME,"If you’re going in because of FOMO, I’d suggest reading a little bit of the DD posted over there in WSB. That way you have an idea of why GME is moving up. You’ll be less prone to making decision on just emotions alone.",0.045,0.955,0.0,-0.25
-281,BB,"Already in at 20 shares of game and 24 shares of BB, both are making me money. 
+282,DD,"If you’re going in because of FOMO, I’d suggest reading a little bit of the DD posted over there in WSB. That way you have an idea of why GME is moving up. You’ll be less prone to making decision on just emotions alone.",0.045,0.955,0.0,-0.25
+283,GME,"If you’re going in because of FOMO, I’d suggest reading a little bit of the DD posted over there in WSB. That way you have an idea of why GME is moving up. You’ll be less prone to making decision on just emotions alone.",0.045,0.955,0.0,-0.25
+284,BB,"Already in at 20 shares of game and 24 shares of BB, both are making me money. 
 
 To the moon baby",0.0,0.812,0.188,0.5267
-282,BB,I’m 100% throwing towards BB. I might put a bit in GME just because,0.0,1.0,0.0,0.0
-283,GME,I’m 100% throwing towards BB. I might put a bit in GME just because,0.0,1.0,0.0,0.0
-284,BB,"I'm in 273 BB 100 GME I may sell POWW shares to buy more GME, rare opportunity here",0.0,0.74,0.26,0.6444
-285,GME,"I'm in 273 BB 100 GME I may sell POWW shares to buy more GME, rare opportunity here",0.0,0.74,0.26,0.6444
-286,POWW,"I'm in 273 BB 100 GME I may sell POWW shares to buy more GME, rare opportunity here",0.0,0.74,0.26,0.6444
-287,BB,BB,0.0,1.0,0.0,0.0
-288,DD,"This. DD is solid, but you need to know what you’re getting into before you get into this.",0.0,0.929,0.071,0.0772
-289,BB,You think BB flies this week?,0.0,1.0,0.0,0.0
-290,TSLA,That's what people have been saying about TSLA for the past few months. How's that worked out?,0.0,1.0,0.0,0.0
-291,GME,"You’re welcome! Just be warned that it’s likely much more complicated in reality. Shorts are not entirely unhedged, GME could dilute, shorts can cover margin calls in different ways, trading halts stop fast runs, etc. But if you’ve got money you can lose without jumping off a bridge, why not take part in a very rare occurrence that could transfer billions of dollars from hedge funds to retail investors? It’s just money, live a little!",0.097,0.865,0.038,-0.555
-292,GME,"No. It’s a long term play for at least this year. I’m putting in a few grand into bb.
+285,BB,I’m 100% throwing towards BB. I might put a bit in GME just because,0.0,1.0,0.0,0.0
+286,GME,I’m 100% throwing towards BB. I might put a bit in GME just because,0.0,1.0,0.0,0.0
+287,BB,"I'm in 273 BB 100 GME I may sell POWW shares to buy more GME, rare opportunity here",0.0,0.74,0.26,0.6444
+288,GME,"I'm in 273 BB 100 GME I may sell POWW shares to buy more GME, rare opportunity here",0.0,0.74,0.26,0.6444
+289,POWW,"I'm in 273 BB 100 GME I may sell POWW shares to buy more GME, rare opportunity here",0.0,0.74,0.26,0.6444
+290,BB,BB,0.0,1.0,0.0,0.0
+291,DD,"This. DD is solid, but you need to know what you’re getting into before you get into this.",0.0,0.929,0.071,0.0772
+292,BB,You think BB flies this week?,0.0,1.0,0.0,0.0
+293,TSLA,That's what people have been saying about TSLA for the past few months. How's that worked out?,0.0,1.0,0.0,0.0
+294,GME,"You’re welcome! Just be warned that it’s likely much more complicated in reality. Shorts are not entirely unhedged, GME could dilute, shorts can cover margin calls in different ways, trading halts stop fast runs, etc. But if you’ve got money you can lose without jumping off a bridge, why not take part in a very rare occurrence that could transfer billions of dollars from hedge funds to retail investors? It’s just money, live a little!",0.097,0.865,0.038,-0.555
+295,GME,"No. It’s a long term play for at least this year. I’m putting in a few grand into bb.
 
 I bought in at 38/ a share on GME and sold on lunch at 70/ a share. I’m buying 5K more. I genuinely believe what we saw was a gamma squeeze. 
 
 This isn’t your typical YOLO, this in my opinion , is a rare opportunity.",0.034,0.731,0.235,0.9049
-293,GME,"Great explanation. I don’t have any GME, but may jump in on Monday. I have some money set aside for YOLOs. If/when the “short squeeze” happens, how do you know when to jump ship and sell? Does a short squeeze happen in hours or over a few days? What’s the strategy here?",0.0,0.938,0.062,0.4749
-294,GME,I did the same thing as you with GME haha bought at $36 sold at $68. Why not buy GME calls on Monday?,0.0,0.875,0.125,0.4588
-295,BB,"He's Canadian. Blackberry's Canadian. Ergo BB to the moon!
+296,GME,"Great explanation. I don’t have any GME, but may jump in on Monday. I have some money set aside for YOLOs. If/when the “short squeeze” happens, how do you know when to jump ship and sell? Does a short squeeze happen in hours or over a few days? What’s the strategy here?",0.0,0.938,0.062,0.4749
+297,GME,I did the same thing as you with GME haha bought at $36 sold at $68. Why not buy GME calls on Monday?,0.0,0.875,0.125,0.4588
+298,BB,"He's Canadian. Blackberry's Canadian. Ergo BB to the moon!
 
 /s",0.0,1.0,0.0,0.0
-296,HR,Likely but they have contacted their own network and hired HR people to advertise them. They save about 3.5-4% at the cost of listing it lower.  Door Dash will be a $30 stock if they did not find cheer leaders.   This is like For  Sale by Owner vs a broker.,0.11,0.76,0.13,0.2953
-297,IMO,"On the hedges, gold IMO isn't the best hedge as it also initially dropped during the crash. A more direct hedge would be with liquidity providers who directly profit of financial market volatility (more precisely spreads and volumes), they almost directly profit from market downturns as volumes and spreads increase during uncertain times. Best know companies in this space: Flow Traders and Virtu Financial
+299,HR,Likely but they have contacted their own network and hired HR people to advertise them. They save about 3.5-4% at the cost of listing it lower.  Door Dash will be a $30 stock if they did not find cheer leaders.   This is like For  Sale by Owner vs a broker.,0.11,0.76,0.13,0.2953
+300,IMO,"On the hedges, gold IMO isn't the best hedge as it also initially dropped during the crash. A more direct hedge would be with liquidity providers who directly profit of financial market volatility (more precisely spreads and volumes), they almost directly profit from market downturns as volumes and spreads increase during uncertain times. Best know companies in this space: Flow Traders and Virtu Financial
 
 While gold is seen as a safe haven, it's not productive on its own (I personally would never recommend owning unproductive assets, i.e. would rather have some gold miners which are more indirect exposure).
 
 If you have a long term portfolio I wouldn't worry too much about crashes, if you're diversified you'll most likely be fine in the long term, including diversified REITs also is a part of diversification (btw REITs are pretty correlated with the market so don't really function that well as a hedge).",0.062,0.777,0.161,0.9388
-298,TLT,"If you go with REITs, buy an etf or mutual fund, then less worry about dividend cut.  Not much of a hedge as underlying price will fall bad.
+301,TLT,"If you go with REITs, buy an etf or mutual fund, then less worry about dividend cut.  Not much of a hedge as underlying price will fall bad.
 Physical gold.  
 Certain collectibles 
 TLT. Rates are low but it’s hold up better than stocks in a crash. Timing everything.
 Crypto is much correlated with market so no there.",0.217,0.703,0.081,-0.7966
-299,BE,"YO- DON'T BE IMPATIENT. Investing is largely about not losing. You are what you repeatedly do- If you repeatedly follow the crowd and let FOMO run you're life, you'll end up jumping off a cliff like a lemming, eventually. LONG GAME. Don't think in extremes, it's not ultra conservative or yolo meme. Do your research, learn more, enjoy the process, do what makes sense for you, don't fall into the trap of thinking you'll miss out.",0.047,0.801,0.152,0.832
-300,GME,"It doesn't have to be all or nothing. What helps me get over FOMO is buying some small bullshit amount over there. That way I can leave my regular investments to do their thing (because that's what I really believe in) and still buy a ticket to the entertainment.
+302,BE,"YO- DON'T BE IMPATIENT. Investing is largely about not losing. You are what you repeatedly do- If you repeatedly follow the crowd and let FOMO run you're life, you'll end up jumping off a cliff like a lemming, eventually. LONG GAME. Don't think in extremes, it's not ultra conservative or yolo meme. Do your research, learn more, enjoy the process, do what makes sense for you, don't fall into the trap of thinking you'll miss out.",0.047,0.801,0.152,0.832
+303,GME,"It doesn't have to be all or nothing. What helps me get over FOMO is buying some small bullshit amount over there. That way I can leave my regular investments to do their thing (because that's what I really believe in) and still buy a ticket to the entertainment.
 
 I'm never going to be posting gains porn over there with my 100 dollar buys once in a while. But it scratches the itch. Today I turned 50 into 150 betting against GME intraday. I can screenshot the 200% for myself and move on to looking at ETFs.",0.073,0.874,0.053,-0.2462
-301,GME,"It's a well known psychological phenomenon that poor people are more impatient and take more risks than wealthier people. [https://www.eurekalert.org/pub\_releases/2016-01/uob-rta010816.php](https://www.eurekalert.org/pub_releases/2016-01/uob-rta010816.php)
+304,GME,"It's a well known psychological phenomenon that poor people are more impatient and take more risks than wealthier people. [https://www.eurekalert.org/pub\_releases/2016-01/uob-rta010816.php](https://www.eurekalert.org/pub_releases/2016-01/uob-rta010816.php)
 
 It's due to the feeling of being left behind, or FOMO. When you make lots of money, you don't care about the college kids gambling their few thousand bucks away making 1000%, because despite that you're still ahead. I saved over a quarter of a million of my income and invested it all into index funds last year, and that's not counting my portfolio gains. A kid with a 20k portfolio would have to 25x their money last year to just keep up with my savings, so none of this GME stuff impresses me. But when you're a college kid making 15k a year with a part-time job, and you see your buddies making 10x on their stimulus checks, you'll feel FOMO, even if it's only a measly 12k lol.",0.067,0.818,0.115,0.7615
-302,GME,"The current path you are on leads to inevitable financial ruin.  You describe yourself as risk averse, but you have been selling options and now you've put all of your money in a single recently IPO'ed company.  By any sensible standard of risk, you are accelerating toward the edge of a cliff with the foot on the gas.
+305,GME,"The current path you are on leads to inevitable financial ruin.  You describe yourself as risk averse, but you have been selling options and now you've put all of your money in a single recently IPO'ed company.  By any sensible standard of risk, you are accelerating toward the edge of a cliff with the foot on the gas.
 
 The reason why it doesn't feel like you're taking risk is that you were still learning the alphabet the last time there was a real bear market.  (No, last March doesn't count.)  I hope the next one comes soon, because it's probably going to wipe you out and it's better if you learn the lesson young.
 
@@ -1316,7 +1319,7 @@ If you want your money to survive a little longer than that, diversify.  Put the
 Also, there are much better ways to take risk than stock picking.  Investing in the S&P 500 with margin has a positive expected value if you start young, even factoring in the probability of getting wiped out.  There are high risk options strategies with positive expected values as well, but they require a bigger bankroll.
 
 In short, the only FOMO you should have is for not getting the practically guaranteed millions you can make off of the basic market premium starting your age.  I'm in GME, and yeah I guess it's kind of fun - but I'm donating all of the gains to charity.  If the stock tanks (still likely, even after a good week) then I'll donate some of the money I didn't risk to charity.  That is the level of personal risk those plays deserve.",0.077,0.756,0.167,0.9895
-303,APPN,"You are in a position to tolerate some more risk. 
+306,APPN,"You are in a position to tolerate some more risk. 
 
 Meme stocks and such have often already gone up a lot by the time I find it (I don’t spend much time on these subs I guess). Anyway, I’m somewhat risk averse but I’ve doubled my investments in the last year, before that things were ticking up nicely. I increased my holdings in what I already had, bought a few new companies but not many. 
 
@@ -1329,7 +1332,7 @@ Previously sold OSTK (3,000% return on that, I had intended to buy Wayfair...), 
 Your investment strategy can be whatever you want it to be in the end, I’ve invested in what I’ve found interesting, care about, pharmaceutical companies developing medication that could help my wife....it doesn’t have to be a certain way. Could I have made more if I spent more time looking at the markets, [yield curve](https://valuationmasterclass.com/the-relationship-between-the-curve-and-the-stock-market/), [patterns in stocks](https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns), probably. 
 
 In the end it’s up to you how much time and attention you want to put into it all. But I wouldn’t put it all in a single company or sector.",0.037,0.819,0.144,0.9821
-304,HASI,"You are in a position to tolerate some more risk. 
+307,HASI,"You are in a position to tolerate some more risk. 
 
 Meme stocks and such have often already gone up a lot by the time I find it (I don’t spend much time on these subs I guess). Anyway, I’m somewhat risk averse but I’ve doubled my investments in the last year, before that things were ticking up nicely. I increased my holdings in what I already had, bought a few new companies but not many. 
 
@@ -1342,7 +1345,7 @@ Previously sold OSTK (3,000% return on that, I had intended to buy Wayfair...), 
 Your investment strategy can be whatever you want it to be in the end, I’ve invested in what I’ve found interesting, care about, pharmaceutical companies developing medication that could help my wife....it doesn’t have to be a certain way. Could I have made more if I spent more time looking at the markets, [yield curve](https://valuationmasterclass.com/the-relationship-between-the-curve-and-the-stock-market/), [patterns in stocks](https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns), probably. 
 
 In the end it’s up to you how much time and attention you want to put into it all. But I wouldn’t put it all in a single company or sector.",0.037,0.819,0.144,0.9821
-305,NIO,"You are in a position to tolerate some more risk. 
+308,NIO,"You are in a position to tolerate some more risk. 
 
 Meme stocks and such have often already gone up a lot by the time I find it (I don’t spend much time on these subs I guess). Anyway, I’m somewhat risk averse but I’ve doubled my investments in the last year, before that things were ticking up nicely. I increased my holdings in what I already had, bought a few new companies but not many. 
 
@@ -1355,7 +1358,7 @@ Previously sold OSTK (3,000% return on that, I had intended to buy Wayfair...), 
 Your investment strategy can be whatever you want it to be in the end, I’ve invested in what I’ve found interesting, care about, pharmaceutical companies developing medication that could help my wife....it doesn’t have to be a certain way. Could I have made more if I spent more time looking at the markets, [yield curve](https://valuationmasterclass.com/the-relationship-between-the-curve-and-the-stock-market/), [patterns in stocks](https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns), probably. 
 
 In the end it’s up to you how much time and attention you want to put into it all. But I wouldn’t put it all in a single company or sector.",0.037,0.819,0.144,0.9821
-306,OKTA,"You are in a position to tolerate some more risk. 
+309,OKTA,"You are in a position to tolerate some more risk. 
 
 Meme stocks and such have often already gone up a lot by the time I find it (I don’t spend much time on these subs I guess). Anyway, I’m somewhat risk averse but I’ve doubled my investments in the last year, before that things were ticking up nicely. I increased my holdings in what I already had, bought a few new companies but not many. 
 
@@ -1368,7 +1371,7 @@ Previously sold OSTK (3,000% return on that, I had intended to buy Wayfair...), 
 Your investment strategy can be whatever you want it to be in the end, I’ve invested in what I’ve found interesting, care about, pharmaceutical companies developing medication that could help my wife....it doesn’t have to be a certain way. Could I have made more if I spent more time looking at the markets, [yield curve](https://valuationmasterclass.com/the-relationship-between-the-curve-and-the-stock-market/), [patterns in stocks](https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns), probably. 
 
 In the end it’s up to you how much time and attention you want to put into it all. But I wouldn’t put it all in a single company or sector.",0.037,0.819,0.144,0.9821
-307,OSTK,"You are in a position to tolerate some more risk. 
+310,OSTK,"You are in a position to tolerate some more risk. 
 
 Meme stocks and such have often already gone up a lot by the time I find it (I don’t spend much time on these subs I guess). Anyway, I’m somewhat risk averse but I’ve doubled my investments in the last year, before that things were ticking up nicely. I increased my holdings in what I already had, bought a few new companies but not many. 
 
@@ -1381,7 +1384,7 @@ Previously sold OSTK (3,000% return on that, I had intended to buy Wayfair...), 
 Your investment strategy can be whatever you want it to be in the end, I’ve invested in what I’ve found interesting, care about, pharmaceutical companies developing medication that could help my wife....it doesn’t have to be a certain way. Could I have made more if I spent more time looking at the markets, [yield curve](https://valuationmasterclass.com/the-relationship-between-the-curve-and-the-stock-market/), [patterns in stocks](https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns), probably. 
 
 In the end it’s up to you how much time and attention you want to put into it all. But I wouldn’t put it all in a single company or sector.",0.037,0.819,0.144,0.9821
-308,RUN,"You are in a position to tolerate some more risk. 
+311,RUN,"You are in a position to tolerate some more risk. 
 
 Meme stocks and such have often already gone up a lot by the time I find it (I don’t spend much time on these subs I guess). Anyway, I’m somewhat risk averse but I’ve doubled my investments in the last year, before that things were ticking up nicely. I increased my holdings in what I already had, bought a few new companies but not many. 
 
@@ -1394,7 +1397,7 @@ Previously sold OSTK (3,000% return on that, I had intended to buy Wayfair...), 
 Your investment strategy can be whatever you want it to be in the end, I’ve invested in what I’ve found interesting, care about, pharmaceutical companies developing medication that could help my wife....it doesn’t have to be a certain way. Could I have made more if I spent more time looking at the markets, [yield curve](https://valuationmasterclass.com/the-relationship-between-the-curve-and-the-stock-market/), [patterns in stocks](https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns), probably. 
 
 In the end it’s up to you how much time and attention you want to put into it all. But I wouldn’t put it all in a single company or sector.",0.037,0.819,0.144,0.9821
-309,SBE,"You are in a position to tolerate some more risk. 
+312,SBE,"You are in a position to tolerate some more risk. 
 
 Meme stocks and such have often already gone up a lot by the time I find it (I don’t spend much time on these subs I guess). Anyway, I’m somewhat risk averse but I’ve doubled my investments in the last year, before that things were ticking up nicely. I increased my holdings in what I already had, bought a few new companies but not many. 
 
@@ -1407,7 +1410,7 @@ Previously sold OSTK (3,000% return on that, I had intended to buy Wayfair...), 
 Your investment strategy can be whatever you want it to be in the end, I’ve invested in what I’ve found interesting, care about, pharmaceutical companies developing medication that could help my wife....it doesn’t have to be a certain way. Could I have made more if I spent more time looking at the markets, [yield curve](https://valuationmasterclass.com/the-relationship-between-the-curve-and-the-stock-market/), [patterns in stocks](https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns), probably. 
 
 In the end it’s up to you how much time and attention you want to put into it all. But I wouldn’t put it all in a single company or sector.",0.037,0.819,0.144,0.9821
-310,SPI,"You are in a position to tolerate some more risk. 
+313,SPI,"You are in a position to tolerate some more risk. 
 
 Meme stocks and such have often already gone up a lot by the time I find it (I don’t spend much time on these subs I guess). Anyway, I’m somewhat risk averse but I’ve doubled my investments in the last year, before that things were ticking up nicely. I increased my holdings in what I already had, bought a few new companies but not many. 
 
@@ -1420,7 +1423,7 @@ Previously sold OSTK (3,000% return on that, I had intended to buy Wayfair...), 
 Your investment strategy can be whatever you want it to be in the end, I’ve invested in what I’ve found interesting, care about, pharmaceutical companies developing medication that could help my wife....it doesn’t have to be a certain way. Could I have made more if I spent more time looking at the markets, [yield curve](https://valuationmasterclass.com/the-relationship-between-the-curve-and-the-stock-market/), [patterns in stocks](https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns), probably. 
 
 In the end it’s up to you how much time and attention you want to put into it all. But I wouldn’t put it all in a single company or sector.",0.037,0.819,0.144,0.9821
-311,SUP,"You are in a position to tolerate some more risk. 
+314,SUP,"You are in a position to tolerate some more risk. 
 
 Meme stocks and such have often already gone up a lot by the time I find it (I don’t spend much time on these subs I guess). Anyway, I’m somewhat risk averse but I’ve doubled my investments in the last year, before that things were ticking up nicely. I increased my holdings in what I already had, bought a few new companies but not many. 
 
@@ -1433,7 +1436,7 @@ Previously sold OSTK (3,000% return on that, I had intended to buy Wayfair...), 
 Your investment strategy can be whatever you want it to be in the end, I’ve invested in what I’ve found interesting, care about, pharmaceutical companies developing medication that could help my wife....it doesn’t have to be a certain way. Could I have made more if I spent more time looking at the markets, [yield curve](https://valuationmasterclass.com/the-relationship-between-the-curve-and-the-stock-market/), [patterns in stocks](https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns), probably. 
 
 In the end it’s up to you how much time and attention you want to put into it all. But I wouldn’t put it all in a single company or sector.",0.037,0.819,0.144,0.9821
-312,XPEV,"You are in a position to tolerate some more risk. 
+315,XPEV,"You are in a position to tolerate some more risk. 
 
 Meme stocks and such have often already gone up a lot by the time I find it (I don’t spend much time on these subs I guess). Anyway, I’m somewhat risk averse but I’ve doubled my investments in the last year, before that things were ticking up nicely. I increased my holdings in what I already had, bought a few new companies but not many. 
 
@@ -1446,12 +1449,12 @@ Previously sold OSTK (3,000% return on that, I had intended to buy Wayfair...), 
 Your investment strategy can be whatever you want it to be in the end, I’ve invested in what I’ve found interesting, care about, pharmaceutical companies developing medication that could help my wife....it doesn’t have to be a certain way. Could I have made more if I spent more time looking at the markets, [yield curve](https://valuationmasterclass.com/the-relationship-between-the-curve-and-the-stock-market/), [patterns in stocks](https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns), probably. 
 
 In the end it’s up to you how much time and attention you want to put into it all. But I wouldn’t put it all in a single company or sector.",0.037,0.819,0.144,0.9821
-313,RKT,why RKT though?,0.0,1.0,0.0,0.0
-314,RE,"Why RKT? I used to work in mortgages and rates are at historical lows. And we are in a seller's RE market,, which means more aggressive loans. The 2020 earnings will be a fluke. Theoretically there is nowhere but down for RKT. Open to other opinions.",0.065,0.935,0.0,-0.2135
-315,RKT,"Why RKT? I used to work in mortgages and rates are at historical lows. And we are in a seller's RE market,, which means more aggressive loans. The 2020 earnings will be a fluke. Theoretically there is nowhere but down for RKT. Open to other opinions.",0.065,0.935,0.0,-0.2135
-316,GME,"Buy some GME on Monday, then. There's still time. Anything under $100 is a great deal for this stock.",0.0,0.806,0.194,0.6249
-317,GME,"You’re 21. You can afford to take risks, buy GME and don’t look back",0.139,0.861,0.0,-0.2732
-318,EV,"I think it’s great your starting early, but if you’re well versed in the world of options and stocks - why are you only buying dips of RKT?
+316,RKT,why RKT though?,0.0,1.0,0.0,0.0
+317,RE,"Why RKT? I used to work in mortgages and rates are at historical lows. And we are in a seller's RE market,, which means more aggressive loans. The 2020 earnings will be a fluke. Theoretically there is nowhere but down for RKT. Open to other opinions.",0.065,0.935,0.0,-0.2135
+318,RKT,"Why RKT? I used to work in mortgages and rates are at historical lows. And we are in a seller's RE market,, which means more aggressive loans. The 2020 earnings will be a fluke. Theoretically there is nowhere but down for RKT. Open to other opinions.",0.065,0.935,0.0,-0.2135
+319,GME,"Buy some GME on Monday, then. There's still time. Anything under $100 is a great deal for this stock.",0.0,0.806,0.194,0.6249
+320,GME,"You’re 21. You can afford to take risks, buy GME and don’t look back",0.139,0.861,0.0,-0.2732
+321,EV,"I think it’s great your starting early, but if you’re well versed in the world of options and stocks - why are you only buying dips of RKT?
   
 Nothing wrong with it, I own some shares at an $18 average but it’s a really small percent of my portfolio and I almost just forget about it because its not making me money right now.
   
@@ -1466,10 +1469,10 @@ You have the knowledge but your zeroed in on one stock that is not moving and ma
 You have 168 shares, I would even say sell 68 shares and move that money into a different sector that you KNOW is moving now or will be moving soon.
   
 Time to apply the skills with market/social research. Best of luck to you mate, I have a feeling you’ll be just fine, getting a huge jump start - you’ll find your groove.",0.048,0.816,0.136,0.9743
-319,GME,"I’m in the exact same shoes, but maybe a little further behind. I’m just setting up my first IRA, I’m married, 23 and in college still. 
+322,GME,"I’m in the exact same shoes, but maybe a little further behind. I’m just setting up my first IRA, I’m married, 23 and in college still. 
 
 My solution was to dedicate to myself some “fun” money. Originally this was to play around with stocks to see what it was like, but now it give me the freedom to get my market fix and make $500 on GME when I want to take risks, while holding more responsible ETFs in our retirement accounts. We gave me $1000 to play around with. Significant, but I’m not worried sick over it.",0.022,0.716,0.262,0.9808
-320,EVER,"Not gunna give you a pat on the back because youre risk averse.
+323,EVER,"Not gunna give you a pat on the back because youre risk averse.
 
 I'm 20 years old but I have a new car to pay for, a student loan, and shit to buy. I also want money to spare to keep invested because without investments I don't feel financial progress.
 
@@ -1478,74 +1481,74 @@ Due to all these demands on me, and my young age (as are you) I am a risk taker.
 Be a risk taker. I'm in the midst of a yolo play right now with margin and a call option, but I've doubled my money in January alone. I'm about to 3x it I have a feeling.
 
 This is a time NEVER BEFORE SEEN in the markets. Take advantage of it, or keep moping around until correction hits. I want the best for you man, sometimes it takes a kick in the pants tho.",0.139,0.743,0.118,-0.596
-321,RKT,"Well I agree with diversification. But I also believe that there’s nothing wrong with buying up a company you believe in. Take a look at RKT, maybe you’ll end up buying a few shares!",0.0,0.722,0.278,0.8246
-322,AMD,"This isn't true, my investing style is to get into a lot of risky stuff, and it largely pays off
+324,RKT,"Well I agree with diversification. But I also believe that there’s nothing wrong with buying up a company you believe in. Take a look at RKT, maybe you’ll end up buying a few shares!",0.0,0.722,0.278,0.8246
+325,AMD,"This isn't true, my investing style is to get into a lot of risky stuff, and it largely pays off
 
 For example, my portfolio was AMD, TSM, LYFT in 2019 (not counting large bonds ETFs which all went up due to interest rates dropping)
 
 LYFT was crap, but I sold it at a loss, made good gains with the other two
 
 I just need enough good companies to offset bad beets",0.151,0.696,0.154,0.3036
-323,LYFT,"This isn't true, my investing style is to get into a lot of risky stuff, and it largely pays off
+326,LYFT,"This isn't true, my investing style is to get into a lot of risky stuff, and it largely pays off
 
 For example, my portfolio was AMD, TSM, LYFT in 2019 (not counting large bonds ETFs which all went up due to interest rates dropping)
 
 LYFT was crap, but I sold it at a loss, made good gains with the other two
 
 I just need enough good companies to offset bad beets",0.151,0.696,0.154,0.3036
-324,TSM,"This isn't true, my investing style is to get into a lot of risky stuff, and it largely pays off
+327,TSM,"This isn't true, my investing style is to get into a lot of risky stuff, and it largely pays off
 
 For example, my portfolio was AMD, TSM, LYFT in 2019 (not counting large bonds ETFs which all went up due to interest rates dropping)
 
 LYFT was crap, but I sold it at a loss, made good gains with the other two
 
 I just need enough good companies to offset bad beets",0.151,0.696,0.154,0.3036
-325,BB,Wow. Wallstreetbets is heavy here.  GME and BB,0.0,0.648,0.352,0.5859
-326,GME,Wow. Wallstreetbets is heavy here.  GME and BB,0.0,0.648,0.352,0.5859
-327,AAL,I have 100 shares of AAL at the moment as well. Bought them a while back betting on recovery.,0.0,0.777,0.223,0.5106
-328,QQQ,"I would just do an index fund (QQQ, OEF) but you do you!",0.0,1.0,0.0,0.0
-329,RKT,"That’s good, keep going I think. I re thought it and honestly if I were you I would sell all 168 shares of RKT. It’s about what, $3300?
+328,BB,Wow. Wallstreetbets is heavy here.  GME and BB,0.0,0.648,0.352,0.5859
+329,GME,Wow. Wallstreetbets is heavy here.  GME and BB,0.0,0.648,0.352,0.5859
+330,AAL,I have 100 shares of AAL at the moment as well. Bought them a while back betting on recovery.,0.0,0.777,0.223,0.5106
+331,QQQ,"I would just do an index fund (QQQ, OEF) but you do you!",0.0,1.0,0.0,0.0
+332,RKT,"That’s good, keep going I think. I re thought it and honestly if I were you I would sell all 168 shares of RKT. It’s about what, $3300?
   
 A lot better places you could park that $3300 right now I think that will get you better returns.
   
 UWMC is one of the largest mortgage companies in the world, I think RKT is number 1 in US but UWMC may be larger worldwide - they just went public via reverse merger with a SPAC. They are a little more then half the price of RKT, but are offering a .40 cent dividend, I think UWMC has the possibility for more returns with that. People are going to start to realize that and dump money in.
   
 I don’t advise UWMC, there are far better places to put money but it’s just some perspective when compared to RKT.",0.024,0.873,0.103,0.7935
-330,RKT,I understand that you want me to diversify because that’s the standard way to do it. But I think RKT is a good company which will eventually rise. You don’t have to call it the dumbest move just because you don’t agree with me,0.07,0.787,0.143,0.34
-331,RKT,"Diversification is indeed the standard way to invest, just like wearing a parachute is the standard way to jump out of a plane.  Putting all of your money in one company is a stupid risk, regardless of the company - not because you're taking too much risk, but because you're taking risk in a stupid way.  Sorry to be blunt, but it's just true.
+333,RKT,I understand that you want me to diversify because that’s the standard way to do it. But I think RKT is a good company which will eventually rise. You don’t have to call it the dumbest move just because you don’t agree with me,0.07,0.787,0.143,0.34
+334,RKT,"Diversification is indeed the standard way to invest, just like wearing a parachute is the standard way to jump out of a plane.  Putting all of your money in one company is a stupid risk, regardless of the company - not because you're taking too much risk, but because you're taking risk in a stupid way.  Sorry to be blunt, but it's just true.
 
 There's a scene in one of the old Austin Powers movies where he's playing blackjack and decides to stand with a 5 and a 2 or something.  When told he should probably hit he replies ""I like to live dangerously"".  Owning only one stock is the investing equivalent of this.
 
 The problem is that there are very few profitable investment theses that apply to only one company.  If you write down your precise argument for why RKT is the best possible stock, the one of two things will happen.  Either you will write down something too specific ""mortgage companies founded in Detroit in 1985"", in which case your thesis is untestable and you're just guessing.
 
 Otherwise you'll write down a testable argument, and you'll find that it applies to 10 other companies.  According to your theory, you can simultaneously reduce the amount of risk in your portfolio and drive up expected returns by buying those other 10 companies too.  That is the equivalent of hitting with 5-2.",0.106,0.811,0.083,-0.4083
-332,PM,My company used Nasdaq PM in a tender offer to coincide with our latest finding round. It was a chance to sell some of the illiquid company stock to an outside investor at a set price. I had an overall pleasant experience. Not sure if it’s available at a individual level or what other services they provide.,0.035,0.871,0.094,0.5168
-333,ABNB,"Would you like it better if it announced IPO for $15
+335,PM,My company used Nasdaq PM in a tender offer to coincide with our latest finding round. It was a chance to sell some of the illiquid company stock to an outside investor at a set price. I had an overall pleasant experience. Not sure if it’s available at a individual level or what other services they provide.,0.035,0.871,0.094,0.5168
+336,ABNB,"Would you like it better if it announced IPO for $15
 
 But actually opened for $30 instead? 
 
 Eg. SNOW, ABNB, CS.AI, DASH, [insert more].",0.0,0.803,0.197,0.6597
-334,AI,"Would you like it better if it announced IPO for $15
+337,AI,"Would you like it better if it announced IPO for $15
 
 But actually opened for $30 instead? 
 
 Eg. SNOW, ABNB, CS.AI, DASH, [insert more].",0.0,0.803,0.197,0.6597
-335,CS,"Would you like it better if it announced IPO for $15
+338,CS,"Would you like it better if it announced IPO for $15
 
 But actually opened for $30 instead? 
 
 Eg. SNOW, ABNB, CS.AI, DASH, [insert more].",0.0,0.803,0.197,0.6597
-336,DASH,"Would you like it better if it announced IPO for $15
+339,DASH,"Would you like it better if it announced IPO for $15
 
 But actually opened for $30 instead? 
 
 Eg. SNOW, ABNB, CS.AI, DASH, [insert more].",0.0,0.803,0.197,0.6597
-337,SNOW,"Would you like it better if it announced IPO for $15
+340,SNOW,"Would you like it better if it announced IPO for $15
 
 But actually opened for $30 instead? 
 
 Eg. SNOW, ABNB, CS.AI, DASH, [insert more].",0.0,0.803,0.197,0.6597
-338,TV,"I used to work for AT&T and spent some time at the various HQ buildings. Stephenson (the former CEO) wanted to leave his legacy the same way his predecessor did. Via M&A. 
+341,TV,"I used to work for AT&T and spent some time at the various HQ buildings. Stephenson (the former CEO) wanted to leave his legacy the same way his predecessor did. Via M&A. 
 
 His predecessor got Cingular and sort of pieced back together some of the broken up pieces of Bell from the 80s. Did a fantastic job and created the number 1 mobile carrier. 
 
@@ -1556,49 +1559,30 @@ Honestly, just about anything we bought or touched became worth less within a fe
 It's not a well run company in either an organizational leadership sense, nor in a strategic sense. It's heavily unionized (even the retail store workers.) 
 
 I don't love AT&T as a stock, but if they can figure out how to run Warner Media properly, and not continue to lose millions of customers to TMobile, and they stop making bad large purchases....then maybe the stock will go back to $40 where it was when I sold it a couple years ago. They are extremely profitable and generate large cash, but also have insane levels of debt.",0.112,0.811,0.077,-0.8547
-339,VZ,Half of everyone I know pays T every month for their phone service. The other half of everyone I know pay VZ.  Seems pretty straight forward to me.,0.049,0.772,0.179,0.5719
-340,IRS,"> What recommendations do you have to get the pay the least amount to uncle sam?
-
-Funny thing about the way the IRS collects its taxes on capital gains;they're really -quite- good at it.  Much better than the ""estimates and approximations"" that payroll withholding always seems to be.
-
-* If you make a profit, you pay taxes on it.
-
-The system works so well, that the converse is also true:
-
-* If you didn't pay taxes on it, ***you didn't make a profit***.
-
-In other words, the only real way to pay less cap gains taxes is to make less profit.",0.05,0.75,0.2,0.9574
-341,AUPH,"You bought AUPH at $5? You’ve been in this ride for so long what is the point of selling now if you don’t need the cash? They will be bought out in 2021. Wait a few more months for that. 
-
-I got in last Monday for 5k and am riding this out.  They have the market cornered until 2037 so there is no need to sell unless another competitor creates a better treatment (unlikely).",0.059,0.871,0.07,0.2014
-342,RH,"First individual stock I ever bought. Looked through my RH account history, and my first buy was at $2.60/share in Jan 2017. Sold at $9.50 during the p2 data pop, but have been adding ever since.
-
-I feel good about the potential for a BO, but not banking on it.  
-
-Would be nice to pull out a bit of fun money though, or reinvest (Id like a bigger position in CVM)",0.0,0.803,0.197,0.9455
+342,VZ,Half of everyone I know pays T every month for their phone service. The other half of everyone I know pay VZ.  Seems pretty straight forward to me.,0.049,0.772,0.179,0.5719
 343,PCG,"Also invested into PG&E but I have no clue how you came to the number of ""it'll be at least $30."" You have a calculation or just trying to push the stock, INVEST IN PCG",0.079,0.879,0.041,-0.3291
 344,PCG,"Stay away from PCG. It’s a garbage run company. Literally a monkey can run a publicly traded utility (just do maintenance, raise rates and issue dividends) but somehow they go bankrupt every 20 years.",0.14,0.86,0.0,-0.7096
 345,IBKR,"Webull, Etoro and IBKR all accept Indian residents.",0.0,0.729,0.271,0.3818
 346,HL,I also use HL. You can buy and sell online and with the mobile app. The same for most other providers. I had LS80 in my portfolio so definitely won't be an issue. Selling is also super easy.,0.0,0.762,0.238,0.8831
 347,HL,HL customer here and have bought/sold Vanguard funds through HL and also directly from Vanguard in the past. You buy/sell through HL's website or mobile app. There's no paperwork that needs to be sent.,0.062,0.937,0.0,-0.296
 348,HL,No paper work is required on HL. You just buy and sell on the website or your phone app.,0.109,0.891,0.0,-0.296
-349,IMO,"In terms of their food, Cheesecake Factory is easily one of the better corporate chains IMO.
-
-In terms of their valuation, their fundamentals don’t look horrible. They’re certainly solid enough to make me believe they will survive the current situation.
-
-As to why it’s higher than pre-COVID, who knows. Isn’t that the question people are asking about a bunch of companies? Heck, 20% isn’t even that much when you compare it to many of the companies that people argue are overvalued.",0.066,0.83,0.104,0.34
-350,OVID,"In terms of their food, Cheesecake Factory is easily one of the better corporate chains IMO.
-
-In terms of their valuation, their fundamentals don’t look horrible. They’re certainly solid enough to make me believe they will survive the current situation.
-
-As to why it’s higher than pre-COVID, who knows. Isn’t that the question people are asking about a bunch of companies? Heck, 20% isn’t even that much when you compare it to many of the companies that people argue are overvalued.",0.066,0.83,0.104,0.34
-351,CAKE,"Well it did hit the mid teens in march so when did you buy those puts? 
+349,CAKE,"Well it did hit the mid teens in march so when did you buy those puts? 
 
 The problem with options, people tend to buy them at the worst time - puts in march, calls in January etc, over pay on IV and get crushed in general. 
 
 Other things you are missing - CAKE was fairly cheap pre pandemic - they were being drug down by sentiment associated with macro trends against malls - but personally I had thought that was first order thinking - CAKE has premium locations in premium malls that at least so far had remained high traffic, ie the restaurant itself was the destination, so it going back to that price when it looks like CAKE will survive and we are turning the corner - is not the least shocking. 
 
 In general the restaurant business sucks - low margin, very competitive, but of all the restaurant chains, CAKE is pretty well managed. I assume by your take you don't go to them - but if you do you would notice they were usually always busy.",0.093,0.83,0.076,-0.0405
+350,IMO,"In terms of their food, Cheesecake Factory is easily one of the better corporate chains IMO.
+
+In terms of their valuation, their fundamentals don’t look horrible. They’re certainly solid enough to make me believe they will survive the current situation.
+
+As to why it’s higher than pre-COVID, who knows. Isn’t that the question people are asking about a bunch of companies? Heck, 20% isn’t even that much when you compare it to many of the companies that people argue are overvalued.",0.066,0.83,0.104,0.34
+351,OVID,"In terms of their food, Cheesecake Factory is easily one of the better corporate chains IMO.
+
+In terms of their valuation, their fundamentals don’t look horrible. They’re certainly solid enough to make me believe they will survive the current situation.
+
+As to why it’s higher than pre-COVID, who knows. Isn’t that the question people are asking about a bunch of companies? Heck, 20% isn’t even that much when you compare it to many of the companies that people argue are overvalued.",0.066,0.83,0.104,0.34
 352,GPI,"On January 14, 2021, Graphic Packaging International, LLC, a Delaware limited liability company (“
 
 GPI
