@@ -32,7 +32,7 @@ $(document).ready( function (){
 
     // Back button behavior
     document.getElementById("back-button").onclick = function() {
-        console.log("CLICK")
+
         window.location = "index.html"
     }
 
