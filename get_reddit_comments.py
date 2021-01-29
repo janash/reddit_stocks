@@ -43,7 +43,7 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
 
     stockRegex = re.compile(r"[,./\s][A-Z]{1,5}[,./\s]")
 
-    comment_dictionary = {"ticker": [], "comment": []}
+    comment_dictionary = {"ticker": [], "comment": [], "username":[], "score":[]}
     for submission in reddit.subreddit(subreddit_name).top(time_period):
         submission_comments = submission.comments.list()
 
@@ -64,6 +64,8 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
                     for stock in true_stocks:
                         comment_dictionary["ticker"].append(stock)
                         comment_dictionary["comment"].append(comment_body[:-1])
+                        comment_dictionary["username"].append(comment.author.name)
+                        comment_dictionary["score"].append(comment.score)
 
     df = pd.DataFrame.from_dict(comment_dictionary)
 
@@ -163,7 +165,7 @@ if __name__ == "__main__":
 
     for subreddit in subreddits:
         print(f"Retrieving subreddit {subreddit}")
-        df = get_ticker_comments(subreddit, reddit, time_period="hour")
+        df = get_ticker_comments(subreddit, reddit, time_period="day")
         sentiment_df = get_comment_sentiment(df)
         sentiment_df.to_csv(f"{today}_{subreddit}_comments.csv")
         average_df = get_mean_ticker_sentiment(sentiment_df)
