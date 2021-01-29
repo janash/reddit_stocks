@@ -64,8 +64,6 @@ $(document).ready( function (){
         comments = processedComments
     }
 
-    console.log(comments)
-
     let divString = ""
     // Create cards for each comment
     for (let i=0; i<comments.length; i++) {
@@ -80,11 +78,17 @@ $(document).ready( function (){
             </blockquote>
             <p class="text-muted">Sentiment</p>
             <div class="d-flex justify-content-around">
-                <button type="button" class="btn btn-success">${comments[i][5]}</button>
-                <button type="button" class="btn btn-secondary">${comments[i][4]}</button>
-                <button type="button" class="btn btn-danger">${comments[i][3]}</button>
-                <button type="button" class="btn btn-outline-primary">${comments[i][6]}</button>
-                
+                <button type="button" class="btn btn-success">${comments[i][7]}</button>
+                <button type="button" class="btn btn-secondary">${comments[i][6]}</button>
+                <button type="button" class="btn btn-danger">${comments[i][5]}</button>
+                <button type="button" class="btn btn-outline-primary">${comments[i][8]}</button>
+            </div>
+            <div class="row mt-5">
+                <div class="col">
+                    <footer class="blockquote-footer">${comments[i][3]}</footer>
+                </div>
+                <div class="col">
+                <footer class="blockquote-footer">See in context <cite title="permalink"><a href="https://reddit.com${comments[i][5]}">permalink</a></cite></footer>
             </div>
         </div>
     </div>`
