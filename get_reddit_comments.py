@@ -41,7 +41,7 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
 
     all_stocks = gt.get_tickers()
 
-    stockRegex = re.compile(r"[A-Z]{2,4}[,./\s]")
+    stockRegex = re.compile(r"[,./\s][A-Z]{1,5}[,./\s]")
 
     comment_dictionary = {"ticker": [], "comment": []}
     for submission in reddit.subreddit(subreddit_name).top(time_period):
@@ -49,15 +49,14 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
 
         for comment in submission_comments:
             if isinstance(comment, Comment):
-                comment_body = comment.body
-                comment_body += " "
+                comment_body = f" {comment.body} "
                 tickers_in_comment = stockRegex.findall(comment_body)
 
                 if tickers_in_comment:
                     unique_set = np.unique(tickers_in_comment)
 
                     # This gets the punctuation off the stock ticker
-                    unique_set = [x[:-1] for x in unique_set]
+                    unique_set = [x[1:-1] for x in unique_set]
 
                     # This gets elements which are in both lists.
                     true_stocks = np.intersect1d(unique_set, all_stocks)
@@ -164,7 +163,7 @@ if __name__ == "__main__":
 
     for subreddit in subreddits:
         print(f"Retrieving subreddit {subreddit}")
-        df = get_ticker_comments(subreddit, reddit, time_period="day")
+        df = get_ticker_comments(subreddit, reddit, time_period="hour")
         sentiment_df = get_comment_sentiment(df)
         sentiment_df.to_csv(f"{today}_{subreddit}_comments.csv")
         average_df = get_mean_ticker_sentiment(sentiment_df)
