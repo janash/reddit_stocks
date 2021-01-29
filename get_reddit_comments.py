@@ -66,6 +66,12 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
                         comment_dictionary["comment"].append(comment_body[:-1])
                         comment_dictionary["username"].append(comment.author.name)
                         comment_dictionary["score"].append(comment.score)
+                        
+                        if hasattr(comment, "permalink"):
+                            comment_dictionary["permalink"] = comment.permalink
+                        else:
+                            comment_dictionary["permalink"] = ""
+
 
     df = pd.DataFrame.from_dict(comment_dictionary)
 
