@@ -43,7 +43,7 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
 
     stockRegex = re.compile(r"[,./\s][A-Z]{1,5}[,./\s]")
 
-    comment_dictionary = {"ticker": [], "comment": [], "username":[], "score":[]}
+    comment_dictionary = {"ticker": [], "comment": [], "username":[], "score":[], "permalink":[] }
     for submission in reddit.subreddit(subreddit_name).top(time_period):
         submission_comments = submission.comments.list()
 
@@ -68,7 +68,7 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
                         if hasattr(comment, "author") and hasattr(comment.author, "name"):
                             comment_dictionary["username"].append(comment.author.name)
                         else:
-                            comment_dictionary.append("")
+                            comment_dictionary["username"].append("")
                         
                         if hasattr(comment, "score"):
                             comment_dictionary["score"].append(comment.score)
