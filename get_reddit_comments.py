@@ -64,13 +64,21 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
                     for stock in true_stocks:
                         comment_dictionary["ticker"].append(stock)
                         comment_dictionary["comment"].append(comment_body[:-1])
-                        comment_dictionary["username"].append(comment.author.name)
-                        comment_dictionary["score"].append(comment.score)
+                        
+                        if hasattr(comment, "author") and hasattr(comment.author, "name"):
+                            comment_dictionary["username"].append(comment.author.name)
+                        else:
+                            comment_dictionary.append("")
+                        
+                        if hasattr(comment, "score"):
+                            comment_dictionary["score"].append(comment.score)
+                        else:
+                            comment_dictionary["score"].append("")
                         
                         if hasattr(comment, "permalink"):
-                            comment_dictionary["permalink"] = comment.permalink
+                            comment_dictionary["permalink"].append(comment.permalink)
                         else:
-                            comment_dictionary["permalink"] = ""
+                            comment_dictionary["permalink"].append("")
 
 
     df = pd.DataFrame.from_dict(comment_dictionary)
