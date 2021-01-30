@@ -41,7 +41,7 @@ def get_ticker_comments(subreddit_name, reddit, time_period="day"):
 
     all_stocks = gt.get_tickers()
 
-    stockRegex = re.compile(r"[,./\s][A-Z]{1,5}[,./\s]")
+    stockRegex = re.compile(r"[,./\s][A-Z]{2,5}[,./\s]")
 
     comment_dictionary = {"ticker": [], "comment": [], "username":[], "score":[], "permalink":[] }
     for submission in reddit.subreddit(subreddit_name).top(time_period):
