@@ -90,6 +90,7 @@ $(document).ready( function (){
                 <div class="col">
                 <footer class="blockquote-footer">See in context <cite title="permalink"><a href="https://reddit.com${comments[i][5]}">permalink</a></cite></footer>
             </div>
+            </div>
         </div>
     </div>`
     }
