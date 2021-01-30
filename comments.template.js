@@ -69,7 +69,7 @@ $(document).ready( function (){
     for (let i=0; i<comments.length; i++) {
         divString += `<div class="card mb-3">
         <div class="card-header">
-          r/${comments[i][7]}
+          r/${comments[i][10]}
         </div>
         <div class="card-body">
             <h3 class="card-title">${comments[i][1]}</h3>
@@ -78,10 +78,10 @@ $(document).ready( function (){
             </blockquote>
             <p class="text-muted">Sentiment</p>
             <div class="d-flex justify-content-around">
-                <button type="button" class="btn btn-success">${comments[i][7]}</button>
-                <button type="button" class="btn btn-secondary">${comments[i][6]}</button>
-                <button type="button" class="btn btn-danger">${comments[i][5]}</button>
-                <button type="button" class="btn btn-outline-primary">${comments[i][8]}</button>
+                <button type="button" class="btn btn-success">${comments[i][8]}</button>
+                <button type="button" class="btn btn-secondary">${comments[i][7]}</button>
+                <button type="button" class="btn btn-danger">${comments[i][6]}</button>
+                <button type="button" class="btn btn-outline-primary">${comments[i][9]}</button>
             </div>
             <div class="row mt-5">
                 <div class="col">
