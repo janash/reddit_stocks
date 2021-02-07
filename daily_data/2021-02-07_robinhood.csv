@@ -1,0 +1,4 @@
+ticker,score,neg,neu,pos,compound,mentions
+AMD,5,0.0,0.417,0.583,0.4215,1
+AMZN,9,0.0,0.884,0.116,0.3612,1
+BB,3,0.0,1.0,0.0,0.0,1
