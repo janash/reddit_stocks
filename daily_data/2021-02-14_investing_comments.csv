@@ -1,0 +1,499 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,API," This is a good idea! I'm currently looking at using API data for extracting U.S. Senators stock transactions. My theory is when they sink large amounts of money into small stocks, they probably have inside knowledge that can be profitable",SouppTime,125,/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/gnfvoyw/,0.0,0.859,0.141,0.7263
+1,MSFT," One thing you could consider is looking at variation over time, compared to a historical baseline.
+
+For example, let's say on an average day in January you typically had 3 funds buying MSFT, and 7 selling. All of a sudden, in February, you see this changes to 6 buying, and 4 selling. This would lead me to believe that something abnormal has happened relative to historical activity, and could be worth digging into further. You could apply the same logic to total number of funds transacting in a given security.
+
+Just thinking out loud - good luck making this work!",Quegqueg,5,/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/gnfklbo/,0.0,0.881,0.119,0.8687
+2,ATVI," I dont quite get it , ATVI has never been as high as 115 so how did/do they buy in at 115 , same as MSFT? Am i getting smth wrong here ?",Emrekarsturkey2019,1,/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/gnfw9o5/,0.114,0.886,0.0,-0.5362
+3,GME, Could you use this on GME since 1/27 then post the results? I'm sure people would appreciate it,jlaw224,2,/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/gnfd12t/,0.0,0.762,0.238,0.6124
+4,API, Where is the API for this?,qqqaaabbbeeer,2,/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/gng89mp/,0.0,1.0,0.0,0.0
+5,API, do you have that API source already or oyu still have to find a source where you can find which stocks were bought/sold by US Senators?,piemat94,1,/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/gngbnld/,0.0,1.0,0.0,0.0
+6,API," the API end point is just lagging by 3 months. So when the 13F is reported on the 14th of February, it contains transactions up to 31st of December.",jomarca23,2,/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/gng1mew/,0.072,0.928,0.0,-0.2732
+7,GNW," Iv seen one sentor bough GNW on 27, then sold on the 28, pat toomey.
+No idea who that is, cause Iv from the UK.
+Using that quiver quant. Great idea folks!
+Any more insight into who they get away with it!",ericblair88,1,/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/gngo4b3/,0.047,0.853,0.1,0.5399
+8,UK," Iv seen one sentor bough GNW on 27, then sold on the 28, pat toomey.
+No idea who that is, cause Iv from the UK.
+Using that quiver quant. Great idea folks!
+Any more insight into who they get away with it!",ericblair88,1,/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/gngo4b3/,0.047,0.853,0.1,0.5399
+9,API, It's on the stock watcher site. It was made by a non profit developer who has public API use. Problem is that I don't know shit about programming,SouppTime,2,/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/gng9tbl/,0.086,0.73,0.185,0.4809
+10,EV," Having been investing and actively trading since 1998, this has an eerily similar feel to 1999.  It is that time when everyone is jumping into the market. The hot topic of every conversation is their returns on whatever stock and whatever speculative stock de jour is.  Over the past 2 years, the conversation has evolved from an occasional discussion of whether to buy apple/facebook to tsla to non revenue generating early stage companies with valuations in the billions to penny stocks that 'went up 7x in 5 days!'.
+
+This is also a market where you can't lose.  I am use to seeing my portfolio move up and down by a few hundred to maybe 2-3k on a very special day.  Currently, I am seeing my portolio move by 4 figures regularly (more up than down). While not every stock is up every day, there is definitely certain flavors where a stock would go up by 4-5% over a few days, consolidate while other stocks in my portfolio would go up 4-5%.  I have also been holding some losers for years, thinking I would use them for tax loss harvesting.. however even those are green. I don't know if I am more sad that I cannot TLH or to be happy about the gainz.
+
+While it is certainly euphoric, the last time I felt like this was in 1998 where I though i was going to be the next hot shot wall street banker.  I recall trading 10k into \~150k at the peak and thinking I was hot shit.. every stock I touched went up by 5-50%.  I was looking at my portfolio every few minutes and I was glued to the computer screen. I recall bragging to my dad about my accomplishments. He gave me a side eye telling me to cash some out and put into some boring companies. Of course I didn't and rode it back down to maybe 25k.. anyone would be ecstatic about 150% gains, but I was depressed and scared of investing for the next 5 years because I 'lost' 125k.
+
+I can tell from talking to my current colleagues who are relatively new to active investing how euphoric they are to be seeing 40% gains since November thinking they are investing gods.  I recall debby downers in 1999 talking about valuation and me responding with 'this time is different, its a new economy', fundamentals no longer work.  Even Warren Buffet admits to not understanding internet stocks.  Its all about growth and not profit, that will come later. Back then we were talking about internet companies, today it is early stage EV SPACS and gig economy companies that have no pathway to profitability.
+
+This time its going to be different, until its not.",greenerdoc,213,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncjdh9/,0.051,0.859,0.091,0.9275
+11,QCOM," If you lived and survived thru it, it is not different.  Same as then you will hear excuses how it is different - new economic, interest rates, retail investor - blah, blah, blah.
+
+I survived it and today would love to see chart comparisons of QCOM from 1999-2001 versus Tesla today - eerily similar or CGMI vs Softbank.  I am actually waiting for some the ARK funds to crash as I remember it happened to some late 90s - early 2000 funds that were heavy into CMGI.",stickman07738,5,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gndwgj7/,0.074,0.777,0.149,0.872
+12,BE," Good post.  Also, I was 'there' \[31 year old adult new to investing\] in 1998.  Right NOW I am hearing everybody say why this is 'different'.  Back the the Internet was younger, social media was a 'flicker', and Etrade had the best Super Bowl Commercial \[""Money Out of the Wazoo!""\] - look it up.  Most of my money was in ""Janus"" funds \[safe, right?  No\]...so I got to see professional fund manager charge me a fee to make all the same mistake the new onslaught of retail investors have.  ....
+
+Realize now with social media...the difference is YouTube now has 'thousands' of new 'Financial Entertainment Channels' trying to monetize on 'guessing', there is an extra few hundred Billion dollars of 'retail money' in the market, and the pandemic has created a new surge of FOMO panic.
+
+Look....I dumped my entire retirement \[6 IRAs\] into ONE stock in 2019, then the pandemic hit, and out of pure depression....I just left it in there.  Everything doubled and caught me up \[mostly\] on where my IRAs should be.  So, I LOVE what has happened to the market in the last year.  NOW, I'm just 75% on the sidelines and noticing that EVERYTHING is expected to have a PE ratio on a new scale that starts at 50 now......and/or every analyst \[that hits the right algorithm to find\] is predicting continued oversized evaluation...where it already exists.   EVERY SPAC and IPO is instantly printing capital for investors.
+
+A friend of mine in India is about to join a StartUP.  They are a simple contract support vendor for G.E. \[and many others\].   I asked a bunch of questions - they have no capital - and low revenue - but are only hiring employees who can 'invest' - and are trying to find an American SPAC to partner with.  They have the word ""A.I."" in the name, so have decided that is a 'no loss' situation.  My guess...this is the future for a short time.  A lot of new millionaires.  Very little new innovation.
+
+Will it crash like it did back then?  Can it not crash?  Darn sure better not get caught talking about it.  Will the extra 3 trillion dollars we've printed cause the 'crash' to be more...or less damaging to the retail investor overall?  Dangit...here comes a whole new generation of ""YOU ALSO CAN BE A BILLIONAIRE IN REAL ESTATE!!""  ....right?  Might as well prepare for a Billion to be the new Million....",MindEddy,1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gngkes5/,0.067,0.854,0.079,0.5822
+13,LOVE," Good post.  Also, I was 'there' \[31 year old adult new to investing\] in 1998.  Right NOW I am hearing everybody say why this is 'different'.  Back the the Internet was younger, social media was a 'flicker', and Etrade had the best Super Bowl Commercial \[""Money Out of the Wazoo!""\] - look it up.  Most of my money was in ""Janus"" funds \[safe, right?  No\]...so I got to see professional fund manager charge me a fee to make all the same mistake the new onslaught of retail investors have.  ....
+
+Realize now with social media...the difference is YouTube now has 'thousands' of new 'Financial Entertainment Channels' trying to monetize on 'guessing', there is an extra few hundred Billion dollars of 'retail money' in the market, and the pandemic has created a new surge of FOMO panic.
+
+Look....I dumped my entire retirement \[6 IRAs\] into ONE stock in 2019, then the pandemic hit, and out of pure depression....I just left it in there.  Everything doubled and caught me up \[mostly\] on where my IRAs should be.  So, I LOVE what has happened to the market in the last year.  NOW, I'm just 75% on the sidelines and noticing that EVERYTHING is expected to have a PE ratio on a new scale that starts at 50 now......and/or every analyst \[that hits the right algorithm to find\] is predicting continued oversized evaluation...where it already exists.   EVERY SPAC and IPO is instantly printing capital for investors.
+
+A friend of mine in India is about to join a StartUP.  They are a simple contract support vendor for G.E. \[and many others\].   I asked a bunch of questions - they have no capital - and low revenue - but are only hiring employees who can 'invest' - and are trying to find an American SPAC to partner with.  They have the word ""A.I."" in the name, so have decided that is a 'no loss' situation.  My guess...this is the future for a short time.  A lot of new millionaires.  Very little new innovation.
+
+Will it crash like it did back then?  Can it not crash?  Darn sure better not get caught talking about it.  Will the extra 3 trillion dollars we've printed cause the 'crash' to be more...or less damaging to the retail investor overall?  Dangit...here comes a whole new generation of ""YOU ALSO CAN BE A BILLIONAIRE IN REAL ESTATE!!""  ....right?  Might as well prepare for a Billion to be the new Million....",MindEddy,1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gngkes5/,0.067,0.854,0.079,0.5822
+14,NOW," Good post.  Also, I was 'there' \[31 year old adult new to investing\] in 1998.  Right NOW I am hearing everybody say why this is 'different'.  Back the the Internet was younger, social media was a 'flicker', and Etrade had the best Super Bowl Commercial \[""Money Out of the Wazoo!""\] - look it up.  Most of my money was in ""Janus"" funds \[safe, right?  No\]...so I got to see professional fund manager charge me a fee to make all the same mistake the new onslaught of retail investors have.  ....
+
+Realize now with social media...the difference is YouTube now has 'thousands' of new 'Financial Entertainment Channels' trying to monetize on 'guessing', there is an extra few hundred Billion dollars of 'retail money' in the market, and the pandemic has created a new surge of FOMO panic.
+
+Look....I dumped my entire retirement \[6 IRAs\] into ONE stock in 2019, then the pandemic hit, and out of pure depression....I just left it in there.  Everything doubled and caught me up \[mostly\] on where my IRAs should be.  So, I LOVE what has happened to the market in the last year.  NOW, I'm just 75% on the sidelines and noticing that EVERYTHING is expected to have a PE ratio on a new scale that starts at 50 now......and/or every analyst \[that hits the right algorithm to find\] is predicting continued oversized evaluation...where it already exists.   EVERY SPAC and IPO is instantly printing capital for investors.
+
+A friend of mine in India is about to join a StartUP.  They are a simple contract support vendor for G.E. \[and many others\].   I asked a bunch of questions - they have no capital - and low revenue - but are only hiring employees who can 'invest' - and are trying to find an American SPAC to partner with.  They have the word ""A.I."" in the name, so have decided that is a 'no loss' situation.  My guess...this is the future for a short time.  A lot of new millionaires.  Very little new innovation.
+
+Will it crash like it did back then?  Can it not crash?  Darn sure better not get caught talking about it.  Will the extra 3 trillion dollars we've printed cause the 'crash' to be more...or less damaging to the retail investor overall?  Dangit...here comes a whole new generation of ""YOU ALSO CAN BE A BILLIONAIRE IN REAL ESTATE!!""  ....right?  Might as well prepare for a Billion to be the new Million....",MindEddy,1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gngkes5/,0.067,0.854,0.079,0.5822
+15,ONE," Good post.  Also, I was 'there' \[31 year old adult new to investing\] in 1998.  Right NOW I am hearing everybody say why this is 'different'.  Back the the Internet was younger, social media was a 'flicker', and Etrade had the best Super Bowl Commercial \[""Money Out of the Wazoo!""\] - look it up.  Most of my money was in ""Janus"" funds \[safe, right?  No\]...so I got to see professional fund manager charge me a fee to make all the same mistake the new onslaught of retail investors have.  ....
+
+Realize now with social media...the difference is YouTube now has 'thousands' of new 'Financial Entertainment Channels' trying to monetize on 'guessing', there is an extra few hundred Billion dollars of 'retail money' in the market, and the pandemic has created a new surge of FOMO panic.
+
+Look....I dumped my entire retirement \[6 IRAs\] into ONE stock in 2019, then the pandemic hit, and out of pure depression....I just left it in there.  Everything doubled and caught me up \[mostly\] on where my IRAs should be.  So, I LOVE what has happened to the market in the last year.  NOW, I'm just 75% on the sidelines and noticing that EVERYTHING is expected to have a PE ratio on a new scale that starts at 50 now......and/or every analyst \[that hits the right algorithm to find\] is predicting continued oversized evaluation...where it already exists.   EVERY SPAC and IPO is instantly printing capital for investors.
+
+A friend of mine in India is about to join a StartUP.  They are a simple contract support vendor for G.E. \[and many others\].   I asked a bunch of questions - they have no capital - and low revenue - but are only hiring employees who can 'invest' - and are trying to find an American SPAC to partner with.  They have the word ""A.I."" in the name, so have decided that is a 'no loss' situation.  My guess...this is the future for a short time.  A lot of new millionaires.  Very little new innovation.
+
+Will it crash like it did back then?  Can it not crash?  Darn sure better not get caught talking about it.  Will the extra 3 trillion dollars we've printed cause the 'crash' to be more...or less damaging to the retail investor overall?  Dangit...here comes a whole new generation of ""YOU ALSO CAN BE A BILLIONAIRE IN REAL ESTATE!!""  ....right?  Might as well prepare for a Billion to be the new Million....",MindEddy,1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gngkes5/,0.067,0.854,0.079,0.5822
+16,TSLA," Tesla will bust some time in the future. Could be months, could be years. Buying puts on TSLA is almost a sure way to lose money, impossible to predict when it Will tank",Japparbyn,1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnf4wpa/,0.078,0.864,0.058,-0.1761
+17,RH," On the Tesla subject. Investors are dictating the price. Elon is a very rich man and people see him and just think he's gotta be making something great that can't bust. I'm only now looking at investing in stocks but it's hard for me to want to invest money on good stocks because everything is on a big surge since last March. No real slow downs or dips in prices. I personally think the market is in a bubble, but I don't know a lot. Also on the subject of RH I think it has made stocks a pretty simple thing that almost anyone can just make an account and start.",ThisIs_NotPatrick,0,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnc375f/,0.038,0.835,0.127,0.8806
+18,EV," The difference with Tesla is they make electric vehicles which are the future as opposed to traditional auto makers whose main product will be slowly phased out over the next 20 years. Yes legacy manufacturers are investing in EV but that brings me to my second and more important point.
+
+Tesla is cutting edge and innovative. Innovation almost always leads to serious profits no matter the industry never mind an industry that is just getting off the ground and has huge support from government and the public. Tesla is just as much a technology company as a car company. They have made advances in everything from materials science to battery technology to auto driving software and likely tons of other things I am forgetting. This is why Tesla is not overvalued. Investors recognize the innovation going on there and know that Tesla will continue to lead the EV industry for many years because of it.",chemaholic77,-10,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnc1wve/,0.035,0.811,0.154,0.9667
+19,LMT," To me, the safe companies are the defense giants like LMT and I have alloted a significant amount of my personal and 401k portfolio to this group. It might offer some downside protection.",Profitlocking,1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnd8iq5/,0.054,0.708,0.237,0.6908
+20,AI," I agree that there are a lot of shitcoins and scam projects. But there are also some projects offering true value to the society. I personally follow fetch.AI project which has a very useful platform for applying AI agents for a whole bunch of business cases like autonomous driving and reducing pollution. They have deals with important companies and they are achieving real progress, with an stable improvement in their business profitability.",sgv-gvs,1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gngkfsl/,0.044,0.659,0.298,0.9558
+21,ETH," For ETH, it’s utility and necessity.",zUdio,0,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnf5joz/,0.0,1.0,0.0,0.0
+22,AMZN," Only a few narrow sectors are like the dot com bubble - Electric Vehicles and maybe weed.
+
+In the dot com era, *everything* was trading like it was going to end up like AMZN or MSFT.  It was even just tech stocks, it was virtually everything.  Some run of the mill widget manufacturer would open up a website to sell their widgets, change their name to WidgetsRus.com and the stock would double over the next 3 months.  It was 100% speculation with no reality.
+
+And that's how EV stocks are trading right now.  They're not all going to be the winner.  One, or a few of them will.  The ones who don't will will drop like a rock.  The ones that do win are probably close to fairly valued right now.  There is no guarantee, of course, that TSLA will be a winner.  Just like there was no guarantee in 1998 that AOL would be a winner - but it sure looked like they were going to be at the time.
+
+But other stocks?  XOM, DIS, NFLX, CCL, etc.  They aren't trading at crazy multiples.  Carnival Cruise Lines isn't changing their name to CCL and Electric Vehicles and watching their stock double.  *That* is what was happening in the dot com bubble.",Bobby_does_reddit,6,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncfl8o/,0.022,0.828,0.151,0.9708
+23,CCL," Only a few narrow sectors are like the dot com bubble - Electric Vehicles and maybe weed.
+
+In the dot com era, *everything* was trading like it was going to end up like AMZN or MSFT.  It was even just tech stocks, it was virtually everything.  Some run of the mill widget manufacturer would open up a website to sell their widgets, change their name to WidgetsRus.com and the stock would double over the next 3 months.  It was 100% speculation with no reality.
+
+And that's how EV stocks are trading right now.  They're not all going to be the winner.  One, or a few of them will.  The ones who don't will will drop like a rock.  The ones that do win are probably close to fairly valued right now.  There is no guarantee, of course, that TSLA will be a winner.  Just like there was no guarantee in 1998 that AOL would be a winner - but it sure looked like they were going to be at the time.
+
+But other stocks?  XOM, DIS, NFLX, CCL, etc.  They aren't trading at crazy multiples.  Carnival Cruise Lines isn't changing their name to CCL and Electric Vehicles and watching their stock double.  *That* is what was happening in the dot com bubble.",Bobby_does_reddit,6,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncfl8o/,0.022,0.828,0.151,0.9708
+24,DIS," Only a few narrow sectors are like the dot com bubble - Electric Vehicles and maybe weed.
+
+In the dot com era, *everything* was trading like it was going to end up like AMZN or MSFT.  It was even just tech stocks, it was virtually everything.  Some run of the mill widget manufacturer would open up a website to sell their widgets, change their name to WidgetsRus.com and the stock would double over the next 3 months.  It was 100% speculation with no reality.
+
+And that's how EV stocks are trading right now.  They're not all going to be the winner.  One, or a few of them will.  The ones who don't will will drop like a rock.  The ones that do win are probably close to fairly valued right now.  There is no guarantee, of course, that TSLA will be a winner.  Just like there was no guarantee in 1998 that AOL would be a winner - but it sure looked like they were going to be at the time.
+
+But other stocks?  XOM, DIS, NFLX, CCL, etc.  They aren't trading at crazy multiples.  Carnival Cruise Lines isn't changing their name to CCL and Electric Vehicles and watching their stock double.  *That* is what was happening in the dot com bubble.",Bobby_does_reddit,6,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncfl8o/,0.022,0.828,0.151,0.9708
+25,EV," Only a few narrow sectors are like the dot com bubble - Electric Vehicles and maybe weed.
+
+In the dot com era, *everything* was trading like it was going to end up like AMZN or MSFT.  It was even just tech stocks, it was virtually everything.  Some run of the mill widget manufacturer would open up a website to sell their widgets, change their name to WidgetsRus.com and the stock would double over the next 3 months.  It was 100% speculation with no reality.
+
+And that's how EV stocks are trading right now.  They're not all going to be the winner.  One, or a few of them will.  The ones who don't will will drop like a rock.  The ones that do win are probably close to fairly valued right now.  There is no guarantee, of course, that TSLA will be a winner.  Just like there was no guarantee in 1998 that AOL would be a winner - but it sure looked like they were going to be at the time.
+
+But other stocks?  XOM, DIS, NFLX, CCL, etc.  They aren't trading at crazy multiples.  Carnival Cruise Lines isn't changing their name to CCL and Electric Vehicles and watching their stock double.  *That* is what was happening in the dot com bubble.",Bobby_does_reddit,6,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncfl8o/,0.022,0.828,0.151,0.9708
+26,MSFT," Only a few narrow sectors are like the dot com bubble - Electric Vehicles and maybe weed.
+
+In the dot com era, *everything* was trading like it was going to end up like AMZN or MSFT.  It was even just tech stocks, it was virtually everything.  Some run of the mill widget manufacturer would open up a website to sell their widgets, change their name to WidgetsRus.com and the stock would double over the next 3 months.  It was 100% speculation with no reality.
+
+And that's how EV stocks are trading right now.  They're not all going to be the winner.  One, or a few of them will.  The ones who don't will will drop like a rock.  The ones that do win are probably close to fairly valued right now.  There is no guarantee, of course, that TSLA will be a winner.  Just like there was no guarantee in 1998 that AOL would be a winner - but it sure looked like they were going to be at the time.
+
+But other stocks?  XOM, DIS, NFLX, CCL, etc.  They aren't trading at crazy multiples.  Carnival Cruise Lines isn't changing their name to CCL and Electric Vehicles and watching their stock double.  *That* is what was happening in the dot com bubble.",Bobby_does_reddit,6,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncfl8o/,0.022,0.828,0.151,0.9708
+27,NFLX," Only a few narrow sectors are like the dot com bubble - Electric Vehicles and maybe weed.
+
+In the dot com era, *everything* was trading like it was going to end up like AMZN or MSFT.  It was even just tech stocks, it was virtually everything.  Some run of the mill widget manufacturer would open up a website to sell their widgets, change their name to WidgetsRus.com and the stock would double over the next 3 months.  It was 100% speculation with no reality.
+
+And that's how EV stocks are trading right now.  They're not all going to be the winner.  One, or a few of them will.  The ones who don't will will drop like a rock.  The ones that do win are probably close to fairly valued right now.  There is no guarantee, of course, that TSLA will be a winner.  Just like there was no guarantee in 1998 that AOL would be a winner - but it sure looked like they were going to be at the time.
+
+But other stocks?  XOM, DIS, NFLX, CCL, etc.  They aren't trading at crazy multiples.  Carnival Cruise Lines isn't changing their name to CCL and Electric Vehicles and watching their stock double.  *That* is what was happening in the dot com bubble.",Bobby_does_reddit,6,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncfl8o/,0.022,0.828,0.151,0.9708
+28,TSLA," Only a few narrow sectors are like the dot com bubble - Electric Vehicles and maybe weed.
+
+In the dot com era, *everything* was trading like it was going to end up like AMZN or MSFT.  It was even just tech stocks, it was virtually everything.  Some run of the mill widget manufacturer would open up a website to sell their widgets, change their name to WidgetsRus.com and the stock would double over the next 3 months.  It was 100% speculation with no reality.
+
+And that's how EV stocks are trading right now.  They're not all going to be the winner.  One, or a few of them will.  The ones who don't will will drop like a rock.  The ones that do win are probably close to fairly valued right now.  There is no guarantee, of course, that TSLA will be a winner.  Just like there was no guarantee in 1998 that AOL would be a winner - but it sure looked like they were going to be at the time.
+
+But other stocks?  XOM, DIS, NFLX, CCL, etc.  They aren't trading at crazy multiples.  Carnival Cruise Lines isn't changing their name to CCL and Electric Vehicles and watching their stock double.  *That* is what was happening in the dot com bubble.",Bobby_does_reddit,6,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncfl8o/,0.022,0.828,0.151,0.9708
+29,XOM," Only a few narrow sectors are like the dot com bubble - Electric Vehicles and maybe weed.
+
+In the dot com era, *everything* was trading like it was going to end up like AMZN or MSFT.  It was even just tech stocks, it was virtually everything.  Some run of the mill widget manufacturer would open up a website to sell their widgets, change their name to WidgetsRus.com and the stock would double over the next 3 months.  It was 100% speculation with no reality.
+
+And that's how EV stocks are trading right now.  They're not all going to be the winner.  One, or a few of them will.  The ones who don't will will drop like a rock.  The ones that do win are probably close to fairly valued right now.  There is no guarantee, of course, that TSLA will be a winner.  Just like there was no guarantee in 1998 that AOL would be a winner - but it sure looked like they were going to be at the time.
+
+But other stocks?  XOM, DIS, NFLX, CCL, etc.  They aren't trading at crazy multiples.  Carnival Cruise Lines isn't changing their name to CCL and Electric Vehicles and watching their stock double.  *That* is what was happening in the dot com bubble.",Bobby_does_reddit,6,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncfl8o/,0.022,0.828,0.151,0.9708
+30,FSD, If you actually look into Tesla‘s „innovations“ like FSD you will quickly realize it’s mostly smoke and mirrors for a failing car company.,TambourineMan1965,2,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gndx31x/,0.128,0.775,0.097,-0.2023
+31,DIS," I own MSFT at $22.69 from 2002.  Up until recently I owned SIRI (originally bought it as XRSM) at $1.83 from around the same time period.  I also owned DIS at $17.03 in that era, but foolishly sold it at $26.00 (recently got back in at $170).",Bobby_does_reddit,9,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnf3p0v/,0.079,0.921,0.0,-0.5719
+32,MSFT," I own MSFT at $22.69 from 2002.  Up until recently I owned SIRI (originally bought it as XRSM) at $1.83 from around the same time period.  I also owned DIS at $17.03 in that era, but foolishly sold it at $26.00 (recently got back in at $170).",Bobby_does_reddit,9,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnf3p0v/,0.079,0.921,0.0,-0.5719
+33,SIRI," I own MSFT at $22.69 from 2002.  Up until recently I owned SIRI (originally bought it as XRSM) at $1.83 from around the same time period.  I also owned DIS at $17.03 in that era, but foolishly sold it at $26.00 (recently got back in at $170).",Bobby_does_reddit,9,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnf3p0v/,0.079,0.921,0.0,-0.5719
+34,KO," KO and MCD.  Demand grows with the population and does not discriminate between rich and poor.  Not sexy and you won't get rich overnight, but better than a savings account.",Spyu,1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gngs51q/,0.253,0.64,0.107,-0.3098
+35,MCD," KO and MCD.  Demand grows with the population and does not discriminate between rich and poor.  Not sexy and you won't get rich overnight, but better than a savings account.",Spyu,1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gngs51q/,0.253,0.64,0.107,-0.3098
+36,CEO," Thanks for reply, very interesting. Regarding MSFT how did you cope during Ballmer years or when Windows Vista / 8 were terribly received. I mean now MSFT is very well regarded but when you look back there were a lot of negative voices and Nadella is this miracle CEO but nobody knew it back then. You must have had some real conviction in MSFT.",Ironleg01,6,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnf8c0i/,0.1,0.737,0.162,0.5489
+37,MSFT," Thanks for reply, very interesting. Regarding MSFT how did you cope during Ballmer years or when Windows Vista / 8 were terribly received. I mean now MSFT is very well regarded but when you look back there were a lot of negative voices and Nadella is this miracle CEO but nobody knew it back then. You must have had some real conviction in MSFT.",Ironleg01,6,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnf8c0i/,0.1,0.737,0.162,0.5489
+38,DIS," > The market as a whole is currently trading at P/E’s that have only been seen in bubbles before big crashes.
+
+My argument against this is that you're either looking at trailing P/E ratios or forward looking P/E ratios.
+
+If you're looking at trailing P/E ratios, well, we've been in a worldwide pandemic for the past year.  While that has been a windfall for some companies, the vast majority have been damaged by it.  So is a company like Disney or Buffalo Wild Wings trading at high trailing P/Es?  Of course they are, because the past 12 months doesn't represent typical operations.
+
+If you're looking at forward P/E ratios, then what are those forward looking earnings based upon?  Because if you look at actual earnings vs. analysts expectations, 80% of companies are beating them - frequently substantially.  (Not go go back to DIS again, but analyst had them losing $0.41 last quarter, they actually reported $0.02 income).",Bobby_does_reddit,1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gngmgtp/,0.06,0.918,0.022,-0.7209
+39,MSFT," MSFT so dominates the business world that I was never really concerned with it declining.  The only time it's been below my purchase price was during the '08 housing crash - a period during which I wasn't really watching my portfolio every day because there wasn't much I could do with it.
+
+Plus, even when the stock price wasn't moving much, I was still getting dividends (albeit small) and was frequently selling out of the money calls.",Bobby_does_reddit,2,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gngn9w0/,0.037,0.943,0.02,-0.2975
+40,IMO," I understand how bonds work. Bonds are generally used as a tactic to minimize volatility or ""stomach the dips"" as you noted. Bonds for anyone under 50 is a fool's errand IMO.
+
+Individuals shouldn't be ""buying on the dips"" unless they have considerable amounts of expendable income. Do you know when the dips are? Nope, neither do I.",howling_mad,11,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gnc5rlr/,0.0,1.0,0.0,0.0
+41,TSLA," FWIW, TSLA has settled into a range of $800-$850 since the 2nd week of January.",Bobby_does_reddit,-1,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncfx4c/,0.0,1.0,0.0,0.0
+42,IMO," That's fair, but I generally do this outside of my Traditional 401K or IRA (which are maxed).
+
+The reality is that everyone needs to determine their own risk appetite. I have excess capital so I always buy on the dip, but not everyone can or want to, that's where periodic contributions really shine IMO. Buy in whether it's high or low.",howling_mad,4,/r/investing/comments/ljclbp/found_some_articles_dated_back_to_the_dotcom_bust/gncuh8i/,0.085,0.865,0.05,-0.4939
+43,DD, Good DD. Thank you for giving me a template on how to do my own. I will definitely look into to this man. Cheers!,BenLoman,1,/r/investing/comments/ljdyk2/comprehensive_dd_on_broadwind_bwen_high_potential/gnfliq5/,0.0,0.55,0.45,0.9168
+44,PM," There is a 2 hour delay fetching comments.
+
+I will be messaging you in 3 months on [**2021-05-14 18:19:36 UTC**](http://www.wolframalpha.com/input/?i=2021-05-14%2018:19:36%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://np.reddit.com/r/investing/comments/ljbhnr/long_term_industry_recommendation_algorithm/gng8ehr/?context=3)
+
+[**CLICK THIS LINK**](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Finvesting%2Fcomments%2Fljbhnr%2Flong_term_industry_recommendation_algorithm%2Fgng8ehr%2F%5D%0A%0ARemindMe%21%202021-05-14%2018%3A19%3A36%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20ljbhnr)
+
+*****
+
+|[^(Info)](https://np.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://np.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",RemindMeBot,1,/r/investing/comments/ljbhnr/long_term_industry_recommendation_algorithm/gngqrrm/,0.137,0.863,0.0,-0.755
+45,NAV," If you scroll down to the chart with premiums you can see historical value, and yes it is much lower than it used to be. I'd also keep an eye on the premium because there might be some irrational selling when an ETF comes out and you can get GBTC below NAV.",Savik519,2,/r/investing/comments/ljuvx3/btcc_etf_launch_possibilities/gngg94c/,0.08,0.832,0.088,0.128
+46,ID," Couple things: One acct is a ROTH. Laws in my State make it difficult to purchase BTC. Also, my ID expired over the pandemic, renewals are pushed out for months, preventing me from funding a new crypto brokerage acct.",Blazen5,0,/r/investing/comments/ljuvx3/btcc_etf_launch_possibilities/gnglixn/,0.093,0.907,0.0,-0.3818
+47,ES, They also said /ES would hit 3250 in 12/20,BabyQuesadilla,3,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gnbns4p/,0.0,1.0,0.0,0.0
+48,PTON," Yeah, so where do I put my money since I bought PTON at $19 and sold it all at 154.",penguintattoo,6,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gnbrzcb/,0.0,0.885,0.115,0.296
+49,DIS, I'd recommend DIS,Bobby_does_reddit,3,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gncd93x/,0.0,0.444,0.556,0.3612
+50,IMO," They can’t increase the interest rates, it would kill the US ability to service their debt. They’ve painted themselves into a corner. The only way this can go is negative interest rates IMO.",Far_Measurement_5809,3,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gndjkit/,0.234,0.538,0.228,-0.3182
+51,DIS, I’d like to hear your thoughts on DIS and ATT. Safe plays?,happyhour79,2,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gncgl94/,0.0,0.549,0.451,0.7506
+52,PM," I will be messaging you in 7 days on [**2021-02-21 06:16:26 UTC**](http://www.wolframalpha.com/input/?i=2021-02-21%2006:16:26%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://np.reddit.com/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gnd4j7g/?context=3)
+
+[**1 OTHERS CLICKED THIS LINK**](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Finvesting%2Fcomments%2Fljcscp%2Ffed_stress_test_bofa_calls_market_top_says_major%2Fgnd4j7g%2F%5D%0A%0ARemindMe%21%202021-02-21%2006%3A16%3A26%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20ljcscp)
+
+*****
+
+|[^(Info)](https://np.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://np.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",RemindMeBot,1,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gndri6s/,0.105,0.895,0.0,-0.6322
+53,ABC," ATT I've got nothing for ya.
+
+DIS I am super, super bullish - primarily because of Disney+.  Disney's market cap is about $340B.  Netflix is about $260B - so not a huge difference.
+
+Netflix has around 200 million subscribers and transitioned from mailing out DVDs to streaming in 2007 (14 years ago).  Disney+ has just shy of 100 million subscribers and launched in November 2019 (14 months ago). I see no reason that Disney+ can't or won't duplicate Netflix's content library, plus have all the Lucasfilms, Marvel and Disney animation content on top of it.
+
+To me, that means that in 5 years, possibly 8-10, Disney+ will have replaced Netflix as the default streaming service (which is still a growing industry as cord-cutting continues).  Disney has gotten half as many subscribers in 14 months as NFLX got in 14 years.  I don't know when Disney will pass them, but I wouldn't be shocked if it's less than 3 years from now.  And once they've got critical mass, they can gradually raise their rates to NFLX levels.
+
+So in a nutshell, my opinion is that you're essentially going to have a NFLX inside of DIS within 5 years.  And if NFLX is worth 75% of DIS today, then what is DIS worth when they've got a streaming service that is beating NFLX?
+
+You couple that with the parks, ESPN, cruise line, ABC, movie studios, and all the other shit that Disney owns and I think you've got a big winner for a long-term hold over the next decade.  Is it going to 10X and be a $3.5 Trillion company a decade from now?  Doubtful.  But is it going to go up consistent with little risk of significant decline?  Yeah, I'm pretty confident of that.",Bobby_does_reddit,8,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gncil9d/,0.071,0.813,0.116,0.9023
+54,DIS," ATT I've got nothing for ya.
+
+DIS I am super, super bullish - primarily because of Disney+.  Disney's market cap is about $340B.  Netflix is about $260B - so not a huge difference.
+
+Netflix has around 200 million subscribers and transitioned from mailing out DVDs to streaming in 2007 (14 years ago).  Disney+ has just shy of 100 million subscribers and launched in November 2019 (14 months ago). I see no reason that Disney+ can't or won't duplicate Netflix's content library, plus have all the Lucasfilms, Marvel and Disney animation content on top of it.
+
+To me, that means that in 5 years, possibly 8-10, Disney+ will have replaced Netflix as the default streaming service (which is still a growing industry as cord-cutting continues).  Disney has gotten half as many subscribers in 14 months as NFLX got in 14 years.  I don't know when Disney will pass them, but I wouldn't be shocked if it's less than 3 years from now.  And once they've got critical mass, they can gradually raise their rates to NFLX levels.
+
+So in a nutshell, my opinion is that you're essentially going to have a NFLX inside of DIS within 5 years.  And if NFLX is worth 75% of DIS today, then what is DIS worth when they've got a streaming service that is beating NFLX?
+
+You couple that with the parks, ESPN, cruise line, ABC, movie studios, and all the other shit that Disney owns and I think you've got a big winner for a long-term hold over the next decade.  Is it going to 10X and be a $3.5 Trillion company a decade from now?  Doubtful.  But is it going to go up consistent with little risk of significant decline?  Yeah, I'm pretty confident of that.",Bobby_does_reddit,8,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gncil9d/,0.071,0.813,0.116,0.9023
+55,NFLX," ATT I've got nothing for ya.
+
+DIS I am super, super bullish - primarily because of Disney+.  Disney's market cap is about $340B.  Netflix is about $260B - so not a huge difference.
+
+Netflix has around 200 million subscribers and transitioned from mailing out DVDs to streaming in 2007 (14 years ago).  Disney+ has just shy of 100 million subscribers and launched in November 2019 (14 months ago). I see no reason that Disney+ can't or won't duplicate Netflix's content library, plus have all the Lucasfilms, Marvel and Disney animation content on top of it.
+
+To me, that means that in 5 years, possibly 8-10, Disney+ will have replaced Netflix as the default streaming service (which is still a growing industry as cord-cutting continues).  Disney has gotten half as many subscribers in 14 months as NFLX got in 14 years.  I don't know when Disney will pass them, but I wouldn't be shocked if it's less than 3 years from now.  And once they've got critical mass, they can gradually raise their rates to NFLX levels.
+
+So in a nutshell, my opinion is that you're essentially going to have a NFLX inside of DIS within 5 years.  And if NFLX is worth 75% of DIS today, then what is DIS worth when they've got a streaming service that is beating NFLX?
+
+You couple that with the parks, ESPN, cruise line, ABC, movie studios, and all the other shit that Disney owns and I think you've got a big winner for a long-term hold over the next decade.  Is it going to 10X and be a $3.5 Trillion company a decade from now?  Doubtful.  But is it going to go up consistent with little risk of significant decline?  Yeah, I'm pretty confident of that.",Bobby_does_reddit,8,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gncil9d/,0.071,0.813,0.116,0.9023
+56,TV, AT&T is a trash company about to be put of the ISP business when Starlink provides internet access globally thats faster than 90% of what they offer in the USA.  Cable TV companies in general are going down as Streaming services continue to outpace them without 20+ minutes of advertisements every hour.  Out of all the major cellular companies AT&T is the worst.  They are on the cusp of being pushed entirely out of the market.,Megatf,3,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gnd0mn8/,0.052,0.948,0.0,-0.6249
+57,USA, AT&T is a trash company about to be put of the ISP business when Starlink provides internet access globally thats faster than 90% of what they offer in the USA.  Cable TV companies in general are going down as Streaming services continue to outpace them without 20+ minutes of advertisements every hour.  Out of all the major cellular companies AT&T is the worst.  They are on the cusp of being pushed entirely out of the market.,Megatf,3,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gnd0mn8/,0.052,0.948,0.0,-0.6249
+58,VERY," If you were retired, with 30-40% in cash or bonds, buying more stock during a VERY long downturn would be problematic.  Not everyone is of an age where a big long market decline should be seen as an opportunity",Huckleberry_Holliday,1,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gnfzpz1/,0.071,0.86,0.069,-0.0258
+59,IP," New perspective I didn’t think about. I’m in Disney and I agree. I’m working up my shares. Was hoping for a bad report for a dip. 
+I asked about ATT because I see them a lot like Disney just not as well managed. Like Disney they have content and IP. Their app just launched and needs to gain traction tho (hence Disney’s better management). Where I see potential in ATT is their other areas. Disney has parks etc. ATT has the internet. They can install it in your house, and give you a cellphone service too. Pretty integrated. Put the internet in your house, a cellphone in your hand and an app to watch their content on. 
+
+I do wonder why they haven’t forced people to get the app tho. Like manage your internet and cell account via our HBOmax app. Maybe be illegal to do that tho. I’m not sure. Long term I look at ATT as a lot of potential. With the right management like Disney and the stock can shoot up. It’s a cheaper entry level stock too at around 30 bucks. If I have extra cash I put it in ATT. I try to roll my profits into Disney and ATT stock long term. Bigger paydays go to Disney stock.",happyhour79,2,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gnck0e0/,0.071,0.778,0.151,0.9462
+60,ONE," Different demographic issues. Japan has reverse pyramid demographics meaning too many old people and not enough young people to support that.
+
+The US kinda has this issue with the Boomers but it’s not nearly at the level Japan has. The difference is the US can suppliment lower birthrates among younger generations with immigration, which Japan is terrible at (their attitudes towards outsiders and brutal workplace culture drive immigrants away typically). 
+
+Here’s where i get on my soapbox and preach easier path to citizenship and open immigration.
+
+ONE BILLION AMERICANS
+
+Thank you.",FishNun2,3,/r/investing/comments/ljcscp/fed_stress_test_bofa_calls_market_top_says_major/gnfldv5/,0.12,0.797,0.083,-0.7003
+61,FOR," I just opened a brokerage account with the service my Roth IRA and employer contributed retirement is going into.
+
+I'm a 31yo first time investor sitting on $2,500 that I'm planning to put mostly into ETFs for long term growth. I'm doing all the research (etc), but the specific advice I'm looking for is in dollar cost averaging. It seems like the market is only going to continue being bullish this year, so I'm wondering if DCA would even be worth it? Should I just put it all in at once instead?
+
+Just as an aside, I'm able to save $65/month specifically FOR future investments, so it's something I'll be doing in the future. I'm just speaking on the initial investments.",goshdarnfriccinheck,3,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gndt7f6/,0.0,0.904,0.096,0.9013
+62,USA," I am getting to the age where I should have been investing in my retirement 10 years ago. However, I just was not savvy or have enough ""disposable income"" to make it happen. Plus the interest just was not there.
+
+Now looking into the different options out there it is a bit overwhelming. And am unsure of which direction to head with my investments.
+
+&#x200B;
+
+I am 34 and reside in central USA.
+
+I am a Systems Engineer making 85k a year.
+
+Looking to save for the next 30 years for my retirement.
+
+I am currently very risk-tolerant, have my investments set aggressive.
+
+Currently, I have several thousand in Bitcoin, several thousand in odds and ends stocks that I play with on a weekly basis (fun money more or less), and just over 1.5k into an Acorn aggressive investment account. It breaks down as such, (55% - VOO, 30% -  IXUS, 10% -  IJH, and 5% - IJR) Currently it has gained 5.82%.
+
+Unmarried guy, minimal bills and 0 debt. It takes less than 1.5k a month for all living expenses.
+
+I am currently looking at saving around 30% of my net income, around 1.8k a month.
+
+&#x200B;
+
+My question is as follows. How do I go about investing these savings? I have an Acorns investment account that has sparked this interest in investments and planning for the future. I like it as it is an automatic way for me to set it and forget it. Automatic pulls from my direct deposit, max my IRA and then the rest of the 30% is dropped into the investment account.
+
+I am questioning which is the best path to follow. I just opened a Roth IRA and was/am planning on investing the max 6k. As well as quit playing around with stocks myself and dumping the rest of my investments into the 4 stocks mentioned earlier. According to my research, the best/recommended investment strategy is to max out one's IRA, then 401k and then dump what is left into stocks.
+
+Maybe it is me not understanding tax law as well as I should. But at my age, the average amount that an IRA will net me is 500k at the time of retirement. Whereas if I would just dump all that money into stocks instead I would average about 1.7M by the time I am 65. Assuming an average rate of return. I understand that there are certain breaks in taxes with the IRA vs taxes I would have to pay on stock investments. But could someone enlighten me as to why I would even want to mess with an IRA instead of just dumping it all into the market?
+
+To me, it just seems that the IRA is a waste as it just will not return the gains that I would want, and that 6k would be better served earning a higher percentage that would result in higher compounding interest in the long run. Or am I just not seeing the tax benefits?
+
+&#x200B;
+
+Edit: To clarify, I know that I can invest inside an IRA the same as stocks. My question is more related to compounded interest and would I not make more money by having all my investment in a larger lump sum. VS broke up into smaller investment opportunities. Offsetting the tax benefits that I would gain from having an IRA?",bradleyaroth,2,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnfexym/,0.057,0.846,0.098,0.9767
+63,VS," I am getting to the age where I should have been investing in my retirement 10 years ago. However, I just was not savvy or have enough ""disposable income"" to make it happen. Plus the interest just was not there.
+
+Now looking into the different options out there it is a bit overwhelming. And am unsure of which direction to head with my investments.
+
+&#x200B;
+
+I am 34 and reside in central USA.
+
+I am a Systems Engineer making 85k a year.
+
+Looking to save for the next 30 years for my retirement.
+
+I am currently very risk-tolerant, have my investments set aggressive.
+
+Currently, I have several thousand in Bitcoin, several thousand in odds and ends stocks that I play with on a weekly basis (fun money more or less), and just over 1.5k into an Acorn aggressive investment account. It breaks down as such, (55% - VOO, 30% -  IXUS, 10% -  IJH, and 5% - IJR) Currently it has gained 5.82%.
+
+Unmarried guy, minimal bills and 0 debt. It takes less than 1.5k a month for all living expenses.
+
+I am currently looking at saving around 30% of my net income, around 1.8k a month.
+
+&#x200B;
+
+My question is as follows. How do I go about investing these savings? I have an Acorns investment account that has sparked this interest in investments and planning for the future. I like it as it is an automatic way for me to set it and forget it. Automatic pulls from my direct deposit, max my IRA and then the rest of the 30% is dropped into the investment account.
+
+I am questioning which is the best path to follow. I just opened a Roth IRA and was/am planning on investing the max 6k. As well as quit playing around with stocks myself and dumping the rest of my investments into the 4 stocks mentioned earlier. According to my research, the best/recommended investment strategy is to max out one's IRA, then 401k and then dump what is left into stocks.
+
+Maybe it is me not understanding tax law as well as I should. But at my age, the average amount that an IRA will net me is 500k at the time of retirement. Whereas if I would just dump all that money into stocks instead I would average about 1.7M by the time I am 65. Assuming an average rate of return. I understand that there are certain breaks in taxes with the IRA vs taxes I would have to pay on stock investments. But could someone enlighten me as to why I would even want to mess with an IRA instead of just dumping it all into the market?
+
+To me, it just seems that the IRA is a waste as it just will not return the gains that I would want, and that 6k would be better served earning a higher percentage that would result in higher compounding interest in the long run. Or am I just not seeing the tax benefits?
+
+&#x200B;
+
+Edit: To clarify, I know that I can invest inside an IRA the same as stocks. My question is more related to compounded interest and would I not make more money by having all my investment in a larger lump sum. VS broke up into smaller investment opportunities. Offsetting the tax benefits that I would gain from having an IRA?",bradleyaroth,2,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnfexym/,0.057,0.846,0.098,0.9767
+64,AMD," So, I’m 26 and just got a new job which allows me to invest roughly $2 000 every month during the coming 1,5 years. I have $12 000 in cash right now that I’m looking to invest as soon as possible. 
+
+My target goal is to reach $60 000, preferably within 1,5 years. In any other circumstances, I would never have these types of short-term goals, and I realise the amount of risk involved. After I reach $60 000 I’ll transition into something less risky. For now, I’m game to gamble, somewhat. I’m willing to take medium to high risks.
+
+So what should I do with the $12 000 I have on hand? And how should I go about investing $2 000 every month? 
+
+I’ve picked a few EFTs I’d like to spread about $6 000 to: VTI, ARK Genomic, ARK innovation, ARK Next Generation Internet, ARK Autonomous Technology & Robotics. 
+
+Then I have a few stocks for the remaining $6 000: AMD, Disney, Evolution Gaming Group, Apex Technology Investment Corporation, Palantir, Darling Ingredients, Energy Fuel, Crowdstrike, and Twilio. 
+
+Too risky? Is this the equivalent of going to a casino and putting it all on red? Should I go with more or less stocks/EFTs? Or should I be looking into going more into something that is less tech?",Noouri,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gndvhss/,0.033,0.887,0.08,0.8792
+65,UK," Hey all.
+
+New to Investing (with new job allowing £500per month to invest).
+
+Using Revolut but it is very basic, and does not have a whole lot of choice.
+
+Can anyone recommend a trading app/website with reasonable commission/choice - with ability to trade options? I am UK based.
+
+Thanks",Viviton,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnetnvr/,0.0,0.807,0.193,0.8765
+66,AMC," Was wondering how to start investing in BTC or Ethereum. I know how to buy, and the basics of investing. How long did it take for you guys to start seeing gains?? How much did you invest in either to start seeing meaningful gains? I've been saving up a bit and was hoping to start hopping onto this crypto currency train.
+
+I've watched some basic investing videos and bitcoin basics. I hope it isn't too late to start. I'm a new stock investor too. I have some GME and AMC (don't laugh, I'm going to hold my few shares as long as it takes for Cohen to bring it back to glory). 
+
+Going to be putting some money in long term stocks like TSLA and APPLE but BTC currently interests me more.",PhamousEra,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnewsr1/,0.015,0.872,0.113,0.8529
+67,GME," Was wondering how to start investing in BTC or Ethereum. I know how to buy, and the basics of investing. How long did it take for you guys to start seeing gains?? How much did you invest in either to start seeing meaningful gains? I've been saving up a bit and was hoping to start hopping onto this crypto currency train.
+
+I've watched some basic investing videos and bitcoin basics. I hope it isn't too late to start. I'm a new stock investor too. I have some GME and AMC (don't laugh, I'm going to hold my few shares as long as it takes for Cohen to bring it back to glory). 
+
+Going to be putting some money in long term stocks like TSLA and APPLE but BTC currently interests me more.",PhamousEra,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnewsr1/,0.015,0.872,0.113,0.8529
+68,TSLA," Was wondering how to start investing in BTC or Ethereum. I know how to buy, and the basics of investing. How long did it take for you guys to start seeing gains?? How much did you invest in either to start seeing meaningful gains? I've been saving up a bit and was hoping to start hopping onto this crypto currency train.
+
+I've watched some basic investing videos and bitcoin basics. I hope it isn't too late to start. I'm a new stock investor too. I have some GME and AMC (don't laugh, I'm going to hold my few shares as long as it takes for Cohen to bring it back to glory). 
+
+Going to be putting some money in long term stocks like TSLA and APPLE but BTC currently interests me more.",PhamousEra,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnewsr1/,0.015,0.872,0.113,0.8529
+69,AAPL," Looking to open a new tech position with ~$1,000. Looking for good growth over the next five years. Doesn’t need to be hyper growth as I have other small cap risk plays already. Looking at AAPL, AMD, SQ and TSM. Thanks!",jdarcy1,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngb1sl/,0.043,0.682,0.275,0.8805
+70,AMD," Looking to open a new tech position with ~$1,000. Looking for good growth over the next five years. Doesn’t need to be hyper growth as I have other small cap risk plays already. Looking at AAPL, AMD, SQ and TSM. Thanks!",jdarcy1,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngb1sl/,0.043,0.682,0.275,0.8805
+71,SQ," Looking to open a new tech position with ~$1,000. Looking for good growth over the next five years. Doesn’t need to be hyper growth as I have other small cap risk plays already. Looking at AAPL, AMD, SQ and TSM. Thanks!",jdarcy1,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngb1sl/,0.043,0.682,0.275,0.8805
+72,TSM," Looking to open a new tech position with ~$1,000. Looking for good growth over the next five years. Doesn’t need to be hyper growth as I have other small cap risk plays already. Looking at AAPL, AMD, SQ and TSM. Thanks!",jdarcy1,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngb1sl/,0.043,0.682,0.275,0.8805
+73,TD,"  Hi All,
+
+I am looking for advice. Is there a broker like Webull where there is a comment section or ability to see social media like twitter built in?  
+Not looking for just a social media score, where they simple give a number.  
+It is nice to see when a stock gets super hyped.  
+Basically I like seeing when rocket ships appear, so I know when to bolt or at least considering to bolt.
+
+Webull for those that don't know has a built in comment section. Think: stocktwits built into Webull.   
+From what I can see Fidelity has a social media sentiment score, but you don't actually see the social media posts.   
+If there is a broker that has posts, I'm looking for general users like you and I, not just analysts.   
+I used TD ameritrade back in the day, but I cannot recall them having this. 
+
+Anyways, thanks for your time.",karate134,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngdnhg/,0.0,0.869,0.131,0.9382
+74,AMD," I am slowly buying shares in several tech companies, including competing ones. Such as AMD, Nvidia, Intel, TSMC, ON, Broadcom, Corsair, etc.
+
+Is this a safe investment? 
+
+I would also like to get into more America semiconductor companies, because I think they will go up soon. Thoughts?",ciano21,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngl53s/,0.0,0.826,0.174,0.8144
+75,ON," I am slowly buying shares in several tech companies, including competing ones. Such as AMD, Nvidia, Intel, TSMC, ON, Broadcom, Corsair, etc.
+
+Is this a safe investment? 
+
+I would also like to get into more America semiconductor companies, because I think they will go up soon. Thoughts?",ciano21,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngl53s/,0.0,0.826,0.174,0.8144
+76,IT," So I’ve been researching and looking into some mutual funds and ETFs to make up my newly opened IRA. I’ve looked at risk and returns as well as performance and dividend potential. I also can’t dump a few grand up front so as much as I would like to have some other choices that seem popular, I can’t swing that. I’ve put together the following list of potential adds. I would love some input or feedback on what I’ve compiled. 
+Here’s what I’m considering:
+  
+-SPY (I like the dividend potential)
+- ESGV  (I like this US.stock ETF but I can’t find much data on it?)
+- FSCSX  (software and IT seem like a smart investment. This also looks to have good returns, if I’m reading the info correctly)
+- SCHE ( emerging markets ETF.  Low risk I think and has a nice international blend)
+- SWISX (international index that looks to have promising performance)
+- SWPPX (s and P 500 with great returns I think)
+- SWTSX ( total market with good returns but high risk. On the fence with this one)
+
+Thoughts? I’m new so much appreciated.",jwnikita,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngsvou/,0.055,0.723,0.223,0.9879
+77,DD," Possibly tencent? Or Sony, I'll make the case for both, as you might know(and if you don't watch polymatter video), tencent is a Chinese conglomerate, which provide a lot of services, but if I go into the financials, they currently have a high p/e ratio, and a lot of institutional backers, they have their fingers in a lot of other companies, from Tesla, nio, discord, epic games and a lot more, I'm currently working on a more in depth DD for tencent so sorry if that's a shitty explanation, you can pm me if you want to know a little more on them. The next company is Sony, u/Audacimmus did a great DD on them if you want to look into that, as I stated before, any questions on them just pm me",notA_cringeyusername,2,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngahqv/,0.079,0.857,0.064,-0.461
+78,UK, Question: Are you ase a UK citizen able to buy the ARK ETF? I know that Its not possible in the EU due to regulations. I'm considering opening a UK bank account solely to buy the ARK ETF.,Robrob10,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngp7lh/,0.0,1.0,0.0,0.0
+79,LAZR," buy bitcoin or other crypto on about a 20% correction
+
+look into LAZR stock. I would buy that hand over fist myself if I wasn't all in crypto. Needs a correction tho.",MartialImmortal,2,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnerwrg/,0.0,0.894,0.106,0.4939
+80,CRSR," What happens when you reach 60k? So you want to withdraw it for something or will you keep it in the market?  
+I don't pay much heed to the doomers that are predicting the great bubble pop, but if you need that money for a down payment on a house then I would advise caution. Regarding the Ark ETFs as well I think you should expect a pullback. I believe in them for the long haul but they have a lot of hype right now that worries me for the short term. 
+As far as a strategy, if you want aggressive growth then consider running the wheel on an underlying like CRSR or DIS that has a large bullish sentiment around it",TheRedWon,2,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnesq96/,0.045,0.815,0.14,0.8387
+81,DIS," What happens when you reach 60k? So you want to withdraw it for something or will you keep it in the market?  
+I don't pay much heed to the doomers that are predicting the great bubble pop, but if you need that money for a down payment on a house then I would advise caution. Regarding the Ark ETFs as well I think you should expect a pullback. I believe in them for the long haul but they have a lot of hype right now that worries me for the short term. 
+As far as a strategy, if you want aggressive growth then consider running the wheel on an underlying like CRSR or DIS that has a large bullish sentiment around it",TheRedWon,2,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnesq96/,0.045,0.815,0.14,0.8387
+82,DD," If this is the bulk of your savings, you may want to research index funds. They are not sexy, but they have low fees and low risk. DD is always required.",Enigmalogist_,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngh760/,0.266,0.703,0.031,-0.8266
+83,DD," Cash = Capital = An army to deploy during a fire sale market correction 
+
+If you believe a correction is coming, you could increase your capital on hand to something higher than usual so you can take advantage of the discounts.
+
+DD",Enigmalogist_,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnggh36/,0.055,0.774,0.171,0.6249
+84,AAPL," > Is it easy to cash out by simply selling the option after stock price has peaked, or will the demand for the option be low
+
+You can probably just sell it, but it depends a bit on the trading volume. For an underlying that has a lot of volume around the options, such as SPY or AMD or AAPL, you should be able to just sell the contract no problem and not worry about having cash to exercise. If it's some obscure stock that doesn't have a lot of options trading surrounding it then it might be harder for you to cash out and you might have to sell it for a lower price than you would like.  
+
+The volume should be displayed somewhere when you are looking at that particular option.  
+
+You can sell the option on the expiration day, but keep in mind it loses value faster and faster as the expiration approaches.",TheRedWon,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngsepi/,0.089,0.843,0.068,-0.3593
+85,AMD," > Is it easy to cash out by simply selling the option after stock price has peaked, or will the demand for the option be low
+
+You can probably just sell it, but it depends a bit on the trading volume. For an underlying that has a lot of volume around the options, such as SPY or AMD or AAPL, you should be able to just sell the contract no problem and not worry about having cash to exercise. If it's some obscure stock that doesn't have a lot of options trading surrounding it then it might be harder for you to cash out and you might have to sell it for a lower price than you would like.  
+
+The volume should be displayed somewhere when you are looking at that particular option.  
+
+You can sell the option on the expiration day, but keep in mind it loses value faster and faster as the expiration approaches.",TheRedWon,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngsepi/,0.089,0.843,0.068,-0.3593
+86,DD," I would add NVDA and Appn to that list
+
+DD required",Enigmalogist_,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnge384/,0.0,1.0,0.0,0.0
+87,NVDA," I would add NVDA and Appn to that list
+
+DD required",Enigmalogist_,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnge384/,0.0,1.0,0.0,0.0
+88,RE," I love Cathie Wood. The catch will be that on market corrections those stocks will cut the other way too, their losses will be worse that the general market, most likely. 
+
+If you only go half in, you know it going to run for two more years. If you go all in you know the market will crash ;) That would favor dripping into the market or going with your more defensive SPY included allocation.... though SPY is hardly defensive. Maybe a dividend vehicle would be a better choice (instead of SPY), esp in a bear market. This market is crazy. A correction has to happen, in a week, or a year, of five. No one knows. Inflation could be here now and it is in the market, not where ppl expect to see it. This could be the new normal... no telling.
+
+I always ask myself what would hurt more (I ask this about selling stocks too). Going half in and having the market run away from me for years?  Going all in and there is a 20% crash that I cant buy the dip on because I am already in? I think allocation to both would smooth things out no matter what the market does. I would also diversify into non-market correlated vehicles. 5% in crpyto maybe. I think /BTC to 100k is not unreasonable. GLD, RE, collectibles,
+
+Im not a financial professional, just some guy on a couch, ymmv, good luck!",RkHlav,2,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngk6jk/,0.103,0.814,0.084,-0.7065
+89,IMO," I persoanlly would recommend to be careful with ARK funds. They are funds which means that they have to deal with in/outflows at bad times. Ontop of that they are mostly invested into small companies with low-ish market caps which can easily be artificially pushed up by fund inflows and thus show high short term returns due to  inflated prices.
+
+I'm not saying those companies are bad or that the fund(managers) wont perform but i am seeing that they are holding very expensive companies and performed unsustainably well. What would happen if they would underperform the market for let's say a year? IMO too risky to be worth it.
+
+I perosnally prefer to pick individual stocks. Didn't look at the ETf but in general those are the safer bet.",ValueInvestor0815,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngvj93/,0.049,0.852,0.099,0.6956
+90,DD," Obviously some services are better than others and fool has a good reputation (from what I know). But I honestly feel like these lists people put out are the easy way out. If they go up your happy but if they go down then you blame the list, blame fool, etc... but you never blame yourself for not learning, not doing DD, being greedy, etc. So therefore people don’t learn and then rinse and repeat.
+
+Not saying you are or will do this. But I only see those services as supplemental (if you do subscribe).",Spazy1989,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngs7sn/,0.166,0.725,0.11,-0.8442
+91,DD, Spend time or money? I have just been scrolling Reddit and conducting DD this valentine's Day,notA_cringeyusername,2,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gngarj0/,0.0,1.0,0.0,0.0
+92,LAZR," Not sure if I’m ready to go balls deep into crypto, but I’ll consider it. 
+
+Will definitely look into LAZR. What makes you convinced they’re going somewhere? And by correction, you mean I should wait for a drop before I go into it? 
+
+Thank you for your input!",Noouri,1,/r/investing/comments/ljlr27/daily_advice_thread_all_basic_help_or_advice/gnesl86/,0.074,0.698,0.228,0.8632
+93,RTX," I've been a long term RTX shareholder.  It has an upward bias and a decent dividend that pays you to sit on it.  However, I'm not sure I would put much probability on any new wars under a democratic administration, I think both parties have learned their lesson.  I do think that its possible that defense spending will be flat to slightly down as Biden looks to prioritize spending in other areas.  But Raytheon is very good at managing these fluctuations over the decades so I will remain a holder, I doubt I'd add to my position.",SeemoarAlpha,5,/r/investing/comments/ljuncu/raytheon_technologies_lets_discuss/gnghidz/,0.097,0.828,0.076,-0.2661
+94,CARR," Thank you for your RTX prognosis. I hope you're forecast is correct. I received quite a few shares of RTX, along with shares of OTIS and CARR Worldwide when UTX became RTX. I would like to sell OTIS and CARR. How can I do so without incurring a gain, since I paid nothing for the shares?",lydialanguish,2,/r/investing/comments/ljuncu/raytheon_technologies_lets_discuss/gngly06/,0.05,0.696,0.254,0.8832
+95,OTIS," Thank you for your RTX prognosis. I hope you're forecast is correct. I received quite a few shares of RTX, along with shares of OTIS and CARR Worldwide when UTX became RTX. I would like to sell OTIS and CARR. How can I do so without incurring a gain, since I paid nothing for the shares?",lydialanguish,2,/r/investing/comments/ljuncu/raytheon_technologies_lets_discuss/gngly06/,0.05,0.696,0.254,0.8832
+96,RTX," Thank you for your RTX prognosis. I hope you're forecast is correct. I received quite a few shares of RTX, along with shares of OTIS and CARR Worldwide when UTX became RTX. I would like to sell OTIS and CARR. How can I do so without incurring a gain, since I paid nothing for the shares?",lydialanguish,2,/r/investing/comments/ljuncu/raytheon_technologies_lets_discuss/gngly06/,0.05,0.696,0.254,0.8832
+97,UK," > Raytheon is performing better than competitor Lockheed Martin, who is  feeling the Covid pain much more due to much more commercial aerospace  exposure. 
+
+Where are you getting this from? 
+
+[From P. 48](https://investors.lockheedmartin.com/static-files/406edff6-4eea-4894-831e-8d7444630e86), emphasis mine:
+
+> Space’s net sales in 2020 increased $1.0 billion, or 9%, compared to 2019. The increase was primarily attributable to higher net sales of approximately $525 million for government satellite programs due to higher volume (primarily Next Gen OPIR); and about $430 million for strategic and missile defense programs due to higher volume (primarily hypersonic development programs, inclusive of impacts due to the acquisition of i3's hypersonics portfolio in November 2020).  
+>  
+>  
+>  
+>Space’s  operating  profit  in  2020  decreased  $42  million,  or  4%,  compared  to  2019.  **Operating  profit  decreased  approximately  $90  million  for government satellite programs** due to lower risk retirements on the various programs (primarily AEHF) that were partially offset by higher risk retirements and volume on the Next Gen OPIR program. **This decrease was partially offset by increases of $40 million for commercial satellite programs due to charges recorded for performance matters in 2019 not repeated in 2020**. Operating profit for strategic and missile defense programs was comparable as higher risk retirements and volume on hypersonic development programs were offset by lower risk retirements and volume on fleet ballistic missile programs. **Adjustments not related to volume, including net profit booking rate adjustments, were $100 million lower in 2020 compared to 2019.**   
+>  
+>  
+>  
+>Backlog decreased in 2020 compared to 2019 primarily due to higher sales on multi-year contracts awarded in prior years. Additionally, backlog as of December 31, 2020 reflects a decrease due to the UK Ministry of Defense’s intent to assume 100% ownership of the program on June 30, 2021.  
+>  
+>  
+>  
+>**We expect Space’s 2021 net sales to increase in the low-single digit percentage range from 2020 levels driven by higher volume on hypersonics programs and on government satellite programs (primarily Next Gen OPIR), partially offset by lower volume at AWE due to the UK Ministry of Defense’s intent to re-nationalize the program on June 30, 2021**. Operating profit is expected to decrease in the low-single digit percentage range from 2020 levels. Operating profit margin for 2021 is expected to be lower than 2020 levels.  
+>  
+>  
+>  
+>**To date, the effects of COVID-19 have not had a significant negative impact on our liquidity, cash flows or capital resources.** ""
+
+&#x200B;
+
+87% of LM Space's net sales are US Government customers and 13% are international. Overall, compared to Lockheed's entire portfolio, commercial space is a very small percentage and also doesn't seem to match up with your claims anyways.
+
+&#x200B;
+
+Also, I don't know why you're providing an example of Raytheon's F-35 contract in a comparison to Lockheed when Lockheed is the prime contractor.  There may certainly be a case for Raytheon over Lockheed, but I don't feel like you've provided it.",Spooner71,2,/r/investing/comments/ljuncu/raytheon_technologies_lets_discuss/gngqjeg/,0.045,0.895,0.06,0.6108
+98,RTX, Love me some RTX can’t wait to go long,JPOWsFluffer,2,/r/investing/comments/ljuncu/raytheon_technologies_lets_discuss/gngfvhl/,0.0,0.656,0.344,0.6369
+99,RTX," Remember RTX is a combination of Raytheon (skews defense) and United Technologies (skews commercial aerospace). If your investment thesis is primarily defense-related, you may be better served looking at a pure play such as General Dynamics, Lockheed Martin, or Northrop Grumman.",EBITDA-XIRR,0,/r/investing/comments/ljuncu/raytheon_technologies_lets_discuss/gngntvu/,0.0,0.774,0.226,0.8481
+100,NG," Yeah I was considering that as well. I did not look in to NG, but Lockheed has a ton of commercial aerospace as well.",medi3val6,1,/r/investing/comments/ljuncu/raytheon_technologies_lets_discuss/gngo44x/,0.0,0.756,0.244,0.5859
+101,DSSI," I thought about buying into DSSI,(and missed out on 50%) all around it looks like a great value buy but looking through peers it looks like stocks in this industry can remain undervalued.  Maybe a stupid reason but also keep in mind this could just be a temporary pump.",BackTwoBasics,1,/r/investing/comments/ljto14/marine_shipping_stocks_are_on_a_roll/gngocf2/,0.114,0.716,0.17,0.2617
+102,INSW," Wow! Out of Greece?
+It's the largest in terms of number of vessels in this list.
+And the only one with good finances along with INSW.
+
+Any advice ?",NPRjunkieDC,1,/r/investing/comments/ljto14/marine_shipping_stocks_are_on_a_roll/gnghg3b/,0.0,0.743,0.257,0.8249
+103,GME," CTRM? I have some and it's up 250=550% since I purchased.  Sold 1/3 of the stock to recoup my investment.  But the only reason I discovered this maritime boom is cuz Yahoo had a story on 7 overpriced sticks that went up in part cuz of restrictions during the GME craze so pent up demand . 
+
+I'm buying several of these + a few more mining companies with proceeds from 3 of these companies that have grown so much . I'll still leave 2K in each in case they keep going up.",NPRjunkieDC,2,/r/investing/comments/ljto14/marine_shipping_stocks_are_on_a_roll/gngp1o0/,0.055,0.945,0.0,-0.3744
+104,INSW, We'll see. Someone on Yahoo posted about a TV report where they mentioned a shortage in maritime shipping.  They mentioned an Israeli company that just began trading here called ZIM. Both DISS + ZIM + SBLK + INSW have good finances and low float .,NPRjunkieDC,1,/r/investing/comments/ljto14/marine_shipping_stocks_are_on_a_roll/gngshe2/,0.095,0.837,0.067,-0.0516
+105,SBLK, We'll see. Someone on Yahoo posted about a TV report where they mentioned a shortage in maritime shipping.  They mentioned an Israeli company that just began trading here called ZIM. Both DISS + ZIM + SBLK + INSW have good finances and low float .,NPRjunkieDC,1,/r/investing/comments/ljto14/marine_shipping_stocks_are_on_a_roll/gngshe2/,0.095,0.837,0.067,-0.0516
+106,TV, We'll see. Someone on Yahoo posted about a TV report where they mentioned a shortage in maritime shipping.  They mentioned an Israeli company that just began trading here called ZIM. Both DISS + ZIM + SBLK + INSW have good finances and low float .,NPRjunkieDC,1,/r/investing/comments/ljto14/marine_shipping_stocks_are_on_a_roll/gngshe2/,0.095,0.837,0.067,-0.0516
+107,ZIM, We'll see. Someone on Yahoo posted about a TV report where they mentioned a shortage in maritime shipping.  They mentioned an Israeli company that just began trading here called ZIM. Both DISS + ZIM + SBLK + INSW have good finances and low float .,NPRjunkieDC,1,/r/investing/comments/ljto14/marine_shipping_stocks_are_on_a_roll/gngshe2/,0.095,0.837,0.067,-0.0516
+108,DSSI, DSSI has good finances . Just found ZIM out of Israel that began recently trading . I stay away from companies in Bermuda . Thanks !,NPRjunkieDC,1,/r/investing/comments/ljto14/marine_shipping_stocks_are_on_a_roll/gngqt8q/,0.0,0.757,0.243,0.7263
+109,ZIM, DSSI has good finances . Just found ZIM out of Israel that began recently trading . I stay away from companies in Bermuda . Thanks !,NPRjunkieDC,1,/r/investing/comments/ljto14/marine_shipping_stocks_are_on_a_roll/gngqt8q/,0.0,0.757,0.243,0.7263
+110,NAV," Index mutual funds - yes, it’s purely NAV based. For ETFs, there’s something called the creation/redemption mechanism. If the price of the ETF grows too high relative to NAV, “authorized participants” go into the market, buy the companies the ETF owns, and exchange them for a relatively overvalued share of the ETF. The reverse happens when the ETF price is too low relative to NAV. In this way, ETF prices are kept very close to their NAV.
+
+In both cases, billions of dollars flowing into index funds lead to fund managers blindly buying the market, which does push up asset prices.",sprrrtrns,8,/r/investing/comments/ljomtp/price_setting_for_index_fund/gnewf0r/,0.02,0.909,0.071,0.6486
+111,NAV," NAV is the price according to each holding, so if the prices of holdings goes up, so does NAV. Mutual funds trade at their exact NAV at the end of each day whereas ETFs trade near their NAV but not exactly at it, because people can choose to buy and sell ETFs at any time for a couple of pennies away from the NAV",star_shopping,2,/r/investing/comments/ljomtp/price_setting_for_index_fund/gnevzr4/,0.0,1.0,0.0,0.0
+112,NAV," To add to this: you can normally see a chart of an ETF's daily historical premium/discount relative to it's NAV somewhere on its webpage (e.g. for ishares things, check the BlackRock ishares info page about that ETF). There's occasional spikes relative to the normal range caused by very large buy/sell events like March, but the difference is normally very very very small.",Qpylon,2,/r/investing/comments/ljomtp/price_setting_for_index_fund/gng8rxi/,0.0,0.972,0.028,0.1901
+113,FCF, The impact of acquired working capital is not included in operating cash flow and therefore excluded from FCF.  The amount paid is included in investing cash flow as cash paid for acquisitions.,mc167543,2,/r/investing/comments/ljbiur/accounting_adjustments_for_acquisitions/gngkvz6/,0.072,0.928,0.0,-0.34
