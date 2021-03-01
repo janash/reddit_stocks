@@ -1,0 +1,1457 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,RSI," Unless you're just running on otcqx, I can't imagine why you're getting only 2-3 results a day. Your scanner would be detecting all the stocks that have already had their bull run in the last month or so.
+
+I have had much better success using:
+
+Price > 5-day average > 20-day average.
+
+5-day high >= 90-day high.
+
+Volume > 5-day average > 20-day average.
+
+volume > x mil.
+
+price < $5.
+
+Although RSI seems interesting. I've had better results with SMA than EMA.",250umdfail,3,/r/pennystocks/comments/luw1f9/my_updated_stock_scanner_settings_to_get_better/gp9t40d/,0.0,0.85,0.15,0.9042
+1,ROCK, Do you understand how much time you have saved people? I appreciate you and this post. you ROCK. I hope you gain big today for as many people as this will help.   3/1/2021- Good hunting,LegitimateChart6300,1,/r/pennystocks/comments/luw1f9/my_updated_stock_scanner_settings_to_get_better/gpammrx/,0.0,0.608,0.392,0.9468
+2,RSI," Trying to replicate this screen in Street Smart Edge. There seems to a problem manually checking shares outstanding in their logic fields. Have to stick to between 10M and 100M.
+
+ I can't seem to figure out the following:
+
+1. Which RSI is this for? I have options for RSI 10 / 30 / 50 (From close, or general)
+2. Can't figure out where to put the custom scripts in, is there a specific type of area this might be in? They probably don't support custom scripts... I ended up just replicating this logic with comparing % of Volume to Avg 5 Day Vol of 300% like you describe
+
+
+https://i.imgur.com/5miafSY.png",kentoe,1,/r/pennystocks/comments/luw1f9/my_updated_stock_scanner_settings_to_get_better/gpb6fy4/,0.045,0.849,0.106,0.7784
+3,APEN," I've had several hits this morning APEN and FRSX looking like the best prospects. Waiting and watching to see how well this scanner works. Other hits today have been KIQ. Be sure to set up alerts when new entries are found.
+
+I may like your older scanner a bit better after some minor changes.
+
+Edit2: APEN up 17% since scan alert. FRSX up 4%. KIQ about flat.
+
+Edit3: SIOX just pinged, and FRSX popped",lynxtosg03,1,/r/pennystocks/comments/luw1f9/my_updated_stock_scanner_settings_to_get_better/gpbf3s0/,0.0,0.754,0.246,0.9578
+4,FRSX," I've had several hits this morning APEN and FRSX looking like the best prospects. Waiting and watching to see how well this scanner works. Other hits today have been KIQ. Be sure to set up alerts when new entries are found.
+
+I may like your older scanner a bit better after some minor changes.
+
+Edit2: APEN up 17% since scan alert. FRSX up 4%. KIQ about flat.
+
+Edit3: SIOX just pinged, and FRSX popped",lynxtosg03,1,/r/pennystocks/comments/luw1f9/my_updated_stock_scanner_settings_to_get_better/gpbf3s0/,0.0,0.754,0.246,0.9578
+5,KIQ," I've had several hits this morning APEN and FRSX looking like the best prospects. Waiting and watching to see how well this scanner works. Other hits today have been KIQ. Be sure to set up alerts when new entries are found.
+
+I may like your older scanner a bit better after some minor changes.
+
+Edit2: APEN up 17% since scan alert. FRSX up 4%. KIQ about flat.
+
+Edit3: SIOX just pinged, and FRSX popped",lynxtosg03,1,/r/pennystocks/comments/luw1f9/my_updated_stock_scanner_settings_to_get_better/gpbf3s0/,0.0,0.754,0.246,0.9578
+6,SIOX," I've had several hits this morning APEN and FRSX looking like the best prospects. Waiting and watching to see how well this scanner works. Other hits today have been KIQ. Be sure to set up alerts when new entries are found.
+
+I may like your older scanner a bit better after some minor changes.
+
+Edit2: APEN up 17% since scan alert. FRSX up 4%. KIQ about flat.
+
+Edit3: SIOX just pinged, and FRSX popped",lynxtosg03,1,/r/pennystocks/comments/luw1f9/my_updated_stock_scanner_settings_to_get_better/gpbf3s0/,0.0,0.754,0.246,0.9578
+7,ZKIN," Believe it or not, ZKIN is the future. The second most important time didn't  give a sell signal at all as the EMA's are still pointing towards a 4 hour uptrend. If we would look on daily time frame, we would see that the price is trying to bounce off 20 EMA, continuing in daily strong uptrend. On the 4 hour time frame we can see that the bearish momentum has faltered at $6.00 and the price of ZKIN started to regain value. Ideally to continue in a strong uptrend, the price would need to hold above 20 4h EMA which is currently located at $7.60, just where the price is located now. A good sign.
+
+[https://pbs.twimg.com/media/EvabzpnXUAA1\_uY?format=jpg&name=large](https://pbs.twimg.com/media/EvabzpnXUAA1_uY?format=jpg&name=large)",Harveyjeter,1,/r/pennystocks/comments/luw1f9/my_updated_stock_scanner_settings_to_get_better/gpcfazu/,0.0,0.86,0.14,0.9447
+8,DD," Personally I think this won’t dip post earnings (assuming they are good).
+
+The stock is  5-6 CAD fair value so it’s quite unde priced right now. A number of people have done some DD on how much it should be if it was priced like some of the other cannabis firms. Target price is also something like 1.2-1.5 CAD as well so for me it points to high value gains if you hold.
+
+Yeah I’m sure there’s some day traders who want to sell the news and make a small profit but I think this stock could literally pop any day now so everything points to upwards movement. 
+
+If it does dip ive got a bit of cash reserve to buy more.",Shanghaiqatar,2,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpc0z6i/,0.0,0.845,0.155,0.8834
+9,CEO," Living in Canada, I have to say I've been a huge fan of the product and the company overall. They have the second-highest Q/Q%, and highest Y/Y% compared to all of their competitors. Their growth is very impressive, and the CEO hinted that the company doing well.
+
+An article earlier today talked a bit about what to expect. ""High Tide [confirmed an update](https://www.newswire.ca/news-releases/high-tide-significantly-improves-balance-sheet-as-a-further-20-million-of-debt-has-converted-into-equity-and-provides-other-updates-898025751.html) to its balance sheet. Raj Grover, president, and CEO of High Tide, said the company’s financials have never been stronger. He added that the company will now go ahead and pursue potential acquisition deals. "" (McGovern, 2021). 
+
+I've also seen a lot of articles as of late surrounding the company seems like they're doing very well and I'm not surprised. I've been in for a while, and I'm in for the long haul. Best of luck to everyone!",badstocks,2,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpcah0n/,0.025,0.811,0.163,0.9645
+10,DD," Still red by 14% XD 
+
+Manged to buy peak but don't care as I plan on averaging down if I can as from all the DD (both on the sub and personal) it appears this company will be worth severeal dollars minimum in a couple years.",JamJam120199,1,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpc2vay/,0.071,0.824,0.105,0.1716
+11,PLTR," Definitely seems to be the trend with tech companies as of late (AMD, PLTR, NET) so here's hoping the public sees HITIF's earnings as a positive catalyst. What are you all expecting for tomorrow?",slinkyminks,2,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpbuofc/,0.0,0.762,0.238,0.8548
+12,DD," Earnings aren't all that matters. You have to do a deep dive on the company and make sure your DD shows what the street is looking for. KPIs, growth revenues, guidance... etc. A ""beat"" is only a beat if it addresses what needs to be addressed.",danhoeg,1,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpc85sw/,0.023,0.87,0.107,0.5894
+13,PT," No way, i can see it dropping from .85 its at now to .70 
+
+ I dont really care though, in this one for so long with the way this company is going my PT of 3 will eventually happen. In the years to come :)",sporadicjesus,8,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpblsb8/,0.107,0.829,0.064,-0.2605
+14,DD," 7% red here as well. I figured I'd be holding until the end of the year at least with where I bought in. Based on my research and reading DD, it should be a good long term stock.",YouKnowWhatToDo80085,2,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpcb66j/,0.0,0.868,0.132,0.6124
+15,RKT," RKT also announced a $1 dividend per share for anyone who owns shares next week. Was a great time to get in for the dividend at $19, slightly worse now.",CaptainPirk,1,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpc6chu/,0.08,0.68,0.241,0.6901
+16,AAPL," Take a random stock, there's a rumor going around of good news almost garunteed, so people buy inflating the price to the point where its basically where the good news would have brought it anyway. Then many of the people who bought for short profit because of the news sells shortly before the announcement becomes public decreasing the price. As long as it is a valid company with valid good news it should get back up to roughly that point. But hype for a rumor of good news can also inflate it to higher than the good news would have gotten you in the first place by itself. Especially with small companies you are not buying into the profitability of the company like you are thinking...you are buying into current public perception of the profitability of the company. And current public perception can change drastically. Hence in the march sell off...Apple didnt suddenly lose 30% of its assets and the sales didn't decline and their sales from 2019 didn't suddenly vanish...Public perception of market stability declined and so AAPL fell right along with it as people cashed out in fear of the world ending.",Upper-Director-38,41,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpbwkni/,0.015,0.851,0.134,0.9677
+17,EOD," Hard to say because it climbed a lot today, and the previous weeks the entire market was red, so it’s hard to know exactly when “buying the rumour” happened for this one. Maybe there will be a massive sell off before EOD, if today was the rumour buying. I also don’t think that rule applies as much to more unknown stocks. 
+
+Either way, they have been reporting (leading up to earnings) lots of positive news and it seems to be implied that the earnings will surpass expectations. My opinion is we won’t see it fall after earnings, but that’s just my own opinion.",grasssmoker16,10,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpbor3h/,0.025,0.952,0.023,0.1928
+18,RKT, RKT making for some juicy call options right now,Kommmbucha,2,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpc8l31/,0.0,1.0,0.0,0.0
+19,CEO, Yeah but they have been scaling each time and they have acquired like 50 other businesses and have a quarter of their sales in the US n own like the 2 biggest ecommerce ganja sites on earth n have 70 stores n will b 100+ EOY. In 10 minutes you can see #2. CEO is a beast. This is the best stock on the entire market right now. Once they hit nasdaq this year forget about it,Potential-Guide-9562,1,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpcekde/,0.029,0.8,0.171,0.9109
+20,CEO, It will be at a dollar soon. CEO said they will go to NASDAQ THIS YEAR. Either organically (likely because they are so unbelievable fantastic) or via reverse split. PT EOY is seriously $4-12 depending on RS or not. Their sheet is impeccable. There is not a single thing wrong with the company. It is the best stock on the entire stock market. EOY 2025 will be $40+ Book it,Potential-Guide-9562,1,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpcfpnt/,0.023,0.855,0.122,0.8136
+21,PT, It will be at a dollar soon. CEO said they will go to NASDAQ THIS YEAR. Either organically (likely because they are so unbelievable fantastic) or via reverse split. PT EOY is seriously $4-12 depending on RS or not. Their sheet is impeccable. There is not a single thing wrong with the company. It is the best stock on the entire stock market. EOY 2025 will be $40+ Book it,Potential-Guide-9562,1,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpcfpnt/,0.023,0.855,0.122,0.8136
+22,RS, It will be at a dollar soon. CEO said they will go to NASDAQ THIS YEAR. Either organically (likely because they are so unbelievable fantastic) or via reverse split. PT EOY is seriously $4-12 depending on RS or not. Their sheet is impeccable. There is not a single thing wrong with the company. It is the best stock on the entire stock market. EOY 2025 will be $40+ Book it,Potential-Guide-9562,1,/r/pennystocks/comments/lve86y/friendly_reminder_hiti_hightide_earnings_call_is/gpcfpnt/,0.023,0.855,0.122,0.8136
+23,CEO," Their CEO put out an epic video a little while back:
+
+https://www.youtube.com/watch?v=dEgxEfXdbng",BAHatesToFly,68,/r/pennystocks/comments/luwcrz/nmgrf_the_future_of_north_american_graphite/gp95f9v/,0.0,1.0,0.0,0.0
+24,DD, Great DD. I have a size-able position and this made me feel better about it lol,This_is_your_son,14,/r/pennystocks/comments/luwcrz/nmgrf_the_future_of_north_american_graphite/gp94p64/,0.0,0.529,0.471,0.8689
+25,DD, Awesome DD. Much appreciated,1uke5kyWalk3r,5,/r/pennystocks/comments/luwcrz/nmgrf_the_future_of_north_american_graphite/gp9ddat/,0.0,0.213,0.787,0.8126
+26,DD, I'm longing for the day someone does a DD before something goes 1000% up in 4 months,banaca4,2,/r/pennystocks/comments/luwcrz/nmgrf_the_future_of_north_american_graphite/gpacfdu/,0.073,0.927,0.0,-0.0258
+27,DD, As soon as my transfer clears I’m in great DD sounds like a strong play,Tommybbq1,2,/r/pennystocks/comments/luwcrz/nmgrf_the_future_of_north_american_graphite/gpar30h/,0.0,0.398,0.602,0.9118
+28,PT, PT for the next year?,RickieSpanishhh,1,/r/pennystocks/comments/luwcrz/nmgrf_the_future_of_north_american_graphite/gp9ac1a/,0.0,1.0,0.0,0.0
+29,USA," USA, USA, USA.
+I like North American (USA, Mexico, Canada).  Still, good ole USA mining is vital to USA security.  I’m aware of SWWR, are there other graphite mines in the USA?  The grapheme/hemp research/patents associated with $ALYI are interesting and could have USA sourcing.  The future will be exciting!",FearlessMorning2221,0,/r/pennystocks/comments/luwcrz/nmgrf_the_future_of_north_american_graphite/gp9j4az/,0.0,0.726,0.274,0.9348
+30,DD," My concern is that the graphite in the anode will be replaced by other materials. 
+
+https://cen.acs.org/materials/energy-storage/battery-materials-world-anodes-time/97/i14
+
+I think this technology will take a while to dethrone graphite, but if they can figure it out it's going to be a major shift.
+
+I hold long positions in both NMG and HPQ.
+
+Great DD, by the way!",weak_fatness,0,/r/pennystocks/comments/luwcrz/nmgrf_the_future_of_north_american_graphite/gpa1gxo/,0.0,0.894,0.106,0.7871
+31,HPQ," My concern is that the graphite in the anode will be replaced by other materials. 
+
+https://cen.acs.org/materials/energy-storage/battery-materials-world-anodes-time/97/i14
+
+I think this technology will take a while to dethrone graphite, but if they can figure it out it's going to be a major shift.
+
+I hold long positions in both NMG and HPQ.
+
+Great DD, by the way!",weak_fatness,0,/r/pennystocks/comments/luwcrz/nmgrf_the_future_of_north_american_graphite/gpa1gxo/,0.0,0.894,0.106,0.7871
+32,DD," Agreed! I too am excited about NMG, and am considering getting more shares, as I got in when they were at 2.05 😅
+
+But since this is such a good DD, I thought it would be pertinent to add actual concerns and risks so people aren't surprised later.
+
+Take nickel, for example. Musk said ""Tesla will give you a giant contract for a long period of time if you mine nickel efficiently and in an environmentally sensitive way"".
+
+And now Musk is seeing how much of a bottleneck nickel will be for production, so he's moving towards lithium iron phosphate (LFP) batteries for the Model 3 in China.
+
+I got into nickel, and know that it will be relevant for a while in EV batteries, but I know that it may not be relevant forever. So that helps me plan my exit strategy from my nickel positions. I want my fellow graphite holders to have the same knowledge (about silicone), and plan their exit strategy accordingly 😉
+
+Finally, Tesla isn't the only game in town. Other manufacturers are going to use a host of minerals. Also, there will be several battery technologies out there. I see different batteries for expense, high-end cars; cheap, get around town cars; last-mile delivery vehicles; semi trucks. Can graphite and silicone both do well? Absolutely! This isn't an either-or situation.
+
+Invest wisely and confidently, my friends. 😄
+
+https://www.google.com/amp/s/electrek.co/2021/02/26/elon-musk-tesla-shifting-more-electric-cars-lfp-batteries-nickel-supply-concerns/amp/
+
+https://finance.yahoo.com/news/musk-says-nickel-biggest-concern-231725809.html
+
+https://www.google.com/amp/s/finance.yahoo.com/amphtml/news/why-tesla-shifting-more-evs-230838161.html",weak_fatness,1,/r/pennystocks/comments/luwcrz/nmgrf_the_future_of_north_american_graphite/gpbrwgo/,0.013,0.864,0.123,0.9758
+33,DD, $PVDG has all the ground work for something big. Great management team. Promises made promises kept. Do some DD and you won’t hesitate to be apart of this upcoming company.,Zimmerman_Lance,13,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp8f1v6/,0.056,0.695,0.249,0.802
+34,AL," How did your DD miss his past failed companies, share dilution and the FINRA investigations into him?  He is no longer registered as a broker
+
+ [https://brokercheck.finra.org/individual/summary/1032123#timelineSection](https://brokercheck.finra.org/individual/summary/1032123#timelineSection)
+
+JAMES CARL KATZAROFF      
+  CRD#:  1032123 
+
+He was fired from SMI for failing to disclose a tax lien and earlier he lost a customer dispute and the customer was awarded $85,000
+
+Here are the highlights --- 
+
+ Firm Name  
+ SMI Capital Markets LLC  
+   
+Termination Type  
+ Discharged  
+   
+Allegations  
+ Failure to disclose on U-4 an IRS Tax Lien
+
+Allegations  
+ 1998-1992; unsuitability  
+   
+Damage Amount Requested  
+ $130,000.00  
+   
+Damages Granted  
+ $85,000.00  
+ 
+
+Katzaroff has had a number of lawsuits and judgments against him and his companies -- here are some highlights --- you can also look at past 10-Ks and see how the companies get sued for not paying rent.....
+
+14-2-02500-6 | SPOKANE MERCHANTS ASSOCIATION VS ADVANCED MEDICAL ISOTOPE CORP ET AL                          
+ Case Number  
+14-2-02500-6                     
+
+Court  
+Benton                   
+
+ File Date  
+10/06/2014                   
+
+Case Type  
+COL Collection                     
+
+Case Status  
+Completed/Re-Completed                     
+
+  Judgments this case: 1 Signed  by: JUDGE VIC L VANDERSCHOOR 2015-02-26 JD STIPULATED JUDGMENT AGAINST  DEFENDANT ADVANCED MEDICAL ISOTOPE INC JCR0001 SPOKANE MERCHANTS  ASSOCIATION JUDGMENT TOTAL 50,085.43.  POST JUDGMENT INT RATE u/12% PER  ANNUM  2015-02-26 JD **STIPULATED JUDGMENT AGAINST DEFENDANT JAMES C.  KATZAROFF JCR0001 SPOKANE MERCHANTS ASSOCIATION JUDGMENT TOTAL  30,000.00.**  POST JUDGMENT INT RATE u/12% PER ANNUM  2015-04-28 WRG 1ST  WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE GDF0001  AMERICANWEST BANK  2015-04-28 WRG 2ND WRIT OF GARNISHMENT AGAINST  ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA  2015-05-20  JDOAGD JDGMT ON ANSWER OF GARN DEF JCR0001 SPOKANE MERCHANTS ASSOCIATION  GDF0002 JPMORGAN CHASE BANK NA JUDGMENT 16,698.07.  JCR0001 SPOKANE  MERCHANTS ASSOCIATION JDB0001 ADVANCED MEDICAL ISOTOPE CORP JUDGMENT FOR  RECOVERABLE COSTS 377.61.  JUDGMENTS TO BEAR INT u/12% PER ANNUM   2015-07-01 WRG 3RD WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0001 AMERICANWEST BANK  2015-07-01 WRG 4TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA   2015-07-30 WRG 5TH WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0003 BANK OF AMERICA NA  2015-07-30 WRG 6TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE  2015-12-01 WRG **7TH WRIT OF GARNISHMENT  AGAINST JAMES C KATZAROFF GDF0004 US BANK NA  2015-12-01 WRG 7TH WRIT  OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0005 COMMUNITY FIRST BANK   2015-12-01 WRG 8TH WRIT OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0006  GESA CREDIT UNION  2015-12-01 WRG 9TH WRIT OF GARNISHMENT AGAINST JAMES  C KATZAROFF GDF0007 MORGAN STANLEY & CO LLC  2015-12-21 STFJG  SATISFACTION OF JUDGMENT** JDB0001 ADVANCED MEDICAL ISOTOPE CORP   2015-12-21 STFJG SATISFACTION OF JUDGMENT JDB0002 KATZAROFF, JAMES C   
+
+The judgment was satisfies by seizing the money from banks.",Lemonlimecat,-3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9sm09/,0.066,0.825,0.11,0.9533
+35,CO," How did your DD miss his past failed companies, share dilution and the FINRA investigations into him?  He is no longer registered as a broker
+
+ [https://brokercheck.finra.org/individual/summary/1032123#timelineSection](https://brokercheck.finra.org/individual/summary/1032123#timelineSection)
+
+JAMES CARL KATZAROFF      
+  CRD#:  1032123 
+
+He was fired from SMI for failing to disclose a tax lien and earlier he lost a customer dispute and the customer was awarded $85,000
+
+Here are the highlights --- 
+
+ Firm Name  
+ SMI Capital Markets LLC  
+   
+Termination Type  
+ Discharged  
+   
+Allegations  
+ Failure to disclose on U-4 an IRS Tax Lien
+
+Allegations  
+ 1998-1992; unsuitability  
+   
+Damage Amount Requested  
+ $130,000.00  
+   
+Damages Granted  
+ $85,000.00  
+ 
+
+Katzaroff has had a number of lawsuits and judgments against him and his companies -- here are some highlights --- you can also look at past 10-Ks and see how the companies get sued for not paying rent.....
+
+14-2-02500-6 | SPOKANE MERCHANTS ASSOCIATION VS ADVANCED MEDICAL ISOTOPE CORP ET AL                          
+ Case Number  
+14-2-02500-6                     
+
+Court  
+Benton                   
+
+ File Date  
+10/06/2014                   
+
+Case Type  
+COL Collection                     
+
+Case Status  
+Completed/Re-Completed                     
+
+  Judgments this case: 1 Signed  by: JUDGE VIC L VANDERSCHOOR 2015-02-26 JD STIPULATED JUDGMENT AGAINST  DEFENDANT ADVANCED MEDICAL ISOTOPE INC JCR0001 SPOKANE MERCHANTS  ASSOCIATION JUDGMENT TOTAL 50,085.43.  POST JUDGMENT INT RATE u/12% PER  ANNUM  2015-02-26 JD **STIPULATED JUDGMENT AGAINST DEFENDANT JAMES C.  KATZAROFF JCR0001 SPOKANE MERCHANTS ASSOCIATION JUDGMENT TOTAL  30,000.00.**  POST JUDGMENT INT RATE u/12% PER ANNUM  2015-04-28 WRG 1ST  WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE GDF0001  AMERICANWEST BANK  2015-04-28 WRG 2ND WRIT OF GARNISHMENT AGAINST  ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA  2015-05-20  JDOAGD JDGMT ON ANSWER OF GARN DEF JCR0001 SPOKANE MERCHANTS ASSOCIATION  GDF0002 JPMORGAN CHASE BANK NA JUDGMENT 16,698.07.  JCR0001 SPOKANE  MERCHANTS ASSOCIATION JDB0001 ADVANCED MEDICAL ISOTOPE CORP JUDGMENT FOR  RECOVERABLE COSTS 377.61.  JUDGMENTS TO BEAR INT u/12% PER ANNUM   2015-07-01 WRG 3RD WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0001 AMERICANWEST BANK  2015-07-01 WRG 4TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA   2015-07-30 WRG 5TH WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0003 BANK OF AMERICA NA  2015-07-30 WRG 6TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE  2015-12-01 WRG **7TH WRIT OF GARNISHMENT  AGAINST JAMES C KATZAROFF GDF0004 US BANK NA  2015-12-01 WRG 7TH WRIT  OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0005 COMMUNITY FIRST BANK   2015-12-01 WRG 8TH WRIT OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0006  GESA CREDIT UNION  2015-12-01 WRG 9TH WRIT OF GARNISHMENT AGAINST JAMES  C KATZAROFF GDF0007 MORGAN STANLEY & CO LLC  2015-12-21 STFJG  SATISFACTION OF JUDGMENT** JDB0001 ADVANCED MEDICAL ISOTOPE CORP   2015-12-21 STFJG SATISFACTION OF JUDGMENT JDB0002 KATZAROFF, JAMES C   
+
+The judgment was satisfies by seizing the money from banks.",Lemonlimecat,-3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9sm09/,0.066,0.825,0.11,0.9533
+36,DD," How did your DD miss his past failed companies, share dilution and the FINRA investigations into him?  He is no longer registered as a broker
+
+ [https://brokercheck.finra.org/individual/summary/1032123#timelineSection](https://brokercheck.finra.org/individual/summary/1032123#timelineSection)
+
+JAMES CARL KATZAROFF      
+  CRD#:  1032123 
+
+He was fired from SMI for failing to disclose a tax lien and earlier he lost a customer dispute and the customer was awarded $85,000
+
+Here are the highlights --- 
+
+ Firm Name  
+ SMI Capital Markets LLC  
+   
+Termination Type  
+ Discharged  
+   
+Allegations  
+ Failure to disclose on U-4 an IRS Tax Lien
+
+Allegations  
+ 1998-1992; unsuitability  
+   
+Damage Amount Requested  
+ $130,000.00  
+   
+Damages Granted  
+ $85,000.00  
+ 
+
+Katzaroff has had a number of lawsuits and judgments against him and his companies -- here are some highlights --- you can also look at past 10-Ks and see how the companies get sued for not paying rent.....
+
+14-2-02500-6 | SPOKANE MERCHANTS ASSOCIATION VS ADVANCED MEDICAL ISOTOPE CORP ET AL                          
+ Case Number  
+14-2-02500-6                     
+
+Court  
+Benton                   
+
+ File Date  
+10/06/2014                   
+
+Case Type  
+COL Collection                     
+
+Case Status  
+Completed/Re-Completed                     
+
+  Judgments this case: 1 Signed  by: JUDGE VIC L VANDERSCHOOR 2015-02-26 JD STIPULATED JUDGMENT AGAINST  DEFENDANT ADVANCED MEDICAL ISOTOPE INC JCR0001 SPOKANE MERCHANTS  ASSOCIATION JUDGMENT TOTAL 50,085.43.  POST JUDGMENT INT RATE u/12% PER  ANNUM  2015-02-26 JD **STIPULATED JUDGMENT AGAINST DEFENDANT JAMES C.  KATZAROFF JCR0001 SPOKANE MERCHANTS ASSOCIATION JUDGMENT TOTAL  30,000.00.**  POST JUDGMENT INT RATE u/12% PER ANNUM  2015-04-28 WRG 1ST  WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE GDF0001  AMERICANWEST BANK  2015-04-28 WRG 2ND WRIT OF GARNISHMENT AGAINST  ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA  2015-05-20  JDOAGD JDGMT ON ANSWER OF GARN DEF JCR0001 SPOKANE MERCHANTS ASSOCIATION  GDF0002 JPMORGAN CHASE BANK NA JUDGMENT 16,698.07.  JCR0001 SPOKANE  MERCHANTS ASSOCIATION JDB0001 ADVANCED MEDICAL ISOTOPE CORP JUDGMENT FOR  RECOVERABLE COSTS 377.61.  JUDGMENTS TO BEAR INT u/12% PER ANNUM   2015-07-01 WRG 3RD WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0001 AMERICANWEST BANK  2015-07-01 WRG 4TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA   2015-07-30 WRG 5TH WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0003 BANK OF AMERICA NA  2015-07-30 WRG 6TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE  2015-12-01 WRG **7TH WRIT OF GARNISHMENT  AGAINST JAMES C KATZAROFF GDF0004 US BANK NA  2015-12-01 WRG 7TH WRIT  OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0005 COMMUNITY FIRST BANK   2015-12-01 WRG 8TH WRIT OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0006  GESA CREDIT UNION  2015-12-01 WRG 9TH WRIT OF GARNISHMENT AGAINST JAMES  C KATZAROFF GDF0007 MORGAN STANLEY & CO LLC  2015-12-21 STFJG  SATISFACTION OF JUDGMENT** JDB0001 ADVANCED MEDICAL ISOTOPE CORP   2015-12-21 STFJG SATISFACTION OF JUDGMENT JDB0002 KATZAROFF, JAMES C   
+
+The judgment was satisfies by seizing the money from banks.",Lemonlimecat,-3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9sm09/,0.066,0.825,0.11,0.9533
+37,FOR," How did your DD miss his past failed companies, share dilution and the FINRA investigations into him?  He is no longer registered as a broker
+
+ [https://brokercheck.finra.org/individual/summary/1032123#timelineSection](https://brokercheck.finra.org/individual/summary/1032123#timelineSection)
+
+JAMES CARL KATZAROFF      
+  CRD#:  1032123 
+
+He was fired from SMI for failing to disclose a tax lien and earlier he lost a customer dispute and the customer was awarded $85,000
+
+Here are the highlights --- 
+
+ Firm Name  
+ SMI Capital Markets LLC  
+   
+Termination Type  
+ Discharged  
+   
+Allegations  
+ Failure to disclose on U-4 an IRS Tax Lien
+
+Allegations  
+ 1998-1992; unsuitability  
+   
+Damage Amount Requested  
+ $130,000.00  
+   
+Damages Granted  
+ $85,000.00  
+ 
+
+Katzaroff has had a number of lawsuits and judgments against him and his companies -- here are some highlights --- you can also look at past 10-Ks and see how the companies get sued for not paying rent.....
+
+14-2-02500-6 | SPOKANE MERCHANTS ASSOCIATION VS ADVANCED MEDICAL ISOTOPE CORP ET AL                          
+ Case Number  
+14-2-02500-6                     
+
+Court  
+Benton                   
+
+ File Date  
+10/06/2014                   
+
+Case Type  
+COL Collection                     
+
+Case Status  
+Completed/Re-Completed                     
+
+  Judgments this case: 1 Signed  by: JUDGE VIC L VANDERSCHOOR 2015-02-26 JD STIPULATED JUDGMENT AGAINST  DEFENDANT ADVANCED MEDICAL ISOTOPE INC JCR0001 SPOKANE MERCHANTS  ASSOCIATION JUDGMENT TOTAL 50,085.43.  POST JUDGMENT INT RATE u/12% PER  ANNUM  2015-02-26 JD **STIPULATED JUDGMENT AGAINST DEFENDANT JAMES C.  KATZAROFF JCR0001 SPOKANE MERCHANTS ASSOCIATION JUDGMENT TOTAL  30,000.00.**  POST JUDGMENT INT RATE u/12% PER ANNUM  2015-04-28 WRG 1ST  WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE GDF0001  AMERICANWEST BANK  2015-04-28 WRG 2ND WRIT OF GARNISHMENT AGAINST  ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA  2015-05-20  JDOAGD JDGMT ON ANSWER OF GARN DEF JCR0001 SPOKANE MERCHANTS ASSOCIATION  GDF0002 JPMORGAN CHASE BANK NA JUDGMENT 16,698.07.  JCR0001 SPOKANE  MERCHANTS ASSOCIATION JDB0001 ADVANCED MEDICAL ISOTOPE CORP JUDGMENT FOR  RECOVERABLE COSTS 377.61.  JUDGMENTS TO BEAR INT u/12% PER ANNUM   2015-07-01 WRG 3RD WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0001 AMERICANWEST BANK  2015-07-01 WRG 4TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA   2015-07-30 WRG 5TH WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0003 BANK OF AMERICA NA  2015-07-30 WRG 6TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE  2015-12-01 WRG **7TH WRIT OF GARNISHMENT  AGAINST JAMES C KATZAROFF GDF0004 US BANK NA  2015-12-01 WRG 7TH WRIT  OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0005 COMMUNITY FIRST BANK   2015-12-01 WRG 8TH WRIT OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0006  GESA CREDIT UNION  2015-12-01 WRG 9TH WRIT OF GARNISHMENT AGAINST JAMES  C KATZAROFF GDF0007 MORGAN STANLEY & CO LLC  2015-12-21 STFJG  SATISFACTION OF JUDGMENT** JDB0001 ADVANCED MEDICAL ISOTOPE CORP   2015-12-21 STFJG SATISFACTION OF JUDGMENT JDB0002 KATZAROFF, JAMES C   
+
+The judgment was satisfies by seizing the money from banks.",Lemonlimecat,-3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9sm09/,0.066,0.825,0.11,0.9533
+38,INT," How did your DD miss his past failed companies, share dilution and the FINRA investigations into him?  He is no longer registered as a broker
+
+ [https://brokercheck.finra.org/individual/summary/1032123#timelineSection](https://brokercheck.finra.org/individual/summary/1032123#timelineSection)
+
+JAMES CARL KATZAROFF      
+  CRD#:  1032123 
+
+He was fired from SMI for failing to disclose a tax lien and earlier he lost a customer dispute and the customer was awarded $85,000
+
+Here are the highlights --- 
+
+ Firm Name  
+ SMI Capital Markets LLC  
+   
+Termination Type  
+ Discharged  
+   
+Allegations  
+ Failure to disclose on U-4 an IRS Tax Lien
+
+Allegations  
+ 1998-1992; unsuitability  
+   
+Damage Amount Requested  
+ $130,000.00  
+   
+Damages Granted  
+ $85,000.00  
+ 
+
+Katzaroff has had a number of lawsuits and judgments against him and his companies -- here are some highlights --- you can also look at past 10-Ks and see how the companies get sued for not paying rent.....
+
+14-2-02500-6 | SPOKANE MERCHANTS ASSOCIATION VS ADVANCED MEDICAL ISOTOPE CORP ET AL                          
+ Case Number  
+14-2-02500-6                     
+
+Court  
+Benton                   
+
+ File Date  
+10/06/2014                   
+
+Case Type  
+COL Collection                     
+
+Case Status  
+Completed/Re-Completed                     
+
+  Judgments this case: 1 Signed  by: JUDGE VIC L VANDERSCHOOR 2015-02-26 JD STIPULATED JUDGMENT AGAINST  DEFENDANT ADVANCED MEDICAL ISOTOPE INC JCR0001 SPOKANE MERCHANTS  ASSOCIATION JUDGMENT TOTAL 50,085.43.  POST JUDGMENT INT RATE u/12% PER  ANNUM  2015-02-26 JD **STIPULATED JUDGMENT AGAINST DEFENDANT JAMES C.  KATZAROFF JCR0001 SPOKANE MERCHANTS ASSOCIATION JUDGMENT TOTAL  30,000.00.**  POST JUDGMENT INT RATE u/12% PER ANNUM  2015-04-28 WRG 1ST  WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE GDF0001  AMERICANWEST BANK  2015-04-28 WRG 2ND WRIT OF GARNISHMENT AGAINST  ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA  2015-05-20  JDOAGD JDGMT ON ANSWER OF GARN DEF JCR0001 SPOKANE MERCHANTS ASSOCIATION  GDF0002 JPMORGAN CHASE BANK NA JUDGMENT 16,698.07.  JCR0001 SPOKANE  MERCHANTS ASSOCIATION JDB0001 ADVANCED MEDICAL ISOTOPE CORP JUDGMENT FOR  RECOVERABLE COSTS 377.61.  JUDGMENTS TO BEAR INT u/12% PER ANNUM   2015-07-01 WRG 3RD WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0001 AMERICANWEST BANK  2015-07-01 WRG 4TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA   2015-07-30 WRG 5TH WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0003 BANK OF AMERICA NA  2015-07-30 WRG 6TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE  2015-12-01 WRG **7TH WRIT OF GARNISHMENT  AGAINST JAMES C KATZAROFF GDF0004 US BANK NA  2015-12-01 WRG 7TH WRIT  OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0005 COMMUNITY FIRST BANK   2015-12-01 WRG 8TH WRIT OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0006  GESA CREDIT UNION  2015-12-01 WRG 9TH WRIT OF GARNISHMENT AGAINST JAMES  C KATZAROFF GDF0007 MORGAN STANLEY & CO LLC  2015-12-21 STFJG  SATISFACTION OF JUDGMENT** JDB0001 ADVANCED MEDICAL ISOTOPE CORP   2015-12-21 STFJG SATISFACTION OF JUDGMENT JDB0002 KATZAROFF, JAMES C   
+
+The judgment was satisfies by seizing the money from banks.",Lemonlimecat,-3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9sm09/,0.066,0.825,0.11,0.9533
+39,IRS," How did your DD miss his past failed companies, share dilution and the FINRA investigations into him?  He is no longer registered as a broker
+
+ [https://brokercheck.finra.org/individual/summary/1032123#timelineSection](https://brokercheck.finra.org/individual/summary/1032123#timelineSection)
+
+JAMES CARL KATZAROFF      
+  CRD#:  1032123 
+
+He was fired from SMI for failing to disclose a tax lien and earlier he lost a customer dispute and the customer was awarded $85,000
+
+Here are the highlights --- 
+
+ Firm Name  
+ SMI Capital Markets LLC  
+   
+Termination Type  
+ Discharged  
+   
+Allegations  
+ Failure to disclose on U-4 an IRS Tax Lien
+
+Allegations  
+ 1998-1992; unsuitability  
+   
+Damage Amount Requested  
+ $130,000.00  
+   
+Damages Granted  
+ $85,000.00  
+ 
+
+Katzaroff has had a number of lawsuits and judgments against him and his companies -- here are some highlights --- you can also look at past 10-Ks and see how the companies get sued for not paying rent.....
+
+14-2-02500-6 | SPOKANE MERCHANTS ASSOCIATION VS ADVANCED MEDICAL ISOTOPE CORP ET AL                          
+ Case Number  
+14-2-02500-6                     
+
+Court  
+Benton                   
+
+ File Date  
+10/06/2014                   
+
+Case Type  
+COL Collection                     
+
+Case Status  
+Completed/Re-Completed                     
+
+  Judgments this case: 1 Signed  by: JUDGE VIC L VANDERSCHOOR 2015-02-26 JD STIPULATED JUDGMENT AGAINST  DEFENDANT ADVANCED MEDICAL ISOTOPE INC JCR0001 SPOKANE MERCHANTS  ASSOCIATION JUDGMENT TOTAL 50,085.43.  POST JUDGMENT INT RATE u/12% PER  ANNUM  2015-02-26 JD **STIPULATED JUDGMENT AGAINST DEFENDANT JAMES C.  KATZAROFF JCR0001 SPOKANE MERCHANTS ASSOCIATION JUDGMENT TOTAL  30,000.00.**  POST JUDGMENT INT RATE u/12% PER ANNUM  2015-04-28 WRG 1ST  WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE GDF0001  AMERICANWEST BANK  2015-04-28 WRG 2ND WRIT OF GARNISHMENT AGAINST  ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA  2015-05-20  JDOAGD JDGMT ON ANSWER OF GARN DEF JCR0001 SPOKANE MERCHANTS ASSOCIATION  GDF0002 JPMORGAN CHASE BANK NA JUDGMENT 16,698.07.  JCR0001 SPOKANE  MERCHANTS ASSOCIATION JDB0001 ADVANCED MEDICAL ISOTOPE CORP JUDGMENT FOR  RECOVERABLE COSTS 377.61.  JUDGMENTS TO BEAR INT u/12% PER ANNUM   2015-07-01 WRG 3RD WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0001 AMERICANWEST BANK  2015-07-01 WRG 4TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA   2015-07-30 WRG 5TH WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0003 BANK OF AMERICA NA  2015-07-30 WRG 6TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE  2015-12-01 WRG **7TH WRIT OF GARNISHMENT  AGAINST JAMES C KATZAROFF GDF0004 US BANK NA  2015-12-01 WRG 7TH WRIT  OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0005 COMMUNITY FIRST BANK   2015-12-01 WRG 8TH WRIT OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0006  GESA CREDIT UNION  2015-12-01 WRG 9TH WRIT OF GARNISHMENT AGAINST JAMES  C KATZAROFF GDF0007 MORGAN STANLEY & CO LLC  2015-12-21 STFJG  SATISFACTION OF JUDGMENT** JDB0001 ADVANCED MEDICAL ISOTOPE CORP   2015-12-21 STFJG SATISFACTION OF JUDGMENT JDB0002 KATZAROFF, JAMES C   
+
+The judgment was satisfies by seizing the money from banks.",Lemonlimecat,-3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9sm09/,0.066,0.825,0.11,0.9533
+40,JD," How did your DD miss his past failed companies, share dilution and the FINRA investigations into him?  He is no longer registered as a broker
+
+ [https://brokercheck.finra.org/individual/summary/1032123#timelineSection](https://brokercheck.finra.org/individual/summary/1032123#timelineSection)
+
+JAMES CARL KATZAROFF      
+  CRD#:  1032123 
+
+He was fired from SMI for failing to disclose a tax lien and earlier he lost a customer dispute and the customer was awarded $85,000
+
+Here are the highlights --- 
+
+ Firm Name  
+ SMI Capital Markets LLC  
+   
+Termination Type  
+ Discharged  
+   
+Allegations  
+ Failure to disclose on U-4 an IRS Tax Lien
+
+Allegations  
+ 1998-1992; unsuitability  
+   
+Damage Amount Requested  
+ $130,000.00  
+   
+Damages Granted  
+ $85,000.00  
+ 
+
+Katzaroff has had a number of lawsuits and judgments against him and his companies -- here are some highlights --- you can also look at past 10-Ks and see how the companies get sued for not paying rent.....
+
+14-2-02500-6 | SPOKANE MERCHANTS ASSOCIATION VS ADVANCED MEDICAL ISOTOPE CORP ET AL                          
+ Case Number  
+14-2-02500-6                     
+
+Court  
+Benton                   
+
+ File Date  
+10/06/2014                   
+
+Case Type  
+COL Collection                     
+
+Case Status  
+Completed/Re-Completed                     
+
+  Judgments this case: 1 Signed  by: JUDGE VIC L VANDERSCHOOR 2015-02-26 JD STIPULATED JUDGMENT AGAINST  DEFENDANT ADVANCED MEDICAL ISOTOPE INC JCR0001 SPOKANE MERCHANTS  ASSOCIATION JUDGMENT TOTAL 50,085.43.  POST JUDGMENT INT RATE u/12% PER  ANNUM  2015-02-26 JD **STIPULATED JUDGMENT AGAINST DEFENDANT JAMES C.  KATZAROFF JCR0001 SPOKANE MERCHANTS ASSOCIATION JUDGMENT TOTAL  30,000.00.**  POST JUDGMENT INT RATE u/12% PER ANNUM  2015-04-28 WRG 1ST  WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE GDF0001  AMERICANWEST BANK  2015-04-28 WRG 2ND WRIT OF GARNISHMENT AGAINST  ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA  2015-05-20  JDOAGD JDGMT ON ANSWER OF GARN DEF JCR0001 SPOKANE MERCHANTS ASSOCIATION  GDF0002 JPMORGAN CHASE BANK NA JUDGMENT 16,698.07.  JCR0001 SPOKANE  MERCHANTS ASSOCIATION JDB0001 ADVANCED MEDICAL ISOTOPE CORP JUDGMENT FOR  RECOVERABLE COSTS 377.61.  JUDGMENTS TO BEAR INT u/12% PER ANNUM   2015-07-01 WRG 3RD WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0001 AMERICANWEST BANK  2015-07-01 WRG 4TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA   2015-07-30 WRG 5TH WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0003 BANK OF AMERICA NA  2015-07-30 WRG 6TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE  2015-12-01 WRG **7TH WRIT OF GARNISHMENT  AGAINST JAMES C KATZAROFF GDF0004 US BANK NA  2015-12-01 WRG 7TH WRIT  OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0005 COMMUNITY FIRST BANK   2015-12-01 WRG 8TH WRIT OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0006  GESA CREDIT UNION  2015-12-01 WRG 9TH WRIT OF GARNISHMENT AGAINST JAMES  C KATZAROFF GDF0007 MORGAN STANLEY & CO LLC  2015-12-21 STFJG  SATISFACTION OF JUDGMENT** JDB0001 ADVANCED MEDICAL ISOTOPE CORP   2015-12-21 STFJG SATISFACTION OF JUDGMENT JDB0002 KATZAROFF, JAMES C   
+
+The judgment was satisfies by seizing the money from banks.",Lemonlimecat,-3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9sm09/,0.066,0.825,0.11,0.9533
+41,POST," How did your DD miss his past failed companies, share dilution and the FINRA investigations into him?  He is no longer registered as a broker
+
+ [https://brokercheck.finra.org/individual/summary/1032123#timelineSection](https://brokercheck.finra.org/individual/summary/1032123#timelineSection)
+
+JAMES CARL KATZAROFF      
+  CRD#:  1032123 
+
+He was fired from SMI for failing to disclose a tax lien and earlier he lost a customer dispute and the customer was awarded $85,000
+
+Here are the highlights --- 
+
+ Firm Name  
+ SMI Capital Markets LLC  
+   
+Termination Type  
+ Discharged  
+   
+Allegations  
+ Failure to disclose on U-4 an IRS Tax Lien
+
+Allegations  
+ 1998-1992; unsuitability  
+   
+Damage Amount Requested  
+ $130,000.00  
+   
+Damages Granted  
+ $85,000.00  
+ 
+
+Katzaroff has had a number of lawsuits and judgments against him and his companies -- here are some highlights --- you can also look at past 10-Ks and see how the companies get sued for not paying rent.....
+
+14-2-02500-6 | SPOKANE MERCHANTS ASSOCIATION VS ADVANCED MEDICAL ISOTOPE CORP ET AL                          
+ Case Number  
+14-2-02500-6                     
+
+Court  
+Benton                   
+
+ File Date  
+10/06/2014                   
+
+Case Type  
+COL Collection                     
+
+Case Status  
+Completed/Re-Completed                     
+
+  Judgments this case: 1 Signed  by: JUDGE VIC L VANDERSCHOOR 2015-02-26 JD STIPULATED JUDGMENT AGAINST  DEFENDANT ADVANCED MEDICAL ISOTOPE INC JCR0001 SPOKANE MERCHANTS  ASSOCIATION JUDGMENT TOTAL 50,085.43.  POST JUDGMENT INT RATE u/12% PER  ANNUM  2015-02-26 JD **STIPULATED JUDGMENT AGAINST DEFENDANT JAMES C.  KATZAROFF JCR0001 SPOKANE MERCHANTS ASSOCIATION JUDGMENT TOTAL  30,000.00.**  POST JUDGMENT INT RATE u/12% PER ANNUM  2015-04-28 WRG 1ST  WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE GDF0001  AMERICANWEST BANK  2015-04-28 WRG 2ND WRIT OF GARNISHMENT AGAINST  ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA  2015-05-20  JDOAGD JDGMT ON ANSWER OF GARN DEF JCR0001 SPOKANE MERCHANTS ASSOCIATION  GDF0002 JPMORGAN CHASE BANK NA JUDGMENT 16,698.07.  JCR0001 SPOKANE  MERCHANTS ASSOCIATION JDB0001 ADVANCED MEDICAL ISOTOPE CORP JUDGMENT FOR  RECOVERABLE COSTS 377.61.  JUDGMENTS TO BEAR INT u/12% PER ANNUM   2015-07-01 WRG 3RD WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0001 AMERICANWEST BANK  2015-07-01 WRG 4TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA   2015-07-30 WRG 5TH WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0003 BANK OF AMERICA NA  2015-07-30 WRG 6TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE  2015-12-01 WRG **7TH WRIT OF GARNISHMENT  AGAINST JAMES C KATZAROFF GDF0004 US BANK NA  2015-12-01 WRG 7TH WRIT  OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0005 COMMUNITY FIRST BANK   2015-12-01 WRG 8TH WRIT OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0006  GESA CREDIT UNION  2015-12-01 WRG 9TH WRIT OF GARNISHMENT AGAINST JAMES  C KATZAROFF GDF0007 MORGAN STANLEY & CO LLC  2015-12-21 STFJG  SATISFACTION OF JUDGMENT** JDB0001 ADVANCED MEDICAL ISOTOPE CORP   2015-12-21 STFJG SATISFACTION OF JUDGMENT JDB0002 KATZAROFF, JAMES C   
+
+The judgment was satisfies by seizing the money from banks.",Lemonlimecat,-3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9sm09/,0.066,0.825,0.11,0.9533
+42,VS," How did your DD miss his past failed companies, share dilution and the FINRA investigations into him?  He is no longer registered as a broker
+
+ [https://brokercheck.finra.org/individual/summary/1032123#timelineSection](https://brokercheck.finra.org/individual/summary/1032123#timelineSection)
+
+JAMES CARL KATZAROFF      
+  CRD#:  1032123 
+
+He was fired from SMI for failing to disclose a tax lien and earlier he lost a customer dispute and the customer was awarded $85,000
+
+Here are the highlights --- 
+
+ Firm Name  
+ SMI Capital Markets LLC  
+   
+Termination Type  
+ Discharged  
+   
+Allegations  
+ Failure to disclose on U-4 an IRS Tax Lien
+
+Allegations  
+ 1998-1992; unsuitability  
+   
+Damage Amount Requested  
+ $130,000.00  
+   
+Damages Granted  
+ $85,000.00  
+ 
+
+Katzaroff has had a number of lawsuits and judgments against him and his companies -- here are some highlights --- you can also look at past 10-Ks and see how the companies get sued for not paying rent.....
+
+14-2-02500-6 | SPOKANE MERCHANTS ASSOCIATION VS ADVANCED MEDICAL ISOTOPE CORP ET AL                          
+ Case Number  
+14-2-02500-6                     
+
+Court  
+Benton                   
+
+ File Date  
+10/06/2014                   
+
+Case Type  
+COL Collection                     
+
+Case Status  
+Completed/Re-Completed                     
+
+  Judgments this case: 1 Signed  by: JUDGE VIC L VANDERSCHOOR 2015-02-26 JD STIPULATED JUDGMENT AGAINST  DEFENDANT ADVANCED MEDICAL ISOTOPE INC JCR0001 SPOKANE MERCHANTS  ASSOCIATION JUDGMENT TOTAL 50,085.43.  POST JUDGMENT INT RATE u/12% PER  ANNUM  2015-02-26 JD **STIPULATED JUDGMENT AGAINST DEFENDANT JAMES C.  KATZAROFF JCR0001 SPOKANE MERCHANTS ASSOCIATION JUDGMENT TOTAL  30,000.00.**  POST JUDGMENT INT RATE u/12% PER ANNUM  2015-04-28 WRG 1ST  WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE GDF0001  AMERICANWEST BANK  2015-04-28 WRG 2ND WRIT OF GARNISHMENT AGAINST  ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA  2015-05-20  JDOAGD JDGMT ON ANSWER OF GARN DEF JCR0001 SPOKANE MERCHANTS ASSOCIATION  GDF0002 JPMORGAN CHASE BANK NA JUDGMENT 16,698.07.  JCR0001 SPOKANE  MERCHANTS ASSOCIATION JDB0001 ADVANCED MEDICAL ISOTOPE CORP JUDGMENT FOR  RECOVERABLE COSTS 377.61.  JUDGMENTS TO BEAR INT u/12% PER ANNUM   2015-07-01 WRG 3RD WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0001 AMERICANWEST BANK  2015-07-01 WRG 4TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE GDF0002 JPMORGAN CHASE BANK NA   2015-07-30 WRG 5TH WRIT OF GARNISHMENT AGAINST ADVANCED MEDICAL ISOTOPE  GDF0003 BANK OF AMERICA NA  2015-07-30 WRG 6TH WRIT OF GARNISHMENT  AGAINST ADVANCED MEDICAL ISOTOPE  2015-12-01 WRG **7TH WRIT OF GARNISHMENT  AGAINST JAMES C KATZAROFF GDF0004 US BANK NA  2015-12-01 WRG 7TH WRIT  OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0005 COMMUNITY FIRST BANK   2015-12-01 WRG 8TH WRIT OF GARNISHMENT AGAINST JAMES C KATZAROFF GDF0006  GESA CREDIT UNION  2015-12-01 WRG 9TH WRIT OF GARNISHMENT AGAINST JAMES  C KATZAROFF GDF0007 MORGAN STANLEY & CO LLC  2015-12-21 STFJG  SATISFACTION OF JUDGMENT** JDB0001 ADVANCED MEDICAL ISOTOPE CORP   2015-12-21 STFJG SATISFACTION OF JUDGMENT JDB0002 KATZAROFF, JAMES C   
+
+The judgment was satisfies by seizing the money from banks.",Lemonlimecat,-3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9sm09/,0.066,0.825,0.11,0.9533
+43,IMO," Read OP replies to comments that lean anything against this company and it’s definitely suspicious. This company has no foundation, broken links on new website, shady management, a shell company that didn’t even merge with a company that aligned with their original mission statement.  The stock is pumped and looking for bag holders for the dump. Trash. Absolute trash.  Don’t do it!   Now, OP is going to attempt to defend this company, but IMO there’s NO credibility in anything that is said.  I’ll put Log Cabin on my pancakes, cause OP’s syrup is probably semen.",JulianMarcello,-6,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gpaam47/,0.113,0.852,0.035,-0.784
+44,DD, Why?  2 employees and no website?  How can you possibly do any DD on this?,JulianMarcello,2,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp92kql/,0.174,0.826,0.0,-0.4098
+45,DD, This! The DD says nothing. The product is what? Cleaning gears and weapons detection? I don't get it.,Sorry-Percentage-619,17,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp8j2os/,0.182,0.818,0.0,-0.5502
+46,DD, Right. Imagine posting DD and information about a stock you invested in. What a weird thing to do!,superbowl_LII_champs,11,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9hpnr/,0.117,0.883,0.0,-0.2481
+47,DD," Nah it's not related because PVDG is pink current. Every single ticker there was delinquent in their reporting (the only exception was COUV who blatantly lied by claiming their product killed COVID so the SEC made an example out of them)
+
+However, there can definitely be bot accounts or pump groups on Reddit so always do your own DD. That being said, I'm extremely bullish on PVDG and am holding almost my entire position that I initially picked up at just over a penny.",Confirmation__Bias,11,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp93vxr/,0.095,0.874,0.03,-0.7003
+48,DD," Doesnt really help when you don’t rebuttal with actual DD points against what OC said. 
+
+I’m going to look into it based on the hype here but I would be more convinced if you had factual rebuttals instead of going after OC",dxiao,1,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp8p270/,0.039,0.872,0.089,0.5027
+49,OC," Doesnt really help when you don’t rebuttal with actual DD points against what OC said. 
+
+I’m going to look into it based on the hype here but I would be more convinced if you had factual rebuttals instead of going after OC",dxiao,1,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp8p270/,0.039,0.872,0.089,0.5027
+50,DD," > Sanitation and PPE aren't going anywhere post pandemic. Nations are building the infrastructure to ensure this never happens again.
+
+And they have a million companies to partner with who have been shipping product for ~12 months.
+
+>  Very impressive and experienced management. 
+
+Yes, I saw the marketing manager with his sizzle reel of hawking exercise equipment on daytime tv.
+
+> They have big contracts coming soon.
+
+Source? Any scrap of a hint who with? I notice the DD doc doesn't even mention the word contract once.",Shamalamadindong,0,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gpbivdm/,0.0,0.893,0.107,0.8501
+51,DD," Yeah, because the amount of time my Reddit has been open makes my comments less valid.  This ain’t my first Reddit account, btw.  Hey.. you want to hold the bag on the dump, be my guest... it’s your loss. My DD on this says this stock is the titanic that already hit the iceberg.",JulianMarcello,1,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gpao25a/,0.084,0.856,0.06,-0.34
+52,COO, What kind of low effort money grab brings in a COO with Microsoft and Chevron resume experience who most recently took $FFNTF from 50 cents to nearly $2?,alaskanass,1,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gpbexd0/,0.084,0.916,0.0,-0.3384
+53,DD, Not worth my team. Theres an incredible amount of DD out there on this. Go read it. Its not my job to educate you.,superbowl_LII_champs,0,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp8q2sh/,0.068,0.932,0.0,-0.1695
+54,FB, site works but at bottom the links to FB - IG- Twitter - Youtube - all do NOT work --just a simple thing I noticed,Notoriousbob77,0,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp8h3e8/,0.0,1.0,0.0,0.0
+55,COO," Check Peter Thusats LinkedIn. He's been liking Caribbean airlines stuff a lot.
+
+Also COO was accounting manager for Microsoft and Chevron.
+
+More importantly I think this subreddit doesn't really understand OTC stocks. If this were already a dollar PPS I wouldn't be hyping it. But it's 9 cents. People don't understand how rare such a legit management team like this pops up in OTC.",TheSyrupCompany,2,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gpbj7cg/,0.0,0.876,0.124,0.7778
+56,COO, They just announced a new COO a couple weeks ago who was most recently CFO of $FFNTF from 50 cents/share to nearly $2 (currently $1.60s). Also has Microsoft and Chevron experience on his resume. Companies don’t make that hire if they’re going back to trips.,alaskanass,1,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9eh7n/,0.0,1.0,0.0,0.0
+57,CEO, The CEO has a track record,ripstep1,3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9hsao/,0.0,1.0,0.0,0.0
+58,UPS," The address for the company is literally a UPS store or the back of a shitty building, depending which address you put in. (The SEC filing is the back of a strip mall with a door that says “Permanently Closed”)
+
+This is a bad play.",Ragnaroktogon,2,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gp9hxsr/,0.153,0.796,0.052,-0.6908
+59,COO," Just announced new LOI this morning. Ex Chevron and Microsoft accounting manager as COO. Active communication with the public. Entire board has been involved with 0 scams.
+
+Also chart has stair stepped and held steady for over a month? How are people calling it a pump and dump? Literally just look at the chart and find an actual pump and dump chart and compare them.",TheSyrupCompany,1,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gpbjolw/,0.134,0.828,0.039,-0.7691
+60,DD," I couldn't help but laugh at your bluntness!
+
+I'd never heard of this company before today but I thought the existence of this DD on the front page of Pennystocks that encourages people to buy despite providing no information on what they do is somewhat of a red flag. I don't think I'll look into it further!",NedStarkGetsExecuted,3,/r/pennystocks/comments/lur0zz/pvdg_is_pink_current_heres_what_is_about_to/gpa0uvx/,0.09,0.8,0.11,0.3074
+61,DD," Thanks for the DD, in for 1,000",jacorbello,8,/r/pennystocks/comments/lvcv9f/staples_and_nerds_on_site_partnership_is_official/gpbagz3/,0.0,0.674,0.326,0.4404
+62,IMO," Saw the post title, immediately bought another 800 shares. 
+
+IMO (and I have been know to be wrong, often), I think 2021, perhaps the beginning of 2022 will be NOS and Staples working out the kinks of their partnership. Once they've gotten the majority of the kinks, and workflow failures worked out, then Staples will move NOS into their U.S. stores. 
+
+Buckle up, and buy the dips.",joeyjacobswrote,2,/r/pennystocks/comments/lvcv9f/staples_and_nerds_on_site_partnership_is_official/gpbpxgg/,0.087,0.882,0.031,-0.5994
+63,DD, Was going to buy this cos there was a good post about this last week but wasn’t on any exchanges I can access. Nice to see some DD come through though,Shanghaiqatar,1,/r/pennystocks/comments/lvcv9f/staples_and_nerds_on_site_partnership_is_official/gpc14a4/,0.0,0.827,0.173,0.6858
+64,DD," Thanks for the DD. My first penny stock. Bought 1000 on your original post. Sold 500 at +85% and now I have my money back and still 500 stocks. No jackpot, but still funny IMO because it's actually the first time I sold a stock",ab-os,1,/r/pennystocks/comments/lvcv9f/staples_and_nerds_on_site_partnership_is_official/gpc3lk5/,0.034,0.808,0.158,0.705
+65,IMO," Thanks for the DD. My first penny stock. Bought 1000 on your original post. Sold 500 at +85% and now I have my money back and still 500 stocks. No jackpot, but still funny IMO because it's actually the first time I sold a stock",ab-os,1,/r/pennystocks/comments/lvcv9f/staples_and_nerds_on_site_partnership_is_official/gpc3lk5/,0.034,0.808,0.158,0.705
+66,AZN," Check out AZN Capital , some moron shorted 85mil shares. Would be too easy to pop it.",scabb007,-4,/r/pennystocks/comments/lvcv9f/staples_and_nerds_on_site_partnership_is_official/gpbknum/,0.15,0.61,0.239,0.2263
+67,DD, Check out my DD from last week. It draws the correlations.,christian9659,1,/r/pennystocks/comments/lvcv9f/staples_and_nerds_on_site_partnership_is_official/gpbr9of/,0.0,1.0,0.0,0.0
+68,PT, What PT you got,PM_ME_MILF_B00BS,1,/r/pennystocks/comments/lvcv9f/staples_and_nerds_on_site_partnership_is_official/gpbop6p/,0.0,1.0,0.0,0.0
+69,DD," Look at my post history for a small DD, it's a good buy potentially but it really is a 'this could moon or go bankrupt' situation",SansPlastic,6,/r/pennystocks/comments/lvcv9f/staples_and_nerds_on_site_partnership_is_official/gpbsr8g/,0.176,0.754,0.07,-0.6059
+70,DD," Sooo true, when I first started buying OTC stocks my first 2 were recommended on Reddit.  They went up like 120% in a couple days and I though they were such good picks that I bought more from Reddit advice.  Then they all turned out to be pump and dumps and I learned my lesson.  Luckily I started off small and did not lose much.  I now buy based off my own DD and am doing pretty good.",Psalmopeus,23,/r/pennystocks/comments/lv9wia/if_you_want_to_achieve_greater_gains_you_must/gpawqlx/,0.032,0.715,0.254,0.9513
+71,DD," Absolutely. I've seen on numerous occasions where I would search a ticker, and see a stream of search results with a single user posting the same DD all over the place, and it's the only thing they post. Careful out there.",oldnyoung,5,/r/pennystocks/comments/lv9wia/if_you_want_to_achieve_greater_gains_you_must/gpawk31/,0.0,0.957,0.043,0.1531
+72,DD," I know opinions differ sometimes but if you are posting a stock that has Caveat Emptor or other flags for failing to file with the SEC then that should ABSOLUTELY be in your DD post. If I see a DD post that does not disclose the flags against the stock on a site like OTCMarkets, then I completely ignore the post. They are only out for their own gain.",iwannastonk,3,/r/pennystocks/comments/lv9wia/if_you_want_to_achieve_greater_gains_you_must/gpbkqic/,0.109,0.787,0.105,-0.0745
+73,TDA," Same. I have about 15 that followed this pattern. I learned quickly about Reddit hype. Luckily,
+I never bought many shares. Unluckily, I used TDA, and had $7 commissions.",BacklogBeast,8,/r/pennystocks/comments/lv9wia/if_you_want_to_achieve_greater_gains_you_must/gpb20mw/,0.067,0.816,0.117,0.3425
+74,CTXR," The other post was from a reported Doctor with his opinion and it's not the end all be all. He's free to have it, OP..
+
+A lot of us have Doctors/Nurses in our families and they have opinions on everything just like anyone else. Other medical professionals may have a different opinion from that one and they may like the Mino-lok device. 
+
+It'd be nice to have as many medical professionals come in as well because we can then see some kind of consensus, good or bad for CTXRs pipeline. 
+
+And honestly..even if its bad towards Mino-lok, it probably doesn't mount to much on the CTXR tickers stock forecast here. 
+
+I've worked in Hospitals on the ITS side for 23 years now and I can tell you how much financial waste I've seen with these big hospital chains. One chain I was involved with spent a billion dollars on a device for all their hospitals only to realize it wasn't very useful in the end. And they moved onto the next device a year later. 
+
+So a negative opinion about a certain device on a Reddit sub shouldn't be anything to worry about here. Hospitals love spending $$$ on the latest products in their field.",CadderlySoaring,68,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gp9h423/,0.087,0.812,0.101,0.2696
+75,CTXR, CTXR is a filthy slut waiting to explode,Pennytrader101,3,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpaulbj/,0.388,0.612,0.0,-0.5859
+76,CTXR, CTXR is going to spacee🥳🥳,SHB2187,2,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpaz8zg/,0.0,1.0,0.0,0.0
+77,DD, Why would you not post a bearish DD that you have spent an hour or more on to as many places as you can? Helps others to better decide if they want to invest or not.,thrivingkoala,8,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpacrje/,0.0,0.825,0.175,0.7003
+78,MD," Just to be clear, a resident is a doctor.  They are not licensed to practice medicine, but they do have the MD or DO (or for that matter, a doctorate in any other  field).  Are they qualified to speak on the subject?  Who knows?  It depends as much on their specialty as anything else.  Most good specialists know when to admit something is outside their specialty, but many doctors do have a more generalized knowledge (GPs and internists, EM, etc).",Star_x_Child,22,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gp9qwam/,0.0,0.889,0.111,0.7905
+79,DD," It would be shady if I was doing mad DD, but am I? Nope.",kubuh6,1,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpbh6fh/,0.149,0.851,0.0,-0.2732
+80,MD," That's... probably one of the dumbest things I've ever heard. A resident is a doctor, they have the MD but in order to practice medicine you first have to do a residency. It isn't some lesser role only the bad MDs have.",supersaiyanswanso,1,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpbahib/,0.157,0.843,0.0,-0.7845
+81,PHD," If you can't officially practice medicine yet, than you can't call yourself an authority on practical medicine. Why the bullshit symantics? He's still in training. Do you walk around calling everyone with a PHD a professor? The point is that he was speaking as though he had some authority or experience that should be weighed higher. He doesn't. He doesn't have the credentials to practice medicine yet in an official capacity and for 99.9% of the world, when someone says doctor, they mean a practicing medical doctor. He has the practical medical experience any nurse would have, and seeing as how residencies are typically about 2 or 3 years, his in-hospital experience would be insufficient to make any claims as to the financial decisions hospitals around the country or world would make.
+
+Do try to keep up.",misanthropeus1221,-1,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpbc3wo/,0.031,0.95,0.019,-0.5514
+82,MD," I walk around calling people who earned a PHD doctor because they earned the title. If you earned an MD you have the title of doctor, why do you think a resident just has zero experience or knowledge to speak on things directly related to their field? It's fine if you disagree with what was said but disagree with the facts that were presented not some crappy ad hominem shit about ""not a real doctor"" so you don't have to actually think about why what was said was incorrect.",supersaiyanswanso,2,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpbd48s/,0.106,0.839,0.055,-0.7017
+83,PHD," I walk around calling people who earned a PHD doctor because they earned the title. If you earned an MD you have the title of doctor, why do you think a resident just has zero experience or knowledge to speak on things directly related to their field? It's fine if you disagree with what was said but disagree with the facts that were presented not some crappy ad hominem shit about ""not a real doctor"" so you don't have to actually think about why what was said was incorrect.",supersaiyanswanso,2,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpbd48s/,0.106,0.839,0.055,-0.7017
+84,CTXR," I'm not saying it's the exact same as a regular doctor, but to say that a resident has zero footing to speak on anything medical related is ridiculous. They earned the degree and are currently practicing, it's fine if you disagree with what the guy said regarding CTXR but to pretend like residents are just these clueless morons is so silly it's laughable",supersaiyanswanso,1,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpbcu0v/,0.192,0.692,0.116,-0.7727
+85,PHD," Lol Only an asshole refers to themselves as doctor with a PHD in history or economics. Again, if you can't practice medicine in an official capacity, you're not a doctor, in the same way that people who have been barred from practicing medicine can no longer call themselves doctors, despite their PHD and the work they put in to get it.",misanthropeus1221,-2,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpbe4ew/,0.035,0.919,0.045,0.1531
+86,TA," No it doesn't. If you have been disbarred from the practice of medicine you can't then claim that you are a practicing doctor. A PhD can't call themself a professor until they actually teach at a college and are a.. professor.
+And in keep with the comparison, a TA, while as entitled to their opinion as anyone else, wouldn't have a very in deep insight into the internal financial structure of the university they are employed, let alone all the universities in the country and world as a whole.",misanthropeus1221,-1,/r/pennystocks/comments/luy83r/more_info_regarding_ctxr/gpbhv72/,0.049,0.926,0.025,-0.2732
+87,NEW," Is it really NEW news though? I cannot find any other sites mentioning it other than the globe news wire. I am not familiar with the site so I don't know if it's legit or not.
+
+Here is a link to a pp from 2015 saying $ASTI is a partner on the project.
+
+[https://ntrs.nasa.gov/api/citations/20150016567/downloads/20150016567.pdf](https://ntrs.nasa.gov/api/citations/20150016567/downloads/20150016567.pdf)",Mshams115,1,/r/pennystocks/comments/lvar5f/asti_ascent_solar_going_literally_to_the_moon/gpb4sbp/,0.0,1.0,0.0,0.0
+88,ZKIN," Excited by the development of ZKIN. They’ve hired an amazing team of developers and have been doing research for 2+ years. Things are heating up just in time for the bull market. The price of ZKIN shares is currently above 2,5 year high by breaking below $5.00 per share area. And their xsigma is under high demand - Dwight Howard from the Philadelphia 76ers to join. Fascinating news, perfectly fits into xsigma strategy and #ZKIN shows high growth, curios to discuss. ZK International's Subsidiary, xSigma Corporation, Announces a Software Acquisition Deal and the Launch of its Crypto Trading Platform.
+
+[https://www.prnewswire.com/news-releases/zk-internationals-subsidiary-xsigma-corporation-announces-a-software-acquisition-deal-and-the-launch-of-its-crypto-trading-platform-301234507.html](https://www.prnewswire.com/news-releases/zk-internationals-subsidiary-xsigma-corporation-announces-a-software-acquisition-deal-and-the-launch-of-its-crypto-trading-platform-301234507.html)",Harveyjeter,1,/r/pennystocks/comments/lvar5f/asti_ascent_solar_going_literally_to_the_moon/gpcewjq/,0.013,0.783,0.203,0.9666
+89,TD, TD Ameritrade says yes!,sonofnoob,4,/r/pennystocks/comments/lvar5f/asti_ascent_solar_going_literally_to_the_moon/gpc3mn1/,0.0,0.501,0.499,0.4574
+90,ALL, screw fidelity - very unfriendly to the penny crowd.  I see comments like yours ALL the time. I'd recommend Schwab,Dimbus2000,1,/r/pennystocks/comments/lvar5f/asti_ascent_solar_going_literally_to_the_moon/gpbute7/,0.181,0.604,0.216,0.204
+91,TD, TD let's me do it allllll. They don't care 😂,mkandersen1123,1,/r/pennystocks/comments/lvar5f/asti_ascent_solar_going_literally_to_the_moon/gpbxtdg/,0.247,0.753,0.0,-0.3875
+92,CO," That's just a copy straight from the globenewswire site. Is globenewswire legit? I cannot find it anywhere else.
+
+"" THORNTON, CO, March 01, 2021 (GLOBE NEWSWIRE)""",Mshams115,1,/r/pennystocks/comments/lvar5f/asti_ascent_solar_going_literally_to_the_moon/gpbqbw4/,0.0,0.921,0.079,0.2263
+93,CTXR," Might be recency bias on your part that it's posted ""every other day."" It gets posted way less than HITIF, CTXR and AABB for instance.",slinkyminks,1,/r/pennystocks/comments/lvar5f/asti_ascent_solar_going_literally_to_the_moon/gpbtdgz/,0.055,0.945,0.0,-0.1027
+94,DD, Yeah I thought you were saying you saw basically no catalysts. The big reason I like Ascent which you don't see in a lot of DD is if you look at actual product reviews they do really well. Almost all 5 star granted they aren't a high number of reviews. A big part of investing for me is product analysis. A lot of companies make solar panels but who do consumers actually prefer? I think the problem with the solar market is saturation. Over time that will dissipate though and the US renewable sector in general is just beginning to bud.,Fart_Huffer_,1,/r/pennystocks/comments/lvar5f/asti_ascent_solar_going_literally_to_the_moon/gpc5luu/,0.063,0.872,0.065,-0.2135
+95,WOW, WOW thats crazy i had this when it was .010-.013 now its .6 thats crazy,ProvidingSound,18,/r/pennystocks/comments/lv39qq/msnvf_has_officially_been_uplifted_to_the_otcqb/gpa3m54/,0.236,0.541,0.223,0.186
+96,DD," I liked the DD someone did on this a while ago, so bought in. After doing my own DD I noticed their address is the same as other known pnd on here (gold, lithium, we'd, etc). I'm still holding but would like to know what others think about the address deal.",iowaindy,3,/r/pennystocks/comments/lv39qq/msnvf_has_officially_been_uplifted_to_the_otcqb/gpb97zy/,0.0,0.899,0.101,0.631
+97,DD," Been in this a long time, 10k @0.13 after someone posted a solid DD.  It broke $1 on the canadian side few weeks ago.  
+
+This is a long hold for me, might not be a pennystock anymore within a year.",ReeeeDrumpf,3,/r/pennystocks/comments/lv39qq/msnvf_has_officially_been_uplifted_to_the_otcqb/gpbfpm2/,0.075,0.882,0.043,-0.296
+98,CEO," Listing on the OTCQB is anticipated to provide current and prospective international investors with more efficient access to the Company’s stock and public market data, and further improve the Company’s market liquidity  -- comment by President/CEO",Financialporn,6,/r/pennystocks/comments/lv39qq/msnvf_has_officially_been_uplifted_to_the_otcqb/gpahzbh/,0.0,0.85,0.15,0.7178
+99,ETH," Lol I bought hive back in 2017 at it’s peak and the market subsequently dipped in January of 2018 so I basically thought that was a few thousand gone. I just checked my ETrade account when I saw that Hive has been gaining ground in BTC instead of ETH, and saw that I’m actually in the green! I guess holding and forgetting for several years was the right move!",DCMoving17,1,/r/pennystocks/comments/lv7lwr/hvbtf_hive_blockchain_surpasses_its_bitcoin/gpbxjx5/,0.0,0.908,0.092,0.7339
+100,DD," Add xtrabitcoin inc 
+CBTC .Bitcoin mining company.
+Added to.my portfolio. 
+$.0317.
+
+Long term investment. 
+Bitcoin mining in my humble opinion 1000% or higher next 2-3 years.
+
+Not a financial advisor. 
+Found the.company two.weeks ago.
+DD ,charts,research.",bravuralax1,0,/r/pennystocks/comments/lv7lwr/hvbtf_hive_blockchain_surpasses_its_bitcoin/gpb9kmc/,0.0,1.0,0.0,0.0
+101,ETH," HIVE is a leverage bet on BTC and ETH, nothing more. Yes, this is still around a 10 bagger. But it will come this year -- next few months. After that BTC will crash and drift lower until after 6 months of the next halving. That is how BTC has acted it's entire 12 years. HIVE will follow suit but with a bigger crash. So date this stock, don't marry it.",goodbeer11,1,/r/pennystocks/comments/lv7lwr/hvbtf_hive_blockchain_surpasses_its_bitcoin/gpbeswa/,0.122,0.878,0.0,-0.7742
+102,CTXR, CTXR OR DIE,Jaydubzsc2,68,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa3nov/,0.661,0.339,0.0,-0.5994
+103,CTXR," CTXR + HITIF
+
+we ride the hype to the m00n",when_m00n,43,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpac2lw/,0.0,1.0,0.0,0.0
+104,ASRT," ASRT has lift off! Good job keeping it going everyone! Been a pleasure holding with you, let’s keep it up.",BogBogTheGreat,18,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbw4pp/,0.0,0.703,0.297,0.8011
+105,ASRT, ASRT 📈📈📈,Kingkong_smoldong,18,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbwidz/,0.0,1.0,0.0,0.0
+106,ASRT, ASRT just shot up what happened,mjsmth,16,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbviiy/,0.0,1.0,0.0,0.0
+107,ASRT," Holding PULM, HITIF, CTXR, ASRT, LLKKF",mickaneso7,37,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpah7np/,0.0,1.0,0.0,0.0
+108,CTXR," Holding PULM, HITIF, CTXR, ASRT, LLKKF",mickaneso7,37,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpah7np/,0.0,1.0,0.0,0.0
+109,PULM," Holding PULM, HITIF, CTXR, ASRT, LLKKF",mickaneso7,37,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpah7np/,0.0,1.0,0.0,0.0
+110,ASRT," Just hodling CTXR, ASRT, and SANP. Maybe if asrt or sanp starts making profits I will sell and buy more ctxr.",ataizberk,28,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa6z8y/,0.0,0.868,0.132,0.4404
+111,CTXR," Just hodling CTXR, ASRT, and SANP. Maybe if asrt or sanp starts making profits I will sell and buy more ctxr.",ataizberk,28,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa6z8y/,0.0,0.868,0.132,0.4404
+112,ASRT," Holy shit, ASRT.. is this our time??",jbc313,13,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbv70j/,0.398,0.602,0.0,-0.6072
+113,ASRT, ASRT going up sooner than I thought,HelpMeIWillPayU,14,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbvt6e/,0.0,1.0,0.0,0.0
+114,ASRT," ALPP, ASRT, CTXR, ZOM, TAKOF, GSTAR, ZOM, CTRM , and HITIF, holding and maybe adding to a few positions 🌿",unsolvedmisuries,11,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpak7n8/,0.0,1.0,0.0,0.0
+115,CTRM," ALPP, ASRT, CTXR, ZOM, TAKOF, GSTAR, ZOM, CTRM , and HITIF, holding and maybe adding to a few positions 🌿",unsolvedmisuries,11,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpak7n8/,0.0,1.0,0.0,0.0
+116,CTXR," ALPP, ASRT, CTXR, ZOM, TAKOF, GSTAR, ZOM, CTRM , and HITIF, holding and maybe adding to a few positions 🌿",unsolvedmisuries,11,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpak7n8/,0.0,1.0,0.0,0.0
+117,ZOM," ALPP, ASRT, CTXR, ZOM, TAKOF, GSTAR, ZOM, CTRM , and HITIF, holding and maybe adding to a few positions 🌿",unsolvedmisuries,11,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpak7n8/,0.0,1.0,0.0,0.0
+118,AMC," Adding some more aitx if it dips again, snaging some pltr on sale, hopefully selling my heavy ass AMC bags and hoping RKT breaks 23",marcSdark,10,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa42kd/,0.113,0.71,0.177,0.25
+119,RKT," Adding some more aitx if it dips again, snaging some pltr on sale, hopefully selling my heavy ass AMC bags and hoping RKT breaks 23",marcSdark,10,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa42kd/,0.113,0.71,0.177,0.25
+120,ZOM, March = ZOM time,ryanfraserpearce,11,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpapg1s/,0.0,1.0,0.0,0.0
+121,ASRT," ASRT, BRGO,BLDV, BRAV, CLRB, CBBT, DNN, PVDG, TLSS. Might get into SIRC, MMATF.",EupalinosofWisconsin,8,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpan1uw/,0.0,1.0,0.0,0.0
+122,CLRB," ASRT, BRGO,BLDV, BRAV, CLRB, CBBT, DNN, PVDG, TLSS. Might get into SIRC, MMATF.",EupalinosofWisconsin,8,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpan1uw/,0.0,1.0,0.0,0.0
+123,DNN," ASRT, BRGO,BLDV, BRAV, CLRB, CBBT, DNN, PVDG, TLSS. Might get into SIRC, MMATF.",EupalinosofWisconsin,8,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpan1uw/,0.0,1.0,0.0,0.0
+124,ET," ASTI - 6:01a ET 3/1/2021 - Globe Newswire
+NASA's Marshall Space Flight Center Selects Ascent Solar Technologies CIGS Modules for Their LISA-T and Solar Cruiser Flight Experiments",sonofnoob,9,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb89x4/,0.0,1.0,0.0,0.0
+125,PULM," Looking at ETFM, AABB, and ZOM  
+Probably selling my CBTC and possible PULM (plannig on buying in later) and doubling down and ZOM.",Richey25,23,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa2eku/,0.0,1.0,0.0,0.0
+126,ZOM," Looking at ETFM, AABB, and ZOM  
+Probably selling my CBTC and possible PULM (plannig on buying in later) and doubling down and ZOM.",Richey25,23,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa2eku/,0.0,1.0,0.0,0.0
+127,CTXR," Just CTXR and HITIF for me at the moment, researching my next play",DrewSolaert,8,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb4tmo/,0.0,0.833,0.167,0.34
+128,AMTX," ASRT, ETFM, AMTX aren’t making me cry today, yay!",Gabadabdab,7,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb71hu/,0.225,0.508,0.268,0.1511
+129,ASRT," ASRT, ETFM, AMTX aren’t making me cry today, yay!",Gabadabdab,7,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb71hu/,0.225,0.508,0.268,0.1511
+130,ZOM, It's March. This means it's ZOM run up time!,funkymonk9,13,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaqiuk/,0.0,1.0,0.0,0.0
+131,ZOM," ZOM earnings was out last Friday....
+
+1) Zomedica loss has shrunk in the last financial year as compared to the previous year. Net loss was for FY2020 was $0.05 per share as compared to $0.19 per share in FY2019.
+
+And
+
+2) Zomedica had cash and cash equivalents of approximately $62.0 million as of December 31, 2020.
+
+Balance sheet and financials are good, hopefully the catalyst on 30th March will be positive for ZOM.
+
+Detail earnings news below
+
+[https://finance.yahoo.com/news/zomedica-corp-announces-end-2020-211500522.html](https://finance.yahoo.com/news/zomedica-corp-announces-end-2020-211500522.html)",GhAbhi,7,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb557n/,0.052,0.796,0.152,0.8402
+132,CTXR," ARBKF, HITIF, CTXR, ZOM, TAKOF, TLSS, CBBT, RSSV",JackKSY,15,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa43pn/,0.0,1.0,0.0,0.0
+133,ZOM," ARBKF, HITIF, CTXR, ZOM, TAKOF, TLSS, CBBT, RSSV",JackKSY,15,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa43pn/,0.0,1.0,0.0,0.0
+134,ASRT, Selling a few shares of a big boy so I can put a bit more in CTXR and average down ASRT.,RDSuaz,6,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaidcr/,0.0,0.879,0.121,0.296
+135,CTXR, Selling a few shares of a big boy so I can put a bit more in CTXR and average down ASRT.,RDSuaz,6,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaidcr/,0.0,0.879,0.121,0.296
+136,PULM," PULM. Currently up 7% pre-market, so I’d wait for a small pullback, but still a good buy, even at the current price. Had a recent offering at 2$ and is currently at 1.65. I think it will reach that price target short term and that’s at least a 20% gain. Aside from that they also have a few catalysts coming up what could take them even higher.",anonymousmarb,8,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpabaj2/,0.0,0.858,0.142,0.8625
+137,CTXR, Close eyes on CTXR ad SPCB,Cordomver,10,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpac2ln/,0.0,1.0,0.0,0.0
+138,SPCB, Close eyes on CTXR ad SPCB,Cordomver,10,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpac2ln/,0.0,1.0,0.0,0.0
+139,TOUR, TOUR and HITI for me today looks good. In Europe day looks a bit green compare to last week,Separate-Salamander2,11,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa30gn/,0.0,0.854,0.146,0.4404
+140,AIM," Over on the AIM (London) exchange; ARB (ARBKF) have started down due to the BTC fluctuations and are going relatively cheaply on opening, especially considering BTC is back over £46k. Otherwise, it's metals explorations ORR and RMM - both are LTH but ORR should have news out over the next week about their gold exploration in Cameroon. Some results from IAMGOLD are due.
+
+RMM are a copper miner based in Canada, more of a LTH after a messy restructure but there's unconfirmed whispers of a potential takeover from Barrick doing the rounds for some time now. They should be fully back online with their mines by Q3/4.
+
+Wildcard is the mess that is PREM - loads of potential but their mines are based in Zimbabwe, not the most stable of countries.
+
+Edit: ARB now flat again after opening down. E2: Now moving up fairly well, but it is the opening first hour.",InfoBot2000,4,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa3lqo/,0.07,0.891,0.039,-0.6963
+141,RMM," Over on the AIM (London) exchange; ARB (ARBKF) have started down due to the BTC fluctuations and are going relatively cheaply on opening, especially considering BTC is back over £46k. Otherwise, it's metals explorations ORR and RMM - both are LTH but ORR should have news out over the next week about their gold exploration in Cameroon. Some results from IAMGOLD are due.
+
+RMM are a copper miner based in Canada, more of a LTH after a messy restructure but there's unconfirmed whispers of a potential takeover from Barrick doing the rounds for some time now. They should be fully back online with their mines by Q3/4.
+
+Wildcard is the mess that is PREM - loads of potential but their mines are based in Zimbabwe, not the most stable of countries.
+
+Edit: ARB now flat again after opening down. E2: Now moving up fairly well, but it is the opening first hour.",InfoBot2000,4,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa3lqo/,0.07,0.891,0.039,-0.6963
+142,ECOR, ECOR it's already up 50% in pre-Market new distribution contract with Australia :) mooon,Impossible_You3553,5,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa6sdk/,0.0,0.812,0.188,0.4588
+143,CRVS," FAII, VGAC, KBNT, CRVS, PLTR, SNPR, TRCH, LTC, ETC, HITIF",RecoveringWoWaddict,5,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaoyip/,0.0,1.0,0.0,0.0
+144,FAII," FAII, VGAC, KBNT, CRVS, PLTR, SNPR, TRCH, LTC, ETC, HITIF",RecoveringWoWaddict,5,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaoyip/,0.0,1.0,0.0,0.0
+145,KBNT," FAII, VGAC, KBNT, CRVS, PLTR, SNPR, TRCH, LTC, ETC, HITIF",RecoveringWoWaddict,5,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaoyip/,0.0,1.0,0.0,0.0
+146,LTC," FAII, VGAC, KBNT, CRVS, PLTR, SNPR, TRCH, LTC, ETC, HITIF",RecoveringWoWaddict,5,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaoyip/,0.0,1.0,0.0,0.0
+147,PLTR," FAII, VGAC, KBNT, CRVS, PLTR, SNPR, TRCH, LTC, ETC, HITIF",RecoveringWoWaddict,5,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaoyip/,0.0,1.0,0.0,0.0
+148,SNPR," FAII, VGAC, KBNT, CRVS, PLTR, SNPR, TRCH, LTC, ETC, HITIF",RecoveringWoWaddict,5,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaoyip/,0.0,1.0,0.0,0.0
+149,TRCH," FAII, VGAC, KBNT, CRVS, PLTR, SNPR, TRCH, LTC, ETC, HITIF",RecoveringWoWaddict,5,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaoyip/,0.0,1.0,0.0,0.0
+150,VGAC," FAII, VGAC, KBNT, CRVS, PLTR, SNPR, TRCH, LTC, ETC, HITIF",RecoveringWoWaddict,5,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaoyip/,0.0,1.0,0.0,0.0
+151,CEO, AITX is add to position stock today. CEO did a live chat yesterday about expanding facilities to keep up with new demand. Announced this morning a multiple product order with a fortune 50 company.,Immediate-Pay243,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb2ymz/,0.048,0.952,0.0,-0.128
+152,ASRT," ASRT is the best actual stock I’ve seen on here by far. They have so much coming up and everybody is sleeping on them chasing pump and dumps. Get in, and wait for this things to pop after March 11th catalyst.",bciamb25,4,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb6h02/,0.059,0.85,0.092,0.3612
+153,CRVS," Anyone got their eye on CRVS too?  
+
+I just bought some $5 Calls on CRVS for 3/19. Looking forward to their 3/12 Earnings. Large insider purchases recently make me think this will be spicy.  If anyone else has looked into them, please lmk!",the_digital_man,4,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbjg4h/,0.0,0.941,0.059,0.3802
+154,CTXR," Today is looking good for CTXR, might buy more",juicycracker72,6,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpasyda/,0.0,0.734,0.266,0.4404
+155,DD, Does anyone have some good DD on NLST. Especially regarding the patent infringement lawsuits they are currently fighting?,FrankfurterWurst,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpahbeo/,0.299,0.581,0.12,-0.5106
+156,NVCN, NVCN to the moon today,burnttoast14,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpak08u/,0.0,1.0,0.0,0.0
+157,ZOM, More ZOM before it goes ZOM ZOM ZOM March 30th.,Adam4848,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpapkax/,0.0,1.0,0.0,0.0
+158,CO,"  THORNTON, CO, March 01, 2021 (GLOBE NEWSWIRE) -- via [NewMediaWire](https://www.globenewswire.com/Tracker?data=sTvazxAA3X-bXpvoXocLNvPAEby9rSJkwZOYgv46xMAIMsUKm8WQd38KsH6ctbyFJC7dgqOsz1Kewh86hgDqQNdC4QauDkL2XPxMD3_ceMMI4f2YL-kl9lPk-zjKMpnzpPQ7i9flaajgD2nWmF8nPag82cDpuee2kQy6qeTwJLyp5afERvy6ysLqzKScwbkXFoJeyCQpmcNi0bq3DgEx1y6POZhAmlrMjaEmNfsm5tYnbMzIClw8mNqaoKWlZmwP) – [Ascent Solar Technologies](https://www.schwab.wallst.com/research/Client/Symbol/SymbolRoute?YYY101_z5K6INmijHlJfnlzwDHOvkglpkT82yW7p9U5Tuut7KZeTcMTt6fR9CmgAo3vEJfFRPCBUdu7yGgWlb7EZ5iMEThjY/lXxfZpLL4cNjFv/FDTOzlPLuOlqyrtC95E8lQb4iyawvBRX+U=&WsodIssue=5150440), Inc. (OTCQB: ASTI), a developer and manufacturer of state-of-the-art, lightweight and flexible thin-film photovoltaic (PV) solutions (“Ascent” or the “Company”), announces that the Company has been selected by NASA's Marshall Space Flight Center in Huntsville, Alabama, for participation in two upcoming flight demonstrations – the Lightweight Integrated Solar Array and anTenna (LISA-T) project and the Solar Cruiser solar sail project.",imadeadollar,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpay93g/,0.0,0.946,0.054,0.4515
+159,ASRT, We all holding ASRT still?,jab116,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpazspk/,0.0,1.0,0.0,0.0
+160,CRMD," Not quite a penny stock, but KMPH has its PDUFA tomorrow.  If you are a gambler (and aren't we all here?), this should either double tomorrow or the price will drop by 50% like CRMD did today.",UMHB_Prof,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbg0lw/,0.068,0.848,0.084,0.1531
+161,KMPH," Not quite a penny stock, but KMPH has its PDUFA tomorrow.  If you are a gambler (and aren't we all here?), this should either double tomorrow or the price will drop by 50% like CRMD did today.",UMHB_Prof,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbg0lw/,0.068,0.848,0.084,0.1531
+162,ZOM," Thoughts on ZOM vs CTXR?
+
+Got some leftover buying power to throw at something and those two have been on my radar for bit.",TheAerial,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbl3ne/,0.0,1.0,0.0,0.0
+163,CRMD, I’m liking CTXR even more with the recent FDA rejection of CRMD. Should put CTXR ahead of the curve and hopefully take its market share,bizzlebanks,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbtxji/,0.109,0.654,0.237,0.4767
+164,CTXR, I’m liking CTXR even more with the recent FDA rejection of CRMD. Should put CTXR ahead of the curve and hopefully take its market share,bizzlebanks,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbtxji/,0.109,0.654,0.237,0.4767
+165,CTXR, Bought ETFM and HITIF. Holding CTXR. ![gif](emote|free_emotes_pack|money_face),AsexualCowboy,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpc17br/,0.0,1.0,0.0,0.0
+166,PULM, I def feel like I caught the bottom of PULM. $1.54. Let the climbing begin.,kennypump,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpc76ij/,0.0,0.828,0.172,0.3612
+167,SOS, SOS ended 40% up today. Happy to see that,dingdongbannu88,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpcdh08/,0.0,0.684,0.316,0.5719
+168,ASRT, ASRT looking good AH,jbc313,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpcdr1c/,0.0,0.508,0.492,0.4404
+169,ASRT, ASRT is literally gonna explode this week. Get while it’s hot,Kingkong_smoldong,5,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpby8hk/,0.0,1.0,0.0,0.0
+170,CRMD, AABB for me ! Hope CTXR does well but not surprising if it dips and CRMD too.,spinning_leaves,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpalp05/,0.117,0.684,0.199,0.1459
+171,CTXR, AABB for me ! Hope CTXR does well but not surprising if it dips and CRMD too.,spinning_leaves,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpalp05/,0.117,0.684,0.199,0.1459
+172,NSPR, NSPR up 5% premarket.,PM_ME_MILF_B00BS,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpae63l/,0.0,1.0,0.0,0.0
+173,FRSX, FRSX just announced the new deal. Catalyst is there. Buy price target 34$,PutsOnYourWife,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpapi2t/,0.0,1.0,0.0,0.0
+174,HUGE," SHRG just came out with HUGE NEWS.
+
+They are gonna run big today...get in at open if you can
+
+[https://finance.yahoo.com/news/document-security-systems-strengthens-interest-123000991.html](https://finance.yahoo.com/news/document-security-systems-strengthens-interest-123000991.html)",kirkrikster,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpav8nh/,0.0,0.862,0.138,0.4648
+175,ZOM, ZOM HITIF looking goooood,3amHoe,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpavl08/,0.0,1.0,0.0,0.0
+176,CTXR, This crazy shot up on CTXR scares me...,pandaga,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpavvqn/,0.444,0.556,0.0,-0.5859
+177,SOS, I bought in SOS on Friday at 4 look at it now Hindenburg and their shorting selves are going to bleed we are coming to pick up our boys stuck at 10 today lol,panicattackers,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb5575/,0.057,0.862,0.08,0.2023
+178,AI," Looking at RAAC today for a long hold and semi-early entry into this spac.  Obviously not a pennystock.  Berkshire Grey, a robotics and AI company into warehouse automation tech.  Cool shit in my mind, looks like a good company with a well seasoned management team and upsides with labor reduction, speed and efficiency, and accuracy of inventory controls.",gingerbreadninja1,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb891k/,0.075,0.73,0.195,0.7616
+179,RAAC," Looking at RAAC today for a long hold and semi-early entry into this spac.  Obviously not a pennystock.  Berkshire Grey, a robotics and AI company into warehouse automation tech.  Cool shit in my mind, looks like a good company with a well seasoned management team and upsides with labor reduction, speed and efficiency, and accuracy of inventory controls.",gingerbreadninja1,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb891k/,0.075,0.73,0.195,0.7616
+180,CEO," [OPTI in discussions](https://finance.yahoo.com/news/corporate-patent-optecs-uv-c-175000051.html) with large smartphone/tablet manufacturer regarding its patent-pending UV light technology for mobile devices.
+
+Was a true penny stock through most of a 2020. Had a spike in August but retreated. Ran up to 20 cents towards end of January which seems to be the new floor.
+
+Worth noting that the UV light patent OPTI has is something Apple wanted but they filed too late and OPTI got it last July. Worth a shot for anyone to grab even a small position for any chance it's a major player in the smartphone/tablet space.
+
+Also should have a $2b PPE contract finished by end of month which the CEO stated should have projected revenue of about $100 million which they'd like to use towards stock buybacks.",Pugupine,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbusaj/,0.0,0.909,0.091,0.8573
+181,CEO," ABQQ ($0.16) - $20 before COVID hit China. Went all the way down to a .01, because their business model was in-person marketing. Changed a bit of focus and started a Netflix-type service. Produces original movies for theater releases, too. Movie released 6 weeks ago is #1 for gross-revenue-per-screen in China.
+
+CEO purchased 500,000 shares at $0.09 on 2/3. Purchased another 750,000 shares at $0.12 on 2/24.",Onatac,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpbxku6/,0.0,0.898,0.102,0.6908
+182,APEN," APEN announcement today did me a solid, not a ton, but 10% is 10%",AngryBaldWhiteMan,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpc1paj/,0.0,0.894,0.106,0.0772
+183,EOD," Entered HITI at .71 couple weeks ago, now it’s .91. 
+
+Anyone selling before earnings? With weedstocks people seem to buy the hype, sell the news — even when ER are great. 
+
+Considering getting out EOD with my profits but unsure if others think HITI is more of a long term hold with more run up. Thoughts?",DGSTEE,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpc272r/,0.043,0.874,0.083,0.3313
+184,EBON," If you are looking for stocks that haven't fully recovered yet, target green energy sector or crypto miner stocks. The major recoveries amongst covid reopening stocks are occuring/have occured, but green energy is still lagging behind - and crypto is recovering from a low weekend/low friday. All of these graphs can recover to a high 1-2 weeks ago that was up 15-25% from where it is currently today. 
+
+If they recover to all-time high, some of them can recover a full 30-50%. 
+
+Green energy penny plays: ABML, OPTT, OEG, WWR
+
+Crypto Miner plays: HVBTF, BFARF, HUTMF, EBON (these guys create crypto mining equipment, so more of a supply chain move)",epoooop,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpca56r/,0.045,0.83,0.124,0.802
+185,OEG," If you are looking for stocks that haven't fully recovered yet, target green energy sector or crypto miner stocks. The major recoveries amongst covid reopening stocks are occuring/have occured, but green energy is still lagging behind - and crypto is recovering from a low weekend/low friday. All of these graphs can recover to a high 1-2 weeks ago that was up 15-25% from where it is currently today. 
+
+If they recover to all-time high, some of them can recover a full 30-50%. 
+
+Green energy penny plays: ABML, OPTT, OEG, WWR
+
+Crypto Miner plays: HVBTF, BFARF, HUTMF, EBON (these guys create crypto mining equipment, so more of a supply chain move)",epoooop,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpca56r/,0.045,0.83,0.124,0.802
+186,OPTT," If you are looking for stocks that haven't fully recovered yet, target green energy sector or crypto miner stocks. The major recoveries amongst covid reopening stocks are occuring/have occured, but green energy is still lagging behind - and crypto is recovering from a low weekend/low friday. All of these graphs can recover to a high 1-2 weeks ago that was up 15-25% from where it is currently today. 
+
+If they recover to all-time high, some of them can recover a full 30-50%. 
+
+Green energy penny plays: ABML, OPTT, OEG, WWR
+
+Crypto Miner plays: HVBTF, BFARF, HUTMF, EBON (these guys create crypto mining equipment, so more of a supply chain move)",epoooop,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpca56r/,0.045,0.83,0.124,0.802
+187,WWR," If you are looking for stocks that haven't fully recovered yet, target green energy sector or crypto miner stocks. The major recoveries amongst covid reopening stocks are occuring/have occured, but green energy is still lagging behind - and crypto is recovering from a low weekend/low friday. All of these graphs can recover to a high 1-2 weeks ago that was up 15-25% from where it is currently today. 
+
+If they recover to all-time high, some of them can recover a full 30-50%. 
+
+Green energy penny plays: ABML, OPTT, OEG, WWR
+
+Crypto Miner plays: HVBTF, BFARF, HUTMF, EBON (these guys create crypto mining equipment, so more of a supply chain move)",epoooop,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpca56r/,0.045,0.83,0.124,0.802
+188,CRVS, CTXR AND CRVS are the big ones,Pennytrader101,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaez7u/,0.0,1.0,0.0,0.0
+189,CTXR, CTXR AND CRVS are the big ones,Pennytrader101,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaez7u/,0.0,1.0,0.0,0.0
+190,ACST," I want to try and sell off this week ACST, GSAT and PTN. I want to buy into INND and HEMP and keep AITX and just trade those 3 stocks, they are as I can see going to be good stocks to trade and keep for the long terms.
+
+INND: is Hearing aids, they are continuing to grow
+
+HEMP: that one should grow nicely, lol.
+
+AITX: For security.",Houghton1983,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaxuf7/,0.0,0.81,0.19,0.891
+191,GSAT," I want to try and sell off this week ACST, GSAT and PTN. I want to buy into INND and HEMP and keep AITX and just trade those 3 stocks, they are as I can see going to be good stocks to trade and keep for the long terms.
+
+INND: is Hearing aids, they are continuing to grow
+
+HEMP: that one should grow nicely, lol.
+
+AITX: For security.",Houghton1983,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaxuf7/,0.0,0.81,0.19,0.891
+192,PTN," I want to try and sell off this week ACST, GSAT and PTN. I want to buy into INND and HEMP and keep AITX and just trade those 3 stocks, they are as I can see going to be good stocks to trade and keep for the long terms.
+
+INND: is Hearing aids, they are continuing to grow
+
+HEMP: that one should grow nicely, lol.
+
+AITX: For security.",Houghton1983,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaxuf7/,0.0,0.81,0.19,0.891
+193,NBY, NBY dip is a good buy,dogbobwog,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa924m/,0.0,0.58,0.42,0.4404
+194,UK," From the UK Card Factory (CARD) has risen 15 percent today alone. 
+Up 50% from last week. 
+It seems to be a rising trend at the moment. (Opinion)",nutty02,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaclqq/,0.071,0.929,0.0,-0.25
+195,GTE, Should I sell GTE or HODL,Natural_Charity6920,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpafgtd/,0.0,1.0,0.0,0.0
+196,FRSX," FRSX ready to take off.
+CATALYST: https://twitter.com/foresightauto1/status/1366375139861024775?s=21",PutsOnYourWife,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpapdjy/,0.0,0.706,0.294,0.3612
+197,BRQS, These guys had record revenue weekend BTDG  ....plus MYDX PASO MXSG VYST BRQS. all good potential. Good luck,Emotional-Jeweler337,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpapjww/,0.0,0.63,0.37,0.8316
+198,ARDS, ARDS. Trading at $6ish a share rn with a $17 price target,Spatty-Cos0,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaq2bi/,0.0,0.804,0.196,0.296
+199,DD, Any good DD on DNN floating around? What makes them a good long term play?,BonfireinRageValley,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gparhsa/,0.0,0.562,0.438,0.8205
+200,DNN, Any good DD on DNN floating around? What makes them a good long term play?,BonfireinRageValley,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gparhsa/,0.0,0.562,0.438,0.8205
+201,ASRT," Can I get an opinion? Looking to average down into CTXR, ASRT, DNN, ZOM, CIDM, and buy some ETFM/FOMO. Should I wait 30 minutes into the market to see what happens before jumping in? Or should I set a lowball limit order to catch more dips? Everyone's super bullish on CTXR though...",JustMy2Centences,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpashhi/,0.034,0.876,0.09,0.5999
+202,CIDM," Can I get an opinion? Looking to average down into CTXR, ASRT, DNN, ZOM, CIDM, and buy some ETFM/FOMO. Should I wait 30 minutes into the market to see what happens before jumping in? Or should I set a lowball limit order to catch more dips? Everyone's super bullish on CTXR though...",JustMy2Centences,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpashhi/,0.034,0.876,0.09,0.5999
+203,CTXR," Can I get an opinion? Looking to average down into CTXR, ASRT, DNN, ZOM, CIDM, and buy some ETFM/FOMO. Should I wait 30 minutes into the market to see what happens before jumping in? Or should I set a lowball limit order to catch more dips? Everyone's super bullish on CTXR though...",JustMy2Centences,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpashhi/,0.034,0.876,0.09,0.5999
+204,DNN," Can I get an opinion? Looking to average down into CTXR, ASRT, DNN, ZOM, CIDM, and buy some ETFM/FOMO. Should I wait 30 minutes into the market to see what happens before jumping in? Or should I set a lowball limit order to catch more dips? Everyone's super bullish on CTXR though...",JustMy2Centences,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpashhi/,0.034,0.876,0.09,0.5999
+205,ZOM," Can I get an opinion? Looking to average down into CTXR, ASRT, DNN, ZOM, CIDM, and buy some ETFM/FOMO. Should I wait 30 minutes into the market to see what happens before jumping in? Or should I set a lowball limit order to catch more dips? Everyone's super bullish on CTXR though...",JustMy2Centences,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpashhi/,0.034,0.876,0.09,0.5999
+206,KMPH," Hodling PTE, ARBKF, HVBTF, ALPP
+
+In non-penny news hoping for a good KMPH pop before PDUFA",MightyMilly,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpav0nc/,0.0,0.695,0.305,0.6908
+207,PTE," Hodling PTE, ARBKF, HVBTF, ALPP
+
+In non-penny news hoping for a good KMPH pop before PDUFA",MightyMilly,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpav0nc/,0.0,0.695,0.305,0.6908
+208,CBAY, Let's go CBAY. Two weeks of investor conferences start today.,19-dickety-2,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaw7br/,0.0,1.0,0.0,0.0
+209,GO, #LETS GO $KLY UP 61% AND CLIMBING,PMmeyouraxewound,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpayt4r/,0.0,1.0,0.0,0.0
+210,AIHS, I’m a dumbass who bought JAGX and AIHS high and it both dropped like 25%. Should I hold and hope or is it hopeless?,AyeWhatsUpMane,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpazfra/,0.22,0.6,0.18,-0.296
+211,JAGX, I’m a dumbass who bought JAGX and AIHS high and it both dropped like 25%. Should I hold and hope or is it hopeless?,AyeWhatsUpMane,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpazfra/,0.22,0.6,0.18,-0.296
+212,ABEO, Grabbed 23 shares of ABEO this morning at $2.45. Anyone else speccing on Abeona Therapeutics this year?,BlarfParade,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb0vs1/,0.0,0.879,0.121,0.296
+213,ASRT," HITI, DNN, ASRT, CBDHF, CTXR, BGI",Fatass_Joe,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb13cl/,0.0,1.0,0.0,0.0
+214,BGI," HITI, DNN, ASRT, CBDHF, CTXR, BGI",Fatass_Joe,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb13cl/,0.0,1.0,0.0,0.0
+215,CTXR," HITI, DNN, ASRT, CBDHF, CTXR, BGI",Fatass_Joe,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb13cl/,0.0,1.0,0.0,0.0
+216,DNN," HITI, DNN, ASRT, CBDHF, CTXR, BGI",Fatass_Joe,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb13cl/,0.0,1.0,0.0,0.0
+217,VBIV, Holding MLFB and VBIV. Huge catalysts upcoming for these 2!,REITgrass,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb1g3d/,0.0,0.776,0.224,0.3802
+218,CLBS," Watching RSSV and CLBS, seems like a good day to get into both.",nightstryker1214,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb1xqy/,0.0,0.649,0.351,0.6597
+219,PLXP," PLXP jumping up today after their liquid aspirin got approved by the FDA. Lots of hype on here over penny stocks that only have clinical trials. PLXP has actual approval and is going to market in q3. 
+
+undervalued i reckon at 8.3",armored-dinnerjacket,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb24gr/,0.0,0.869,0.131,0.7096
+220,SOS," SOS was shorted last week by Hindenburg with false claims of fraud. News over the weekend debunked all their claims and they quickly removed their report on their website. 
+
+We have already seen 50% gains this morning and the percentage will keep growing throughout the week. I believe crypto is not going anywhere and SOS will continue to run up with it throughout the year. 
+
+Currently, SOS is #1 trending and most watched on Stocktwits. This penny stock will not be a penny stock much longer.",List-Plastic,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb29i0/,0.043,0.911,0.046,-0.1779
+221,VTNR, if VTNR breaks $2 it should go off!,SomeoneElse0000,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb2ygv/,0.0,1.0,0.0,0.0
+222,DD, Has anyone on here done any DD for $HIPH?,ryusomad,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb4bw4/,0.0,1.0,0.0,0.0
+223,DD," Well after reading all the DD on TRCH and now TheWalrus has even approved it I feel like it's a pretty good call. I'm especially excited with the dividend with even the lowest estimate being $1, so at some point in the next few months I'll get a juicy 30%, plus as the stock booms after the merger.",samchih,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb4ybw/,0.039,0.719,0.242,0.9117
+224,TRCH," Well after reading all the DD on TRCH and now TheWalrus has even approved it I feel like it's a pretty good call. I'm especially excited with the dividend with even the lowest estimate being $1, so at some point in the next few months I'll get a juicy 30%, plus as the stock booms after the merger.",samchih,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb4ybw/,0.039,0.719,0.242,0.9117
+225,BCTX, BCTX just IPO'd and is trading at a 20% discount under the IPO price.  The market cap is only $2.9M which is the smallest cap of any Nasdaq company.  They have a very promising breast cancer treatment.  It's not unrealistic for this company to be trading +1000% if the study results are positive.,CEO_of_Netflix,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb52um/,0.079,0.81,0.111,0.2333
+226,TD, Anyone have TSNP on TD Ameritrade? It just shows up as a number now and the price isn’t accurate?,Misha315,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb5act/,0.0,0.911,0.089,0.168
+227,AEZS, AEZS I’m buying as long as it’s under 1.25💪🏻,GMAwesome,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb7hfk/,0.0,1.0,0.0,0.0
+228,ABUS," ABUS, ZOM & ASRT",5tock_It_Up,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb9meh/,0.0,1.0,0.0,0.0
+229,ASRT," ABUS, ZOM & ASRT",5tock_It_Up,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb9meh/,0.0,1.0,0.0,0.0
+230,ZOM," ABUS, ZOM & ASRT",5tock_It_Up,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb9meh/,0.0,1.0,0.0,0.0
+231,ALL, I like your logic! Not only HITIF but ALL weed stonks!,ciscophreak,26,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpag18v/,0.0,0.794,0.206,0.3257
+232,CTXR, cant buy CTXR on my broker:(,immi0815,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa9x2j/,0.0,1.0,0.0,0.0
+233,ASRT," Just in for 40 shares of HITIF but hoping for a good earnings call
+
+Otherwise bag holding on SPRWF DNN MINE DNN ASRT RIGL and CTXR and hoping to see some green this week after buying at the peak a few weeks ago",DukeMacManus,8,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpajmyn/,0.0,0.742,0.258,0.9161
+234,CTXR," Just in for 40 shares of HITIF but hoping for a good earnings call
+
+Otherwise bag holding on SPRWF DNN MINE DNN ASRT RIGL and CTXR and hoping to see some green this week after buying at the peak a few weeks ago",DukeMacManus,8,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpajmyn/,0.0,0.742,0.258,0.9161
+235,BP," I have no more BP in my OTC account, was re upping HITIF all week last week though",DontGiveBearsLSD,6,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa8du2/,0.121,0.879,0.0,-0.296
+236,CRVS, Missing CRVS,Pennytrader101,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpag4mz/,0.688,0.312,0.0,-0.296
+237,BIG, You need to remember that this stock will rise because of fundamentals but could get a BIG boost because of the short squeeze.  It is hard to model as my model has the low end at $.80 and the high end way over $1.00,18AMG-GT,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpat1fv/,0.089,0.837,0.074,0.0772
+238,CRVS, CTXR AND CRVS,Pennytrader101,4,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpag3cq/,0.0,1.0,0.0,0.0
+239,CTXR, CTXR AND CRVS,Pennytrader101,4,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpag3cq/,0.0,1.0,0.0,0.0
+240,TDA," yea, i finally went green with HITIF today. made the mistake of buying on TDA with the $7 fee which put my cost/share at $0.70.",Iredditfromwork,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpccui1/,0.094,0.906,0.0,-0.34
+241,PKG, Trying to figure that out as well.  Free falling rn.  did the PKG deal fall through?,trix_is_for_kids,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpazm40/,0.08,0.65,0.27,0.5859
+242,OCGN," If it’s like OCGN, it may be brief and then dip. OCGN hit a little over $15 but then dropped almost 1/3 of its hyped value. It’s been hovering $8-11 since then. Waiting on the phase 3 results but unlike some users who think it will hit $50, $100, $300, I think it’s going to be more like $30-40 ($50 max).",waitmyhonor,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb8st6/,0.0,0.872,0.128,0.7964
+243,CTXR," From what i understand, one of its competitors put out a press release this morning that one of their products didnt get FDA approval. So likely people dumping that stock and moving into CTXR or just people getting in on CTXR based on this news.",CopGunGuy,4,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaxo24/,0.111,0.889,0.0,-0.6271
+244,BNGO," Yeah ALPP is starting to look at the BNGO I bought way too high. Sometimes you just have to quit buying and admit that the momentum is gone. If it's a long term hold, just leave it and forget about it. It doesn't matter in the long run what your average is.",serenewaters,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpc699z/,0.078,0.846,0.075,0.2086
+245,DNN," DNN is not going to shoot up immediately.  The company doesn't own and currently running uranium mines.  They're working to construct two right now.  They've been up because there is a run on uranium, but they won't be a profitable producer for another 3-5 years, which is when uranium demands are expected to jump significantly.  They're a more long term play, but may see some upticks along the way if they report strong progress on their projects.
+
+[https://www.fool.com/investing/2021/02/19/is-denison-mines-stock-a-buy/?source=eptyholnk0000202&utm\_source=yahoo-host&utm\_medium=feed&utm\_campaign=article](https://www.fool.com/investing/2021/02/19/is-denison-mines-stock-a-buy/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article)",HasturDragon,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpatf03/,0.036,0.808,0.156,0.8864
+246,ET," From what I've seen, most of my stocks dip every day around 10am-ish ET",Wombizzle,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb05wz/,0.0,1.0,0.0,0.0
+247,CBD, HIPH is one I’ve got my eye on. CBD infused beverages.,ryusomad,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb4iet/,0.0,1.0,0.0,0.0
+248,TD, TD says that TSNP is now TSNPD ticker,Hyena-CheetahClaw,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb5xzl/,0.0,1.0,0.0,0.0
+249,ATH, BOTY’s a lost cause. I bought into it and didn’t sell it at ATH because I was being greedy when it literally became a brief meme stock. The sub for this stock is just all kinds of delusional and a very good example of bots and P&D accounts.,waitmyhonor,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb8c1w/,0.096,0.837,0.067,-0.1045
+250,MARA, They are notorious for releasing hit pieces on various companies. 2018 they wrote a that RIOT and MARA are fake. Look at them now. Simple tactic for them to cover their short position. I’m invested and believe $20 is a reasonable PT.,neontules,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb92fz/,0.218,0.782,0.0,-0.8842
+251,PT, They are notorious for releasing hit pieces on various companies. 2018 they wrote a that RIOT and MARA are fake. Look at them now. Simple tactic for them to cover their short position. I’m invested and believe $20 is a reasonable PT.,neontules,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb92fz/,0.218,0.782,0.0,-0.8842
+252,RIOT, They are notorious for releasing hit pieces on various companies. 2018 they wrote a that RIOT and MARA are fake. Look at them now. Simple tactic for them to cover their short position. I’m invested and believe $20 is a reasonable PT.,neontules,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb92fz/,0.218,0.782,0.0,-0.8842
+253,DD," I have two stocks that I like today SGMD from my DD, and BRVRF because it’s up and I have no idea why!",ciscophreak,8,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpayi14/,0.096,0.783,0.121,0.1511
+254,DOW," DOW futures are up. if it's a green day, I'm sure some people will be taking profits after a red week. that's all I mean",jmcdonald354,3,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpaqkuq/,0.0,0.794,0.206,0.6369
+255,PM, So if you were to think the market is red today and when PM open and all is green you get a really nice surprise instead of an anxiety attack..,mr-broaka,4,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpa3j8x/,0.051,0.784,0.165,0.5819
+256,ASRT," Same here. I'm holding GRST, CTXR, and ASRT for a few months at min.",voltmannn,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb6hvl/,0.0,1.0,0.0,0.0
+257,CTXR," Same here. I'm holding GRST, CTXR, and ASRT for a few months at min.",voltmannn,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb6hvl/,0.0,1.0,0.0,0.0
+258,USA, Yuuuuuup cad is kly kaltf is USA,PMmeyouraxewound,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpazx68/,0.0,1.0,0.0,0.0
+259,DD, Most people don’t really do their own DD and rely on headlines. SOS will continue to run with btc but is looking higher than Mara and Riot thanks to Hindenburg.,List-Plastic,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb6u4g/,0.133,0.762,0.105,-0.2617
+260,SOS, Most people don’t really do their own DD and rely on headlines. SOS will continue to run with btc but is looking higher than Mara and Riot thanks to Hindenburg.,List-Plastic,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb6u4g/,0.133,0.762,0.105,-0.2617
+261,CEO, I’m curious to compare notes. Seems like they are going in the right direction and the CEO Ryan Fishell seems to have his head on straight and is a strong communicator via Twitter. Looks like he’s about to release their 2021 plan of attack this week. We shall see. It’s a product category (infused waters) that piques my interest.,ryusomad,1,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb52fg/,0.045,0.729,0.226,0.886
+262,USA," Yeah, there's no point in selling it right now so I'm gonna hope for USA legalization lifting all the boats and trying not to get weighed down with this bag in the meantime.",DukeMacManus,2,/r/pennystocks/comments/lv3ei2/daily_plays_march_01_2021/gpb2d3v/,0.059,0.799,0.143,0.4877
+263,ETH, Fuck it I sold 99% of everything and put it all in ETH and just gonna let it sit there for a few months,KangarooMyDoo,1,/r/pennystocks/comments/lvflyh/our_portfolios_who_art_in_red_diamond_be_thy/gpcegkc/,0.143,0.857,0.0,-0.5423
+264,NBA," ZK International Group Co., Ltd. Announces Record Revenue of $86.85 Million, an Increase of 36% for the Fiscal Year 2020. xSigma Corporation, a subsidiary of the Company, that is a blockchain R&D lab, is pleased to announce that Dwight Howard, a professional basketball player and NBA champion with the Los Angeles Lakers, has committed to joining the xSigma DeFi Protocol as an early liquidity provider (LP). ZK International's Subsidiary, xSigma Corporation, Announces a Software Acquisition Deal and the Launch of its Crypto Trading Platform.
+
+[https://www.prnewswire.com/news-releases/zk-internationals-subsidiary-xsigma-corporation-announces-a-software-acquisition-deal-and-the-launch-of-its-crypto-trading-platform-301234507.html](https://www.prnewswire.com/news-releases/zk-internationals-subsidiary-xsigma-corporation-announces-a-software-acquisition-deal-and-the-launch-of-its-crypto-trading-platform-301234507.html)",Harveyjeter,1,/r/pennystocks/comments/lvflyh/our_portfolios_who_art_in_red_diamond_be_thy/gpcenfz/,0.0,0.873,0.127,0.8807
+265,AL," So... why is the contact address on the bottom of their website a suburban home?  Says they have no office until after COVID?
+
+4010 Jamie Lane, Moundville, AL
+
+Streetview it.",CleanEggs-n-Flams,6,/r/pennystocks/comments/luugrn/recap_februarys_executive_summary_xcelplus/gp9ddpr/,0.084,0.916,0.0,-0.3736
+266,ID," Cause it's the legal business address? Incorporated in Nevada. Business ID is NV20061523052 [https://esos.nv.gov/EntitySearch/OnlineEntitySearch](https://esos.nv.gov/EntitySearch/OnlineEntitySearch)
+
+Edit: Link added",DCVAMD-Meetup,1,/r/pennystocks/comments/luugrn/recap_februarys_executive_summary_xcelplus/gp9o57o/,0.0,0.914,0.086,0.128
+267,SOS, SOS let's go!,deadwings13,0,/r/pennystocks/comments/lv9jma/030121_morning_watchlist/gpasphv/,0.0,1.0,0.0,0.0
+268,CTXR, CTXR,ApeToAstronaut,21,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9grwh/,0.0,1.0,0.0,0.0
+269,ASRT, Still holding ASRT,Crews_Ship,37,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp8y0if/,0.0,1.0,0.0,0.0
+270,EH," CTRX, EH and Jesus.",quadasaurus,7,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9q6za/,0.0,1.0,0.0,0.0
+271,ASRT, ASRT gang gang,DandierChip,12,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9hiwm/,0.0,1.0,0.0,0.0
+272,TBLT, TBLT after I my contractor praised their tools,LowLogic,4,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9bg8l/,0.0,0.652,0.348,0.4939
+273,ATOS, I'm in on ETFM and MSNVF and ATOS.,CdrCosmonaut,5,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9mm4q/,0.0,1.0,0.0,0.0
+274,ASRT, i refuse to not make money on ASRT,lanceeeeeeeee,5,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gpa06kg/,0.268,0.732,0.0,-0.296
+275,VBIV, VBIV and MLFB,REITgrass,3,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9qxds/,0.0,1.0,0.0,0.0
+276,RKT, RKT,Larrylegend89,7,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp91jsw/,0.0,1.0,0.0,0.0
+277,IDEX," IDEX, TRCH, & VISL",SingitOrLoveit,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9ruka/,0.0,1.0,0.0,0.0
+278,TRCH," IDEX, TRCH, & VISL",SingitOrLoveit,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9ruka/,0.0,1.0,0.0,0.0
+279,VISL," IDEX, TRCH, & VISL",SingitOrLoveit,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9ruka/,0.0,1.0,0.0,0.0
+280,CTXR," Holding HITI, CTXR, PULM, CBTC. Getting my tax returns this month, plus my check and some VA money. Gonna do some research and through the DDs here. 
+Throwing a good chunk of change into Bitcoin and ADA especially during this dip (I know I know, this isn’t a penny stock but still my plan)",Richey25,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9u7y1/,0.0,0.962,0.038,0.2382
+281,PULM," Holding HITI, CTXR, PULM, CBTC. Getting my tax returns this month, plus my check and some VA money. Gonna do some research and through the DDs here. 
+Throwing a good chunk of change into Bitcoin and ADA especially during this dip (I know I know, this isn’t a penny stock but still my plan)",Richey25,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9u7y1/,0.0,0.962,0.038,0.2382
+282,JE, JE is going to double this month,kellerrrrr,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9vc1p/,0.0,1.0,0.0,0.0
+283,FLT, CbDT and FLT.V,fullsupporting,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9465l/,0.0,1.0,0.0,0.0
+284,AGTC," Watching GAMESTONK
+
+Keeping an eye on my HITIF ETFM PVDG and CTRM. ZOM should be on the rise sometime this month. MLLOF is my solid long term, not sure why I’m in AGTC and BNGO as a swing trade. Mans not greedy though let one fly and I’ll hop off that rocket with a bag of cash.",Tarzeus,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9m3xp/,0.034,0.904,0.062,0.1531
+285,BNGO," Watching GAMESTONK
+
+Keeping an eye on my HITIF ETFM PVDG and CTRM. ZOM should be on the rise sometime this month. MLLOF is my solid long term, not sure why I’m in AGTC and BNGO as a swing trade. Mans not greedy though let one fly and I’ll hop off that rocket with a bag of cash.",Tarzeus,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9m3xp/,0.034,0.904,0.062,0.1531
+286,CTRM," Watching GAMESTONK
+
+Keeping an eye on my HITIF ETFM PVDG and CTRM. ZOM should be on the rise sometime this month. MLLOF is my solid long term, not sure why I’m in AGTC and BNGO as a swing trade. Mans not greedy though let one fly and I’ll hop off that rocket with a bag of cash.",Tarzeus,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9m3xp/,0.034,0.904,0.062,0.1531
+287,ZOM," Watching GAMESTONK
+
+Keeping an eye on my HITIF ETFM PVDG and CTRM. ZOM should be on the rise sometime this month. MLLOF is my solid long term, not sure why I’m in AGTC and BNGO as a swing trade. Mans not greedy though let one fly and I’ll hop off that rocket with a bag of cash.",Tarzeus,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9m3xp/,0.034,0.904,0.062,0.1531
+288,KGC, KOS DNN KGC,Key-Plastic-64,1,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9qddw/,0.0,1.0,0.0,0.0
+289,KOS, KOS DNN KGC,Key-Plastic-64,1,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9qddw/,0.0,1.0,0.0,0.0
+290,SIFY, Look into SIFY. Not many know about it but very solid,Knicks94,1,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9qstq/,0.0,0.81,0.19,0.3269
+291,CTXR," Raise up my CTXR position to 1000, maybe raise HITIF up there too.",cliqclaqstepback,1,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9sfuc/,0.0,1.0,0.0,0.0
+292,TRCH," I’m loading up on TRCH tomorrow, they’ll have merger soon on March 12th",jtexas88,1,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp95iyt/,0.0,1.0,0.0,0.0
+293,IMO," ETFM 4.6 billion float? Is that right ? I’m adding more IGXT still completely unfollowed.
+12 drugs in the pipe; deals with ATAI, Cybin, cyalis, rizaport for headaches and even an Alzheimer’s drug in Phase 2a 
+EZ 10x once 2 PDUFA dates are issued IMO
+
+https://www.intelgenx.com/products/overview.html",The_Termitrader,0,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9hdp2/,0.0,0.923,0.077,0.5563
+294,ALL, IT IS NOT GOING TO. SELL BEFORE IT GOES BACK TO A SUB DOLLAR. THIS IS JUST GNUS ALL OVER AGAINNNN,BigButtSally,-6,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp99rjx/,0.0,1.0,0.0,0.0
+295,IT, IT IS NOT GOING TO. SELL BEFORE IT GOES BACK TO A SUB DOLLAR. THIS IS JUST GNUS ALL OVER AGAINNNN,BigButtSally,-6,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp99rjx/,0.0,1.0,0.0,0.0
+296,DD, They just peaked according to the recent DD tho- any thoughts as to why this would continue to increase? Been eyeing ETFM for a while.,Ascdoc_79,1,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gpb2muf/,0.0,0.909,0.091,0.3182
+297,DD, I don’t see anything negative about this company man. Just do the DD. Most ppl losing money in the stock market are looking for a quick flip. You have to be patient.,Crews_Ship,4,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp969sq/,0.19,0.81,0.0,-0.7635
+298,DNN," Because unlike other pennies, you can sell covered calls on DNN.",RandomlyGenerateIt,1,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9s7nr/,0.0,1.0,0.0,0.0
+299,SP, I hate to break it to you but Q2&Q3 earnings saw a major decrease in the SP :p,0071241,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp97zgq/,0.121,0.72,0.159,0.1901
+300,DD," So you saying bull or bear?
+
+Sry can’t read DD bc lit",Dr-StealYoGirl,2,/r/pennystocks/comments/luv620/march_01_2020_whats_your_play_for_tomorrow/gp9m33k/,0.0,1.0,0.0,0.0
+301,DD, Started my own DD and now have added a step going forward.  Schwab dinging me with a $50 fee on this one.  Not sure why given I have other -F shares that I've bought and not paid one.,MolsonFL,1,/r/pennystocks/comments/lvcjys/lithium_the_current_frontier_lake_resources/gpbp6hp/,0.053,0.888,0.059,0.0613
+302,DD," Heard $FCGD was mining lithium too, but couldn’t find my own DD. They’re a trip zero pinkie though.",NinjaMarinara,0,/r/pennystocks/comments/lvcjys/lithium_the_current_frontier_lake_resources/gpc4pll/,0.0,1.0,0.0,0.0
+303,LAC," You’ve gained 1000% in LLKKF? Well, I guess you could say bad news would drop any stock lol? I wouldn’t anticipate bad news. As I said, the battery cell tests I once thought were an industry standard to determine the preliminary capability of your lithium seems to not be the case. Appears the Lake wants to do it independently for themselves to showcase their product. They seem to be very confident in what the results will show. 
+
+As far as the potential for the price to dip. There have been three pull backs in the last month and every time the price support increases. From a bottom of .20, to .25, and now around .28. These weren’t even pull backs, they look like sell offs people take advantage of because they know the stock is solid. Wish I would’ve sold at some peaks and bought back the dips
+
+Look at the market caps of competitors. Doesn’t really matter how much they’ve rocketed when LAC is worth 8x more with similar attributes. we just have an opportunity to be early in LLKKF",hewasnmbr1,1,/r/pennystocks/comments/lvcjys/lithium_the_current_frontier_lake_resources/gpbaje6/,0.058,0.796,0.146,0.9376
+304,ASRT," ASRT, HITI and ARB",QuantopiaNL,10,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9x0iv/,0.0,1.0,0.0,0.0
+305,ASRT, ASRT is making me horny. Got $2 calls expiring on the 19th. Easy money.,LordDaybreak,9,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbwk3x/,0.0,0.818,0.182,0.4404
+306,PULM," PULM. Currently up 7% pre-market, so I’d wait for a small pullback, but still a good buy, even at the current price. Had a recent offering at 2$ and is currently at 1.65. I think it will reach that price target short term and that’s at least a 20% gain. Aside from that they also have a few catalysts coming up what could take them even higher.",anonymousmarb,6,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpabbq7/,0.0,0.858,0.142,0.8625
+307,ASRT, ASRT POPPING OFF,Kingkong_smoldong,7,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbwbub/,0.0,1.0,0.0,0.0
+308,ASRT, Anyone know the catalyst behind the ASRT rally?,opteamus07,6,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpc1hr3/,0.0,1.0,0.0,0.0
+309,ASRT, When is ASRT gonna go up??,cat_warrior,8,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbb3it/,0.0,1.0,0.0,0.0
+310,TXMD," TXMD down to $1.50 ahead of earnings.  Earnings arrive tomorrow pre-market.  Call options heavily outweigh put options right now.  
+
+Can someone tell me if this information is indicative of anything?",DonkeyClownVacation,3,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbe87x/,0.0,1.0,0.0,0.0
+311,TD, Hey so I had TSNP on TD Ameritrade and now it’s showing some number and not giving me an accurate price. Anyone have any insight?,Misha315,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpb3ivl/,0.08,0.868,0.051,-0.1867
+312,RH," Fidelity won't let me take an opening position with $SANP. 
+Is this common? How are people trading this stock? It doesn't even show up on RH.",augustprep,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbd5vc/,0.0,1.0,0.0,0.0
+313,DD," WKN #A2AD3D : Eight Capital Partners , GB company, London
+
+buy low, sell high
+
+Do your DD ,
+
+ Cogenpower is the same stock!",CandidateNrOne,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbgn7x/,0.112,0.888,0.0,-0.3382
+314,GB," WKN #A2AD3D : Eight Capital Partners , GB company, London
+
+buy low, sell high
+
+Do your DD ,
+
+ Cogenpower is the same stock!",CandidateNrOne,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbgn7x/,0.112,0.888,0.0,-0.3382
+315,CTXR," SNGX isn't where I'd like it to be today, but good lord look @ CTXR go. That volume is looking tasty.",DustinGoesWild,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbh719/,0.066,0.769,0.164,0.5098
+316,SNGX," SNGX isn't where I'd like it to be today, but good lord look @ CTXR go. That volume is looking tasty.",DustinGoesWild,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbh719/,0.066,0.769,0.164,0.5098
+317,IDEX," IDEX bouncing now, hop on for a ride up.",Novalid,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbh9tk/,0.0,1.0,0.0,0.0
+318,TRCH, TRCH about to explode,Fungions,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbpmfw/,0.0,1.0,0.0,0.0
+319,ATI, Can someone confirm that ATI is using $EWLL's Phzio platform? The only article I can find was from 6 months ago. If they are using Phzio then once ATI completes their merger then $EWLL should blast off right?,HeyItsJake45,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbzeh1/,0.0,1.0,0.0,0.0
+320,CTRM," Hoping for a good week this week. 
+
+Going to exit positions in CTRM and maybe even NAKD. Doubling down on MOTS and LPCN. Still debating TBLT for now. I have time on it. 
+
+I'll put my extra funds into ARKQ or ARKk. Q is on sale and would be a sweet buy. I like to stay in Etfs instead of single top 500 companies anyways.",Jallen_Sandusky,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9op9q/,0.0,0.809,0.191,0.9001
+321,LPCN," Hoping for a good week this week. 
+
+Going to exit positions in CTRM and maybe even NAKD. Doubling down on MOTS and LPCN. Still debating TBLT for now. I have time on it. 
+
+I'll put my extra funds into ARKQ or ARKk. Q is on sale and would be a sweet buy. I like to stay in Etfs instead of single top 500 companies anyways.",Jallen_Sandusky,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9op9q/,0.0,0.809,0.191,0.9001
+322,MOTS," Hoping for a good week this week. 
+
+Going to exit positions in CTRM and maybe even NAKD. Doubling down on MOTS and LPCN. Still debating TBLT for now. I have time on it. 
+
+I'll put my extra funds into ARKQ or ARKk. Q is on sale and would be a sweet buy. I like to stay in Etfs instead of single top 500 companies anyways.",Jallen_Sandusky,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9op9q/,0.0,0.809,0.191,0.9001
+323,NAKD," Hoping for a good week this week. 
+
+Going to exit positions in CTRM and maybe even NAKD. Doubling down on MOTS and LPCN. Still debating TBLT for now. I have time on it. 
+
+I'll put my extra funds into ARKQ or ARKk. Q is on sale and would be a sweet buy. I like to stay in Etfs instead of single top 500 companies anyways.",Jallen_Sandusky,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9op9q/,0.0,0.809,0.191,0.9001
+324,TBLT," Hoping for a good week this week. 
+
+Going to exit positions in CTRM and maybe even NAKD. Doubling down on MOTS and LPCN. Still debating TBLT for now. I have time on it. 
+
+I'll put my extra funds into ARKQ or ARKk. Q is on sale and would be a sweet buy. I like to stay in Etfs instead of single top 500 companies anyways.",Jallen_Sandusky,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9op9q/,0.0,0.809,0.191,0.9001
+325,IBKR," I'm just venting here, so my apologies for the long post. I just wanted the catharises of a good moan.
+
+Totally newbie here. UK based and looking to trade a few US penny stocks for 'fun'.  I've paper traded for a while and enjoyed it, so figured I'd give it a go with a couple of hundred dollars. My experience in getting started has been a chore to say the least.
+
+After asking around and doing some research I decided to try IBKR as a broker. Went though all the shenanigans of setting up an account over the weekend, the process was quite in-depth compared to the 'apps' I had tried out before, asking me about my liquid wealth, my income, even my employer details.  It was a pain but I found it reassuring.  I spent most of the weekend trying to navigate the portal and figure out how to do basic stuff as this is pretty much my first time looking at any of this.  It has a preview feature that allows you to check the details of a trade before you submit it. However when it came to penny stocks I didn't have trade permissions.
+
+I specially went with IKBR because it supports US pennies from within the UK. I eventually figured out that I needed to enable it in my trade permissions, which was fine. But the next part really surprised me.  I was informed that to trade US penny stocks I needed to have completed more that 100 trades, have an income in excess of $50k and a liquid wealth in excess of $75k. Where on earth is the logic in this? It's perfectly fine for me to operate in a market where shares can go for hundreds of dollars, but I'm not allowed in the kiddie pool until I can swim Olympic lengths?
+
+I'm sure this is a regulatory thing and the broker pretty much just tells you to change your answers to get past it. Maybe there is even a good reason for it my newbie brain doesn't know about yet. But still it fells like a great big 'fuck you poor person, stay in your lane' to me and it's annoyed me no end.
+
+Anyway, rant over.",MorrowDisca,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpak6qf/,0.054,0.803,0.144,0.9892
+326,UK," I'm just venting here, so my apologies for the long post. I just wanted the catharises of a good moan.
+
+Totally newbie here. UK based and looking to trade a few US penny stocks for 'fun'.  I've paper traded for a while and enjoyed it, so figured I'd give it a go with a couple of hundred dollars. My experience in getting started has been a chore to say the least.
+
+After asking around and doing some research I decided to try IBKR as a broker. Went though all the shenanigans of setting up an account over the weekend, the process was quite in-depth compared to the 'apps' I had tried out before, asking me about my liquid wealth, my income, even my employer details.  It was a pain but I found it reassuring.  I spent most of the weekend trying to navigate the portal and figure out how to do basic stuff as this is pretty much my first time looking at any of this.  It has a preview feature that allows you to check the details of a trade before you submit it. However when it came to penny stocks I didn't have trade permissions.
+
+I specially went with IKBR because it supports US pennies from within the UK. I eventually figured out that I needed to enable it in my trade permissions, which was fine. But the next part really surprised me.  I was informed that to trade US penny stocks I needed to have completed more that 100 trades, have an income in excess of $50k and a liquid wealth in excess of $75k. Where on earth is the logic in this? It's perfectly fine for me to operate in a market where shares can go for hundreds of dollars, but I'm not allowed in the kiddie pool until I can swim Olympic lengths?
+
+I'm sure this is a regulatory thing and the broker pretty much just tells you to change your answers to get past it. Maybe there is even a good reason for it my newbie brain doesn't know about yet. But still it fells like a great big 'fuck you poor person, stay in your lane' to me and it's annoyed me no end.
+
+Anyway, rant over.",MorrowDisca,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpak6qf/,0.054,0.803,0.144,0.9892
+327,UK," One I quite like and added to my portfolio as a bearish hedge is First Group (£FGP). They do buses in a lot of UK regions and also Greyhound in the US. Atm they are about 90p but right before the pandemic they seemed stable around £1.20.
+
+There might be a slightly more optimum time to invest in them but I like now as with lockdown in the U.K. supposed to be starting to end in April there’s going to be a flurry of activity in local areas, coaches as well since flying is still going to be riskier. I’m building a position in them slowly as I’m in on a budget, let’s see if I’m vindicated",Likeabirdonawing,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9znr8/,0.026,0.852,0.122,0.8918
+328,FRSX, FRSX is the next big thing in EV. They might gonna buy the companies or it’s gonna announce joint venture with big car makers,PutsOnYourWife,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpa91do/,0.0,1.0,0.0,0.0
+329,CRMD, Is  CRMD a pick up now?,Chrononubz,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpaszo1/,0.0,1.0,0.0,0.0
+330,DD, SHRG is making some serious moves today. Read some DD here on Friday and over the weekend and got 2350 @ $0.32. Very happy rn,eggfriedbryce,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpb162k/,0.048,0.806,0.146,0.5709
+331,SENS, $[SENS.CN](https://SENS.CN) is on the move! up 36%,Fortuna38,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpb6hcv/,0.0,1.0,0.0,0.0
+332,TYME," Struggling to decide what I think about TYME, seems good but there’s a lack of analysis to go with the forecasts ive seen for 8+ bucks by the end of the year, not sure how I feel about it",_AlphaDog1Bravo_,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpb7859/,0.177,0.776,0.047,-0.6534
+333,CBD," HIPH seems like it’ll blow up really soon. CBD infused water, upcoming catalysts, dipped price. Not a financial advisor but I’ve got a good feeling about this one. Thoughts?",boopbeepbi,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbhgx5/,0.0,0.766,0.234,0.7469
+334,GHSI, I bought some GHSI stocks my order got executed but I didnt get my stocks? when i check my positions its not there and I didn't get a trading confirmation on my email. Can somebody tell me why this happened bc I just lost money bc of that☠️☠️☠️☠️,LooseSatisfaction709,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbrkqi/,0.067,0.933,0.0,-0.4497
+335,XONE, Been watching XONE for a month now and it seems promising. Got in at 30 and planning to sell at 60. Any thoughts?,420DildoSwaggins69,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpc2qgr/,0.0,0.886,0.114,0.4019
+336,RH, Just switched to fidelity from RH. Am I only able to trade pennies with settled cash?,BananaBob55,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpc4jwp/,0.0,1.0,0.0,0.0
+337,PULM, Glad to see PULM w/a steady growth today. That damn stock was starting to worry me.,DustinGoesWild,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpc6jrl/,0.241,0.517,0.241,0.0
+338,GTE," How to find out if there are alot of shorts on GTE. Something fishy with this stock every day. Had good earnings report and outlook. Price seems to stay the same every day goes down then while markets are closed it
+Goes back up",raths1,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpc73mx/,0.0,0.937,0.063,0.4404
+339,DD," Do what do we think of MINE? Saw some questionable DD a few weeks ago, company might be legit?",cheesingMyB,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpb0dhs/,0.131,0.869,0.0,-0.3736
+340,DD," Do some research on RXMD (OTCQB)
+
+Check out the massive DD that was posted here last week. Check out the news on their investorhub page. Review their information on otcmarkets.com. 
+
+It went down with most the market last week, but the charts look like some consolidation may have occurred, RSI cooled down, and as of right now, it’s heading back up.",dudewheresmychocobo,0,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbxf4v/,0.0,0.949,0.051,0.5023
+341,RSI," Do some research on RXMD (OTCQB)
+
+Check out the massive DD that was posted here last week. Check out the news on their investorhub page. Review their information on otcmarkets.com. 
+
+It went down with most the market last week, but the charts look like some consolidation may have occurred, RSI cooled down, and as of right now, it’s heading back up.",dudewheresmychocobo,0,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbxf4v/,0.0,0.949,0.051,0.5023
+342,DNN, Congrats man.  Literally had my finger on the TRADE button and got DNN calls instead.  Never traded options until now but it woulda been nice to start with a quick win like that.,ruck_my_life,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbzngu/,0.0,0.661,0.339,0.9366
+343,BIG, BIG time.,Grasshopper-88,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpazmrk/,0.0,1.0,0.0,0.0
+344,EOD," Come EOD tomorrow, this could either have been an extremely sensible move, or a case of pulling the trigger too early. Either way, it's good to get out with some gains just in case!",Wombizzle,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpcdegb/,0.0,0.847,0.153,0.68
+345,RH," If you use RH then use the search tab and go to a sector you like, sort by price and look for interesting low price companies. Do research. Viola. 
+
+Start small. Be smart. Research Research Research",Jallen_Sandusky,-2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9ogn4/,0.051,0.756,0.193,0.7003
+346,UI," Schwabb and Fidelity have most pennies and have free trades with no minimums for US citizens. Both could use UI work. I have WeBull installed for the IU, but use Fidelity and Schwabb for trading.",Lurker_Posts,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpb3s47/,0.045,0.895,0.06,0.1406
+347,DD," its coming up today , now iam glad i bought in at the dip ,  i wouldnt have if i had saw that DD ,dumb lucks better than no luck",Brian2372,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbarrg/,0.153,0.528,0.319,0.7184
+348,RS," Whats your goal on this? Im in at 1ish, obv up but idk.if I reclaim and play house money or let it ride. RS have always fkd me in the past",Eldo99,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbkq76/,0.0,0.903,0.097,0.4767
+349,SNGX, SNGX has been frustrating me the last couple of weeks.  Just about ready to cut it out.,Noarchsf,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpcc1u7/,0.233,0.651,0.116,-0.3612
+350,CTXR, Get in on aabb before the app release lol. Or CTXR before phase 3 . I’m sure there’s others out there with similar news,spinning_leaves,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpcdqo3/,0.0,0.797,0.203,0.6249
+351,DD," some of these DD posts are awesome for this actually, just look past the top 5 posts on the sub. some deeper digging can lead to some great finds",throwaway_fake_bot,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpcdao7/,0.0,0.714,0.286,0.875
+352,CTRM, Something about CTRM got you spooked?,ireallydontcare52,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpb0owr/,0.0,1.0,0.0,0.0
+353,IBKR," Just change the answers mate....standard set of questions by all brokers to cover themselves... in case the client sues the broker for blowing up the account... broker has to show to regulatory body that they are picking up clients who have experience and enough risk money... question needs to be asked newbies have to start from somewhere though with zero experience and small account.... where they going to start from....anyway...
+
+a quick info for you.... IBKR charges commissions....if you have $25K deposit, schwab is a better option as they are commission free... if you don't have $25K deposit tastytrade is another one which provides commission free but they don't provide OTC stocks....",GhAbhi,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpaoxk6/,0.027,0.936,0.036,0.25
+354,TDA," Schwab because there are no fees and they allow trading of all OTC, even no info pink sheets. TDA/Etrade have fees, Fidelity doesn't allow no info.
+
+Robinhood/Webull don't allow OTC at all",imadogg,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9ohzn/,0.172,0.679,0.149,-0.2263
+355,SOS," SOS is such a dumpster fire man, so much bad PR. I bought in @ 4 and sold @ 7. Then of course my greedy ass bought back in again @ 9 before the P&D allegations happened. Sold at a loss last week.",DustinGoesWild,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbhdir/,0.354,0.646,0.0,-0.931
+356,EBON," Sold my SOS but I still hold MARA, EBON, and BKLLF",yzy2020,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbrx9u/,0.0,1.0,0.0,0.0
+357,MARA," Sold my SOS but I still hold MARA, EBON, and BKLLF",yzy2020,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbrx9u/,0.0,1.0,0.0,0.0
+358,SOS," Sold my SOS but I still hold MARA, EBON, and BKLLF",yzy2020,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbrx9u/,0.0,1.0,0.0,0.0
+359,TXMD," Buy TXMD, it cannot perform much worse.  I'm being Machiavellian, of course.",DonkeyClownVacation,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpbggr0/,0.0,0.812,0.188,0.3724
+360,CE," Yep select platforms aren’t allowing, but once the CE is removed, it will be allowed and it will sky rocket.",aleve089,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpay79i/,0.0,0.922,0.078,0.1531
+361,RH, What is RH,casakilla,0,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9pnro/,0.0,1.0,0.0,0.0
+362,PT," I can see their incentive to exaggerate the PT upwards. Are there cases of them publishing a deceptively low PT, if so, what would the motive be? Help out shorts perhaps ?",Sheriffthompson,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpc0b3r/,0.108,0.73,0.162,0.4329
+363,IBKR," It does feel like the old ""10 years of experience for an entry level job"" meme.
+
+Cheers for the broker options, unfortunately all I want to do is trade a few hundred bucks for pennies until I find my feet. I'm a long way off being able to deposit $25k, I'll ride out IBKR for now.",MorrowDisca,1,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpav6y0/,0.042,0.838,0.12,0.5423
+364,TD," 100%. I bought at 50 cents, so the reverse split has my original investment up 300% but I can't do anything until TD updates",Dahki,2,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gpc9cfb/,0.0,0.927,0.073,0.1655
+365,RH, Starting to use fidelity as well but I still have my RH account and use it for it's GUI.,Jallen_Sandusky,0,/r/pennystocks/comments/luzwb7/the_lounge_thoughts_noob_stuff_low_effort_brokers/gp9qmfy/,0.0,0.916,0.084,0.1406
+366,DD, Please provide the link to verify the claims in your post. This also isnt considered DD.,miamihausjunkie,1,/r/pennystocks/comments/lve3er/asti_nasa_picks_their_product_for_test_flights/gpbf84a/,0.0,0.867,0.133,0.3182
+367,DD, This is the quality of DD we need here,taratga,-2,/r/pennystocks/comments/lve3er/asti_nasa_picks_their_product_for_test_flights/gpbdwaf/,0.0,1.0,0.0,0.0
+368,AMZN," Use your own judgement. This is why I don’t bother talking  %’s like many do on here. 
+
+Imagine saying that when AMZN was $3 and went to $6. And one didn’t buy because they thought it was too late with a 100% gain.",Greenies21,4,/r/pennystocks/comments/lve3er/asti_nasa_picks_their_product_for_test_flights/gpbrjbl/,0.052,0.821,0.127,0.5423
+369,DD," Possibly as it hasn't retested it's high from February.
+
+I bought in Dec 2020 and wish I had put more in it then. But I have no idea if it will go up further. Do your DD on this stock and where you think the world is going.",veilwalker,1,/r/pennystocks/comments/lve3er/asti_nasa_picks_their_product_for_test_flights/gpbtih4/,0.046,0.898,0.056,0.128
+370,IDXX, Please fat finger while purchasing so you support Maine by way of buying IDXX.....just saying 😝😀,TheSpottedBuffy,6,/r/pennystocks/comments/lvaytu/idex_ideanomics_files_for_common_stock_offering/gpb1atm/,0.0,0.726,0.274,0.6461
+371,GNUS, IDEX basically on the XSPA and GNUS level of CHUMP N DUMP,SSPolcyc,3,/r/pennystocks/comments/lvaytu/idex_ideanomics_files_for_common_stock_offering/gpc3kyi/,0.25,0.75,0.0,-0.516
+372,IDEX, IDEX basically on the XSPA and GNUS level of CHUMP N DUMP,SSPolcyc,3,/r/pennystocks/comments/lvaytu/idex_ideanomics_files_for_common_stock_offering/gpc3kyi/,0.25,0.75,0.0,-0.516
+373,XSPA, IDEX basically on the XSPA and GNUS level of CHUMP N DUMP,SSPolcyc,3,/r/pennystocks/comments/lvaytu/idex_ideanomics_files_for_common_stock_offering/gpc3kyi/,0.25,0.75,0.0,-0.516
+374,CLSK," DNN UUUU (uranium) CLSK STPK (energy storage)
+
+I still need a pure solar play if anyone has recs, preferably small cap",greenwave666,5,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpa37d9/,0.0,0.882,0.118,0.34
+375,DNN," DNN UUUU (uranium) CLSK STPK (energy storage)
+
+I still need a pure solar play if anyone has recs, preferably small cap",greenwave666,5,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpa37d9/,0.0,0.882,0.118,0.34
+376,AFC," I will keep AFC ENERGY a company that is active in the field of fuel cells and hydrogen.
+
+And ST-GEORGES ECO MINING because they are the first and only company that has a good recycling concept for batteries (from e-mobility).",Germanystrade,3,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpa6a20/,0.0,0.801,0.199,0.8143
+377,CCJ," More uranium plays: UEC, URG, & CCJ",uGotMeWrong,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpam2d8/,0.0,0.687,0.313,0.3134
+378,UEC," More uranium plays: UEC, URG, & CCJ",uGotMeWrong,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpam2d8/,0.0,0.687,0.313,0.3134
+379,URG," More uranium plays: UEC, URG, & CCJ",uGotMeWrong,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpam2d8/,0.0,0.687,0.313,0.3134
+380,KOS," I like KOS.  
+
+Holding OXY and SLB long but those aren't pennies.",Designer_Skirt2304,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gp9srhj/,0.0,0.851,0.149,0.1901
+381,OXY," I like KOS.  
+
+Holding OXY and SLB long but those aren't pennies.",Designer_Skirt2304,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gp9srhj/,0.0,0.851,0.149,0.1901
+382,SLB," I like KOS.  
+
+Holding OXY and SLB long but those aren't pennies.",Designer_Skirt2304,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gp9srhj/,0.0,0.851,0.149,0.1901
+383,CPG, CPG.TO   I believe they also trade in USD,MrJerk_MrPoop,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gp9z0wv/,0.0,1.0,0.0,0.0
+384,LNG, $TELL has a big potential as the long term demand for LNG is growing. It is a long term hold stock.,maxim13579,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpa16y4/,0.074,0.842,0.084,0.0516
+385,GOOD," I like GOOD energy, uk renewable utility and EV play since they bought Zap Map",intricateunderdog,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpacgy4/,0.0,0.485,0.515,0.8636
+386,BEP, Not penny stocks but im going hard in CSIQ and BEP. Both in renewable energy sector,ggdrc,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpakk2m/,0.088,0.767,0.145,0.2617
+387,CSIQ, Not penny stocks but im going hard in CSIQ and BEP. Both in renewable energy sector,ggdrc,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpakk2m/,0.088,0.767,0.145,0.2617
+388,GVP, GVP,Sakilection69,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpbah1s/,0.0,1.0,0.0,0.0
+389,SP," Agree on RECAF.  
+
+1. Warrants being exercised until March 18.  Once complete, downward pressure on SP reduces and company will have debt free funds for exploration
+2. Many holders just figured out that first three exploratory wells will take longer to complete than they figured....RECAF knew it would take longer but average person did not.  The variance tells me to buy later this week once the price drops a little lower.....although.....buying now is only a short term drop
+3. Yes, speculative but it's a gamble I'm willing to take based on projected share prices once reserves, and quantity, are proven.  $3-$3.50/share, hold for a year...reduces tax to long term capital gains and we potentially have a $25 -$40/share stock",divesaw,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpasmxs/,0.047,0.812,0.141,0.872
+390,CCJ, Got CCJ just didn’t include bc not penny. UEC URG NXE on watch.,jbrownwood,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpamjfb/,0.0,1.0,0.0,0.0
+391,NXE, Got CCJ just didn’t include bc not penny. UEC URG NXE on watch.,jbrownwood,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpamjfb/,0.0,1.0,0.0,0.0
+392,UEC, Got CCJ just didn’t include bc not penny. UEC URG NXE on watch.,jbrownwood,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpamjfb/,0.0,1.0,0.0,0.0
+393,URG," URG earnings call seemed positive overall, they have $14mil cash, $8mil inventory at current spot price, retained the staff, primary site on standby, a second site awaiting permits and are ready to roll for when orders start coming. Looks like a good hold overall. Thoughts?",common_loot,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gparkqy/,0.0,0.751,0.249,0.891
+394,AA, I have KOS towards the top of my watchlist! I’m holding XOM PBR MRO CCJ X FCX VALE AA that aren’t pennies.,jbrownwood,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gp9tacl/,0.0,0.901,0.099,0.2714
+395,FCX, I have KOS towards the top of my watchlist! I’m holding XOM PBR MRO CCJ X FCX VALE AA that aren’t pennies.,jbrownwood,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gp9tacl/,0.0,0.901,0.099,0.2714
+396,KOS, I have KOS towards the top of my watchlist! I’m holding XOM PBR MRO CCJ X FCX VALE AA that aren’t pennies.,jbrownwood,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gp9tacl/,0.0,0.901,0.099,0.2714
+397,MRO, I have KOS towards the top of my watchlist! I’m holding XOM PBR MRO CCJ X FCX VALE AA that aren’t pennies.,jbrownwood,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gp9tacl/,0.0,0.901,0.099,0.2714
+398,XOM, I have KOS towards the top of my watchlist! I’m holding XOM PBR MRO CCJ X FCX VALE AA that aren’t pennies.,jbrownwood,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gp9tacl/,0.0,0.901,0.099,0.2714
+399,LNG," You should check out TGLO. Likely a reverse merger with Delfin LNG, which will be a competitor to TELL. FID is due this year and permits are in place. Check it out on investors hub.",oceanbIue,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpa25jd/,0.0,1.0,0.0,0.0
+400,TELL," You should check out TGLO. Likely a reverse merger with Delfin LNG, which will be a competitor to TELL. FID is due this year and permits are in place. Check it out on investors hub.",oceanbIue,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpa25jd/,0.0,1.0,0.0,0.0
+401,CPG, I think CPG has potential to hit $8 at least by September. Whats your position on it?,MrJerk_MrPoop,1,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpa0hzd/,0.0,1.0,0.0,0.0
+402,DD," I agree. Obviously majority of penny stocks are speculative.  Personally, I prefer to do my own DD before pulling trigger on any of them. I found $TELL more legit than many other companies mainly because of the management team and the prospect of LNG (natural gas) compare to other fossil energy such as coal and oil.",maxim13579,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpa2ayo/,0.0,0.857,0.143,0.7351
+403,LNG," I agree. Obviously majority of penny stocks are speculative.  Personally, I prefer to do my own DD before pulling trigger on any of them. I found $TELL more legit than many other companies mainly because of the management team and the prospect of LNG (natural gas) compare to other fossil energy such as coal and oil.",maxim13579,2,/r/pennystocks/comments/lv0tql/what_energy_related_stocks_are_you_guys_loading/gpa2ayo/,0.0,0.857,0.143,0.7351
+404,DD," You see? This guy gets it. He gets it. He does some f\*\*king solid DD. The sincerity is high and super. The excitement is fundamental. This is the DD I like and the type I perform. I have given an award, I am following this guy and I am buying shares. Simple. Math.",drkooplovesme,4,/r/pennystocks/comments/lva2t4/iwsy_short_squeeze_reversal_indication_new_board/gpbvd5a/,0.0,0.713,0.287,0.9423
+405,DD," That sounds like the future we all hope for but the DoT already knows about how shit the roads are and does nothing. I'm not sure why they would spend money on an alert system when they wont spend money on potholes that have birthdays.
+
+I like the product but I'll have to do more DD",Azurehour,2,/r/pennystocks/comments/lvgpsv/darkpulse_industries/gpc8blg/,0.075,0.746,0.18,0.6017
+406,CGC," Canopy CGC WEED is backing Slang through a complex financial arrangement that it uses to comply with the Toronto Stock Exchange’s policy of de-listing pot business that operate in territories where cannabis is federally illegal, as it is in the U.S.
+
+Canopy has acquired warrants that allow it to buy about 20% of Slang if the U.S. legalizes cannabis federally. It also works with Canopy through Agripharm Corp., a Canadian-licensed producer that is 40% owned by one of Canopy’s subsidiaries. Slang owns 20% of Agripharm.",katz321,1,/r/pennystocks/comments/lurm9h/cannabis_stock_research/gp975q3/,0.042,0.924,0.035,-0.3818
+407,DD," You said it best.. marketing is horrible... i too was going in but after DD ... ill pass .... i may be wrong up to u
+
+
+Not an advisor",Sign7ven,4,/r/pennystocks/comments/luzhv8/hbrm_is_it_becoming_a_legit_company/gp9k85g/,0.246,0.754,0.0,-0.8338
+408,THG, I had some a month or 2 ago sold for profits and jumped back in recently so I'm holding 300k-ish shares. I too wonder why they aren't talked about more especially because they have a partnership with THG (the hut group) there ticker trades for over 700 in London I believe. Also rumors that THG is considering entering the US markets and could potentially purchase a smaller company like HBRM to do so. The purchase may be wishful thinking but the partnership is easily verified.,Moe702,1,/r/pennystocks/comments/luzhv8/hbrm_is_it_becoming_a_legit_company/gpa5d19/,0.0,0.898,0.102,0.7506
+409,FREE," Great news! KAVL made it into my FREE MONEY club/piggy bank. Stocks that price increases 240-300 % then I recoup initial investment and the hold the remaining shares.
+
+I started buying 1/7 for 0.52 then in the next 4 weeks I added more at 0.73 + 0.80 + 1.23 + 1.72.",NPRjunkieDC,4,/r/pennystocks/comments/lva3t1/kavl_reaffirms_revenue_guidance_for_2021_at/gpaxz0y/,0.0,0.79,0.21,0.8916
+410,IQ," Oh, no. Now that I’m in the collective IQ of the group is plummeting about 80 points. You should probably sell now.",Iredditfromwork,2,/r/pennystocks/comments/lvcdc4/one_ticker_for_tendie_town_please_sponsorsone_otc/gpcbfml/,0.095,0.905,0.0,-0.296
+411,DD, Solid DD. Just put in an order for 500 shares.,bigj953,2,/r/pennystocks/comments/luve09/inner_spirit_holdings_inshf_a_rapidly_expanding/gp90idh/,0.0,0.678,0.322,0.4215
+412,DD, Boom baby. DD in my history. Been pushing this since June!,thee_defiant_one,6,/r/pennystocks/comments/lvhl9l/opti_in_discussion_with_smarphonetablet/gpbxrfr/,0.0,1.0,0.0,0.0
+413,OPTT, OPTT is where it’s really at tho,roosoh,2,/r/pennystocks/comments/lvhl9l/opti_in_discussion_with_smarphonetablet/gpc7qfu/,0.0,1.0,0.0,0.0
+414,AM, Grab some tomorrow AM so we can all hop in,zentraudur,5,/r/pennystocks/comments/lvhl9l/opti_in_discussion_with_smarphonetablet/gpc5q4x/,0.0,1.0,0.0,0.0
+415,DD," Good DD but I think I'm out. 
+
+&#x200B;
+
+""In negotiation..."" doesn't mean jack. It could be they sent an email to 7-11 and got an automated response from Sarah P on leave for the next 3 days. I have see too many of the savvy OTCs using vague PRs and tweets to lure gullible buyers.",chronoistriggered,1,/r/pennystocks/comments/luzrnt/rrrt_get_your_energy_drinks_here_ticker_i/gpa17hn/,0.112,0.853,0.035,-0.4939
+416,MLM, Looks like a brochure for an MLM company....,dupree97,-3,/r/pennystocks/comments/luzrnt/rrrt_get_your_energy_drinks_here_ticker_i/gp9qdln/,0.295,0.47,0.235,-0.1613
+417,DD," Who is we? Did you read my DD?
+
+I write at the end that it's a legit possibility. I'm not an expert on energy drinks, or beverages, or stocks. It can disappear, and this DD was made to spell out all the big changes happening and catalysts that are promising.
+
+It's definitely not a sure thing, but yea let me know if you actually read the million words I wrote lol",imadogg,10,/r/pennystocks/comments/luzrnt/rrrt_get_your_energy_drinks_here_ticker_i/gp9mezg/,0.04,0.833,0.127,0.7491
+418,DD," Is your grandma hot?
+
+Feel free not to invest, I don't work for them and it doesn't bother me either way. Just providing DD with pros and cons. They weren't active on Twitter and I was surprised they had 800+ followers on IG, not even sure why they'd have that many.",imadogg,7,/r/pennystocks/comments/luzrnt/rrrt_get_your_energy_drinks_here_ticker_i/gp9p23f/,0.076,0.793,0.13,0.4617
+419,IMO, I'd rather go long with $MILF than get into WDLF.  $MILF is a better investment IMO,Financialporn,1,/r/pennystocks/comments/lvez6d/wdlf_mjlinks_reg_a_tier_2_preipo_offering_is/gpbvv1f/,0.0,0.828,0.172,0.4404
+420,DD, I'll have to do some deeper DD but company premise seems interesting. Based on other vegan stocks there is absolutely a want for these in the market.,sbPhysicalGraffiti,3,/r/pennystocks/comments/lvekq5/else_nutrition_babyf_without_a_doubt_the_best/gpbp0mi/,0.0,0.815,0.185,0.664
+421,DD," I haven't found enough to deter me from putting a little coin here. But my DD game is weak still.
+
+Oh except that my broker won't let me buy the stock 😡",jiminy_cricks,1,/r/pennystocks/comments/luyi7s/inner_spirit_holdings_otc_inshf_cseish_the_future/gpau3qr/,0.094,0.906,0.0,-0.4404
+422,PULM," The only way I see is if the entire market gains more confidence in general 
+
+JnJs relationship is based on licensed molecules / Lung cancer / COPD research.
+
+But that being said; the post covid symptoms and long term conditions related to covid position PULM amazingly within JnJs pipeline.
+
+Couple that with their Cipla agreement and Sensory Cloud agreement, you have a lot of positive factors in play once the market isn’t bearish",VoodooLoveDr,9,/r/pennystocks/comments/luxmgt/will_jj_affect_pulm_at_all/gp9csd2/,0.052,0.731,0.217,0.9184
+423,PULM," Pre market crash (or correction, whichever this one is) PULM  was betwenn 2 and 2.2. Friday it got knocked down to 1.55. In a month's time the market will go back to as it was, so should PULM. If you're worried about holding a bag then you would need to hold one for a month at least. Plus, they have earnings coming up in March, NASDAQ's site estimates March 25th, so last part of March. 
+
+And whether J&J vaccine  news will affect PULM, probably not. 
+
+BUT know this, institutional investors are serious about this stock, they have loaded up during offering and during the dip. You can look it up on Fintel yourself. And Vanguard owns a lot.
+
+Long story short- PULM is a good stock to own in the middle of all this Red.",SmoothCourage,5,/r/pennystocks/comments/luxmgt/will_jj_affect_pulm_at_all/gp9qx9i/,0.037,0.935,0.029,0.2382
+424,BJ," RH typical won’t let you play in the penny sandbox. Not sure about Fid. 
+
+Do your DD...lots of trash in these unforgiving streets. If it’s up 300% you missed the wave...let it go, and get ready for a while new level of volatility, did I say validate any DD?? Yeah that!
+Lots of action on Twitter and YT as well.....
+
+Or just go to the club drop your $5 bills and ask for a BJ.....
+
+About the same odds",Dayold_Hot_dog_water,23,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gp8mqx9/,0.073,0.807,0.12,0.6111
+425,DD," RH typical won’t let you play in the penny sandbox. Not sure about Fid. 
+
+Do your DD...lots of trash in these unforgiving streets. If it’s up 300% you missed the wave...let it go, and get ready for a while new level of volatility, did I say validate any DD?? Yeah that!
+Lots of action on Twitter and YT as well.....
+
+Or just go to the club drop your $5 bills and ask for a BJ.....
+
+About the same odds",Dayold_Hot_dog_water,23,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gp8mqx9/,0.073,0.807,0.12,0.6111
+426,RH," RH typical won’t let you play in the penny sandbox. Not sure about Fid. 
+
+Do your DD...lots of trash in these unforgiving streets. If it’s up 300% you missed the wave...let it go, and get ready for a while new level of volatility, did I say validate any DD?? Yeah that!
+Lots of action on Twitter and YT as well.....
+
+Or just go to the club drop your $5 bills and ask for a BJ.....
+
+About the same odds",Dayold_Hot_dog_water,23,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gp8mqx9/,0.073,0.807,0.12,0.6111
+427,DD," No one can exactly tell you what to invest in without the use of a crystal ball. Explore this sub, find a ticker/DD that sounds attractive to you and do some research. Otcmarkets is a great source of information, you can look for share structure, company profile, news, financials, fillings like 10-K etc. 
+
+You can use stocktwits or InvestorsHub to see what people are saying about your stock and/or ask questions and potentially find information there but be cautious of pumpers/bashers.
+
+Sectors I’m looking at are blockchain, biotech, drones, cannabis etc. Hopefully this can get you started.",IPractiseAlchemy,7,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gp8m4sr/,0.031,0.856,0.112,0.802
+428,DD, I just started to. But I put 500 into my account and only bought 200 worth of stock so far. I also purchased small amounts like 20 worth of this stock and 20 of another and so on. I mostly put stocks I see here on my watch list and do more DD  on the ones II may like. I figured if people are not making money here then why does this exist.,Other-Lobster,3,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gp8r4ko/,0.0,0.877,0.123,0.7783
+429,DD," Do Your DD every Time no matter What, only Invest What you can afford to lose, a great tool to use is Hype-rider to see What you pick for DD",Alternative_Animal40,3,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gp8s1nd/,0.14,0.712,0.148,0.0772
+430,ALL," Complete amateur here. Just started a month ago, by no means am I an expert. Here's my process so far:
+Fair warning, it's a lot of googling & reading, you really have to love research & playing detective. If you don't like that stuff just go do Acorns or something. Much easier.
+
+The process:
+Learn how to look at a company's financials. You can pretty much google it for whoever, no matter how small. Are they growing or shrinking? Have they ever turned a profit? Does it look like they are on track to turn a profit if they are not yet? And then why? Always why. Understand the industry they are in. Does the company have a long-term growth trajectory? How stable/talented is their company leadership? Are there any major articles written about them, or the industry they are in? When I look the company up on google maps, are they operating out of a cardboard box behind a Domino's or do they have significant commercial property to cover the size of their company/operation? Etc. Etc. Etc. Do your DD. You will always miss something...but if you get to a point where you feel good after a lot of DD, chances are it's a good buy. Never buy based on looks. Do the DD. Make sure you diversify relatively well (don't put ALL your eggs in one basket). And then after you buy, hold. It's my firm belief that short-term plays are a waste of your time. Any stock I buy I intend to hold for a period of longer than 6 months. 10 months. Years. More. Just depends.",ultraveler,2,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gpa15r2/,0.055,0.794,0.15,0.9753
+431,DD," Complete amateur here. Just started a month ago, by no means am I an expert. Here's my process so far:
+Fair warning, it's a lot of googling & reading, you really have to love research & playing detective. If you don't like that stuff just go do Acorns or something. Much easier.
+
+The process:
+Learn how to look at a company's financials. You can pretty much google it for whoever, no matter how small. Are they growing or shrinking? Have they ever turned a profit? Does it look like they are on track to turn a profit if they are not yet? And then why? Always why. Understand the industry they are in. Does the company have a long-term growth trajectory? How stable/talented is their company leadership? Are there any major articles written about them, or the industry they are in? When I look the company up on google maps, are they operating out of a cardboard box behind a Domino's or do they have significant commercial property to cover the size of their company/operation? Etc. Etc. Etc. Do your DD. You will always miss something...but if you get to a point where you feel good after a lot of DD, chances are it's a good buy. Never buy based on looks. Do the DD. Make sure you diversify relatively well (don't put ALL your eggs in one basket). And then after you buy, hold. It's my firm belief that short-term plays are a waste of your time. Any stock I buy I intend to hold for a period of longer than 6 months. 10 months. Years. More. Just depends.",ultraveler,2,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gpa15r2/,0.055,0.794,0.15,0.9753
+432,SENS, Spend it all on SENS,OMGhowcouldthisbe,1,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gp9ofmz/,0.0,1.0,0.0,0.0
+433,CTXR," HITIF, CTXR, BEVVF the penny stocks reddit folk all seem to really like. I like these stocks as well. Also I am a hardcore Charles Schwab fan because I've had good experiences with their customer service team, I majorly screwed up setting up my account and they helped me fix it. 👍",ultraveler,2,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gpa195r/,0.061,0.715,0.225,0.8122
+434,DD, This ones good. Legitimate company that went to penny status due to corona shut downs and loss of majority of revenue. They just recently launched an online service similar to Netflix for subscribers in China and are releasing another movie to be shown in theaters this April. I'm exceptionally excited for this one. Do your DD and try to get in before it gets to dollar territory. This one was trading at $20 less than a year ago. Like with all pennies there is always a risk but I have a really good feeling about this one.,ohpsies,2,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gpag261/,0.032,0.841,0.127,0.8231
+435,MO," MO = 8% dividend, quarter after quarter.
+
+RKT = special $1.1 per share dividend was just announced, you need to buy in quickly, though.
+
+When reviewing dividends, look at history of payouts and try to get a sense how things are going in current quarter.",unamused443,2,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gp8xbfq/,0.0,0.891,0.109,0.5994
+436,RKT," MO = 8% dividend, quarter after quarter.
+
+RKT = special $1.1 per share dividend was just announced, you need to buy in quickly, though.
+
+When reviewing dividends, look at history of payouts and try to get a sense how things are going in current quarter.",unamused443,2,/r/pennystocks/comments/lusqx4/beginner_in_penny_stocks_where_to_start/gp8xbfq/,0.0,0.891,0.109,0.5994
+437,DD," I’ve been researching cannabis stocks and regarding my DD, this company looks a bit undervalued for the industry and they financials. Ofc it’s better to do your own research before investing",now_is_time,1,/r/pennystocks/comments/lv4ccb/orvrf_cannabis_penny_stock_with_huge_potential/gpb0pfb/,0.0,0.909,0.091,0.4404
+438,TD," Just be aware that any company with an F at the end of the ticker symbol is a foreign company and most Brokerages charge an extra fee To handle them. For TD Ameritrade  it's $15 on any transaction, buy or sell.",FinancialSituation11,3,/r/pennystocks/comments/luuynm/bbrrf_blueberries_medical_due_diligence_dd/gp95ehx/,0.0,1.0,0.0,0.0
+439,OCGN," I have shares in OCGN but Why do you think OCGN will benefit from this covid relief bill when it’s main attraction is providing stimulus checks to people. OCGN phase 3 trial results aren’t out yet and there’s a recent motion to vote on whether to dilute the stock, which is going to happen. The success of OCGN depends on phase 3 followed by FDA approval not the covid relief bill.",waitmyhonor,1,/r/pennystocks/comments/luzg8k/penny_stocks_that_will_go_up_with_the_covid/gp9tenk/,0.0,0.689,0.311,0.9819
+440,RMTI, TICKER: RMTI,Kusiroll,1,/r/pennystocks/comments/lvbd3a/rock_and_roll_rockwell_medical_potential_catalyst/gpazc8d/,0.0,1.0,0.0,0.0
+441,DD, looks like it a great hold im gonna do some DD,Quick-Wall,1,/r/pennystocks/comments/lvbd3a/rock_and_roll_rockwell_medical_potential_catalyst/gpb39aj/,0.0,0.548,0.452,0.765
+442,AI," I’ve been using the app and the predictions seem to be working.  Told me to sell BTC last night before the dip, and to buy the dip today before it went back up.  Not sure if it’s just technical analysis trickery, but if it helps swing trading for dummies like me who cares.  Fact is there are millions (maybe even billions) of people trading BTC and ETH, probably more than any other “commodity”.  If this catches on in a fraction of that market the SaaS revenue will be huge.
+
+Their police HR application sounds like a promising revenue stream in these times.  The CEO said they devote 70% of their staff on the engine and the rest on things like this and the crypto app.
+
+I think owning a few of these AI startups is a good move.  Never know which ones will take off.",badmotorfingers,1,/r/pennystocks/comments/lut27w/digicrypts_blockchain_solutions/gp946j8/,0.019,0.793,0.188,0.9827
+443,CEO," I’ve been using the app and the predictions seem to be working.  Told me to sell BTC last night before the dip, and to buy the dip today before it went back up.  Not sure if it’s just technical analysis trickery, but if it helps swing trading for dummies like me who cares.  Fact is there are millions (maybe even billions) of people trading BTC and ETH, probably more than any other “commodity”.  If this catches on in a fraction of that market the SaaS revenue will be huge.
+
+Their police HR application sounds like a promising revenue stream in these times.  The CEO said they devote 70% of their staff on the engine and the rest on things like this and the crypto app.
+
+I think owning a few of these AI startups is a good move.  Never know which ones will take off.",badmotorfingers,1,/r/pennystocks/comments/lut27w/digicrypts_blockchain_solutions/gp946j8/,0.019,0.793,0.188,0.9827
+444,ETH," I’ve been using the app and the predictions seem to be working.  Told me to sell BTC last night before the dip, and to buy the dip today before it went back up.  Not sure if it’s just technical analysis trickery, but if it helps swing trading for dummies like me who cares.  Fact is there are millions (maybe even billions) of people trading BTC and ETH, probably more than any other “commodity”.  If this catches on in a fraction of that market the SaaS revenue will be huge.
+
+Their police HR application sounds like a promising revenue stream in these times.  The CEO said they devote 70% of their staff on the engine and the rest on things like this and the crypto app.
+
+I think owning a few of these AI startups is a good move.  Never know which ones will take off.",badmotorfingers,1,/r/pennystocks/comments/lut27w/digicrypts_blockchain_solutions/gp946j8/,0.019,0.793,0.188,0.9827
+445,HR," I’ve been using the app and the predictions seem to be working.  Told me to sell BTC last night before the dip, and to buy the dip today before it went back up.  Not sure if it’s just technical analysis trickery, but if it helps swing trading for dummies like me who cares.  Fact is there are millions (maybe even billions) of people trading BTC and ETH, probably more than any other “commodity”.  If this catches on in a fraction of that market the SaaS revenue will be huge.
+
+Their police HR application sounds like a promising revenue stream in these times.  The CEO said they devote 70% of their staff on the engine and the rest on things like this and the crypto app.
+
+I think owning a few of these AI startups is a good move.  Never know which ones will take off.",badmotorfingers,1,/r/pennystocks/comments/lut27w/digicrypts_blockchain_solutions/gp946j8/,0.019,0.793,0.188,0.9827
+446,AI, Which other AI startups would u suggest??,Tarron_Tarron,1,/r/pennystocks/comments/lut27w/digicrypts_blockchain_solutions/gp9nsco/,0.0,1.0,0.0,0.0
+447,DM, Datametrex is the one I’m most excited about.  DM.V or DTMXF,badmotorfingers,1,/r/pennystocks/comments/lut27w/digicrypts_blockchain_solutions/gpbmn7s/,0.0,0.788,0.212,0.4005
+448,TGB," I got in 10 days ago.  Down 22% but I'm big on mining stocks.  REEMF + REZZF + CYDVF + ABML + AMYZF + TLOFF + ILHMF + SXOOF + UAMY + FCSMF + MLLOF + HNCKF + TGB + COBCF + BMIX + MNGG. 
+Lithium + copper + nickel + cobalt + manganese + rare earth + silver are important not just for EV batteries but many other uses in chips and many technologies.",NPRjunkieDC,3,/r/pennystocks/comments/lurnca/medallion_resources_ltd_mllof_rare_earth_metals/gp8qg90/,0.0,0.959,0.041,0.296
+449,UAMY," I got in 10 days ago.  Down 22% but I'm big on mining stocks.  REEMF + REZZF + CYDVF + ABML + AMYZF + TLOFF + ILHMF + SXOOF + UAMY + FCSMF + MLLOF + HNCKF + TGB + COBCF + BMIX + MNGG. 
+Lithium + copper + nickel + cobalt + manganese + rare earth + silver are important not just for EV batteries but many other uses in chips and many technologies.",NPRjunkieDC,3,/r/pennystocks/comments/lurnca/medallion_resources_ltd_mllof_rare_earth_metals/gp8qg90/,0.0,0.959,0.041,0.296
+450,DD, It's been falling since I bought on the last DD,Tarron_Tarron,1,/r/pennystocks/comments/lurnca/medallion_resources_ltd_mllof_rare_earth_metals/gp9ntye/,0.167,0.833,0.0,-0.1531
+451,ALL," The fact that China supplies 80% of the rare earths imported by the United States is the huge catalyst for this administration. It applies to ALL sectors, and the new administration is particularly worried about lithium supplies.",GonzalaGuerrera,3,/r/pennystocks/comments/lurnca/medallion_resources_ltd_mllof_rare_earth_metals/gp8mas6/,0.06,0.817,0.123,0.3832
+452,RS," Absolutely insane. I think it can get to 60, sooner with a RS, but for it to hit 60 this company would have to grow exponentially. Even that could take 15 years. 
+
+But.... if we start hitting spaceflight, even commercially let alone recreation, this could take off in a big way. Fast.",redshirt1972,3,/r/pennystocks/comments/lvg4x3/cnns_prediction_on_asti_is_nuts/gpbuel3/,0.087,0.913,0.0,-0.5418
+453,DD, What is a reasonable price target as per you guys?? Forget CNN.. Someone 10 days ago did a DD with a price target of very nominal 0.3 per share 😜.. Even he didn't see this coming from CNN,Tarron_Tarron,1,/r/pennystocks/comments/lvg4x3/cnns_prediction_on_asti_is_nuts/gpbvqo2/,0.051,0.881,0.068,0.168
+454,PT," Yeah its virtually impossible. If it hit 10 Id cream my pants. Even 60 would be insane but 60,000...there's an analyst somewhere who needs to be placed in the loony bin. Found the same PT on marketwatch.
+
+https://www.marketwatch.com/investing/stock/asti/analystestimates",Fart_Huffer_,6,/r/pennystocks/comments/lvg4x3/cnns_prediction_on_asti_is_nuts/gpbrqia/,0.047,0.913,0.041,-0.0644
+455,PT," Yeah its virtually impossible. If it hit 10 Id cream my pants. Even 60 would be insane but 60,000...there's an analyst somewhere who needs to be placed in the loony bin. Found the same PT on marketwatch.",Fart_Huffer_,1,/r/pennystocks/comments/lvg4x3/cnns_prediction_on_asti_is_nuts/gpbs56h/,0.048,0.91,0.042,-0.0644
+456,DD," Please post your Holdings on this DD STOCK
+of yours. Total shares and price purchased. 👍
+Thank you. 😀👍",Guruofallgoodthings,1,/r/pennystocks/comments/lvfrxd/a_sort_of_insider_dd_on_fpvd/gpbngjs/,0.0,0.682,0.318,0.7184
+457,GD," From what I can tell, they acquire high end luxury goods that are ""responsibly"" sourced. They seem to be wholly run by one guy, Adil Idnani.
+
+He also seems to be part of another company GD entertainment and technology. GDET, that seems like a much better stock for this sub in my opinion but only because it is currently .003 priced.",Great_Rhunder,2,/r/pennystocks/comments/lvau1e/clka_just_went_pink_current_this_morning_float/gpb2mr2/,0.0,0.909,0.091,0.5574
+458,DD," Me too. There is some big DD coming out. Look at this. 
+
+[http://investingbulletin.com/2021/02/with-china-investing-13-trillion-in-construction-with-aim-of-zero-carbon-buildings-a-chinese-green-building-manufacturer-is-expected-to-thrive/](http://investingbulletin.com/2021/02/with-china-investing-13-trillion-in-construction-with-aim-of-zero-carbon-buildings-a-chinese-green-building-manufacturer-is-expected-to-thrive/)",belac1804,2,/r/pennystocks/comments/lvah22/zhud_wins_3_year_long_court_case/gpb0iaj/,0.0,1.0,0.0,0.0
+459,CTRM, Just checked most of the ones hyping CTRM are 1 month old accts. Never thought to look that up,samg2020kmudbut,2,/r/pennystocks/comments/lv03fu/ctrm_catalyst_and_long_term_growth_2_aframax_lr2/gpae8c7/,0.0,1.0,0.0,0.0
+460,CTRM, Same. I dumped CTRM while I was still in the green. I see no good reason yet to jump back in yet. If it dips to around 0.75 then maybe consider it based on upcoming catalysts.,lynxtosg03,3,/r/pennystocks/comments/lv03fu/ctrm_catalyst_and_long_term_growth_2_aframax_lr2/gp9suxp/,0.13,0.794,0.077,-0.25
+461,CEO, Not only responsible but the father of the CEO is a titan in the shipping industry,greenwave666,2,/r/pennystocks/comments/lv03fu/ctrm_catalyst_and_long_term_growth_2_aframax_lr2/gpa3p9s/,0.096,0.904,0.0,-0.1232
+462,DD, r/rblx has a bunch of DD on it. Still a small community but it’s well worth it. I personally will be putting in 2K on the day of IPO,Rent2BPaid,3,/r/pennystocks/comments/luycqm/info_on_rblx/gp9g835/,0.0,0.828,0.172,0.6124
+463,AM," Correct. March 10th. Not sure what time, I’m guessing at market open 9:30 AM EST? Can anyone confirm this?",Rent2BPaid,3,/r/pennystocks/comments/luycqm/info_on_rblx/gp9ibhv/,0.114,0.886,0.0,-0.323
+464,TD, TD,monkman99,2,/r/pennystocks/comments/lutqad/best_app_for_canada/gp8xd5e/,0.0,1.0,0.0,0.0
+465,IBKR," Both IBKR and Questrade are good. For penny stocks, if your orders are $1000+ then Questrade is cheaper (comission is capped at $10), and if they are smaller, then IBKR is cheaper (commision is capped at 1%). IBKR also restricts some OTC pinks that Questrade doesn't.",RandomlyGenerateIt,1,/r/pennystocks/comments/lutqad/best_app_for_canada/gp9t7dm/,0.047,0.894,0.059,0.1531
+466,RBC, RBC Direct Investing works for me as does TD Waterhouse,Tiny_hyperbole,0,/r/pennystocks/comments/lutqad/best_app_for_canada/gp8t96n/,0.0,1.0,0.0,0.0
+467,TD, RBC Direct Investing works for me as does TD Waterhouse,Tiny_hyperbole,0,/r/pennystocks/comments/lutqad/best_app_for_canada/gp8t96n/,0.0,1.0,0.0,0.0
+468,RBC," Questrade is way cheaper for penny stocks than RBC, but I've heard that TD is cheaper also.
+
+Disclaimer - I use RBC, Questrade,and Wealthsimple, but all for different things.",AuntiePumaPants,1,/r/pennystocks/comments/lutqad/best_app_for_canada/gp9239j/,0.0,1.0,0.0,0.0
+469,TD," Questrade is way cheaper for penny stocks than RBC, but I've heard that TD is cheaper also.
+
+Disclaimer - I use RBC, Questrade,and Wealthsimple, but all for different things.",AuntiePumaPants,1,/r/pennystocks/comments/lutqad/best_app_for_canada/gp9239j/,0.0,1.0,0.0,0.0
+470,CEO," A lot of hype, quite little substance. They have some kind of industrial febreeze, which has been on the market since 2016. Last year, they also began producing a disinfectant spray because well, pandemics can be great for business. Only news about this company comes from paid for PR such as Proactive Investors.
+
+The graphs are deceptive: while they show Biolargo having stagnant revenues from Q4 2018 to Q4 2020, they don't include operating losses. These have been increasing steadily and remain over $9 million since Q2 2017. In the meantime, CEO has been paying himself a cool $650k a year.
+
+Also seems like there was a big pump on 25 January and the share price has been trending downwards since. Hope those bags aren't too heavy ..",europenny,-1,/r/pennystocks/comments/luu0md/this_environmental_tech_microcap_is_at_tipping/gp9emnd/,0.0,0.845,0.155,0.9593
+471,DD, OP probably spent hours and hours making that long professional quality DD complete with pictures and everything.  Pennystock DD posters go through all of this trouble to help little redditor peoples like you and me.  They give us the goose the lays golden eggs out of genuine kindness from the bottom of their heart.  This stock is percect in every way.  And yet we feel skeptical.  Perhaps we should appreciate their efforts and unzip our bank accounts.,MegaDork2000,5,/r/pennystocks/comments/luu0md/this_environmental_tech_microcap_is_at_tipping/gp8zjoy/,0.062,0.816,0.122,0.6383
+472,AOS," And the jealous basher from the YMB has arrived- it was just a question of time- years and years of spending studying the company without even any skin in the game. 
+So there are a lot of false statements in your post. 
+
+Just this year there were already peer reviewed study releases, a team up with a well established water company formed, an acquisition announced, they pre announced  record breaking Q revenue, they preannounced record breaking K revenues. 
+
+They have record breaking growth rate- even in a pandemic. And the numbers in q4 2020 are double as high as ‘18 - what are you talking about?! 
+Numbers are wrong and You should mention that all management accepts a lot of their salary in shares. 
+Yes, the company used the spike in January for finance purposes who would not at 350% higher prices than the lows= less dilution.  
+We have been waiting for the commercial version of the AOS for years - it was finally shipped and caused a ton of excitement.
+Mark this post - price is at .155 imho an amazing opportunity.
+This is not about penny flipping - it is going for the big bucks - you will be surprised. 
+
+What do you think about the PFAS opportunity?! 
+What do you think about the AOS? 
+GLTY",julian_jakobi,1,/r/pennystocks/comments/luu0md/this_environmental_tech_microcap_is_at_tipping/gp9sqf8/,0.027,0.862,0.11,0.9487
+473,AOS," Not sure how you see it but to me it seems like it is happening at Biolargo :) these are only the recent PRs from 2021:
+
+### More Recent News About Biolargo Inc
+
+* [BioLargo's ONM Environmental Acquires EcoMist Trash Receptacle Spray Technology                    ](https://www.ldmicro.com/profile/blgo/news/5153830969558013)   
+* [BioLargo and Garratt-Callahan Team Up for Product Development Project    ](https://www.ldmicro.com/profile/blgo/news/8916999068168372)  
+* [BioLargo's AEC Removal of Forever Chemicals PFAS  is Confirmed 99.995% Effective in Lab Analysis Performed at the  University of Tennessee ](https://www.ldmicro.com/profile/blgo/news/5804783519641417)
+* [BioLargo Generates Record Revenue in 2020](https://www.ldmicro.com/profile/blgo/news/6930943817025084)  
+* [BioLargo Completes Manufacture of First  Commercial-Scale AOS Unit for Municipal Wastewater Treatment Plant](https://www.ldmicro.com/profile/blgo/news/6735752847834420)   
+* [BioLargo Discusses 2021 Goals for Growth with The Stock Day Podcast](https://www.ldmicro.com/profile/blgo/news/4688947739338207)
+* [Peer-Reviewed Paper Confirms BioLargo's Advanced  Oxidation System Safely Removes Micropollutants from Wastewater](https://www.ldmicro.com/profile/blgo/news/6178254984134538)  
+* [BioLargo Announces Funding for  Design/Installation of Full-Scale ""Zero Liquid Discharge"" Wastewater  Treatment and Reuse Project ](https://www.ldmicro.com/profile/blgo/news/8556098485758269)",julian_jakobi,1,/r/pennystocks/comments/luu0md/this_environmental_tech_microcap_is_at_tipping/gpa3hko/,0.01,0.844,0.146,0.9687
