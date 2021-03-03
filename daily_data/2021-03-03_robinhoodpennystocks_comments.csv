@@ -1,0 +1,465 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,CC," The going up part seems a bit weird to me. Having 100+ shares to sell a put doesn't make sense since it won't help me at all if I get assigned the 100 shares from the put I sold. It would be much better to have that cash in my account so this means I have a CSP or cash secured put.
+
+if you look at  it that way you are showing us the CSP Version of trading options when selling puts (but with owing shares and that's weird) and the CC (covered call - I own the shares for the call and if I get ""called"" I am save because I have the shares) version trading options when selling calls.
+
+CSP is new to you? This is how it works in some easy words:
+
+1. Find a stock you like (due to whatever reasons) and you do not mind to own at least 100 shares of
+2. Set a price you would like to buy the stock for (stay realistic for that). For this example let's say 20 USD per share seems fair for you.
+3. Put 2000 USD into your account (100\*20 because 1 options is 100 shares) and sell the put to collect the premium (yes, you may subtract the premium from the cash you put into the account but make sure you have enough money to not be on margin because that is the reason for making a cash SECURED put and not a naked one)
+4. wait and watch (yeah, you can do more than this but we keep it simple). If you get the shares assigned because stock does not go up but down and is worth less than 20 USD per share you get 100 shares for 20 USD and keep the premium. if not you keep the premium and can sell another new put (be sure to have the new one cash secured).
+
+&#x200B;
+
+For more details on CSP, CC etc. just search reddit. There is a ton of information around.",Zornash,40,/r/RobinHoodPennyStocks/comments/lwmdu6/trading_options_for_dummies_a_flow_chart_i_made/gpigwmc/,0.009,0.865,0.127,0.986
+1,SO, This is just wrong... SO MUCH of this is bad advice. please do not follow this!,NewPlaceNewBase,1,/r/RobinHoodPennyStocks/comments/lwmdu6/trading_options_for_dummies_a_flow_chart_i_made/gpjvrom/,0.189,0.697,0.114,-0.3595
+2,RH," Can someone shine a little more light on the ""Selling a call: You have an obligation to deliver..."" Let's say I have 100 shares of a stock its sitting at 1.25 , and I went on RH and sold one $1.50 call for March 5th.
+
+On Friday March 5th
+
+The stock is above $1.50 :  (blank would happen)
+
+The stock is at $1.50 :  (blank would happen)
+
+The stock is below $1.50 :  (blank would happen)
+
+I am just confused on the term obligation, would I need to log into RH and process the selling of my 100 shares or will RH take care of it?",esoterictimeghost,7,/r/RobinHoodPennyStocks/comments/lwmdu6/trading_options_for_dummies_a_flow_chart_i_made/gpjf4r1/,0.023,0.902,0.075,0.6486
+3,CAN," Ok, so you should just buy puts as insurance? What if you think the stock is going to dip, though? Wouldn’t you want to do the strategy I outlined earlier since that would give you a profit? As you said, it’s basically the opposite of buying a call (which you would do if you’re bullish), so you would have to be bearish on a stock.  I understand that you can use them for insurance, but you CAN make profit off them, correct?",Dramatic-Objective-3,1,/r/RobinHoodPennyStocks/comments/lwmdu6/trading_options_for_dummies_a_flow_chart_i_made/gpkge40/,0.0,0.885,0.115,0.8181
+4,SOS," Yeah, I don’t do that anymore. I don’t even tell my friends what I’m trading, had one friend follow me into SOS at peak, lost his shirt.",-w-u-u-t-,4,/r/RobinHoodPennyStocks/comments/lwyr15/every_time_the_market_takes_a_huge_drop_my/gpkgfy2/,0.072,0.66,0.267,0.7351
+5,ZOM, I bought ZOM at .12 and sold at .14 :(,ARwrrep12,10,/r/RobinHoodPennyStocks/comments/lwyr15/every_time_the_market_takes_a_huge_drop_my/gpki3oc/,0.266,0.734,0.0,-0.4404
+6,CLOV, It's all good. It's like I invest in CLOV to the moon! Then it's like. Okay. I guess I average down...,mysteryteam,2,/r/RobinHoodPennyStocks/comments/lwyr15/every_time_the_market_takes_a_huge_drop_my/gpkrlr9/,0.0,0.581,0.419,0.8439
+7,RH," It’s gotten to the point that I wake up nervous about checking RH. Eventually I do, realize I’m down more, then log off and try to ignore it until tomorrow.",OneSaltyBanana,1,/r/RobinHoodPennyStocks/comments/lwv4un/rough_time_for_the_market_hold_strong/gpkf92m/,0.15,0.85,0.0,-0.5574
+8,CIDM, But at what point to do cut your losses? I bought CIDM around 1.95 then it kept dropping and dropping and I DCA’d down but now it’s at 1.20 and I’m not sure if I should cut and run.,OneSaltyBanana,1,/r/RobinHoodPennyStocks/comments/lwv4un/rough_time_for_the_market_hold_strong/gpkf2al/,0.21,0.79,0.0,-0.7574
+9,IMO," IMO learn how to day trade options, I used to day trade stocks, then I found out about the leverage on options and I regularly can make 10-50% per trade, but also it’s just as easy to lose 10-50%. But I scalp so it’s profitable for me, I usually just ride Tesla trends, buy like 2 calls or 2 puts, just out of the money, sell 5 mins later, bank 200 bucks.
+
+Edit, just realized this was a RH community, definitely don’t day trade on Robinhood you will lose. Get a real broker like td, ib, tradestation. If you want to day trade",Careful_Mirror6886,4,/r/RobinHoodPennyStocks/comments/lwus7n/its_pretty_clear_where_i_discovered_options/gpkajr0/,0.064,0.761,0.176,0.9103
+10,RH," IMO learn how to day trade options, I used to day trade stocks, then I found out about the leverage on options and I regularly can make 10-50% per trade, but also it’s just as easy to lose 10-50%. But I scalp so it’s profitable for me, I usually just ride Tesla trends, buy like 2 calls or 2 puts, just out of the money, sell 5 mins later, bank 200 bucks.
+
+Edit, just realized this was a RH community, definitely don’t day trade on Robinhood you will lose. Get a real broker like td, ib, tradestation. If you want to day trade",Careful_Mirror6886,4,/r/RobinHoodPennyStocks/comments/lwus7n/its_pretty_clear_where_i_discovered_options/gpkajr0/,0.064,0.761,0.176,0.9103
+11,APXT, APXT is doing that to my profile. Fuck that company tbh. CEO hasn’t done anything to help the stock since hey delayed the merger like a month ago,Jimminycrickets411,1,/r/RobinHoodPennyStocks/comments/lwus7n/its_pretty_clear_where_i_discovered_options/gpjr92d/,0.161,0.685,0.155,-0.0516
+12,CEO, APXT is doing that to my profile. Fuck that company tbh. CEO hasn’t done anything to help the stock since hey delayed the merger like a month ago,Jimminycrickets411,1,/r/RobinHoodPennyStocks/comments/lwus7n/its_pretty_clear_where_i_discovered_options/gpjr92d/,0.161,0.685,0.155,-0.0516
+13,BB,  Vivv b BB be boo,BigSeanSadSongs,1,/r/RobinHoodPennyStocks/comments/lwus7n/its_pretty_clear_where_i_discovered_options/gpk60ux/,0.0,1.0,0.0,0.0
+14,UK," EU & UK Conclude Decentralised Procedure Approval for Bijuva® (Estradiol & Progesterone) Capsules for Hormone Replacement Therapy
+
+2 hours ago
+
+LONDON--(BUSINESS",Relative-Royal3351,20,/r/RobinHoodPennyStocks/comments/lwss8z/txmd_breaking_200_today/gpizzok/,0.0,0.846,0.154,0.4767
+15,TXMD," Jumped into TXMD today, fingers crossed she moons",Cullen_Bohanon,2,/r/RobinHoodPennyStocks/comments/lwss8z/txmd_breaking_200_today/gpjcxg2/,0.0,1.0,0.0,0.0
+16,CC, selling CC like crazy to lower cost base. I think it should spike again in a few weeks / months,EmaTrade,1,/r/RobinHoodPennyStocks/comments/lwss8z/txmd_breaking_200_today/gpklcab/,0.218,0.664,0.118,-0.2732
+17,RL, If only I can make RL $ as well as turnips I’d be a real millionaire ... one can dream haha,Wild_Concentrate_566,3,/r/RobinHoodPennyStocks/comments/lwss8z/txmd_breaking_200_today/gpjqg5v/,0.0,0.679,0.321,0.7269
+18,AGTC," In AGTC we trust.
+
+Edit: And by we I mean me. I just really like this stonk 😌",LuvBenji,28,/r/RobinHoodPennyStocks/comments/lwk8c0/agtc_to_present_at_upcoming_investor_conferences/gphvnj6/,0.0,0.681,0.319,0.7264
+19,DD, need some DD for this,xDh20,1,/r/RobinHoodPennyStocks/comments/lwtmll/asrt_is_at_118_pre_market_for_those_who_missed/gpjesmd/,0.0,1.0,0.0,0.0
+20,DD, Personally I think gassing up a stock for today you have no DD to suggest it will run today or any catalyst for today is a selfishish dick move especially if you have a position and don’t declare it. Just my opinion honestly it’s nbd just something to maybe take w a grain of salt,Stonks1337,3,/r/RobinHoodPennyStocks/comments/lwtmll/asrt_is_at_118_pre_market_for_those_who_missed/gpjphg9/,0.099,0.806,0.095,-0.0516
+21,CRMD, This! This is what I’m looking at also the catalyst coming up CRMD coming over. This thing is priming.,Sure6995,6,/r/RobinHoodPennyStocks/comments/lwkglc/ctxr_looking_at_a_breakout_setup_especially_with/gpi3bai/,0.0,1.0,0.0,0.0
+22,LOVE, Seems like big players driving price down this week I’m holding 300 shares at average of 2.04 look at the volume on orders at 1.90 I see a rise in the near future well I hope at least. I’m holding out no matter how low it dips he’ll I will buy more I LOVE THIS COMPANY,Parrotsnpuppersguy,1,/r/RobinHoodPennyStocks/comments/lwkglc/ctxr_looking_at_a_breakout_setup_especially_with/gpjsl36/,0.068,0.679,0.253,0.894
+23,MSN, Also watching MSN for a big reversal‼️$2+ swing,Eliyan_,0,/r/RobinHoodPennyStocks/comments/lwkglc/ctxr_looking_at_a_breakout_setup_especially_with/gphwn0l/,0.0,1.0,0.0,0.0
+24,SLGG," SLGG is getting censored on /r/WSB, /r/Stocks and even /r/PennyStocks...something is happening.  I bought in at $5.",Metasophocles,5,/r/RobinHoodPennyStocks/comments/lwlb6m/slgg_possible_connection_to_gme/gpje88s/,0.096,0.904,0.0,-0.1531
+25,DD," The time is now, u/PacBoiLar has done some killer DD and research. My dude went off the deep end looking for clues and found the treasure map. It’s up to us to follow it.",fracyourhole304,2,/r/RobinHoodPennyStocks/comments/lwlb6m/slgg_possible_connection_to_gme/gpjgl17/,0.112,0.831,0.057,-0.4767
+26,AESE, I’m also watching AESE lots of interesting movements on esports this week,Parrotsnpuppersguy,2,/r/RobinHoodPennyStocks/comments/lwlb6m/slgg_possible_connection_to_gme/gpjquld/,0.0,0.803,0.197,0.4019
+27,GME," I don’t believe so. If they are truly going to work together to bring GME to the next level, I could see long term gains for SLGG.",fracyourhole304,2,/r/RobinHoodPennyStocks/comments/lwlb6m/slgg_possible_connection_to_gme/gpj83py/,0.0,0.813,0.187,0.6486
+28,SLGG," I don’t believe so. If they are truly going to work together to bring GME to the next level, I could see long term gains for SLGG.",fracyourhole304,2,/r/RobinHoodPennyStocks/comments/lwlb6m/slgg_possible_connection_to_gme/gpj83py/,0.0,0.813,0.187,0.6486
+29,DD, Thanks for the awesome DD,fracyourhole304,1,/r/RobinHoodPennyStocks/comments/lwlb6m/slgg_possible_connection_to_gme/gpjai7e/,0.0,0.3,0.7,0.7906
+30,AGTC, I love AGTC long term,Historical-Solid-504,22,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gphw5vo/,0.0,0.417,0.583,0.6369
+31,ASRT, im about to go all in on ASRT. shit may blow up soon...,Global-Strength-5854,9,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gphv94r/,0.231,0.769,0.0,-0.5574
+32,CTXR," 3/4 in CTXR. Itching to sell all, play around with other stocks and then just buy back in. But knowing my luck that plan is doomed to fail.",PinkFluffyRambo,3,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpiahlb/,0.208,0.647,0.146,-0.5106
+33,ASRT," Thanx fellas.  I think I'm going to play out ASRT and CFMS, already up on them a little bit.  If I can get my $2,500 to $3,000 in 4 weeks, I'll probably sell it out and look for a solid $2-3 stock that has potential.",JeepMunkee,3,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpibe2l/,0.0,0.905,0.095,0.4588
+34,CFMS," Thanx fellas.  I think I'm going to play out ASRT and CFMS, already up on them a little bit.  If I can get my $2,500 to $3,000 in 4 weeks, I'll probably sell it out and look for a solid $2-3 stock that has potential.",JeepMunkee,3,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpibe2l/,0.0,0.905,0.095,0.4588
+35,AGTC," I have done this before but it can get extremely risky. I still keep my numbers low but I like to at least be split between 3-4 stocks. Right now I have Torch, AGTC, CTXR and ZOM.",OstaPasta,2,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpikc99/,0.137,0.778,0.084,-0.2592
+36,CTXR," I have done this before but it can get extremely risky. I still keep my numbers low but I like to at least be split between 3-4 stocks. Right now I have Torch, AGTC, CTXR and ZOM.",OstaPasta,2,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpikc99/,0.137,0.778,0.084,-0.2592
+37,ZOM," I have done this before but it can get extremely risky. I still keep my numbers low but I like to at least be split between 3-4 stocks. Right now I have Torch, AGTC, CTXR and ZOM.",OstaPasta,2,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpikc99/,0.137,0.778,0.084,-0.2592
+38,ATOS, I went all in on ATOS and made about $800 bucks in a week.,Nolalilulelo,2,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpj6nce/,0.0,1.0,0.0,0.0
+39,ATNX, Did that today lol ATNX...,ProjectCross,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gphyded/,0.0,0.588,0.412,0.4215
+40,DD, DO NOT SELL ASRT this thing is going to make you serious money. Never leave money to make money. DD is fantastic here and is showing extremely positive trends. It’s at 1.20 premarket! This shit is prime,bciamb25,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpj3xcz/,0.107,0.698,0.195,0.6166
+41,ASRT," Hey! Also been doing this for 3 months so take with a grain of salt but honestly every time I try to ""diversify"" I pick something that I'm not as stoked about as my main one or two. I've lost money every time I've done this. 
+
+I try to do DD on one company and throw the majority in there, as I can't keep up with 6-10 at a time. In my opinion especially if you're trying to trade based on news or hype, it's much easier to keep track or two or three tickers instead of 7.
+
+Just ask yourself if you like the stock, or are just in it because others have posted about it. Do a little DD and place your bet on the one or a few that you really believe in. It's easier to stress about price when you have a clear-ish reason behind staying in or getting out of the stock.
+
+FYI I've lost money on ASRT, TXMD, ZSAN, and a few other P&D's, but still up 200 percent from inception of acct due to bigger plays that I truly got behind with over 50 percent of my acct. Overall, I think in the current market, yes, you can throw all in & have it turn out ok.",llamaflocka,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpj57gs/,0.042,0.823,0.135,0.9696
+42,DD," Hey! Also been doing this for 3 months so take with a grain of salt but honestly every time I try to ""diversify"" I pick something that I'm not as stoked about as my main one or two. I've lost money every time I've done this. 
+
+I try to do DD on one company and throw the majority in there, as I can't keep up with 6-10 at a time. In my opinion especially if you're trying to trade based on news or hype, it's much easier to keep track or two or three tickers instead of 7.
+
+Just ask yourself if you like the stock, or are just in it because others have posted about it. Do a little DD and place your bet on the one or a few that you really believe in. It's easier to stress about price when you have a clear-ish reason behind staying in or getting out of the stock.
+
+FYI I've lost money on ASRT, TXMD, ZSAN, and a few other P&D's, but still up 200 percent from inception of acct due to bigger plays that I truly got behind with over 50 percent of my acct. Overall, I think in the current market, yes, you can throw all in & have it turn out ok.",llamaflocka,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpj57gs/,0.042,0.823,0.135,0.9696
+43,TXMD," Hey! Also been doing this for 3 months so take with a grain of salt but honestly every time I try to ""diversify"" I pick something that I'm not as stoked about as my main one or two. I've lost money every time I've done this. 
+
+I try to do DD on one company and throw the majority in there, as I can't keep up with 6-10 at a time. In my opinion especially if you're trying to trade based on news or hype, it's much easier to keep track or two or three tickers instead of 7.
+
+Just ask yourself if you like the stock, or are just in it because others have posted about it. Do a little DD and place your bet on the one or a few that you really believe in. It's easier to stress about price when you have a clear-ish reason behind staying in or getting out of the stock.
+
+FYI I've lost money on ASRT, TXMD, ZSAN, and a few other P&D's, but still up 200 percent from inception of acct due to bigger plays that I truly got behind with over 50 percent of my acct. Overall, I think in the current market, yes, you can throw all in & have it turn out ok.",llamaflocka,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpj57gs/,0.042,0.823,0.135,0.9696
+44,ZSAN," Hey! Also been doing this for 3 months so take with a grain of salt but honestly every time I try to ""diversify"" I pick something that I'm not as stoked about as my main one or two. I've lost money every time I've done this. 
+
+I try to do DD on one company and throw the majority in there, as I can't keep up with 6-10 at a time. In my opinion especially if you're trying to trade based on news or hype, it's much easier to keep track or two or three tickers instead of 7.
+
+Just ask yourself if you like the stock, or are just in it because others have posted about it. Do a little DD and place your bet on the one or a few that you really believe in. It's easier to stress about price when you have a clear-ish reason behind staying in or getting out of the stock.
+
+FYI I've lost money on ASRT, TXMD, ZSAN, and a few other P&D's, but still up 200 percent from inception of acct due to bigger plays that I truly got behind with over 50 percent of my acct. Overall, I think in the current market, yes, you can throw all in & have it turn out ok.",llamaflocka,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpj57gs/,0.042,0.823,0.135,0.9696
+45,CTXR, I have 90% of my portfolio in CTXR lol I’m down now but holding for the long term belief in the company,Parrotsnpuppersguy,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpjuxtn/,0.0,0.913,0.087,0.2263
+46,SNDL, Im all in in SNDL. best of luck,curshred,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gphz5ew/,0.0,0.455,0.545,0.802
+47,ZOM, Went all in on ZOM at .40 when it ran to 1.30. Good Lord what a rush.,DirkStruan420,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpiqy01/,0.0,0.838,0.162,0.4404
+48,CTXR," I usually only choose one stock and go all in. I do some deep research into that one company and have been doing pretty good with this strategy so far.. 
+
+Anyhow, I'm all in CTXR ATM because of their C-suite alone. The people know how to get drugs through the FDA process as they've been presidents for companies that have gotten many other drugs approved before.",sandyplatano,7,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpi2qyy/,0.028,0.846,0.126,0.7845
+49,PT, Isn't it's PT like 3$?,Themiffins,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpixwdm/,0.345,0.655,0.0,-0.2755
+50,TXMD, I did this just now with TXMD,Chrisisvenom2,1,/r/RobinHoodPennyStocks/comments/lwk7cp/anyone_sold_all_their_stocks_and_went_all_in_on_a/gpjhz11/,0.0,1.0,0.0,0.0
+51,AGTC, I’m holding for a while. Bought late at around 7$ so I’m just waiting for the market to correct before I even look at AGTC again.,Tassy12CC,25,/r/RobinHoodPennyStocks/comments/lwzqnx/is_anyone_holding_onto_agtc/gpk2d9j/,0.0,1.0,0.0,0.0
+52,AGTC, AGTC is a hold. They have a conference on the 15th so buy before then. Price targets are 9-$35,kschin1,17,/r/RobinHoodPennyStocks/comments/lwzqnx/is_anyone_holding_onto_agtc/gpk7t5n/,0.0,1.0,0.0,0.0
+53,DD," Got in around $5, gonna hang on for a bit. All the DD I found said long term hold. But I’m new to this so don’t listen to me.",Traditional_Ad_5160,10,/r/RobinHoodPennyStocks/comments/lwzqnx/is_anyone_holding_onto_agtc/gpk517k/,0.0,1.0,0.0,0.0
+54,AGTC, Literally every other post for the last week is asking if people are holding AGTC.,McKimboSlice,4,/r/RobinHoodPennyStocks/comments/lwzqnx/is_anyone_holding_onto_agtc/gpk536o/,0.0,1.0,0.0,0.0
+55,AGTC, Because there are a fuck ton of people holding AGTC. And CTRX. And a few other stocks that have come and gone. Its painful to read the comments at times.,ALoudMouthBaby,6,/r/RobinHoodPennyStocks/comments/lwzqnx/is_anyone_holding_onto_agtc/gpk8dbv/,0.198,0.802,0.0,-0.7506
+56,CTXR," Probably going to be a while until this stock starts picking up, I have a good chunk of my portfolio in CTXR but withdrew some to make plays elsewhere and buy back in",snnsjddsa,1,/r/RobinHoodPennyStocks/comments/lwi9gz/holding_ctxr/gpihj4u/,0.0,0.863,0.137,0.5346
+57,ASRT, I’m holding this and ASRT. I have faith in that stock!,green_man1834,0,/r/RobinHoodPennyStocks/comments/lwi9gz/holding_ctxr/gpj8eus/,0.0,0.744,0.256,0.4753
+58,GME, Half from GME half from day trading,r34p3rex,2,/r/RobinHoodPennyStocks/comments/lwi9gz/holding_ctxr/gpj8obu/,0.0,1.0,0.0,0.0
+59,CTXR," Almost 100% of my portfolio is in CTXR right now, with a small position in CVM",r34p3rex,1,/r/RobinHoodPennyStocks/comments/lwi9gz/holding_ctxr/gpjameo/,0.0,1.0,0.0,0.0
+60,CVM," Almost 100% of my portfolio is in CTXR right now, with a small position in CVM",r34p3rex,1,/r/RobinHoodPennyStocks/comments/lwi9gz/holding_ctxr/gpjameo/,0.0,1.0,0.0,0.0
+61,ASRT, ASRT hopefully has a good tomorrow,AlfalfaVarious1222,41,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphlaj3/,0.0,0.349,0.651,0.6808
+62,ASRT," Still holding ASRT and ZOM 40% of my port. Other 40% is in long steel plays, and 20% to fuck around with SPY and other FDs. 
+
+RKT printed for me today 🤑",Ok_Yak_6448,21,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphggnu/,0.101,0.841,0.058,-0.3612
+63,RKT," Still holding ASRT and ZOM 40% of my port. Other 40% is in long steel plays, and 20% to fuck around with SPY and other FDs. 
+
+RKT printed for me today 🤑",Ok_Yak_6448,21,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphggnu/,0.101,0.841,0.058,-0.3612
+64,ZOM," Still holding ASRT and ZOM 40% of my port. Other 40% is in long steel plays, and 20% to fuck around with SPY and other FDs. 
+
+RKT printed for me today 🤑",Ok_Yak_6448,21,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphggnu/,0.101,0.841,0.058,-0.3612
+65,DD," For those of you who do your own in-depth DD on a stock, how do you pick the stocks to research? I want to get better at picking stocks to invest in but there are so many stocks, I don’t know how to narrow them down before the research part even starts.",therightcoaster,18,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphivlx/,0.0,0.938,0.062,0.2732
+66,AGTC, AGTC looking like a whole meal today 🙌🏻,Current-Spot-1645,43,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpheggw/,0.0,0.706,0.294,0.3612
+67,CTXR, CTXR what is u doin,Dschrute_beets,13,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjdrai/,0.0,1.0,0.0,0.0
+68,BMO, Bought 700 shares of GSV today at .62. They’re presenting at the BMO Global Metals and Mining Conference tomorrow at 3:30PM EST. This could hit $1 soon.,TheSmoothPilsner,13,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphef4y/,0.0,0.922,0.078,0.296
+69,GSV, Bought 700 shares of GSV today at .62. They’re presenting at the BMO Global Metals and Mining Conference tomorrow at 3:30PM EST. This could hit $1 soon.,TheSmoothPilsner,13,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphef4y/,0.0,0.922,0.078,0.296
+70,ZOM, ZOM 2.50 by EOW 😤😤😤,bad__shots,12,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj434v/,0.0,1.0,0.0,0.0
+71,ATOS, ATOS makes me sad. The company has great technology and their stock just keeps going down.,whiskey-beta,13,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjdyj4/,0.146,0.66,0.193,0.25
+72,DNN, Holding DNN waiting for it to rip,Vincent_Jay,10,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphiy33/,0.0,1.0,0.0,0.0
+73,TXMD, TXMD up 20% pre-market? Oh HELLLLL YESSS.,I_am_freddie_mercury,10,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpizhk5/,0.0,1.0,0.0,0.0
+74,ASRT, ASRT gonna pay off my house soon.,Airick86,8,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj16q4/,0.189,0.811,0.0,-0.1027
+75,ASRT," ASRT, you beautiful bastard.",thechodaddy,8,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj0e5m/,0.372,0.213,0.415,0.1027
+76,ONTX, ONTX is straight up the worst trade I have ever made. I want to dump it but keep clinging to some insane hope it will bounce back.,KeepChoppin,7,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjev1w/,0.237,0.57,0.193,-0.3506
+77,AGTC, ZOM and ASRT are doing their best to keep my portfolio up cause AGTC decided to shit the bed,FiendForPopeyes,8,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjgm4z/,0.145,0.685,0.169,0.1531
+78,ASRT, ZOM and ASRT are doing their best to keep my portfolio up cause AGTC decided to shit the bed,FiendForPopeyes,8,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjgm4z/,0.145,0.685,0.169,0.1531
+79,ZOM, ZOM and ASRT are doing their best to keep my portfolio up cause AGTC decided to shit the bed,FiendForPopeyes,8,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjgm4z/,0.145,0.685,0.169,0.1531
+80,ASRT, ASRT needs to break the 1.15 resistance ceiling for more than a couple hours during day trading today to keep the momentum.,RainyInWa,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjc454/,0.0,1.0,0.0,0.0
+81,AGTC, AGTC on sale,capndanknugs,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpk6jk7/,0.0,1.0,0.0,0.0
+82,SENS, SENS you're breaking my heart,chinchin10,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpi0jqn/,0.0,1.0,0.0,0.0
+83,TXMD, TXMD actually has options trading. Might throw around like $50,WillBeBannedSoon2,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj4uhx/,0.0,0.783,0.217,0.3612
+84,CTXR," Just bought that CTXR dip, rinse and repeat boys let’s go again",Jonathanpape21,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjdwk8/,0.0,1.0,0.0,0.0
+85,AGTC, Low volume today on most stocks it looks like. Red on most of them too. AGTC killing me a bit.,PM_YOUR_OWLS,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjyw2c/,0.26,0.64,0.1,-0.6124
+86,ASRT, I'm honestly surprised ASRT is still holding it's position as well as it is with the downfall today.,tehcraz,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkg6ea/,0.0,0.682,0.318,0.7184
+87,HEPA, HEPA has upcoming PR at conference. Price should be climbing into next week. Anyway I have to mention PLBY because you know... playboy,TheDrLubricator,4,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj092p/,0.0,1.0,0.0,0.0
+88,PLBY, HEPA has upcoming PR at conference. Price should be climbing into next week. Anyway I have to mention PLBY because you know... playboy,TheDrLubricator,4,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj092p/,0.0,1.0,0.0,0.0
+89,SENS, Super bullish on SENS,olFmodnaR,4,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjp1wj/,0.0,0.435,0.565,0.5994
+90,SOS, SOS - what ya all think ?,123821038291,4,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkbkh7/,0.0,1.0,0.0,0.0
+91,DNN, DNN better pick its ass up soon,Deathbackwards,4,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkckbm/,0.307,0.439,0.254,-0.1531
+92,GSAT, Holy hell GSAT is making me angry. Hopefully it shoots back up after earnings.,Airick86,4,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkhc9n/,0.366,0.509,0.125,-0.7351
+93,ATOS, ATOS is killing me!,urbangeeked,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkk3h4/,0.61,0.39,0.0,-0.69
+94,AGTC," Holding AGTC and CTRM for pennies. Also holding SQ, PTON, and SRAC as non pennies",cityofbridges_,6,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphdry8/,0.0,1.0,0.0,0.0
+95,CTRM," Holding AGTC and CTRM for pennies. Also holding SQ, PTON, and SRAC as non pennies",cityofbridges_,6,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphdry8/,0.0,1.0,0.0,0.0
+96,PTON," Holding AGTC and CTRM for pennies. Also holding SQ, PTON, and SRAC as non pennies",cityofbridges_,6,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphdry8/,0.0,1.0,0.0,0.0
+97,SQ," Holding AGTC and CTRM for pennies. Also holding SQ, PTON, and SRAC as non pennies",cityofbridges_,6,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphdry8/,0.0,1.0,0.0,0.0
+98,SRAC," Holding AGTC and CTRM for pennies. Also holding SQ, PTON, and SRAC as non pennies",cityofbridges_,6,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphdry8/,0.0,1.0,0.0,0.0
+99,DNN, Whats a realistic price point for DNN by end of March?,hughheffres,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphshk0/,0.0,1.0,0.0,0.0
+100,TRCH," Mainly gonna be trying to scout a good opportunity to buy more TRCH. It's obviously starting to pick up attention so the more I can load up at a good cost basis before next week the better. 
+
+Will also keep my eyes on more opportunities to get CTRX around 2.00 if they appear.",OKJMaster44,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj7mgb/,0.0,0.758,0.242,0.9245
+101,TRXC, TRXC baby. https://ca.finance.yahoo.com/news/asensus-surgical-announces-fda-clearance-115500190.html,tickersandheart,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj8wa6/,0.0,1.0,0.0,0.0
+102,TXMD," Fuck, overslept and missed TXMD going sky high in pre and now crashing lol. Stupid fucking sleep. Missed my chance to sell",ElectronicSchool,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjg3gc/,0.358,0.494,0.148,-0.7769
+103,LGHL," 500 MICT @ 2.71        
+500 LGHL @ 3.45         
+           
+May the catalysts save me.",ThreenGumb,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjj9d6/,0.0,0.758,0.242,0.4939
+104,MICT," 500 MICT @ 2.71        
+500 LGHL @ 3.45         
+           
+May the catalysts save me.",ThreenGumb,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjj9d6/,0.0,0.758,0.242,0.4939
+105,LGHL, LGHL taking off finally!,Whatsgoodx,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjzb7b/,0.0,1.0,0.0,0.0
+106,TXMD, Looks like the ass dropped out of TXMD,Kidsturk,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpk0inh/,0.292,0.5,0.208,-0.25
+107,AGTC, In for 100 more AGTC. Such a good sale.,ieatyournoodle,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkohj3/,0.0,0.689,0.311,0.4877
+108,FLL," I bought FLL in March 2019 at 0.74, sold it a few weeks ago at 8.06. 
+
+I’m looking for this kind of long term (if is shorter that 1 year better), what industries do you recommend to look at?",mayms_xyz,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkp4xq/,0.0,0.933,0.067,0.3612
+109,CTXR, Lmao CTXR committing suicide,nannyskeksi,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjdr3o/,0.421,0.093,0.486,-0.0772
+110,LGHL, Don't forget to get into LGHL before it's too late. Big catalyst coming this month.,ThreenGumb,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphudsz/,0.0,0.894,0.106,0.1695
+111,TXMD, What's up with TXMD pre-market?  Currently 1.73?  Huge jump from close.,SmallFryBigPan,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj1rac/,0.0,0.79,0.21,0.3939
+112,ASRT, are you guys thinking of selling ASRT at this high and getting back in on a dip or holding today?,Strugglepufffs,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj2bxz/,0.0,1.0,0.0,0.0
+113,SLGG, There probably will be some movement on SLGG - just reached >5 bucks overnight so please don't get mad - but was 3.50 yesterday at open - looks like a WSB post helped the overnight movement. Watching and holding what I got.,llamaflocka,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj8j4u/,0.0,0.8,0.2,0.7399
+114,DNN," Jumped into TXMD and DNN today. Still holding the bag from SHIP, SB, and STAF",Cullen_Bohanon,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjd47p/,0.0,1.0,0.0,0.0
+115,SB," Jumped into TXMD and DNN today. Still holding the bag from SHIP, SB, and STAF",Cullen_Bohanon,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjd47p/,0.0,1.0,0.0,0.0
+116,SHIP," Jumped into TXMD and DNN today. Still holding the bag from SHIP, SB, and STAF",Cullen_Bohanon,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjd47p/,0.0,1.0,0.0,0.0
+117,STAF," Jumped into TXMD and DNN today. Still holding the bag from SHIP, SB, and STAF",Cullen_Bohanon,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjd47p/,0.0,1.0,0.0,0.0
+118,TXMD," Jumped into TXMD and DNN today. Still holding the bag from SHIP, SB, and STAF",Cullen_Bohanon,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjd47p/,0.0,1.0,0.0,0.0
+119,MICT, MICT why are you doing this? You were $3 in AH,Airick86,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjijzw/,0.0,1.0,0.0,0.0
+120,EAST, Still holding EAST TANH and TXMD. Holding TANH long,DankDoobies420,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjlnui/,0.0,1.0,0.0,0.0
+121,TANH, Still holding EAST TANH and TXMD. Holding TANH long,DankDoobies420,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjlnui/,0.0,1.0,0.0,0.0
+122,TXMD, Still holding EAST TANH and TXMD. Holding TANH long,DankDoobies420,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjlnui/,0.0,1.0,0.0,0.0
+123,CSLT," CSLT was a sleeper for a bit for me, but this sucker is rocketing today!",bhuff85,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjuhi1/,0.326,0.674,0.0,-0.7777
+124,DD, Thoughts on OBSV? I liked the DD I saw.. and it’s on sale below $4 rn.. Might go back and get some more.. I’m in it for the long haul but wanted to hear thoughts from others,Southern_Donut10,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkgdsk/,0.0,0.947,0.053,0.2263
+125,CTXR, WTF is going on with CTXR,drivingtilldawn,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpktebm/,0.476,0.524,0.0,-0.6739
+126,KMPH, KMPH just received its FDA approval on its ADHD medication Azstarys. Massive upside long term.,Vegetab1es,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpidzws/,0.0,0.819,0.181,0.4767
+127,CTXR, holding 3.1k shares of CTXR at 2.02 avg. gradually bought more in the dip today from 2.01-1.98,r35urr3ct10n,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpheiig/,0.0,0.879,0.121,0.296
+128,ZOM, Thoughts on ZOM still?,BlitzYER,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjx1qo/,0.0,1.0,0.0,0.0
+129,SONM," Holding on to my SONM, but buying more MOTS!",Darkshelby,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpibkeg/,0.0,1.0,0.0,0.0
+130,ASRT," I’m in on SNDL, ASRT and BIOL I hope to see some movement today",Jonathanpape21,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpiwpld/,0.0,0.805,0.195,0.4404
+131,BIOL," I’m in on SNDL, ASRT and BIOL I hope to see some movement today",Jonathanpape21,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpiwpld/,0.0,0.805,0.195,0.4404
+132,SNDL," I’m in on SNDL, ASRT and BIOL I hope to see some movement today",Jonathanpape21,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpiwpld/,0.0,0.805,0.195,0.4404
+133,AGTC, Still a good time to buy AGTC or have i missed the boat?,bad__shots,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj6vi7/,0.156,0.638,0.206,0.1779
+134,PM, TRXC up 29% PM,Reddit1209,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj9d7r/,0.0,1.0,0.0,0.0
+135,TRXC, TRXC up 29% PM,Reddit1209,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj9d7r/,0.0,1.0,0.0,0.0
+136,TANH," Still holding TANH 
+Once they get some good news on their state of the art electric street sweepers, this undervalued EV stock will see Mars.",anthony5140,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjb07m/,0.0,0.892,0.108,0.4404
+137,KMPH, KMPH rocketing up,BrotherOland,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjdfbn/,0.0,1.0,0.0,0.0
+138,AGTC," Looks like AGTC, OBSV and CTXR are going on sale today. Time to buy the dip",updownhold51,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjdm38/,0.0,0.857,0.143,0.3612
+139,CTXR," Looks like AGTC, OBSV and CTXR are going on sale today. Time to buy the dip",updownhold51,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjdm38/,0.0,0.857,0.143,0.3612
+140,OBSV," Looks like AGTC, OBSV and CTXR are going on sale today. Time to buy the dip",updownhold51,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjdm38/,0.0,0.857,0.143,0.3612
+141,OCGN, OCGN straight ripping right now. Wish I bought in earlier this week.,boatcucumberwire,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjeg7s/,0.0,0.662,0.338,0.5574
+142,GHSI, I'm stuck holding GHSI at the moment because my stop order at 0.98 didn't trigger (I probably set it up incorrectly).  About 50% down at the moment.  Fortunately it's a small amount.  Anyone else holding?  Not sure I want to keep this thing for 12 months in the hope it bounces back and might accept the loss and dump it.  Thoughts?,SmallFryBigPan,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjgdgj/,0.183,0.738,0.08,-0.6303
+143,NVCN, Looks like NVCN is dead. RIP.,roastedtoperfection,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpji4j4/,0.398,0.37,0.231,-0.4215
+144,ALSK," ATN International is buying ALSK for $332 million. Its market cap is only $117 million. This thing is armed and ready to blow, just needs some attention. Gets no volume.",pachakutii,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjp793/,0.067,0.856,0.076,0.0772
+145,AESE, No ones been talking about it but AESE is preforming really well despite today. Up from about 2.4 to 2.92 as of 12:41pm.,FiendForPopeyes,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpk1tm2/,0.062,0.817,0.12,0.359
+146,GSV," 427 GSV shares. 145 TRCH shares.
+
+Tell my family I loved them ;_;",Bherethor,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpktqpj/,0.0,0.52,0.48,0.8074
+147,TRCH," 427 GSV shares. 145 TRCH shares.
+
+Tell my family I loved them ;_;",Bherethor,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpktqpj/,0.0,0.52,0.48,0.8074
+148,AESE," Is it possible so many in this sub are talking about losses this week cause everyone is buying the same exact shit? 
+
+AESE and SLGG were everyones friends this week but i cant seem to find them being discussed",BoltyMcSpeedy,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkyjgq/,0.101,0.85,0.05,-0.2732
+149,SLGG," Is it possible so many in this sub are talking about losses this week cause everyone is buying the same exact shit? 
+
+AESE and SLGG were everyones friends this week but i cant seem to find them being discussed",BoltyMcSpeedy,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkyjgq/,0.101,0.85,0.05,-0.2732
+150,TXMD," For all those interested in TXMD operating expenses (maybe I'm the only one?) here's the scoop from their latest earnings report. They claim that they have ""lowered our operating expenses"" which seems to conflict with the information they provided below:
+
+**Expense, EPS and Related Information**
+
+•Total operating expenses for the full-year 2020 increased to $204.4 million compared with $194.5 million for full-year 2019.
+
+•Total operating expenses for the second half of 2020 were $92.6 million, meeting the Company’s target of $80 million excluding non-cash items and performance-based retention incentives, which totaled $13 million.
+
+•Total operating expenses for the fourth quarter of 2020 increased by $10.6 million to $51.6 million as compared to $41.0 million for the fourth quarter of 2019.The increase in operating expenses was primarily a result of increased spending focused on delivering the necessary resources to support the launch of ANNOVERA, continued ramp-up of IMVEXXY, and ongoing brand management of BIJUVA.
+
+•Net loss for the full-year 2020 was $183.5 million, or $0.67 per basic and diluted share, compared with $176.1 million, or $0.72 per basic and diluted share, for full-year 2019.",TheGallopingGhost77,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjiolz/,0.031,0.844,0.125,0.9413
+151,OGEN, OGEN dumping for literally no reason? great!,ratspeels,0,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkdbs7/,0.372,0.31,0.318,0.2244
+152,DOGZ, DOGZ bouncing back up. It must be chasing its chew toy.,updownhold51,-4,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjgfq3/,0.0,1.0,0.0,0.0
+153,NAK, NAK on discount...,Ihatecommies12,-4,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjsyiw/,0.0,1.0,0.0,0.0
+154,CTXR, Starting to wish I sold CTXR around the peak. Has done nothing but go down since.,boatcucumberwire,6,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjdav5/,0.0,0.883,0.117,0.2144
+155,RKT, RKT was a dream yesterday! Covered my position and holding the rest for a while.,ForlornMC,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpje9x7/,0.0,0.84,0.16,0.3164
+156,ASRT, The whole market just took a vibe check. Not just ASRT lol.,OKJMaster44,6,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjl2n7/,0.189,0.811,0.0,-0.3252
+157,MSFT," On my month chart I’m up 3% total. Not bad but kinda disappointing because if not for the last two weeks or so it would have been much better.
+
+I’m down 5% today tho so that 3% could go away today too
+
+I bought agtc call on this recent dip so I hope that helps make for a quick recovery
+
+Ctxr, agtc, and MSFT have all done their part this week keeping me afloat",OurOnlyWayForward,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjn6xg/,0.046,0.781,0.174,0.8962
+158,ASRT," Just on ASRT, but not by much.",nannyskeksi,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjlgyz/,0.0,1.0,0.0,0.0
+159,PT," I think it's a good play.  Got praise from a VC in China basically claiming Hindenburg's hit piece was a scam.  They put a $40 PT on it.
+
+[http://www.scorpio.vc/pdf/210303/c02406db-fa23-4943-9c7f-445b041f4728.pdf](http://www.scorpio.vc/pdf/210303/c02406db-fa23-4943-9c7f-445b041f4728.pdf)
+
+Position: 3589 shares @ 7.67",FruitGuy998,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkkbv9/,0.098,0.608,0.294,0.7506
+160,VC," I think it's a good play.  Got praise from a VC in China basically claiming Hindenburg's hit piece was a scam.  They put a $40 PT on it.
+
+[http://www.scorpio.vc/pdf/210303/c02406db-fa23-4943-9c7f-445b041f4728.pdf](http://www.scorpio.vc/pdf/210303/c02406db-fa23-4943-9c7f-445b041f4728.pdf)
+
+Position: 3589 shares @ 7.67",FruitGuy998,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkkbv9/,0.098,0.608,0.294,0.7506
+161,DFFN, I have no idea why DFFN isn’t taking off. What i have seen this should be going,andythomasceramics,4,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphoqie/,0.136,0.864,0.0,-0.296
+162,DFFN," GTE is a pump and dump, no clue about DFFN",ratspeels,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphmklb/,0.407,0.593,0.0,-0.5859
+163,GTE," GTE is a pump and dump, no clue about DFFN",ratspeels,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphmklb/,0.407,0.593,0.0,-0.5859
+164,EAST," I've been scooping up EAST happily at the sub $2 mark, looking forward to a good year.",I_Envy_Sisyphus_,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjuh8e/,0.0,0.683,0.317,0.7579
+165,AGTC, I'm bag holding AGTC $10 calls as well. Going to dump as soon as it moves (if ever).,Balve,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjued1/,0.126,0.773,0.101,-0.128
+166,SOS, SOS,badger0511,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkolg3/,0.0,1.0,0.0,0.0
+167,NAKD, I've increased my position with NAKD in the .98 and .99 ranges today,TheGallopingGhost77,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjuzls/,0.0,0.851,0.149,0.2732
+168,GSV, Hodling out hope for GSV too,b52_jr,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkvbln/,0.0,0.633,0.367,0.4404
+169,RH," Still active for me with RH gold.  5K instant limit, not that I ever plan to use that much.",Busy_Print6699,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkvl9c/,0.0,0.863,0.137,0.4019
+170,RH," Not on RH, the whole purpose of this forum.",Busy_Print6699,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpkbhej/,0.0,1.0,0.0,0.0
+171,APHA," I don’t think I’ve even had that. I’ve had maybe a couple hours here and there but I’m a greedy dumbass who doesn’t sell because I think it will keep going up. 
+APHA is the only thing keeping me alive. All my penny stocks are eating me alive.",I_am_freddie_mercury,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjlvro/,0.144,0.732,0.124,-0.2617
+172,AGTC, AGTC looking like a whole meal today 🙌🏽,SoSaltyDoe,8,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gphwk9l/,0.0,0.706,0.294,0.3612
+173,DD, Everything has been a roller coaster lately bro. Trust your DD and the stock. 😎,Current-Spot-1645,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjn4f4/,0.0,0.784,0.216,0.5106
+174,GTE, Holding the bag on GTE. FML,sneaker_grails,5,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpie9rw/,0.0,1.0,0.0,0.0
+175,ASRT," Was dumb and sold at 1.10 for a good profit. But threw it all at etherium and made another nice gain overnight. Finally worked out well for once. 
+
+Hope ASRT dips this morning so I can buy back in",Rxasaurus,3,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpj6fvs/,0.066,0.596,0.338,0.9136
+176,MICT," Yes, and hopefully it means they won't need to do another offering for a WHILE. Honestly even if you're down on MICT, you might as well just hold because once they release their trading platform the price will skyrocket.",ThreenGumb,2,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjledu/,0.0,0.764,0.236,0.8591
+177,GME, Lol you know GME has tripled this week riiiiiiiight bud have fun eating garbage you rat,Jefe1990,0,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjqash/,0.0,0.697,0.303,0.7269
+178,GME," Honestly wonder if there's a unit of measurement small enough to measure your brain. 5 GME @350, I can't get over how funny that is.",nannyskeksi,1,/r/RobinHoodPennyStocks/comments/lwhbms/daily_discussion_thread/gpjsw37/,0.0,0.772,0.228,0.7096
+179,OCGN," I feel like this is a long hold, but I’m dumb and all my positions in OCGN are calls.  They’re starting to print, though.",SnooBreakthroughs460,3,/r/RobinHoodPennyStocks/comments/lwtqdl/whelp_ocgn_decided_to_move_big_time_ah_debating/gpjocnc/,0.17,0.763,0.067,-0.5719
+180,AGTC," That's kinda what I've been thinking. I don't like this one as much as say AGTC for a long play. I'll probs sell, and then actually buy low again if it dips",andygp5,3,/r/RobinHoodPennyStocks/comments/lwtqdl/whelp_ocgn_decided_to_move_big_time_ah_debating/gpj7oqb/,0.125,0.803,0.071,-0.2047
+181,OCGN," Right, but like how does that work.....say I retain 200 shares after today. I set a July covered call at a strike of $20. If OCGN hits above $20 by the expiration date, I get to sell each share for $20, and my profit is the difference between my entry price ($12.69), and the strike price? Am I conceptualizing this correctly?",andygp5,1,/r/RobinHoodPennyStocks/comments/lwtqdl/whelp_ocgn_decided_to_move_big_time_ah_debating/gpjpmw2/,0.053,0.747,0.199,0.89
+182,TXMD," Prior to the S & P shitting the bed, we were rocketing up this morning because of a UK approval of one of the 3 new drugs they have in the market.
+
+Expect this to keep occurring as TXMD gets all 3 drugs out in different countries.",Stoolsamplers,2,/r/RobinHoodPennyStocks/comments/lwvo2v/3_reasons_why_this_is_the_bottom_for_txmd/gpjgiej/,0.062,0.869,0.069,0.0772
+183,UK," Prior to the S & P shitting the bed, we were rocketing up this morning because of a UK approval of one of the 3 new drugs they have in the market.
+
+Expect this to keep occurring as TXMD gets all 3 drugs out in different countries.",Stoolsamplers,2,/r/RobinHoodPennyStocks/comments/lwvo2v/3_reasons_why_this_is_the_bottom_for_txmd/gpjgiej/,0.062,0.869,0.069,0.0772
+184,TXMD," I am only playing with $2,000 total. My positions put me at $1,300 just in TXMD. I want to have Some diversity in my portfolio.",Stoolsamplers,1,/r/RobinHoodPennyStocks/comments/lwvo2v/3_reasons_why_this_is_the_bottom_for_txmd/gpjzv29/,0.0,0.871,0.129,0.2732
+185,ASRT, ASRT is cookin in premarket. Should hit 1.50 by earnings 🤑,bciamb25,2,/r/RobinHoodPennyStocks/comments/lwkxcr/watchlist_3321/gpj48gv/,0.0,1.0,0.0,0.0
+186,UK," EU & UK Conclude Decentralised Procedure Approval for Bijuva® (Estradiol & Progesterone) Capsules for Hormone Replacement Therapy
+
+2 hours ago
+
+LONDON--(BUSINESS",Relative-Royal3351,2,/r/RobinHoodPennyStocks/comments/lwugg5/mar_3_robinhoodpennystocks_daily_discussion_trends/gpja6gs/,0.0,0.846,0.154,0.4767
+187,TXMD,  TXMD,Relative-Royal3351,2,/r/RobinHoodPennyStocks/comments/lwugg5/mar_3_robinhoodpennystocks_daily_discussion_trends/gpja8d5/,0.0,1.0,0.0,0.0
+188,AGTC," Oh for sure, CTRM is a good example of people getting too greedy too fast.  But CTXR, TXMD, and AGTC are great buys right now.  You just need to be patient",StannisIsTheMannis,1,/r/RobinHoodPennyStocks/comments/lwugg5/mar_3_robinhoodpennystocks_daily_discussion_trends/gpkvnh8/,0.061,0.691,0.247,0.7906
+189,CTRM," Oh for sure, CTRM is a good example of people getting too greedy too fast.  But CTXR, TXMD, and AGTC are great buys right now.  You just need to be patient",StannisIsTheMannis,1,/r/RobinHoodPennyStocks/comments/lwugg5/mar_3_robinhoodpennystocks_daily_discussion_trends/gpkvnh8/,0.061,0.691,0.247,0.7906
+190,CTXR," Oh for sure, CTRM is a good example of people getting too greedy too fast.  But CTXR, TXMD, and AGTC are great buys right now.  You just need to be patient",StannisIsTheMannis,1,/r/RobinHoodPennyStocks/comments/lwugg5/mar_3_robinhoodpennystocks_daily_discussion_trends/gpkvnh8/,0.061,0.691,0.247,0.7906
+191,TXMD," Oh for sure, CTRM is a good example of people getting too greedy too fast.  But CTXR, TXMD, and AGTC are great buys right now.  You just need to be patient",StannisIsTheMannis,1,/r/RobinHoodPennyStocks/comments/lwugg5/mar_3_robinhoodpennystocks_daily_discussion_trends/gpkvnh8/,0.061,0.691,0.247,0.7906
+192,ASRT," Wooo ASRT, lot of people chanting $2.00 for ASRT. Anyone have a catalyst for why this would happen? Or is it just hype at the moment",YourLocalPugDealer,3,/r/RobinHoodPennyStocks/comments/lwzbrx/god_bless_asrt_and_ctxr_for_being_literally_the/gpk08bm/,0.0,1.0,0.0,0.0
+193,CLPS, Bruh CLPS 😵 you bought when it gapped 4x then held? You wild,Your7IronIsMyDriver,3,/r/RobinHoodPennyStocks/comments/lwzbrx/god_bless_asrt_and_ctxr_for_being_literally_the/gpk1m2k/,0.0,1.0,0.0,0.0
+194,EAST, I like the EAST play,Seattle_Ace,1,/r/RobinHoodPennyStocks/comments/lwzbrx/god_bless_asrt_and_ctxr_for_being_literally_the/gpk0q5c/,0.0,0.29,0.71,0.5994
+195,ASRT, Should have sold ASRT at 1.20 this morning.  FML.  This stock is so fucking volatile.,JeepMunkee,1,/r/RobinHoodPennyStocks/comments/lwzbrx/god_bless_asrt_and_ctxr_for_being_literally_the/gpki31x/,0.0,1.0,0.0,0.0
+196,AMZN, i have a bunch of boomer stocks like TSLA and AMZN but theyre in the red too,Potato-Psychological,3,/r/RobinHoodPennyStocks/comments/lwzbrx/god_bless_asrt_and_ctxr_for_being_literally_the/gpk0f00/,0.0,0.889,0.111,0.1901
+197,TSLA, i have a bunch of boomer stocks like TSLA and AMZN but theyre in the red too,Potato-Psychological,3,/r/RobinHoodPennyStocks/comments/lwzbrx/god_bless_asrt_and_ctxr_for_being_literally_the/gpk0f00/,0.0,0.889,0.111,0.1901
+198,CLPS," Well if losing $400 is the worst mistake of your life you’re doing alright. I also got in CLPS but I shorted it at $19, sold off too soon though lol",Your7IronIsMyDriver,1,/r/RobinHoodPennyStocks/comments/lwzbrx/god_bless_asrt_and_ctxr_for_being_literally_the/gpk26h9/,0.169,0.642,0.189,0.1779
+199,NOVN," The biggest NOVN play was about a month ago on the initial news.
+
+It is wise(r) to sell ***before*** the announcement date as it is 50/50 chance of good or bad news.",iKevtron,4,/r/RobinHoodPennyStocks/comments/lwuirc/novn_bullish_with_325_potential_catalyst_swing/gpj9ih6/,0.093,0.714,0.193,0.4215
+200,NOVN," I’m not bashing you, I’m merely commenting with my Pharma stock strategy and what has worked; selling before announcement dates.
+
+
+
+I hope it does have a huge run, however my typical strategy is take a 20% profit and leave, especially with the FDA process. I then move onto the next one. I was extremely bullish on NOVN and they recently were issued a patent grant which is also great news for the long term ***if*** the get through FDA and their product fares in the market. 
+
+
+
+Overall, playing the FDA approval game is a coin flip: phase 1 - 66.4%; phase 2 - 48.6%; and, phase 3 - 59% (64% if you exclude oncology) So it’s a little better than 50/50. Ultimately it does come down to the market’s feeling and prescribing doctors’ feelings—albeit, the COVID protocol could be the hit.",iKevtron,2,/r/RobinHoodPennyStocks/comments/lwuirc/novn_bullish_with_325_potential_catalyst_swing/gpjhc3a/,0.022,0.811,0.168,0.9632
+201,ATNX, Yep look what happened to ATNX after their fda denial.   Gambling with it though as I am hoping for a reversal due to a bunch of panic sellers,beatlebum53,1,/r/RobinHoodPennyStocks/comments/lwuirc/novn_bullish_with_325_potential_catalyst_swing/gpjx6qr/,0.109,0.726,0.165,0.1779
+202,LGHL," I'd love to jump onto LGHL, are there any other sources confirming this? I've only seen people quoting this one article as their source.",drof69,3,/r/RobinHoodPennyStocks/comments/lwztrn/lion_lghl_announces_breakthrough_of_receiving_a/gpk41n9/,0.0,0.846,0.154,0.6369
+203,EDIT," where is the website i can buy? source please. EDIT this forestgromp guy is a pump and dump guy look at his posts OCGN,AMC,GME, RKT lmao... this guy is just meme guy..",DuhYes,0,/r/RobinHoodPennyStocks/comments/lwztrn/lion_lghl_announces_breakthrough_of_receiving_a/gpkhk34/,0.079,0.851,0.07,-0.0772
+204,GME," where is the website i can buy? source please. EDIT this forestgromp guy is a pump and dump guy look at his posts OCGN,AMC,GME, RKT lmao... this guy is just meme guy..",DuhYes,0,/r/RobinHoodPennyStocks/comments/lwztrn/lion_lghl_announces_breakthrough_of_receiving_a/gpkhk34/,0.079,0.851,0.07,-0.0772
+205,OCGN," where is the website i can buy? source please. EDIT this forestgromp guy is a pump and dump guy look at his posts OCGN,AMC,GME, RKT lmao... this guy is just meme guy..",DuhYes,0,/r/RobinHoodPennyStocks/comments/lwztrn/lion_lghl_announces_breakthrough_of_receiving_a/gpkhk34/,0.079,0.851,0.07,-0.0772
+206,RKT," where is the website i can buy? source please. EDIT this forestgromp guy is a pump and dump guy look at his posts OCGN,AMC,GME, RKT lmao... this guy is just meme guy..",DuhYes,0,/r/RobinHoodPennyStocks/comments/lwztrn/lion_lghl_announces_breakthrough_of_receiving_a/gpkhk34/,0.079,0.851,0.07,-0.0772
+207,TRXC," TRXC >$10 near term. ~$20 intermediate. >$30 l/t
+
+💎🙌💎",clan-the-man,3,/r/RobinHoodPennyStocks/comments/lwx30c/trxc_cleared_for_take_off/gpjs1r1/,0.0,1.0,0.0,0.0
+208,UK, I would also like help and also from the UK. Using T212 so limited stock. Would like to know a better broker and better way of trading,Disneyfrozen1,1,/r/RobinHoodPennyStocks/comments/lx2le0/anyone_do_this_for_a_living/gpkjpsr/,0.071,0.543,0.386,0.8753
+209,STC," Okay so few things.
+
+1. Option contracts are 100 shares of the company. So you paid $0.07/ share x 100 shares x 2 contracts = $14 (your cost)
+
+2. Since you paid $0.07/ share in options for a $4.50 strike on Mar 19, you need to add that to the price to break even ,$4.50 + $0.07 = $4.57
+
+3. You need Nokia to move $0.56 in  15 days to break even. That’s a 14% rise in value. That’s a lot to move if “no news” so the price is low.
+
+4. Options are time dated instruments and have an expiry date. (shares in companies have no expiry). This means if the price doesn’t move and stays the same on the shares, the options lose value everyday just by doing nothing. The technical term is Theta and it is the amount of value the option will lose per day of no price change . Now theta moves all around because of price change but the important point to remember is it is always working against you as a buyer of options as it is always decreasing the options value.
+
+5. Edit: since you are a “buyer” of the option contracts, your maximum loss is $14 (what you paid).
+
+6. If in the next 15 days Nokia starts moving up in price, you can STC (sell to close) your position if the options go to $0.14 (100% return less commissions). Point is you can STC anytime.
+
+
+***** IMPORTANT you only STC options what you have bought and still in your account. 
+
+DONOT under any circumstances SELL options. You need more experience (no slight to you, we were all noobs at one point). 
+
+Remember when you BUY options the max loss is what you paid. When you sell options, unless you have a strategy to limit your losses, the amount you can lose can be unlimited.",boreastudio,18,/r/RobinHoodPennyStocks/comments/lx0lny/im_a_noob_with_options_please_dont_grill_me_i/gpk8kl3/,0.07,0.859,0.071,-0.3717
+210,NOK," It’s not worth much because NOK is still below 4.50, AKA the option is still “out of the money.”
+
+As you get closer to the expiration date, the price changes of NOK will have a greater effect (will have more leverage) on your call contract price.",donkey_tits,1,/r/RobinHoodPennyStocks/comments/lx0lny/im_a_noob_with_options_please_dont_grill_me_i/gpkjttq/,0.035,0.912,0.053,0.2105
+211,NOK," So if NOK hits 4.50 by March 19, I win? Guess I did it right :O",goldenkloudzzz,2,/r/RobinHoodPennyStocks/comments/lx0lny/im_a_noob_with_options_please_dont_grill_me_i/gpk8lpb/,0.119,0.669,0.212,0.3954
+212,NOK," You have a break even price of $4.57 (the $4.50 you're betting on plus the .07 you've already paid per share). So you really need ot to hit $4.57 to break even. 
+
+This is all considering you actually want to buy the shares. You can also hope for the options contract price to go up and sell it back and make money that way.  
+
+I havent been following NOK for quite some time, so I couldn't tell you what I think about the chances of that personally. But I can tell you that with March 19 only a couple of weeks away, your Theta (time decay) is probably higher than you want, which isn't good for you at the moment. Again, if you want to actually buy the shares, then the price of the options contract (and thus, time decay) probably doesn't matter much to you. 
+
+I'm all for the way you're learning here. It's how I did it. But until you learn about exactly how much of this works, make sure you stay away from selling naked contracts (selling contracts you don't already own the shares for), because your theoretical losses are limitless and you could end up in trouble if you do that wrong. Buying calls like this has a fixed loss already built in. The most you can lose is $14. 
+
+I also recommend that you make sure you learn about the greeks, as they are the mechanisms for how the option contract's price will move up and down.",platypusbelly,6,/r/RobinHoodPennyStocks/comments/lx0lny/im_a_noob_with_options_please_dont_grill_me_i/gpka2gr/,0.065,0.842,0.093,0.5509
+213,IMO," Nothing changed. There’s just no reason for the stock to go up rn aside from hype, which has clearly died down. Once the phase three results come out (assuming they’re positive) there will be a big rise.
+
+IMO this is a multi year hold and I’m not worried at all about what it’s doing now. In fact I’d like it to get back below $2 so I can buy more.",SaculSnirp,28,/r/RobinHoodPennyStocks/comments/lwfoaq/ctxr_are_we_still_feeling_bullish_on_it/gph5m18/,0.077,0.828,0.095,0.0742
+214,CTXR, The whole market has been trending down. CTXR has actually held up pretty well compared to my other stocks. I am still hopeful of 4-5$ by april,Pimp3d,22,/r/RobinHoodPennyStocks/comments/lwfoaq/ctxr_are_we_still_feeling_bullish_on_it/gph5fri/,0.0,0.728,0.272,0.8225
+215,LGHL," Got dicked by MICT today. Offering out of nowhere, like what the fuck. Sold my LGHL at my average because I think everything will continue to dip tomorrow. All around shitty day.",ThreenGumb,2,/r/RobinHoodPennyStocks/comments/lx3v5u/well_played_market/gpkt5f1/,0.248,0.752,0.0,-0.8485
+216,MICT," Got dicked by MICT today. Offering out of nowhere, like what the fuck. Sold my LGHL at my average because I think everything will continue to dip tomorrow. All around shitty day.",ThreenGumb,2,/r/RobinHoodPennyStocks/comments/lx3v5u/well_played_market/gpkt5f1/,0.248,0.752,0.0,-0.8485
+217,DD, Bought a few shares yesterday. Don’t need a DD - huge overreaction to bad news and hoping it corrects. I’ve also only been doing this for less than a month and am down 18% from where I started so I OBVIOUSLY have no idea what I’m doing!,ambermariebama,6,/r/RobinHoodPennyStocks/comments/lwytrc/anybody_else_eyeing_this_right_now/gpjybvk/,0.158,0.696,0.145,-0.1669
+218,DD," Oo well I am now, thanks. Yeah any DD to be certain it’ll come back up other than track record?",timcooksdick,1,/r/RobinHoodPennyStocks/comments/lwytrc/anybody_else_eyeing_this_right_now/gpjx9sy/,0.0,0.617,0.383,0.8074
+219,IMO," I did. As the attorneys stated, “the center of the investigation on the accuracy of Athenex's disclosures about clinical trials and safety and efficacy data”. Or as I see it, legal jargon for people are butt hurt. 
+
+This market over-reacted on a FDA denial. IMO, this will pass.",ProjectCross,1,/r/RobinHoodPennyStocks/comments/lwytrc/anybody_else_eyeing_this_right_now/gpkjbow/,0.068,0.845,0.087,-0.0258
+220,ALOT, I chalk it up to a learning curve tax. There is ALOT to learn and I haven’t even scratched the surface.,cookie2574,1,/r/RobinHoodPennyStocks/comments/lwytrc/anybody_else_eyeing_this_right_now/gpkw2h9/,0.0,1.0,0.0,0.0
+221,AGTC," I think most of us are balls deep into ARST.  We like cheap shit 😂 Well, except AGTC.",JeepMunkee,3,/r/RobinHoodPennyStocks/comments/lwkkrb/anybody_else_investing_in_progenity_prog_i_know/gpijuwf/,0.17,0.613,0.217,0.0
+222,AGTC, Hahaha!! 😂 Ayy I like cheap shit to! ARST doesn't look bad at all for $1. What's the word with that? I will look into AGTC. But definitely look into PROG. I like the stock.,jayswerve69,1,/r/RobinHoodPennyStocks/comments/lwkkrb/anybody_else_investing_in_progenity_prog_i_know/gpirbv8/,0.083,0.573,0.344,0.8867
+223,PROG, Hahaha!! 😂 Ayy I like cheap shit to! ARST doesn't look bad at all for $1. What's the word with that? I will look into AGTC. But definitely look into PROG. I like the stock.,jayswerve69,1,/r/RobinHoodPennyStocks/comments/lwkkrb/anybody_else_investing_in_progenity_prog_i_know/gpirbv8/,0.083,0.573,0.344,0.8867
+224,DD, For those worried about this dip or wondering whether or not to get in. Do some DD. This stock is honestly incredible with incredible upcoming catalysts,Fearless-Budget-9196,1,/r/RobinHoodPennyStocks/comments/lwyjde/mict_announces_54_million_registered_direct/gpkmbim/,0.075,0.822,0.103,0.2023
+225,ZOM," I’m not in but I was an early investor back when it was less than a dime. ZOM is warm and fuzzy, helps pets, and is good technology. Qorvo’s tech is really cool stuff and the company even makes components that go in iPhones.
+
+Anyway I’m a big believer in ZOM and have been for a while. I wasn’t prepared for the Baskin bump over $1 and that rocket took off without me. I’d still like to go in but we really need some options, I’d buy calls in a heartbeat!",WhatnotSoforth,2,/r/RobinHoodPennyStocks/comments/lx3qa2/whatre_everyones_thoughts_on_zom/gpktgno/,0.0,0.807,0.193,0.9577
+226,KIN," I moved most of my ZOM into KIN, I see more potential there",FuuckinGOOSE,1,/r/RobinHoodPennyStocks/comments/lx3qa2/whatre_everyones_thoughts_on_zom/gpky3yb/,0.0,1.0,0.0,0.0
+227,ZOM," I moved most of my ZOM into KIN, I see more potential there",FuuckinGOOSE,1,/r/RobinHoodPennyStocks/comments/lx3qa2/whatre_everyones_thoughts_on_zom/gpky3yb/,0.0,1.0,0.0,0.0
+228,RH, That’s not a RH rule. It’s across the board. SEC,kroy8691,3,/r/RobinHoodPennyStocks/comments/lwh8jc/if_i_sell_a_stock_and_buy_it_back_that_same_day/gphp68n/,0.0,1.0,0.0,0.0
+229,RH, Correct. RH you can turn the warnings on and off about day trading.,The-Night-Raven,1,/r/RobinHoodPennyStocks/comments/lwh8jc/if_i_sell_a_stock_and_buy_it_back_that_same_day/gphppv6/,0.155,0.845,0.0,-0.296
+230,PDT," You can have a maximum of three (3). In other words, if you day trade three (3) times today, you can't (shouldn't) day trade again until five (5) days later when they've all cleared.
+
+Edit: You only get slapped with the PDT rule if you day trade four (4) times in a five (5) day period. That's why Robinhood has the option to stop you before you hit PDT status.",bigcatclassic,2,/r/RobinHoodPennyStocks/comments/lx3dvw/why_am_i_getting_a_warning_about_pattern_day/gpkpvj0/,0.032,0.948,0.02,-0.2023
+231,TD," Yup. Exactly. I'm with TD Ameritrade and it's based on same day round-trips in my account.  Even when I've been down to my last trade within 5 days, I've never had a problem buying or selling as long as it wasn't on the same day.",GrumpLife,2,/r/RobinHoodPennyStocks/comments/lx3dvw/why_am_i_getting_a_warning_about_pattern_day/gpkshx5/,0.0,0.949,0.051,0.3089
+232,GME," I find it ridiculous, but it's helped keep my from blowing up my account on several occasions. Even having a cash account is misleading because your funds have to ""settle"" before they're considered ""cash."" 
+
+Actually, I believe the time-to-settlement issue was discussed during the GME trial a few weeks ago.",bigcatclassic,1,/r/RobinHoodPennyStocks/comments/lx3dvw/why_am_i_getting_a_warning_about_pattern_day/gpkrnyz/,0.108,0.892,0.0,-0.6486
+233,EVER," Yep, that is correct. The max you can EVER lose on buying an option play is the premium you pay for it. In this case, the $20.",cry0plasma,3,/r/RobinHoodPennyStocks/comments/lwwrpk/why_not_if_it_doesnt_hit_10_im_out_18_if_i_let_it/gpjto4k/,0.129,0.726,0.145,0.128
+234,DD," I just searched the sub, and found nothing for DD. Links for proof?",CartographerOfMaps,1,/r/RobinHoodPennyStocks/comments/lwvaz6/invo_time_to_fly/gpjcj48/,0.0,1.0,0.0,0.0
+235,DD," Whoops, it was in the penny stocks sub. Check out this post for the DD. https://www.reddit.com/r/pennystocks/comments/lljxyz/invo_invo_bioscience_375m_market_cap_company/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",Historical-Solid-504,2,/r/RobinHoodPennyStocks/comments/lwvaz6/invo_time_to_fly/gpjco5u/,0.0,1.0,0.0,0.0
+236,RH, In my experience Robinhood shows the average between the bid and the ask. If you click on the option chain it will expand and RH will show you the highest bid with the number of offers and the lowest ask with the number of offers. In the case of TXMD there's 78 available contracts at $1.80 and 177 offers at $1.15. In other words there's very little interest in this contract.,OopsIPoodMyPants,3,/r/RobinHoodPennyStocks/comments/lweqnk/why_is_this_itm_3_put_already_profitable_if_i/gph2jh8/,0.034,0.863,0.103,0.5082
+237,TXMD, In my experience Robinhood shows the average between the bid and the ask. If you click on the option chain it will expand and RH will show you the highest bid with the number of offers and the lowest ask with the number of offers. In the case of TXMD there's 78 available contracts at $1.80 and 177 offers at $1.15. In other words there's very little interest in this contract.,OopsIPoodMyPants,3,/r/RobinHoodPennyStocks/comments/lweqnk/why_is_this_itm_3_put_already_profitable_if_i/gph2jh8/,0.034,0.863,0.103,0.5082
+238,LPCN," No story but I got this for ya: **you got this fam**
+
+Edit: i don't have LPCN but I'm down as well. ~~believe in your dd~~ [believe in the dd posted by other redditors](http://imgur.com/a/rfZO9T3). ~~my~~ the dd from other redditors gives me confidence that these will turn around one day",foamybasketball9,2,/r/RobinHoodPennyStocks/comments/lx0kx5/someone_give_me_words_of_encouragement/gpk7arf/,0.03,0.838,0.132,0.7579
+239,RH," Little more detail...Most stocks showed up in my new brokerage app at the ~one week mark, account showed suspended/closed in RH even though it showed I had stocks, about a week after that the stocks disappeared from RH, 2-3 days later they showed up in the new brokerage app. 
+
+Hopefully it's not holding up too much money for ya, best of luck!
+
+And yea their statements are difficult to read for sure.",Twitchy993,2,/r/RobinHoodPennyStocks/comments/lwduih/missing_stock_after_transferring_to_new_brokerage/gphd8x7/,0.054,0.791,0.154,0.8439
+240,RH," Appreciate your replies! My Robinhood account showed me owning nothing but some fractional shares that I had after I initiated the transfer which they sold on me without my consent, they also restricted my account once my other shares actually transferred. I don’t care about my initial investment which was about 40$ but at the moment it’s worth about 780$, I’m just really confused on my RH statements really and where my shares went.
+
+I guess we’ll see what their support says bc the new brokerage doesn’t see it as something they were expecting to see and they’ve been really responsive and helpful.",buddy9092,1,/r/RobinHoodPennyStocks/comments/lwduih/missing_stock_after_transferring_to_new_brokerage/gpheswj/,0.071,0.7,0.229,0.9625
+241,SAVE," What?  Why are you mad, this is a penny stock forum. XOM and SAVE are not below $5 lol",DandierChip,1,/r/RobinHoodPennyStocks/comments/lx1nb0/thoughts_theres_some_cheap_options_im_liking_the/gpkvdr7/,0.226,0.613,0.161,-0.1528
+242,XOM," What?  Why are you mad, this is a penny stock forum. XOM and SAVE are not below $5 lol",DandierChip,1,/r/RobinHoodPennyStocks/comments/lx1nb0/thoughts_theres_some_cheap_options_im_liking_the/gpkvdr7/,0.226,0.613,0.161,-0.1528
+243,HSTO, I’m in on HSTO with an average of 1.41. It’s up and down a lot this month and something like 16% shorted as of feb16th. Should see a good run back up soon in my opinion. The charts don’t record everything it does.  it hit 1.99 less than a week ago before a huge sell off bringing it to where it is now. I’m currently averaging down while they develop a plan for the hold on hst003 before I look for an exit. I see big potential,Ancient_Bags,2,/r/RobinHoodPennyStocks/comments/lwzj01/wondering_about_hsto/gpk70gg/,0.0,0.909,0.091,0.7717
+244,PT, PT and time frame? I’ll do my own dd on company specifics too but just curious on what you think,Bobdadrummer,1,/r/RobinHoodPennyStocks/comments/lwzj01/wondering_about_hsto/gpk9mou/,0.0,0.866,0.134,0.4497
+245,CMC," They’re on clinical hold for CMC with on product. One product just did not meet FDA primary results in phase 3. One is available on the market already. 
+Earnings are due 3/25. Recent insider purchases and institutional investments as well on file. This company has very high insider ownership. My goal is $2.25 swing to cover initial investment at 1.40 then let the rest ride",Ancient_Bags,1,/r/RobinHoodPennyStocks/comments/lwzj01/wondering_about_hsto/gpkabri/,0.0,0.968,0.032,0.2732
+246,AREC, Too risky AREC is a better play IMO,mzzyhmd,3,/r/RobinHoodPennyStocks/comments/lwhoq1/anyone_in_on_wwr_i_know_its_just_above_5_my/gphf63g/,0.162,0.36,0.477,0.5423
+247,IMO, Too risky AREC is a better play IMO,mzzyhmd,3,/r/RobinHoodPennyStocks/comments/lwhoq1/anyone_in_on_wwr_i_know_its_just_above_5_my/gphf63g/,0.162,0.36,0.477,0.5423
+248,AREC, any reasoning for why it’s risky or why AREC is better?,drpooiscute,2,/r/RobinHoodPennyStocks/comments/lwhoq1/anyone_in_on_wwr_i_know_its_just_above_5_my/gphfanz/,0.131,0.657,0.212,0.2732
+249,AREC, I would do DD. I did mine. WWR has a history of disappointing its investors. I trust AREC’s CEO not to burn us shareholders that’s just my two cents but if you dig deeper you will find more reasons why I prefer AREC to WWR,mzzyhmd,-1,/r/RobinHoodPennyStocks/comments/lwhoq1/anyone_in_on_wwr_i_know_its_just_above_5_my/gphfiuw/,0.05,0.899,0.051,0.0129
+250,CEO, I would do DD. I did mine. WWR has a history of disappointing its investors. I trust AREC’s CEO not to burn us shareholders that’s just my two cents but if you dig deeper you will find more reasons why I prefer AREC to WWR,mzzyhmd,-1,/r/RobinHoodPennyStocks/comments/lwhoq1/anyone_in_on_wwr_i_know_its_just_above_5_my/gphfiuw/,0.05,0.899,0.051,0.0129
+251,DD, I would do DD. I did mine. WWR has a history of disappointing its investors. I trust AREC’s CEO not to burn us shareholders that’s just my two cents but if you dig deeper you will find more reasons why I prefer AREC to WWR,mzzyhmd,-1,/r/RobinHoodPennyStocks/comments/lwhoq1/anyone_in_on_wwr_i_know_its_just_above_5_my/gphfiuw/,0.05,0.899,0.051,0.0129
+252,WWR, I would do DD. I did mine. WWR has a history of disappointing its investors. I trust AREC’s CEO not to burn us shareholders that’s just my two cents but if you dig deeper you will find more reasons why I prefer AREC to WWR,mzzyhmd,-1,/r/RobinHoodPennyStocks/comments/lwhoq1/anyone_in_on_wwr_i_know_its_just_above_5_my/gphfiuw/,0.05,0.899,0.051,0.0129
+253,GNUS," GNUS has weekly.
+
+Basically my money printer right now. About to switch over to 4/16 calls at $1",GalacticCommodore,1,/r/RobinHoodPennyStocks/comments/lwfrjm/help_me_find_a_5_stock_with_weekly_options/gphbe8d/,0.0,1.0,0.0,0.0
+254,SNDL," good old SNDL
+
+Edit: This is the way, cannot go belly up",TemporaryDig9351,1,/r/RobinHoodPennyStocks/comments/lwfrjm/help_me_find_a_5_stock_with_weekly_options/gph8emn/,0.0,0.791,0.209,0.4404
+255,ATOS," It depends on the style of investing you are looking forward to? Short term holds 1week to 60days on long holds. 
+RYCEY has such low volume that it's chart is automated by bots that buy and sell after 0.01. 
+I would maybe say start with something that has some little more organic volume. ZOM, CXTR, SNDL, ATOS etc.",apologueglobal,6,/r/RobinHoodPennyStocks/comments/lwwqcj/new_here_thoughts_on_rycey/gpjlkrl/,0.036,0.964,0.0,-0.2732
+256,SNDL," It depends on the style of investing you are looking forward to? Short term holds 1week to 60days on long holds. 
+RYCEY has such low volume that it's chart is automated by bots that buy and sell after 0.01. 
+I would maybe say start with something that has some little more organic volume. ZOM, CXTR, SNDL, ATOS etc.",apologueglobal,6,/r/RobinHoodPennyStocks/comments/lwwqcj/new_here_thoughts_on_rycey/gpjlkrl/,0.036,0.964,0.0,-0.2732
+257,ZOM," It depends on the style of investing you are looking forward to? Short term holds 1week to 60days on long holds. 
+RYCEY has such low volume that it's chart is automated by bots that buy and sell after 0.01. 
+I would maybe say start with something that has some little more organic volume. ZOM, CXTR, SNDL, ATOS etc.",apologueglobal,6,/r/RobinHoodPennyStocks/comments/lwwqcj/new_here_thoughts_on_rycey/gpjlkrl/,0.036,0.964,0.0,-0.2732
+258,DD," I have not done any DD on this at all but I believe Rolls-Royce is basically a British company that their government won't allow to fail. I'd look into what they are trying to work on for the future (Electric engines, anything to attempt to innovate) and read some earnings reports. I just took a quick look at some questions from the last one (They only have a transcript of the earnings) and I'm not filled with confidence but this isn't a sector I know about or a company I know about.",tehcraz,2,/r/RobinHoodPennyStocks/comments/lwwqcj/new_here_thoughts_on_rycey/gpjm13w/,0.063,0.894,0.043,-0.1967
+259,GE, I like the stock. RR car division was sold to BMW so that's no longer a liability. They can purely focus on jet engines and the future of aviation with electric motors. Boeing and GE have become very favored plays over airline companies because an influx of orders have come in. GE is also a good play for renewable energy and aircraft engines as well. RR seems cheap at this price range and I'll continue to hold along with the others here.,1-6,1,/r/RobinHoodPennyStocks/comments/lwwqcj/new_here_thoughts_on_rycey/gpk0yez/,0.047,0.764,0.19,0.902
+260,CTXR," I am heavily invested in CTXR ( which if possible, you can buy on a great dip today )
+I have also had my eye on RR as well. Prior to their blade issue it traded in the 8 -9$ range. Prior to that issue & Covid, it seemed to trade roughly around 9 - 12$ range. 
+Given the long term contracts these companies enter into, I see it as potential great buy. Depending on your financial position, I see this as fairly low risk - given the current cost. If all hell breaks loose, you havent invested much. 
+Just my thoughts. I have plenty of DD to do.",ReferenceBusy899,1,/r/RobinHoodPennyStocks/comments/lwwqcj/new_here_thoughts_on_rycey/gpkojf2/,0.101,0.806,0.093,0.0516
+261,DD," I am heavily invested in CTXR ( which if possible, you can buy on a great dip today )
+I have also had my eye on RR as well. Prior to their blade issue it traded in the 8 -9$ range. Prior to that issue & Covid, it seemed to trade roughly around 9 - 12$ range. 
+Given the long term contracts these companies enter into, I see it as potential great buy. Depending on your financial position, I see this as fairly low risk - given the current cost. If all hell breaks loose, you havent invested much. 
+Just my thoughts. I have plenty of DD to do.",ReferenceBusy899,1,/r/RobinHoodPennyStocks/comments/lwwqcj/new_here_thoughts_on_rycey/gpkojf2/,0.101,0.806,0.093,0.0516
+262,CTXR, Better off investing in CTXR,JeepMunkee,0,/r/RobinHoodPennyStocks/comments/lwwqcj/new_here_thoughts_on_rycey/gpjr3fj/,0.0,0.58,0.42,0.4404
+263,IMO," Yes. I’ve had no problems using Robinhood. Best UI of any trading app IMO. 
+
+The only downside I can think of is the horrible customer support. But everything else about their app is great.",TheSmoothPilsner,10,/r/RobinHoodPennyStocks/comments/lwh33x/still_good_to_trade/gphf0h1/,0.212,0.509,0.279,0.6486
+264,UI," Yes. I’ve had no problems using Robinhood. Best UI of any trading app IMO. 
+
+The only downside I can think of is the horrible customer support. But everything else about their app is great.",TheSmoothPilsner,10,/r/RobinHoodPennyStocks/comments/lwh33x/still_good_to_trade/gphf0h1/,0.212,0.509,0.279,0.6486
