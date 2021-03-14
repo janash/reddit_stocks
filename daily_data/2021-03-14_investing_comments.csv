@@ -1,0 +1,971 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,RH," I complained to FINRA. timely and accurate transmittal of cost basis information is part of ACATS requirements.
+
+edit: Since this comment got some attention I want to share some of the follow-up. Once I mentioned the complaints to regulatory agencies RH managed to figure out what they needed to do to make it work and **my cost basis was transmitted to the receiver.** Not always the correct strike price, but correct initial investment numbers are now at my new brokerage. 
+
+**Do not reply to RH emails**, even though they say you can - **all email is bouncing**. Go to the **web contact form each time** or your requests will not make it into their support system. I sent a new request every day for a week until it showed up, remaining polite but informing them each day that each day of additional delay was noted. 
+
+I did also **complain to SEC**. While FINRA has not yet responded, SEC auto-replied after 5 calendar days. I also complained to my state (CA) department of consumer affairs.
+
+**Good recordkeeping is key to making consumer complaints that result in action.** I don't like companies that treat myself or others poorly; Making official complaints is one of my hobbies. Yes, I'm grumpy AF. Creating documentation and leaving a paper trail is important.",JoshWithaQ,879,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvmzl0/,0.092,0.827,0.08,-0.4243
+1,TD," LOL @ people transferring from Robinhood to WeBull, it's like jumping from the frying pan ... into the FIRE.
+
+Transfer to a real brokerage with history: Schwab, TD Ameritrade, ETrade, Fidelity, Vanguard, Chase. 
+
+WeBull is another startup just like Robinhood with a complete disregards of rules and always look to make quick bucks. Who knows if WeBull gonna pull some shits in the future or if they are going to be around when you need the money ??",SpritualBuddy,927,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvmde9/,0.104,0.797,0.099,-0.1179
+2,IMO," I tried to manually fill in my cost basis on Fidelity but because I had fractional shares that Robinhood wouldn't transfer and instead liquidated to get to the nearest whole share (which IMO is bullshit) I can't fill it out because the numbers don't add up correctly.
+
+I emailed Robinhood and Fidelity about this issue. Fidelity said they give RH 15 days to hand over this information and I'm like on day 14 so we will see. RH just gave me the same non-answer everyone else got which is they're working on it.
+
+In conclusion, fuck Robinhood and fuck Vlad Tanev.",daymanIloveyou,26,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwavnr/,0.084,0.801,0.116,0.3919
+3,RH," I tried to manually fill in my cost basis on Fidelity but because I had fractional shares that Robinhood wouldn't transfer and instead liquidated to get to the nearest whole share (which IMO is bullshit) I can't fill it out because the numbers don't add up correctly.
+
+I emailed Robinhood and Fidelity about this issue. Fidelity said they give RH 15 days to hand over this information and I'm like on day 14 so we will see. RH just gave me the same non-answer everyone else got which is they're working on it.
+
+In conclusion, fuck Robinhood and fuck Vlad Tanev.",daymanIloveyou,26,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwavnr/,0.084,0.801,0.116,0.3919
+4,RH, I recently transferred my money from RH to vanguard. What should I be looking at to make sure they didn’t scree me over?,Ian_is_funny,30,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvjimw/,0.0,0.897,0.103,0.3182
+5,RH," It's been 40 days since I initiated a transfer from Robinhood to Fidelity. The assets transfered, but no information related to cost basis was provided. I just sent a message to RH asking for a timeline as to when the information will be provided, per their FINRA obligations. Will file a complaint if I don't get the info within 10 days.",vocabularylessons,6,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwbfmd/,0.097,0.88,0.023,-0.6428
+6,GME," When I transferred from RH to TD a few years ago they only sent over the cost basis for half my stocks. I had to sift back through orders and past statements to calculate it myself. What a shit company.
+
+Seriously, when the GME yep to the moon is over (will it ever really be over though?) if you stick with RH, you fucking deserve all the bullshit they pull.",Tapprunner,4,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw7fdb/,0.124,0.846,0.03,-0.7845
+7,RH," When I transferred from RH to TD a few years ago they only sent over the cost basis for half my stocks. I had to sift back through orders and past statements to calculate it myself. What a shit company.
+
+Seriously, when the GME yep to the moon is over (will it ever really be over though?) if you stick with RH, you fucking deserve all the bullshit they pull.",Tapprunner,4,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw7fdb/,0.124,0.846,0.03,-0.7845
+8,TD," When I transferred from RH to TD a few years ago they only sent over the cost basis for half my stocks. I had to sift back through orders and past statements to calculate it myself. What a shit company.
+
+Seriously, when the GME yep to the moon is over (will it ever really be over though?) if you stick with RH, you fucking deserve all the bullshit they pull.",Tapprunner,4,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw7fdb/,0.124,0.846,0.03,-0.7845
+9,IRS," I’m seeing a ton of misinformation here in the comments. I have worked with (not for) various brokerages as an operations manager at investment firms for almost a decade. 
+
+It is standard procedure for cost basis between financial institutions to take up to two weeks to transfer after the assets transfer. They are done in different systems via services provided from DTCC. 
+
+The asset transfer can take 1-2 weeks but it can be even longer if the transfer occurs outside of the automatic customer account transfer service (ACATS), but Robinhood should be using ACATS. The cost basis reporting service (CBRS) handles the cost transfer after the asset transfer. 
+
+So about a month altogether (including basis transfers) isn’t unheard of.
+
+The fact that it’s wrong upon transfer most likely means Robinhood’s system is either disorganized or not properly interfacing to CBRS or both. In reality they have probably never seen this many accounts transfer out and are overwhelmed with processing requests and making errors. In my in my experience it’s not as simple as asking Vanguard or whoever received the assets/basis to update it. Robinhood (or whoever is sending) needs to initiate the request to correct it. This is because cost basis for purchases after 2011 are considered “covered” for IRS reporting purposes — so the sender is basically guaranteeing the info they send......... making it that much worse if it is *wrong*",justAdude_notAexpert,4,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxgpil/,0.066,0.903,0.032,-0.8807
+10,GME," Robinhood actually didnt transfer my GME shares to Fidelity. Given Im not sure if that was during the prohibition of buying fractional shares. Sooooo when GME took off again, instead of reaping that benefit I got roped into Robinhood selling at around 50 bucks when I bought at 300.... fuck you RH",BurntFriday,8,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvqhkp/,0.094,0.778,0.128,0.2354
+11,RH," Robinhood actually didnt transfer my GME shares to Fidelity. Given Im not sure if that was during the prohibition of buying fractional shares. Sooooo when GME took off again, instead of reaping that benefit I got roped into Robinhood selling at around 50 bucks when I bought at 300.... fuck you RH",BurntFriday,8,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvqhkp/,0.094,0.778,0.128,0.2354
+12,IRS," I left Robinhood for Fidelity and, after a week of no cost basis coming through, I went back and copied all of mine over from my history there. Huge pain in the ass but whatever.
+
+But I have a question about that: do they use the entered cost basis to decide which shares to sell when you’re selling? Obviously they should pick the ones you’ve had longest but at the same time they’re just going off manually entered data, so just wondering how it actually works. If the IRS knows how much to tax you, obviously there is a record of when and for how much you bought all your stocks. So why did I need to enter this manually?! Lol..",illsaucee,5,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvtnqy/,0.055,0.908,0.037,-0.2964
+13,RH, Heres a link for all the brokers that did shady shit around gme. Cant single out RH https://www.google.com/amp/s/amp.reddit.com/r/wallstreetbets/comments/l7e148/heres_a_list_of_brokers_you_should_know_to_avoid/,giovanny2214,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw2bld/,0.184,0.816,0.0,-0.5574
+14,GME," Stuck in a RH account for now. Reading some of the comments, I’m afraid to transfer while holding, especially any volatile stocks right now. 
+
+Looking at either TD or Fidelity, maybe Schwab. I already have a managed TD account - does anyone know if you can have both managed and standard with them? I thought I saw TD was one that stopped trading during GME spike. Is that correct?",KillerElf23,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwgyt1/,0.065,0.935,0.0,-0.504
+15,RH," Stuck in a RH account for now. Reading some of the comments, I’m afraid to transfer while holding, especially any volatile stocks right now. 
+
+Looking at either TD or Fidelity, maybe Schwab. I already have a managed TD account - does anyone know if you can have both managed and standard with them? I thought I saw TD was one that stopped trading during GME spike. Is that correct?",KillerElf23,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwgyt1/,0.065,0.935,0.0,-0.504
+16,TD," Stuck in a RH account for now. Reading some of the comments, I’m afraid to transfer while holding, especially any volatile stocks right now. 
+
+Looking at either TD or Fidelity, maybe Schwab. I already have a managed TD account - does anyone know if you can have both managed and standard with them? I thought I saw TD was one that stopped trading during GME spike. Is that correct?",KillerElf23,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwgyt1/,0.065,0.935,0.0,-0.504
+17,EA, Shot out for buying EA at all time high 2 years ago and still holding,pmekonnen,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwwuye/,0.0,1.0,0.0,0.0
+18,ANAT," I have 5.1 shares of ANAT and robinhood says they cost me an average of $1.62 per share. I bought them on June 3 at 81 per share.
+
+I have a cool 6,319.47% gains on it. 😎",Strongons,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxiye9/,0.0,0.697,0.303,0.8519
+19,RH," 
+
+I am looking to jump ship from RH due to the recent fiascos and I lost trust in it.
+
+I want to switch to established players like TD Ameritarde, Schab, Fidelity.
+
+But I love the User Interface and ease of use of RobinHood app. Please suggest which established trading apps has clean UI and easy to use and read?",peerless2299,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxo3ie/,0.033,0.657,0.31,0.9545
+20,TD," 
+
+I am looking to jump ship from RH due to the recent fiascos and I lost trust in it.
+
+I want to switch to established players like TD Ameritarde, Schab, Fidelity.
+
+But I love the User Interface and ease of use of RobinHood app. Please suggest which established trading apps has clean UI and easy to use and read?",peerless2299,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxo3ie/,0.033,0.657,0.31,0.9545
+21,UI," 
+
+I am looking to jump ship from RH due to the recent fiascos and I lost trust in it.
+
+I want to switch to established players like TD Ameritarde, Schab, Fidelity.
+
+But I love the User Interface and ease of use of RobinHood app. Please suggest which established trading apps has clean UI and easy to use and read?",peerless2299,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxo3ie/,0.033,0.657,0.31,0.9545
+22,ACB," This is not some RobinHood-specific issue. They might be making more mistakes than the average broker, but you are *always* recommended to monitor your own cost basis. All brokers make mistakes. Even when they don't make mistakes, they cannot tell you your cost basis with authority. Activity in other accounts that they cannot see can trigger rules that change the cost basis in the account you hold with them (i.e. the wash sale rule).
+
+Every investor needs to be capable of calculating the ACB of every position they hold on their own, across accounts, taking into account relevant tax laws etc.",crystalynn_methleigh,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw0y4f/,0.083,0.853,0.063,-0.4982
+23,GME," A friend of mine said something similar before that entire fiasco. It was right before they were being pushed hard in ads on here and YT. Before GME. 
+
+He tried to liquidate a lot of his stuff and got shafted, basically. Bunch of hidden fees and extra stuff where he advised me again them",SleepyBear3366911,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvkctm/,0.083,0.861,0.056,-0.128
+24,RH," Either RH never sent the cost basis or Fidelity never added them. I did the transfer in early feb, should I wait or just see if I can add them manually?",Tofon,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvp3n7/,0.0,1.0,0.0,0.0
+25,AMC," I transferred 5 shares of GME at a cost basis of $50.44 and 5 shares of AMC at like $6.70 (or something like that) out of RH and into vanguard. I've never looked at the cost basis now that they are in Vanguard, but the number of shares and total dollar amount (like maybe $1450 or something, because I have a few shares of other stuff in there) add up. *Do I need to worry or care?* 
+
+I guess I don't see anything wrong, or potential for negative future effects...",bon3r_fart,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvphr6/,0.092,0.732,0.176,0.4907
+26,GME," I transferred 5 shares of GME at a cost basis of $50.44 and 5 shares of AMC at like $6.70 (or something like that) out of RH and into vanguard. I've never looked at the cost basis now that they are in Vanguard, but the number of shares and total dollar amount (like maybe $1450 or something, because I have a few shares of other stuff in there) add up. *Do I need to worry or care?* 
+
+I guess I don't see anything wrong, or potential for negative future effects...",bon3r_fart,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvphr6/,0.092,0.732,0.176,0.4907
+27,RH," I transferred 5 shares of GME at a cost basis of $50.44 and 5 shares of AMC at like $6.70 (or something like that) out of RH and into vanguard. I've never looked at the cost basis now that they are in Vanguard, but the number of shares and total dollar amount (like maybe $1450 or something, because I have a few shares of other stuff in there) add up. *Do I need to worry or care?* 
+
+I guess I don't see anything wrong, or potential for negative future effects...",bon3r_fart,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvphr6/,0.092,0.732,0.176,0.4907
+28,RH, My cost-basis and other data hasn't even populated in Fidelity yet after transfering from RH.,YeastyWingedGiglet,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvr1xw/,0.0,1.0,0.0,0.0
+29,TD," I’ve messaged TD bc some of my securities had this problem. It’s a known issue w Robinhood sending late basis data to other brokerages...it’ll get there eventually, but I’d keep note of it somewhere in case it’s inaccurate for tax reporting purposes down the road
+
+ETA: they also charge $75 to transfer securities",VibeyMars,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw2hzz/,0.034,0.885,0.081,0.3716
+30,TD, What broker do you suggest? I hear TD ameritrade is good and I also heard the same for fidelity.,AfterMidnight_,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw35g2/,0.0,0.847,0.153,0.4404
+31,RH, I sold everything on RH and bought on TD Ameritrade and my cost basis went down! It's amazing.,gabagoomba,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw4d9k/,0.0,0.796,0.204,0.6239
+32,TD, I sold everything on RH and bought on TD Ameritrade and my cost basis went down! It's amazing.,gabagoomba,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw4d9k/,0.0,0.796,0.204,0.6239
+33,RH, FYI easiest thing to do is to grab your statements from RH to say least have the correct numbers. You can do the cost basis manually but with large portfolios it's going to be a pain in the ass. Easier than looking through your history though.,cup-o-farts,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw4rph/,0.163,0.707,0.13,-0.5905
+34,TD, I switched to TD Ameritrade. Have they been reliable? I wanted to stay away from Robinhood and even WeBull.,DoopyDooper_,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwglmu/,0.0,1.0,0.0,0.0
+35,RH, I’ve been with etrade since the day of RH fuckery. And still have yet to have my cost basis transferred for any of my portfolio. My gains are all incorrect(which is fine since I’m practically always in the green because of it). I had to create my own excel sheet so that I can have a correct breakdown of how much I’m in on a stock and how much I’m up or down.,fxdls610,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwha6r/,0.0,0.875,0.125,0.8074
+36,TD, I had 2 stocks transferred to TD one of which i had 150 shares.     Both stocks have an average cost much lower then the original purchase.    I guess I can't complain?,alonejog,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwlg2q/,0.071,0.714,0.215,0.5283
+37,RH, Don’t mean to step your post OP but i transferred from RH to Fidelity and my cost basis per share just reads - - . Is this normal? Who should I contact to fix this?,Kava_and_company,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwoiw4/,0.0,0.902,0.098,0.4871
+38,RH," I transferred all my RH stock to E*TRADE about a month ago. None of my costs have transferred at this point and all are listed as $0.00. 
+
+I haven’t done anything yet but it’s getting to the point where I feel I might need to contact E*TRADE.",Shdwrptr,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwrz7z/,0.0,1.0,0.0,0.0
+39,RH," I *hate* spread sheets and number tracking, but as I was moving from RH, after being closed out of a few positions 'for my safety, I started tracking. My numbers are off as well on most of the transfers. What a shill of a company.",piralee,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx25jl/,0.0,0.828,0.172,0.7579
+40,TD," I had similar suspicions about M1.  I wasn't happy with their portfolio analytics, so i tracked all trades in another app.  M1 overestimated the growth on everything. I still got my original investment back and then some when i liquidated it for christmas money before the plague, but the numbers didnt make sense.
+
+Once the big institutions like TD and Schwab announced fractional shares, i switched over and never looked back.  Im still tracking my trades in the other app because i like the tools, but now my broker's numbers match my own.",CaptMercaptan,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx6mm7/,0.039,0.827,0.134,0.8402
+41,RH," Oh my god, same. I’d mostly transferred to TD Ameritrade & just kept RH for more “adventurous” moves. Three weeks & counting with missing or fucked up cost basis numbers. And now that I’ve watched crypto dance circles around my limit borders without them executing, I’m bailing on RH entirely.",strumthebuilding,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx7jcm/,0.123,0.838,0.039,-0.6705
+42,TD," Oh my god, same. I’d mostly transferred to TD Ameritrade & just kept RH for more “adventurous” moves. Three weeks & counting with missing or fucked up cost basis numbers. And now that I’ve watched crypto dance circles around my limit borders without them executing, I’m bailing on RH entirely.",strumthebuilding,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx7jcm/,0.123,0.838,0.039,-0.6705
+43,TD, I pulled out my cash 2 months ago from Robinhood that went okay and I own just 4 companies  stocks  and I probably won't transfer them especially now that theyl took a major dip but I will leave 50 shares of something just to keep the account active. I've had problems with TD Bank on cost basis that I had to have corrected. I think the tremendous volume of new trading going on that they can't keep up with the activity. Many of them probably laid off personnel when things were slow and now have to play catch-up,dotherightthing36,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxbfue/,0.049,0.841,0.11,0.7227
+44,RH, Can confirm. Transferred to E*TRADE on February 8 and cost basis for shares I sold that were originally purchased through RH is $0.  E*TRADE has requested an update twice and has not received the correct info.,jwnikita,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxljha/,0.0,0.937,0.062,0.296
+45,RH," I have no idea how RH works, or doesn't work, but anytime I move BDs I will print a transaction sheet going back far as necessary to cover all my trades that still have existing positions.",Admirable_Nothing,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxw17z/,0.049,0.951,0.0,-0.1531
+46,GME, I just closed my RH account completely. They cost me so much money during the GME thing I just refuse to ever use their service again.,ftwin,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqy2mb7/,0.087,0.913,0.0,-0.296
+47,RH, I just closed my RH account completely. They cost me so much money during the GME thing I just refuse to ever use their service again.,ftwin,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqy2mb7/,0.087,0.913,0.0,-0.296
+48,IBKR," I transferred from Robinhood to IBKR over a month ago and Robinhood has still not provided the cost basis transfer to IBKR. Of course, contacting them does no good. Curious to know how much time did it take after the positions were transferred out for the cost basis to come in?",dalalsagar1947,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvjska/,0.041,0.861,0.097,0.4588
+49,RH," How long did it take you? I requested from my new broker to transfer my
+Funds out of RH, and its been well over a month and it says “pending RH”",mist_ald,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvk3g0/,0.0,0.93,0.07,0.2732
+50,RH, I got out and built an excel with my cost basis from RH. It has been 2 weeks since assets transferred and TD still doesn't have my info.,Internal_Worker_4006,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvoz28/,0.0,0.836,0.164,0.5719
+51,TD, I got out and built an excel with my cost basis from RH. It has been 2 weeks since assets transferred and TD still doesn't have my info.,Internal_Worker_4006,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvoz28/,0.0,0.836,0.164,0.5719
+52,UI, Damn... I just joined Robinhood and transferred all my money in.  The UI is easy enough to use.  Can someone explain to me why they are bad?,wooder321,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvrm7g/,0.115,0.789,0.095,-0.1531
+53,RH," I called fidelity and they said that RH has a month, technically. They rep said that RH has lost hundreds of thousands at least if not millions of customers, so they seem to be… behind.
+
+I think I’m going to just manually enter mine and be done with it.",lbjazz,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwua3z/,0.049,0.951,0.0,-0.3182
+54,RH, Same - been almost 6 weeks and I had to have someone at ML push RH to actually get the transfer done.,Arneaux2K,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxlxtl/,0.0,1.0,0.0,0.0
+55,TD," I use TD and Fidelity. Zero issue with either. Neither have the ""millennial"" app structure but both give you the ability to do more.",beastmode86,182,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvq0zc/,0.0,0.882,0.118,0.4497
+56,GME," Okay I started out on robinhood and definitely want to transfer to fidelity or Schwab, but it takes DAYS and all of my GME is in RH. Is it too late now for me to transfer before the potential squeeze?",Sar7814,3,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwc6xb/,0.0,0.89,0.11,0.3506
+57,RH," Okay I started out on robinhood and definitely want to transfer to fidelity or Schwab, but it takes DAYS and all of my GME is in RH. Is it too late now for me to transfer before the potential squeeze?",Sar7814,3,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwc6xb/,0.0,0.89,0.11,0.3506
+58,PM," Webull let you trade full extended hours. I made a ameritrade account but they only have 2.5 hours in PM, so I made a webull account as well. Webull's desktop and mobile apps are pretty good too",areyouabeer,15,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvre6y/,0.0,0.735,0.265,0.8957
+59,TD, I personally love webull. Best trading platform for me. I have a long trading account with TD though. You should really have 2 accounts if you can.,kauthonk,7,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvzhdi/,0.0,0.714,0.286,0.8555
+60,RH," RH seriously had their shit together when they made handled the UI, but Schwab has OTC penny stocks with no fee.",chudd,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwahtq/,0.264,0.736,0.0,-0.6652
+61,UI," RH seriously had their shit together when they made handled the UI, but Schwab has OTC penny stocks with no fee.",chudd,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwahtq/,0.264,0.736,0.0,-0.6652
+62,RH," Their promos are very good though. I'm transferring from RH to webull and in a few months will transfer elsewhere.
+
+I will say the data in webull is great though.",Into_The_Nexus,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwdkzs/,0.0,0.781,0.219,0.807
+63,GME," Although do agree for reliability. (I mostly use Schwab) I do have a small secondary ROTH in Webull because they have the best after hours. Sometimes you need to take advantage of immediate access. I got in GME @ $40 during premarket on the first day of the original rally because of Webull. Was up almost 600% in a day. 
+
+Just wish Schwab offered premarket trades. 
+
+I live in Hawaii so the East coast market times are pretty fucked...",TrouserSnake88,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw2p5q/,0.0,0.799,0.201,0.9423
+64,TD, TD ameritrade shutdown GameStop buying too didn’t they? Fuck that. I went to fidelity specifically because they didn’t stop the trading on Jan 28.,fuck_classic_wow_mod,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwlr4n/,0.213,0.787,0.0,-0.6908
+65,RH," WeBull does have a ton of nice data to look at ! I also still have RH with no money just becuase i like format best of all platforms   
+got 25 buck in Webull to play with but use it for a research platform and do most my trades on TDA . Hahah.",rmvb619,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwq2p3/,0.031,0.81,0.159,0.685
+66,TDA," WeBull does have a ton of nice data to look at ! I also still have RH with no money just becuase i like format best of all platforms   
+got 25 buck in Webull to play with but use it for a research platform and do most my trades on TDA . Hahah.",rmvb619,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwq2p3/,0.031,0.81,0.159,0.685
+67,GME, E*TRADE was also blocking purchasing of GME when a lot of brokerages were doing it. Edit your post to take out E*TRADE,luvs2spwge117,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwa7pb/,0.115,0.885,0.0,-0.3818
+68,GME," I transferred my funds from Robinhood to Fidelity and Schwab (both of whom I already had retirement accounts with).
+
+I _vastly_ prefer Robinhood, and have been contemplating moving back to Robinhood. I'm a buy-and-hold investor, so I find it hard to care about the GME stuff.",calm_incense,-10,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvphbv/,0.038,0.889,0.073,0.3687
+69,RH, Im in the same boat. Moved to fidelity 4 weeks ago and am still waiting for my cost basis info on all of my stocks. I reached out to RH and they sent me and email saying it will get there when it gets there basically. They are a total dumpster fire. I would recommend liquidating your assets before doing a transfer if possible,BearJ_the_first,127,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvpfmg/,0.063,0.849,0.088,0.1531
+70,RH," Sitting here with empty cost basis too. Sent a ticket to RH and they say they're ""working on it""",bigmashsound,9,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw3exg/,0.096,0.904,0.0,-0.2023
+71,RH," I still haven't received my tax documents from RH for last year. As soon as I get those I'm transferring. I've already opened a TD to buy more stocks currently, but still trading options on RH.",regular-cake,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwqkff/,0.0,1.0,0.0,0.0
+72,TD," I still haven't received my tax documents from RH for last year. As soon as I get those I'm transferring. I've already opened a TD to buy more stocks currently, but still trading options on RH.",regular-cake,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwqkff/,0.0,1.0,0.0,0.0
+73,RH," What would be the threshold for a portfolio value where the capital gains tax would be worth it/not that much to liquidate and transfer? Ive already opened an account and have positions on schwab, and have been trying to transfer my RH portfolio since the beginning of February, which has a value of about 8 grand. Im thinking of just liquidating and transferring, but what would be the tax burden?",Djpisspants,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw912y/,0.052,0.827,0.121,0.264
+74,GME," I've checked out quite a few and settled on Fidelity, and here's why. It's one of the more respected brokers out there and they didn't restrict trading during the whole GME incident. Plus, they don't charge for OTC stock purchases.
+
+Robinhood has a great, simplistic interface but I left them for obvious reasons. 
+
+I also have a WeBull account because I absolutely love WeBull Desktop, but I only keep around $500 in there. The extended trading hours are nice, but it's owned by a Chinese company and I'd rather support an American company.
+
+I also have a small E\*Trade account that opened some time ago (before I found Fidelity) so I could play with OTCs but they charge you $6.95 per OTC transaction. They also had some questionable things happen during the GME incident. I'll be closing out this account soon.
+
+I hear Vanguard doesn't have a great interface, but I can't speak from experience. I once heard someone describe it as a brokerage for boomers. lol
+
+I can't really speak to the others except for Think or Swim which I used to paper trade in a couple a college courses. Probably one of the better ones out there, but their app sure could use an upgrade.",CrushTheRebellion,5,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvr23z/,0.013,0.804,0.183,0.9896
+75,TD, I really like TD myself. Others prefer E-trade and Fidelity. Hard to go wrong with the big brokers.,pythonmine,3,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvs9hp/,0.211,0.657,0.131,-0.1796
+76,IRS," How can increasing the cost basis cost you money? First, if you don't sell, there's no difference. If you do sell, then you made less profit which is less taxes during tax time. Of course, you probably will want to correct the cost basis to make sure you don't run afoul of the IRS. But that's just a major annoyance and doesn't cost you any money.",userax,13,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvpos9/,0.033,0.852,0.115,0.5852
+77,IRS," Right, in my case my cost basis is lower so if I didn’t catch it I would have overpaid on taxes. Of course what you “owe” is always the real cost basis, but it means manually tracking it and correcting it before you submit to the IRS.",TheBlueMatt,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwds0a/,0.035,0.965,0.0,-0.1531
+78,RH," For anybody shopping around so they can leave RH, I recommend vanguard. I opened my IRA with them like four years ago and have never had any issues, money transfers are all next day. Also, their customer service was *GREAT* with the transfer from RH.",bon3r_fart,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvpp69/,0.032,0.861,0.108,0.5478
+79,RH," Yep, I went through and downloaded all my old statements to make sure I have it. Can't trust RH for much...",TheBlueMatt,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwfpm6/,0.116,0.69,0.194,0.2018
+80,TD, I love TD.  I use their think or swim platform to practice trading options,alonejog,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwltem/,0.0,0.724,0.276,0.6369
+81,RH," They pulled some stuff during the first $GME run-up which had them before Congress. There are also concerns about how they use your data to make money. You don’t have to look to far on Reddit to see a lot of horror stories and issues. That said, I currently use RH, but have slowly liquidated my positions (transfer doesn’t make sense for me) and now use Fidelity.",imdaforman,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvybjr/,0.035,0.965,0.0,-0.3291
+82,EA," Reasonable request. Here's a screenshot of the statement from Vanguard and my entire EA trading history from RH. I don't think they're just doing it to screw my over, more like just technical issues. https://imgur.com/a/GwvQRSH",TheBlueMatt,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwg6bf/,0.04,0.881,0.079,0.3384
+83,RH," Reasonable request. Here's a screenshot of the statement from Vanguard and my entire EA trading history from RH. I don't think they're just doing it to screw my over, more like just technical issues. https://imgur.com/a/GwvQRSH",TheBlueMatt,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwg6bf/,0.04,0.881,0.079,0.3384
+84,TD, I had 150 of one stock and 2 of another stock  transfered to TD.   The cost basis for those stocks are completely wrong.    I believe OP,alonejog,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwm1h7/,0.134,0.866,0.0,-0.5256
+85,GME," When they decided to shut down trading on GME, they also apparently sold a lot of people's stock at market price. This is common practice if the user had bought on margin. A lot of people on reddit reported it happened without buying on margin.",pythonmine,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvszwc/,0.0,1.0,0.0,0.0
+86,RH, Moved from RH to TD Ameritrade five weeks ago and no cost basis info yet either. Glad I manually tracked everything on a spreadsheet.,san_serifs,79,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwaelm/,0.087,0.794,0.119,0.2023
+87,TD, Moved from RH to TD Ameritrade five weeks ago and no cost basis info yet either. Glad I manually tracked everything on a spreadsheet.,san_serifs,79,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwaelm/,0.087,0.794,0.119,0.2023
+88,RH," How is Fidelity? Is it easy to use like RH? Like you, due to recent events, I'm considering switching to Fidelity, but I feel that I'm too tied in to RH to make the switch effectively and lose something (even though its only been 2 months since I used RH more).",LoveLaika237,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqy3hld/,0.063,0.765,0.172,0.6261
+89,RH," No news yet, but I did get accurate info transmittal once I complained to RH and told them I've escalated the matter to FINRA and would be happy to amend the complaint once corrected.",JoshWithaQ,6,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwj95f/,0.193,0.656,0.151,-0.1901
+90,ID," I like Fidelity more now that I am used to it.  At first it was a little daunting compared to Robinhood but I am definitely a believer now.  Do you like the app compared to Robinhood?  My only real complaint is logging in usually takes forever compared to RH.  Not sure why but its a process for me, even when using Touch ID.",flint-hills-sooner,76,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvzif4/,0.08,0.79,0.13,0.5118
+91,RH," I like Fidelity more now that I am used to it.  At first it was a little daunting compared to Robinhood but I am definitely a believer now.  Do you like the app compared to Robinhood?  My only real complaint is logging in usually takes forever compared to RH.  Not sure why but its a process for me, even when using Touch ID.",flint-hills-sooner,76,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvzif4/,0.08,0.79,0.13,0.5118
+92,TD," I also use TD Ameritrade. It’s pretty convenient and I don’t have any complaints about how the platform functions. I can’t buy fractional shares, but I’m generally not interested in doing so, so it’s not an issue for me.",mr-nefarious,12,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwb0mb/,0.117,0.791,0.092,-0.2586
+93,RH," Lot of ppl won’t come to TD because they have contract fees for options, whereas RH is free.
+
+65c a contract fee on TD. But you get better service anyways.",a123456789a23,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx44y2/,0.0,0.813,0.187,0.7351
+94,TD," Lot of ppl won’t come to TD because they have contract fees for options, whereas RH is free.
+
+65c a contract fee on TD. But you get better service anyways.",a123456789a23,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx44y2/,0.0,0.813,0.187,0.7351
+95,TD, TD Ameritrade is excellent,T591488,63,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvose9/,0.0,0.448,0.552,0.5719
+96,GME, It also pulled some silly shit during that initial GME spike... just didn't last as long.,RikerSays,16,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvs9dx/,0.193,0.749,0.059,-0.5423
+97,UI, The UI is dogshit.,Waiting_to_bang_you,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwdqbt/,0.0,1.0,0.0,0.0
+98,RH," You’re not actually buying bitcoin on Robinhood, it’s a derivative. That’s why you can’t transfer crypto out of RH without first liquidating everything",DogtorPepper,28,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvyfin/,0.0,1.0,0.0,0.0
+99,RH," You don't own that crypto and can't transfer it. RH owns your crypto. Unless it's in your  wallet and you have a public/private address, it's not yours.",vocabularylessons,4,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw8eln/,0.0,1.0,0.0,0.0
+100,UI," SoFi invest is very weak. Information is very limited, the UI/UX kind of sucks, stock transactions aren't instant meaning you can buy... but the transaction executes later, so forget caring about entry points... Basically if your investing model is ""set it and forget it"", it's fine enough. SoFi is only interesting in the sense that's it's complete digital banking... offers the same things as banks...",RikerSays,17,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvs4b7/,0.152,0.717,0.132,0.1038
+101,UI," You’re getting downvoted for having a supremely reasonable opinion.  I’m a buy and hold guy as well, but I prefer to do my research on mobile.  If you prefer mobile, whether it’s trading or long-term, there’s just nothing close to RH’s UI.  I also have Fidelity because of my kids’ 529 plans, and I opened a small brokerage account just to see how it was; mobile is straight up unusable, and frankly even desktop isn’t better enough that I’d prefer it if I wasn’t beholden to mobile.",poolandapondforyou,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxuk3x/,0.0,0.883,0.117,0.8442
+102,RH, Me too. I am just waiting for RH to finally upload my GODDAMN 1099 for 2020 that they legally owe me.,trumarc,3,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwa444/,0.165,0.775,0.06,-0.5319
+103,GME," It seems like selling all your positions and transferring to your bank account first is the easiest thing to do. Unless your playing with something super volatile like GME, there should be no concern and probably is the fastest option too.",glk3278,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwm6zw/,0.043,0.69,0.266,0.8834
+104,RH," Humm, there was some talk about RH scalping shares but it's just rumor. Might be related.",forty_pints,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwroht/,0.0,0.904,0.096,0.1531
+105,RH, Download your statements on RH in the meantime so at least you have the cost basis to compare.,cup-o-farts,10,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw4mnh/,0.0,1.0,0.0,0.0
+106,RH," You can enter manually on Fidelity, however you can't enter fractional shares, unfortunately a lot of my stocks on RH were purchased fractionally.",eksekseksg3,7,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwfapf/,0.177,0.823,0.0,-0.5086
+107,RH," I had to submit the transfer twice. I forget what the issue was but I called and they explained it and I just had to submit it again.  For that first request I never got a notification from RH that the transfer was initiated and the fidelity rep said that they had sent the request.  So just make sure your name and everything matches and make sure you haven’t made any trades on your RH account recently.  
+
+fidelity cancelled it probably because RH never responded.",getoffmydangle,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx3fhx/,0.046,0.876,0.078,0.5777
+108,RH, It's all in a doggy coin now for shits and giggles. I need to withdraw it at some point and buy actual crypto though because you don't really own shit through RH.,EelTeamNine,28,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvgb1h/,0.088,0.771,0.141,0.2095
+109,IRS," Cost basis exists becasuse of the IRS. I'm sure you could try lol, but it certainly wouldn't be advisable",Kensu96,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwg02h/,0.0,0.706,0.294,0.6858
+110,IRS," ProTip- just update your cost basis manually each year before downloading your tax forms.
+
+The IRS hates this!",blorg,21,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvz4cj/,0.158,0.842,0.0,-0.4926
+111,UI, Think or Swim has been great. Navigating it is not difficult but I wish they'd improve the menus and UI a bit. It's great so far though.,DoopyDooper_,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxmmxf/,0.079,0.548,0.373,0.8938
+112,TD," I know,  I'm glad you posted this because I was wondering who fucked up.  TD or Robinhood.",alonejog,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwoy6n/,0.216,0.637,0.147,-0.34
+113,RH," I didn't know they sold people's stock like that, that's shitty. 
+
+Not to justify their actions, but I wonder if the people who this happened to bought after initiating a transfer. For the couple days after starting a deposit into their RH accounts, the money is basically a courtesy loan until funds clear.",absoluttalent,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwdfpe/,0.042,0.804,0.154,0.7269
+114,RH," Same happened to me, no cost basis filled in on Fidelity after transferring from RH about a month ago
+
+Edit: a word",robbielolo,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwu7cw/,0.104,0.896,0.0,-0.296
+115,TD, Also moved to TD Ameritrade. All I see is (--*) everywhere. Will thos change if I buy for shares with my stimmy? I havent bought any shares since my transfer.,Iceheart17,30,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwcu2m/,0.0,0.85,0.15,0.5267
+116,TD, I left TD because they were also in cahoots with stock manipulation. Moved to qtrade. Cheaper commissions. I wonder with TD does investments with Citadel or somethjng...,redditor6616,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxkgj6/,0.084,0.916,0.0,-0.296
+117,RH," Yeah, my coat basis never showed up after I transferred to Fidelity, so I'm just going off the cost basis from RH. What to do lol",girthbrooksIII,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwh2pi/,0.0,0.821,0.179,0.6124
+118,UI, Fidelity desperately needs to learn a lot about UI,bigmashsound,154,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw33i1/,0.271,0.729,0.0,-0.3818
+119,RH," I just avoid the Fidelity app and website if I can, and use Active Trader Pro on my computer. I kept RH on my phone and made a watchlist of the stocks I have on fidelity so I can check them quickly, Fidelity is awful for just getting a glance at your positions.",eksekseksg3,21,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqweq8p/,0.102,0.845,0.053,-0.3612
+120,TD, This might be a yea duh from me but I am just making sure that you all know about “think or swim”… Because I didn’t know about it for a week or so after signing up for TD Ameritrade,NerdBurglur,6,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwd9ko/,0.0,0.92,0.08,0.4497
+121,UI, Any luck seeing level 2 trade data on the phone app? I can do everything but that. The desktop app is nice and packed with info/features even if it feels a little old UI wise.,Slick_McFavorite1,3,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwbo0c/,0.0,0.754,0.246,0.8575
+122,RH," I have the same login-time complaint regarding TD, however, I feel that may be a Server issue. With everyone leaving RH and a lot of new retail investors overall, TD/Fidelity servers I am sure are working overtime in comparison to previous years. Especially during first few hours of market open. Fortunately, I can happily say I've never been kicked out of the app, so despite the network traffic, they must be doing something right.",Iceheart17,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwdiwv/,0.03,0.889,0.081,0.5719
+123,TD," I have the same login-time complaint regarding TD, however, I feel that may be a Server issue. With everyone leaving RH and a lot of new retail investors overall, TD/Fidelity servers I am sure are working overtime in comparison to previous years. Especially during first few hours of market open. Fortunately, I can happily say I've never been kicked out of the app, so despite the network traffic, they must be doing something right.",Iceheart17,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwdiwv/,0.03,0.889,0.081,0.5719
+124,RH," I like the fidelity app as well. I still have Robinhood though as well( don’t crucify me) I use RH for options because I’m still new to options and so very little with them. I’m still reading and learning about them, once I have a decent grasp I’ll switch everything over to fidelity. I don’t understand the option chain and all the nuances. Probably means I shouldn’t be doing options...",essdii-,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwhtoz/,0.0,0.93,0.07,0.5574
+125,TD," Man, I can see why people loved Robinhood. Incredibly easy to use, see what stocks are doing well, manage your portfolio easy, transfers, it's all laid out and easily accessible. 
+
+WeBull seems to me Robinhood on steroids, way more information at your fingertips, but still easily accessible to get what you want.
+
+Basically, when all this began I started accounts for Robinhood, WeBull, and TD. I admit I liked Robinhood the most due to it's accessibility, but all the shady shit irked me. So I put more into WeBull before I really knew they are similar to Robinhood, and TD the least.",Jontacular,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx0yf8/,0.044,0.773,0.183,0.8871
+126,TD, TD doesn’t offer fractional share ownership is you have fractional shares their cashed out at mkt value at best trade and debited to your acct,VisableAlternative,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwj4kh/,0.0,0.656,0.344,0.875
+127,TD, TD is part of Schwab.,theJamesGosling,41,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvq0nz/,0.0,1.0,0.0,0.0
+128,TD," TD sells customer order flow in large qty, just as Robinhood does. Fidelity or E Trade.",chrdmcdennis,16,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw2cg4/,0.0,1.0,0.0,0.0
+129,RH," People seem to forget Ameritrade and tastyworks did the same shit as webull during gme. They pulled trading but then allowed it again after a few hours. For some reason webull gets as much flack as RH. 
+
+Edit apparently td didnt. Here is where i got my list from. https://www.google.com/amp/s/amp.reddit.com/r/wallstreetbets/comments/l7e148/heres_a_list_of_brokers_you_should_know_to_avoid/",giovanny2214,-2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw24d2/,0.075,0.925,0.0,-0.4118
+130,ID, I created a WeBull account and had to upload my ID. Shit!,invalid_dictorian,19,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvuidf/,0.28,0.576,0.144,-0.4389
+131,TD," So did Tastyworks,Etoro,Ameritrade, interactive brokers, Etrade and the lost goes on. 
+
+https://www.google.com/amp/s/amp.reddit.com/r/wallstreetbets/comments/l7e148/heres_a_list_of_brokers_you_should_know_to_avoid/
+
+Apparently TD was okay.",giovanny2214,15,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw2846/,0.126,0.769,0.104,-0.1027
+132,RH," Exactly. Stuff like this does concern me to have my money in RH. But I figure with all of their lawsuits pending already surely they wouldn't fuck up again right? It does worry me, but at this point I feel like I am too late to switch over for the squeeze at least. Thanks!",Sar7814,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwro05/,0.054,0.73,0.216,0.8679
+133,IBKR," I have no idea about Schwab but everyone seems to hate IBKR as well. I do have a IBKR account tho, may look into depositing future funds in there.",Anonymous5341,3,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw689n/,0.206,0.712,0.082,-0.6124
+134,RH, The problem there is if you bought fractional shares on RH. Fidelitys manual cost basis entry only supports whole shares. That's my current issue as none of my cost basis info has filled in yet.,eksekseksg3,3,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwez1l/,0.067,0.764,0.17,0.4939
+135,RH," For some reason when I transferred to Schwab, RH forced the sale of my fractional shares. They would only transfer whole shares. I don't know if that was an RH policy or Schwab. But Schwab still let me enter my fractionals correctly, but I had to sort of figure it out by hand to make it work.",cup-o-farts,3,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwfpja/,0.034,0.84,0.126,0.6705
+136,EA," Nope, that is literally the full history of all EA trades I ever made in RH - buy 4 shares and a dividend.",TheBlueMatt,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwi27m/,0.0,0.891,0.109,0.296
+137,RH," Nope, that is literally the full history of all EA trades I ever made in RH - buy 4 shares and a dividend.",TheBlueMatt,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwi27m/,0.0,0.891,0.109,0.296
+138,RH, I'm so waiting on RH to transfer cash over... 2 weeks on.,molten,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx8jgc/,0.0,1.0,0.0,0.0
+139,RH," Any brand new positions opened in TD Ameritrade will reflect the correct figures. All my positions that transferred from RH and have purchased shares in TDA have all wrong figures and cost basis. 
+
+There's no cost history to go from, so it assumes the shares brought over are at $0.",san_serifs,20,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwdnss/,0.095,0.826,0.079,-0.2263
+140,TD," Any brand new positions opened in TD Ameritrade will reflect the correct figures. All my positions that transferred from RH and have purchased shares in TDA have all wrong figures and cost basis. 
+
+There's no cost history to go from, so it assumes the shares brought over are at $0.",san_serifs,20,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwdnss/,0.095,0.826,0.079,-0.2263
+141,TDA," Any brand new positions opened in TD Ameritrade will reflect the correct figures. All my positions that transferred from RH and have purchased shares in TDA have all wrong figures and cost basis. 
+
+There's no cost history to go from, so it assumes the shares brought over are at $0.",san_serifs,20,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwdnss/,0.095,0.826,0.079,-0.2263
+142,TD," Yeah, you are fine. I am with TD Ameritrade, and switched my margin account to a cash account, and the same thing happened to me. Give it a day or two, and things should be back to normal. Also, the same thing will happen if one of your tickers changes its symbol. It won't make every symbol show --\* , just the affected stock. You may also see some crazy percentage gains or losses as well, that could be worth screen-shotting for future reference. I had a 23,000 percent gain on a particular ticker, which made me laugh.
+
+Edit: I'd personally wait until the positions look more accurate before buying more, just to be on the safe side. However, I am not a financial advisor so I may be wrong.",TheEScrapMan,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx19yt/,0.073,0.781,0.147,0.8495
+143,TD, TD Ameritrade does their own clearing.,san_serifs,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxrhq7/,0.0,1.0,0.0,0.0
+144,UI," Function over fashion.
+
+Finance can be complicated and fidelity gives access to all of the complex tools at your disposal, which isn’t very pretty.
+
+Robinhood does UI really well, but you’re getting a very dumber down version of everything",SchrodingersKitKat,15,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwezrr/,0.087,0.821,0.092,-0.1893
+145,RH, Yes! Instead of just moving from RH to Fidelity I opened a Fidelity account with $100 to play around with the interface. It is so needlessly confusing. Charts are impossible to read. Seeing your positions at a glance takes like 6 clicks. I’m not moving over until Fidelity improves their interface or at least until it makes sense to me.,trail34,5,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwp3ti/,0.034,0.798,0.167,0.8183
+146,RH," Who has the best user interface?  For all the circus, RH still had an easy flow.",L0utre,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw825m/,0.0,0.664,0.336,0.7964
+147,GME," TDA never limited GME trading. Stop lying.
+
+https://www.reddit.com/r/tdameritrade/comments/l7fnu8/tda_trading_restrictions_on_gme/",jcpto3,9,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw9uab/,0.457,0.408,0.136,-0.6038
+148,TDA," TDA never limited GME trading. Stop lying.
+
+https://www.reddit.com/r/tdameritrade/comments/l7fnu8/tda_trading_restrictions_on_gme/",jcpto3,9,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw9uab/,0.457,0.408,0.136,-0.6038
+149,GME," There’s a difference in buying a stock, and putting all your finances into a broker. Brokers already do shady shit pretty regularly. Why do you want to expose yourself to even more?
+
+FWIW I don’t invest in any Chinese owned company due to the human rights issues. I know I can’t avoid indirect investments and such due to the global supply chain, but I do my best to avoid it. 
+
+I also don’t invest in fossil fuels or Big Tobacco. I try to avoid Facebook, though it’s a bit tougher when it comes to ETFs (same for the others as well). There’s certain things that are off limits to many investors for a variety of reasons, no matter how sweet the pie looks. Boundaries are important. You may not be able to 100% avoid what you ethically and morally disagree with, but it’s worth trying to many of us. 
+
+WeBull just straight up FEELS shady as a platform (I’ve seen so many typos and QA issues in the apps that makes me uneasy to trust them with my finances), even without the government issues. 
+
+Do what you want, but if you think you’re investing and making money, as others have said - use a real broker with an established reputation. It’s not unprecedented for financial institutions, regardless of the amount of regulations, to end up making the headlines for shady shit they did. Minimize your risk whenever you can. 
+
+I truly don’t see the benefit of WeBull outside of “free but not Robinhood”. Most people here will have “free” with the regular brokers as well, and won’t really face fees until you’re talking “big kid” investing that most won’t be involved in. If you were happy trading on RH except for how they fucked you on GME, you’ll be fine on E*TRADE, TD, etc.",yarrr0123,20,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwf2he/,0.107,0.753,0.14,0.8591
+150,RH," There’s a difference in buying a stock, and putting all your finances into a broker. Brokers already do shady shit pretty regularly. Why do you want to expose yourself to even more?
+
+FWIW I don’t invest in any Chinese owned company due to the human rights issues. I know I can’t avoid indirect investments and such due to the global supply chain, but I do my best to avoid it. 
+
+I also don’t invest in fossil fuels or Big Tobacco. I try to avoid Facebook, though it’s a bit tougher when it comes to ETFs (same for the others as well). There’s certain things that are off limits to many investors for a variety of reasons, no matter how sweet the pie looks. Boundaries are important. You may not be able to 100% avoid what you ethically and morally disagree with, but it’s worth trying to many of us. 
+
+WeBull just straight up FEELS shady as a platform (I’ve seen so many typos and QA issues in the apps that makes me uneasy to trust them with my finances), even without the government issues. 
+
+Do what you want, but if you think you’re investing and making money, as others have said - use a real broker with an established reputation. It’s not unprecedented for financial institutions, regardless of the amount of regulations, to end up making the headlines for shady shit they did. Minimize your risk whenever you can. 
+
+I truly don’t see the benefit of WeBull outside of “free but not Robinhood”. Most people here will have “free” with the regular brokers as well, and won’t really face fees until you’re talking “big kid” investing that most won’t be involved in. If you were happy trading on RH except for how they fucked you on GME, you’ll be fine on E*TRADE, TD, etc.",yarrr0123,20,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwf2he/,0.107,0.753,0.14,0.8591
+151,TD," There’s a difference in buying a stock, and putting all your finances into a broker. Brokers already do shady shit pretty regularly. Why do you want to expose yourself to even more?
+
+FWIW I don’t invest in any Chinese owned company due to the human rights issues. I know I can’t avoid indirect investments and such due to the global supply chain, but I do my best to avoid it. 
+
+I also don’t invest in fossil fuels or Big Tobacco. I try to avoid Facebook, though it’s a bit tougher when it comes to ETFs (same for the others as well). There’s certain things that are off limits to many investors for a variety of reasons, no matter how sweet the pie looks. Boundaries are important. You may not be able to 100% avoid what you ethically and morally disagree with, but it’s worth trying to many of us. 
+
+WeBull just straight up FEELS shady as a platform (I’ve seen so many typos and QA issues in the apps that makes me uneasy to trust them with my finances), even without the government issues. 
+
+Do what you want, but if you think you’re investing and making money, as others have said - use a real broker with an established reputation. It’s not unprecedented for financial institutions, regardless of the amount of regulations, to end up making the headlines for shady shit they did. Minimize your risk whenever you can. 
+
+I truly don’t see the benefit of WeBull outside of “free but not Robinhood”. Most people here will have “free” with the regular brokers as well, and won’t really face fees until you’re talking “big kid” investing that most won’t be involved in. If you were happy trading on RH except for how they fucked you on GME, you’ll be fine on E*TRADE, TD, etc.",yarrr0123,20,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwf2he/,0.107,0.753,0.14,0.8591
+152,AMD, You're officially on team red! Congratulations! And I don't mean AMD...,dochalladay32,38,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqw1x7l/,0.0,0.667,0.333,0.6688
+153,IRS, I've outsmarted the IRS when it comes to capital gains by only taking losses.  Buy high sell low brother.,bahetrick1,5,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwrzgt/,0.207,0.69,0.103,-0.34
+154,RH," Oh yeah, I heard about the issue of RH not transferring fractional shares before I trasnferred, so I rounded out everything to whole shares first. But stuff was still purchased fractionally so the issue still stands for me.",eksekseksg3,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwktpo/,0.099,0.843,0.058,-0.1471
+155,RH, I transferred to Merrill Edge.  Took 8 biz days.  Still no cost basis a month later.  I’ll trust it’s RH.,Parkliph,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxhtg2/,0.107,0.732,0.161,0.2732
+156,UI, At least Vanguard attempted to improve their UI with Beacon,PhillyScumbag,21,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwl009/,0.0,0.756,0.244,0.4404
+157,GME," Look into it; fibonacci retracement(support/resistance levels), fibonacci time sequencing(if set to the right start date, can identify large moves in a stock), fibonacci fans, fibonacci spirals, and fibonacci arcs..  It is pretty amazing stuff! I'll be back with a post link...
+
+Edit: [Post applying fibonacci to what's happening with GME](https://www.reddit.com/r/GME/comments/lxa8lz/you_me_and_fibonacci_gme_based_dd/?utm_medium=android_app&utm_source=share) Check out OPs other posts on fibonacci as well!",regular-cake,1,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqx36iy/,0.0,0.848,0.152,0.8652
+158,FB," I invited a friend who got FB priced at 213. I never got more than 5 though (except plug, when it was 4ish)",Jumpy_Philosopher955,9,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqvttdl/,0.0,0.849,0.151,0.4939
+159,ABC," Yeah 2020 was the year that I actually started playing around in the stock market and with options, however I didn't really take any big risks.
+
+If I understand correctly;
+
+I buy stock XYZ for $100. Sell for $100. I buy stock ABC for $100. Sell for $100
+
+Technically my cost basis is $200. However my Net gain or loss is $0 in this situation? If that's true then I do think that answers my $14k and $3k statement because I never had $14k sitting in my account and that's where I got confused when I saw the Proceeds and Cost Basis numbers on the 1099.",HallowSingh,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwuaff/,0.063,0.842,0.095,0.5423
+160,RH," I reported to SEC on THAT day and not a peep.   Not even an auto reply or confirmation.  My best hopes were to waste the time and resources of RH, I didn’t expect anything more but here we are what, 60 days later or so with nada to show for reporting.   Wrote my congressman too, jack shit there as well.",Parkliph,3,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqxhntj/,0.103,0.788,0.108,-0.1655
+161,RH," Yep. And why do we have to manually turn on real-time price updates? And then when we do, the numbers change from one decimal place to four every fraction of a second so it just looks glitchy and difficult to read. What a simple thing to fix. I mean, RH has been around for a while. You think they would have looked at that and thought “oh, we can do that too with a few lines of code and it would be a lot easier to interpret”",trail34,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwqx8a/,0.029,0.912,0.058,0.3612
+162,IMO," Check out TradingView, TradeStation, and E*TRADE. TV is straight up one of the best tools for charting for retail traders. I don’t have it hooked up to any broker, but I use it for analysis. The community is really good. I’ve seen WeBull, and the community seems like nothing but bros and shady characters looking to get rich quick with gambling, not investing. 
+
+TradeStation I’ve never used, but I know people love it. It regularly has some of the best reviews I’ve seen. 
+
+ETRADE is my broker. I’ve contemplated moving to TD or at least trying it out for Think or Swim, but it’s plenty for now. Power ETRADE is a good mobile and web app (admittedly the web app is lacking IMO compared to TradingView), but ETRADE Pro is great. It’s hidden as they push people to Power, but if you just hop on support chat they’ll enable it within a few minutes. I don’t need it, but it gives me an ego as I feel like a real trader with it. I know there’s plenty out there who live in it and wouldn’t go anywhere else.",yarrr0123,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwhnza/,0.0,0.789,0.211,0.9935
+163,TD," Check out TradingView, TradeStation, and E*TRADE. TV is straight up one of the best tools for charting for retail traders. I don’t have it hooked up to any broker, but I use it for analysis. The community is really good. I’ve seen WeBull, and the community seems like nothing but bros and shady characters looking to get rich quick with gambling, not investing. 
+
+TradeStation I’ve never used, but I know people love it. It regularly has some of the best reviews I’ve seen. 
+
+ETRADE is my broker. I’ve contemplated moving to TD or at least trying it out for Think or Swim, but it’s plenty for now. Power ETRADE is a good mobile and web app (admittedly the web app is lacking IMO compared to TradingView), but ETRADE Pro is great. It’s hidden as they push people to Power, but if you just hop on support chat they’ll enable it within a few minutes. I don’t need it, but it gives me an ego as I feel like a real trader with it. I know there’s plenty out there who live in it and wouldn’t go anywhere else.",yarrr0123,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwhnza/,0.0,0.789,0.211,0.9935
+164,TV," Check out TradingView, TradeStation, and E*TRADE. TV is straight up one of the best tools for charting for retail traders. I don’t have it hooked up to any broker, but I use it for analysis. The community is really good. I’ve seen WeBull, and the community seems like nothing but bros and shady characters looking to get rich quick with gambling, not investing. 
+
+TradeStation I’ve never used, but I know people love it. It regularly has some of the best reviews I’ve seen. 
+
+ETRADE is my broker. I’ve contemplated moving to TD or at least trying it out for Think or Swim, but it’s plenty for now. Power ETRADE is a good mobile and web app (admittedly the web app is lacking IMO compared to TradingView), but ETRADE Pro is great. It’s hidden as they push people to Power, but if you just hop on support chat they’ll enable it within a few minutes. I don’t need it, but it gives me an ego as I feel like a real trader with it. I know there’s plenty out there who live in it and wouldn’t go anywhere else.",yarrr0123,2,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwhnza/,0.0,0.789,0.211,0.9935
+165,UI, The good thing about how bad Vanguard’s UI is that it’s great for buy-and-hold-forever since it’s such a pain in the ass to make transactions that you end up just leaving it there.,DPlainview1898,13,/r/investing/comments/m4ojn2/psa_if_you_recently_left_robinhood_double_check/gqwntmy/,0.233,0.609,0.158,-0.5106
+166,ITT, ITT no one takes OP seriously and OP tries to save face,ColdHoller,18,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gquty54/,0.242,0.559,0.199,0.0772
+167,UK," Great analysis, I've got a few gaps in my knowledge regarding US policies as I'm in the UK but this echoes  my thoughts on it all too. I don't think the UK is in quite as bad situation as you guys but what happens over the pond usually makes big waves over here too.",MerchantLAD,6,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqub9t4/,0.09,0.866,0.044,-0.56
+168,ITT," I'm fully on board this doom train and have allocated most of my portfolio to commodities, materials, and EM ETFs. I also have some financials since they have decent balance sheets, do well in rising interest rate environments, and have the full support of the fed.
+
+What a lot of people ITT aren't understanding is that you don't need hyperinflation to occur to beat the S&P . Go look at the price of gas. Go look at lumber or copper. These are already beating the market and we're just getting started. Wait until CPI hits 4% in June after we've fully opened the economy and the whether is good.",CPAyyyy,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqus7bs/,0.052,0.856,0.092,0.5537
+169,XOM," The numbers for inflation on Jan - Feb - Mar come out in June. I'm scared to shit.
+
+Bought XOM as a commodity play and have a play on a vaccine stock. That's it. All the rest in cash. 2021 it's going to be an interesting one.",SorryLifeguard7,-2,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqud0wg/,0.127,0.725,0.147,-0.0
+170,MMT," Hear me out, I know this is a radical fucking idea, but economies are prosperous when they produce real goods and services, not bank reserves, CDO's, and MMT magic. The fed is going to make sure all our productivity is worthless.",yazalama,-3,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqv0ehz/,0.082,0.767,0.151,0.5023
+171,DD," please post your DD on this. A lot of people are saying things, but the market and the numbers we are seeing all over the place are not reflecting their words.",turtleman182,-7,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqumqhf/,0.0,0.946,0.054,0.1655
+172,GME, Ppl with $1000 are yoloing it all on GME right now with zero regard to economic fundamentals,civic19s,33,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gquoi4i/,0.0,1.0,0.0,0.0
+173,DD," you should post us a DD showing us how YCC doesn't lead to crazy inflation, and how raising yields doesn't lead to a liquidity disaster in the bond market. 
+
+Being dismissive is easy.",turtleman182,11,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqulwhw/,0.111,0.756,0.133,-0.0423
+174,UK," >I don't think the UK is in quite as bad situation as you guys
+
+It's not ?!?",Ahrideva,12,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gquh4al/,0.217,0.783,0.0,-0.663
+175,ANY, Why in God's name would you go into ANY asset yielding 2% when inflation will likely be 2-3%?,justafreesheep,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqvl8ir/,0.0,0.872,0.128,0.3612
+176,ETH, ETH is where its at. Smart contracts are dope.,wang-bang,2,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqut3lh/,0.0,0.748,0.252,0.4019
+177,MMT," > MMT magic
+
+The whole theory of MMT is that printing should go to productive sectors that have large labor requirements because of economic multiplier effects instead of financialization and speculation, so I don't know why you'd put that in there. Just printing money is not MMT.",heterodoxxed,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqw2b0y/,0.0,1.0,0.0,0.0
+178,GDP," Japan market has been flat more because Japan has essentially zero GDP growth since 1994.
+
+US is not going to see net zero GDP growth for 25yrs, I can promise you that.
+
+It’s not comparable.",alexunderwater,3,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqwkn8f/,0.0,0.805,0.195,0.7579
+179,DD," My DD that we’re not headed for hyperinflation?
+
+I mean, most leading economists agree that the US is poised for increased short-term inflation, but very few seem to conclude that hyperinflation is a 2021 or even 2022 likely scenario. Shortages are an issue, largely due to shipping reasons, which are largely due to covid-19. In the short term, most forecast price increases in some sectors, but seem to largely agree that these share the same catalyst: covid-19. Short-term inflation will be driven by spending later this year, but most agree that there isn’t cause for concern yet.
+
+There are some resource scarcity issues impacting some sectors, but I don’t see why those would result in economic collapse.",notherday11,13,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqurqpd/,0.049,0.833,0.118,0.7797
+180,GDP," Not in terms of debasing our currency. The ratio of fiscal stimulus to GDP is something like 27% in the states, before our latest budget in the UK it was 2% here. Haven't done the maths but it's doubtful its gone beyond 10%, plus our government is already trying to claw back the money from us by freezing our tax free allowances.",MerchantLAD,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gquinn8/,0.068,0.842,0.09,0.3612
+181,UK," Not in terms of debasing our currency. The ratio of fiscal stimulus to GDP is something like 27% in the states, before our latest budget in the UK it was 2% here. Haven't done the maths but it's doubtful its gone beyond 10%, plus our government is already trying to claw back the money from us by freezing our tax free allowances.",MerchantLAD,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gquinn8/,0.068,0.842,0.09,0.3612
+182,ETH," I liked ETH once but then they reversed transactions already verified. That really put me off from ETH but I could be wrong. Probably some people think it’s good that they reversed the transactions but it’s a failure if the crypto network in my view. I definitely think ETH could have a place,
+a lesser place IMO, but it’s obviously just my own speculation.",ConbiniMan,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gquv14r/,0.121,0.748,0.131,-0.0772
+183,IMO," I liked ETH once but then they reversed transactions already verified. That really put me off from ETH but I could be wrong. Probably some people think it’s good that they reversed the transactions but it’s a failure if the crypto network in my view. I definitely think ETH could have a place,
+a lesser place IMO, but it’s obviously just my own speculation.",ConbiniMan,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gquv14r/,0.121,0.748,0.131,-0.0772
+184,ATH," >Bitcoin hasn't been hit by bond sell-offs as hard as the NASDAQ
+
+Hasn't been hit as hard??? It's at ATH, just passed $60K",gopnik5,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqxlppa/,0.137,0.863,0.0,-0.327
+185,DD," Yeah I opened up my account a month ago, I have been investing for about a month. But I have understood how interest and liquidity works for many years. It is ok to disagree but to ensure quality of this sub you should try to post a counter argument here with a DD showing how I’m wrong. Make sure to talk about SLR%, IOER, and liquidity crisis of 2018-2019. Ensure the community that our bond market is more liquid now and that even though there is a bunch of companies that don’t produce profits in our markets that it will be okay because we can keep pumping money into it to keep them afloat with low interest rates so they can continue to meet SLR and avoid having the credit risk if their bonds re evaluated, which would lead to a wave of bankruptcies.",turtleman182,-18,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gquwy89/,0.135,0.696,0.168,0.5574
+186,GDP," I don't know why that specific ratio is interesting.
+
+I think debt to GDP ratio is probably better, or maybe debt servicing costs as a percent of government revenues.
+
+Stimulus is a momentary event and in the long run does not matter as much as the other two metrics I suggested.",CameronNemo,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqv9xcv/,0.115,0.778,0.106,0.1346
+187,IMO, IMO proof of work is a pure failure. Cryptocurrency based on it will never have significant (non-speculation based) flows or uses.,CameronNemo,3,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqva2j9/,0.214,0.786,0.0,-0.5983
+188,UK," Not sure why you're getting so wound up by my comment, it's neither an attack on you or your country. I'm just acknowledging that we haven't provided as much stimulus as you guys and therefore don't have the same problem. We have a whole host of problems of our own, continued lockdowns and brexit only being a part of it, the near future isn't looking great for us either. We'll catch the backlash if the US markets crash on top of our own problems too. Also I'm no royalist, I'd much rather the UK scrapped the archaic idea of a monarchy.",MerchantLAD,5,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqunjsy/,0.164,0.797,0.039,-0.917
+189,DD, all the data on this are public. You can do your own DD. You don't have to listen to anybody and you shouldn't. Manage your risk.,turtleman182,-4,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqvi2j1/,0.0,0.932,0.068,0.2057
+190,GME, Doesn’t mean I bought into GME. My pea brain understands what a balance sheet is and the importance of Paying off debt and producing cash. The US economy has detached from the reality of needing to produce cash and pay off debt.,turtleman182,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqw9c5b/,0.174,0.771,0.055,-0.5267
+191,GME," Well I mean GME went up to like 5o0 at one point and then its back down. So obviously thats economic doom.
+
+Tbh I half agree with what hes saying.  Yeah interest rates are going to go up until the feds hand is forced or they do nothing.  Either way it will just lead to a correction worse than the nasdaq is at now not hyperinflation.  And yeah commodities are a hot buy now mostly because with reopening theres going to be a huge demand and subsequent rise in prices.
+
+I bought short term puts on TLT on Friday and I'm up like 40%.  I plan on holding till probably Monday since hopefully the yields go up over the weekend then I can exit monday and not worry about getting fucked over by Powell and the fed again.",sinncab6,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqvviwh/,0.106,0.731,0.163,0.7794
+192,AI," No, look for opportunities as they arise. Long term automation is going to be king. Innovation will be king. Tech, alternative energy, robotics, 3d printing, AI, fintech, etc. Companies that make things easier/more efficient/more profitable. Think about how the world will look in 10-20 years and put your money towards those places. Sitting on the sidelines in bonds that are losing value and potentially letting the markets run higher and higher is a double whammy. Now you try to get in at a much higher point, and  lost a lot of purchasing power. Or you can sit in the whole time, gain 3-5%+ guaranteed, let the markets ride up and down, and have the potential of stock appreciation with the markets. It's smart to sit on some cash for dips to get better averages, maybe 20% or so. But going bond heavy? Not smart imo. Any short term volatility has been reversed rather quickly. Inflation will likely be short lived, and if it's not, then bonds will fuck you more than dividends/rent from properties would.",justafreesheep,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqvnugf/,0.054,0.805,0.141,0.9432
+193,AI," >Tech, alternative energy, robotics, 3d printing, AI, fintech, etc.
+
+These aren't dividend stocks.  Those are almost certainly growth stocks that have no profit.  Sounds like the composition of ARKK.  Different strategy altogether.
+
+Not everyone wants to have the risk of an 80% stock portfolio.  Bonds fill the risk gap between holding money market cash and stocks.  They actually cushion volatility quite a bit and act similar to a dividend paying stock in the short term.  If interest rates go up, the bond fund pays a higher interest rate accordingly despite the NAV dropping.
+
+Plus, not all bonds are treasuries.  Corporate bonds tend to pay higher with more risk, without approaching the risk of stocks, and then there are junk bonds (which I think are dumb, but some people like them) that are essentially the same risk as a stock.
+
+Just checked a bond fund (investment grade, not junk) holding a significant number of bonds in the 6-9% yield range - and I'm good with that.",ConvergenceMan,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqwc2dg/,0.09,0.782,0.128,0.7767
+194,NAV," >Tech, alternative energy, robotics, 3d printing, AI, fintech, etc.
+
+These aren't dividend stocks.  Those are almost certainly growth stocks that have no profit.  Sounds like the composition of ARKK.  Different strategy altogether.
+
+Not everyone wants to have the risk of an 80% stock portfolio.  Bonds fill the risk gap between holding money market cash and stocks.  They actually cushion volatility quite a bit and act similar to a dividend paying stock in the short term.  If interest rates go up, the bond fund pays a higher interest rate accordingly despite the NAV dropping.
+
+Plus, not all bonds are treasuries.  Corporate bonds tend to pay higher with more risk, without approaching the risk of stocks, and then there are junk bonds (which I think are dumb, but some people like them) that are essentially the same risk as a stock.
+
+Just checked a bond fund (investment grade, not junk) holding a significant number of bonds in the 6-9% yield range - and I'm good with that.",ConvergenceMan,1,/r/investing/comments/m4ghin/long_commodities_short_bonds_protection_against/gqwc2dg/,0.09,0.782,0.128,0.7767
+195,CVS," There are some tools to do this available in the market, such as Parametric.  This technique is called ""direct indexing.""  Some of the interesting things that can also come into play when you do this is that you have better control over taxes.  
+
+I have thought about doing something like this too, but a another way to improve it especially with a small index like the dow is to have a ""shadow dow"" of the dow components' direct competitors (i.e. dow includes CVX, HD, VZ, V, WBA, WMT and shadow dow includes XOM, LOW, T, MA, CVS, TGT) then you can alternate years where you add new money to or withdraw money from dow vs shadow dow.  That way you can always withdraw at long term gains rate and never need to trigger a wash sale rule.",stoney-the-tiger,1,/r/investing/comments/m4j5zg/miniindex_fund_strategy_with_backtested_results/gqx4dh7/,0.026,0.854,0.12,0.8934
+196,CVX," There are some tools to do this available in the market, such as Parametric.  This technique is called ""direct indexing.""  Some of the interesting things that can also come into play when you do this is that you have better control over taxes.  
+
+I have thought about doing something like this too, but a another way to improve it especially with a small index like the dow is to have a ""shadow dow"" of the dow components' direct competitors (i.e. dow includes CVX, HD, VZ, V, WBA, WMT and shadow dow includes XOM, LOW, T, MA, CVS, TGT) then you can alternate years where you add new money to or withdraw money from dow vs shadow dow.  That way you can always withdraw at long term gains rate and never need to trigger a wash sale rule.",stoney-the-tiger,1,/r/investing/comments/m4j5zg/miniindex_fund_strategy_with_backtested_results/gqx4dh7/,0.026,0.854,0.12,0.8934
+197,HD," There are some tools to do this available in the market, such as Parametric.  This technique is called ""direct indexing.""  Some of the interesting things that can also come into play when you do this is that you have better control over taxes.  
+
+I have thought about doing something like this too, but a another way to improve it especially with a small index like the dow is to have a ""shadow dow"" of the dow components' direct competitors (i.e. dow includes CVX, HD, VZ, V, WBA, WMT and shadow dow includes XOM, LOW, T, MA, CVS, TGT) then you can alternate years where you add new money to or withdraw money from dow vs shadow dow.  That way you can always withdraw at long term gains rate and never need to trigger a wash sale rule.",stoney-the-tiger,1,/r/investing/comments/m4j5zg/miniindex_fund_strategy_with_backtested_results/gqx4dh7/,0.026,0.854,0.12,0.8934
+198,LOW," There are some tools to do this available in the market, such as Parametric.  This technique is called ""direct indexing.""  Some of the interesting things that can also come into play when you do this is that you have better control over taxes.  
+
+I have thought about doing something like this too, but a another way to improve it especially with a small index like the dow is to have a ""shadow dow"" of the dow components' direct competitors (i.e. dow includes CVX, HD, VZ, V, WBA, WMT and shadow dow includes XOM, LOW, T, MA, CVS, TGT) then you can alternate years where you add new money to or withdraw money from dow vs shadow dow.  That way you can always withdraw at long term gains rate and never need to trigger a wash sale rule.",stoney-the-tiger,1,/r/investing/comments/m4j5zg/miniindex_fund_strategy_with_backtested_results/gqx4dh7/,0.026,0.854,0.12,0.8934
+199,MA," There are some tools to do this available in the market, such as Parametric.  This technique is called ""direct indexing.""  Some of the interesting things that can also come into play when you do this is that you have better control over taxes.  
+
+I have thought about doing something like this too, but a another way to improve it especially with a small index like the dow is to have a ""shadow dow"" of the dow components' direct competitors (i.e. dow includes CVX, HD, VZ, V, WBA, WMT and shadow dow includes XOM, LOW, T, MA, CVS, TGT) then you can alternate years where you add new money to or withdraw money from dow vs shadow dow.  That way you can always withdraw at long term gains rate and never need to trigger a wash sale rule.",stoney-the-tiger,1,/r/investing/comments/m4j5zg/miniindex_fund_strategy_with_backtested_results/gqx4dh7/,0.026,0.854,0.12,0.8934
+200,WBA," There are some tools to do this available in the market, such as Parametric.  This technique is called ""direct indexing.""  Some of the interesting things that can also come into play when you do this is that you have better control over taxes.  
+
+I have thought about doing something like this too, but a another way to improve it especially with a small index like the dow is to have a ""shadow dow"" of the dow components' direct competitors (i.e. dow includes CVX, HD, VZ, V, WBA, WMT and shadow dow includes XOM, LOW, T, MA, CVS, TGT) then you can alternate years where you add new money to or withdraw money from dow vs shadow dow.  That way you can always withdraw at long term gains rate and never need to trigger a wash sale rule.",stoney-the-tiger,1,/r/investing/comments/m4j5zg/miniindex_fund_strategy_with_backtested_results/gqx4dh7/,0.026,0.854,0.12,0.8934
+201,WMT," There are some tools to do this available in the market, such as Parametric.  This technique is called ""direct indexing.""  Some of the interesting things that can also come into play when you do this is that you have better control over taxes.  
+
+I have thought about doing something like this too, but a another way to improve it especially with a small index like the dow is to have a ""shadow dow"" of the dow components' direct competitors (i.e. dow includes CVX, HD, VZ, V, WBA, WMT and shadow dow includes XOM, LOW, T, MA, CVS, TGT) then you can alternate years where you add new money to or withdraw money from dow vs shadow dow.  That way you can always withdraw at long term gains rate and never need to trigger a wash sale rule.",stoney-the-tiger,1,/r/investing/comments/m4j5zg/miniindex_fund_strategy_with_backtested_results/gqx4dh7/,0.026,0.854,0.12,0.8934
+202,XOM," There are some tools to do this available in the market, such as Parametric.  This technique is called ""direct indexing.""  Some of the interesting things that can also come into play when you do this is that you have better control over taxes.  
+
+I have thought about doing something like this too, but a another way to improve it especially with a small index like the dow is to have a ""shadow dow"" of the dow components' direct competitors (i.e. dow includes CVX, HD, VZ, V, WBA, WMT and shadow dow includes XOM, LOW, T, MA, CVS, TGT) then you can alternate years where you add new money to or withdraw money from dow vs shadow dow.  That way you can always withdraw at long term gains rate and never need to trigger a wash sale rule.",stoney-the-tiger,1,/r/investing/comments/m4j5zg/miniindex_fund_strategy_with_backtested_results/gqx4dh7/,0.026,0.854,0.12,0.8934
+203,IMO, Interesting as an experiment but far too big of a PITA for the minor differences in returns in practice IMO. If my portfolio was 10MM+ maybe then id consider the .25% savings in fees worth it.,Kenney420,1,/r/investing/comments/m4j5zg/miniindex_fund_strategy_with_backtested_results/gqx4zxv/,0.136,0.764,0.1,-0.5422
+204,GE," Ultrasound devices run all the way up to 600k if GE, philips, Siemens, etc doesnt give your hospital their fake discount off an inflated price tag.  
+You get what you pay for.  This thing is nifty sounding on paper, but you wouldn't want your echo (heart) exam performed on it.  
+The principles here aren't new.  Ge with the venue, Philips with the Lumify. Small affordable device with a lot of promise for various applications. This one has a single probe that does a bunch of stuff.  
+I hope so, but I'm not sure I would prefer my Ultrasound exam done with this tablet, vs a robust Ultrasound cart. 
+Probably good for a quick ""look and see"" by an ER or ICU Physician at a basic level, but even if they were to find an issue they'd probably order an actual exam. 
+These things will collect dust in hospitals in the US.  It has a purpose, but I hope actual diagnosis isn't determined from its image.",downes78,18,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqvbert/,0.055,0.832,0.112,0.9164
+205,AI," I research these portable devices in mid 2020 for COVID-19 diagnosis (without PCR test).  These are a life safer.  If you go into a COVID-19 ward or ICU you'll see a lot of them being used.  You can see how the lungs are affected by the virus and the damaged lung walls, it's amazing how you can see inside a body with such as small device and a mobile phone.  Also their software is top notch, color coding defects and us AI to help patient diagnosis, very easy to us even for a non-professional.
+
+I was working for a COVID-19 charity, on a GoFundMe to send Butterfly devices to 3rd world countries, sending them to Doctors without Boarders and UNCF medical centers.  
+
+I had a deal with Butterfly to supply the ultrasound device at cost and their subscription software, they'd give free for life.  Everything was set to kick off the GoFundMe.  The only thing that kill the project, was how to protect the Butterfly device from being stolen when it was in 3rd world hospitals. 
+
+Wish that I had figured out a way to protect the device from being stolen.  It was one of the best charity ideas/projects I've worked on in the last few years.
+
+As for investing in Butterfly, my perspective is a strong buy.  Doctors love those things, talked to a lot of USA general doctors and specialists and they all said it was hands down the best diagnosis tool they use for internal diagnosis, lungs, heart, pregnancy, etc.",RuairiSpain,3,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqwcisw/,0.065,0.768,0.167,0.9812
+206,USA," I research these portable devices in mid 2020 for COVID-19 diagnosis (without PCR test).  These are a life safer.  If you go into a COVID-19 ward or ICU you'll see a lot of them being used.  You can see how the lungs are affected by the virus and the damaged lung walls, it's amazing how you can see inside a body with such as small device and a mobile phone.  Also their software is top notch, color coding defects and us AI to help patient diagnosis, very easy to us even for a non-professional.
+
+I was working for a COVID-19 charity, on a GoFundMe to send Butterfly devices to 3rd world countries, sending them to Doctors without Boarders and UNCF medical centers.  
+
+I had a deal with Butterfly to supply the ultrasound device at cost and their subscription software, they'd give free for life.  Everything was set to kick off the GoFundMe.  The only thing that kill the project, was how to protect the Butterfly device from being stolen when it was in 3rd world hospitals. 
+
+Wish that I had figured out a way to protect the device from being stolen.  It was one of the best charity ideas/projects I've worked on in the last few years.
+
+As for investing in Butterfly, my perspective is a strong buy.  Doctors love those things, talked to a lot of USA general doctors and specialists and they all said it was hands down the best diagnosis tool they use for internal diagnosis, lungs, heart, pregnancy, etc.",RuairiSpain,3,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqwcisw/,0.065,0.768,0.167,0.9812
+207,DD," Definitely see the potential with global access to ultrasound and the expansion of ultrasound use in the US. 
+
+https://www.4catalyzer.com/
+
+This is the parent company that manages a few startups in the space. The company I’m most intrigued by is Hyperfine, which has the potential to expand access to MRIs and decrease the price point of an mri machine from several million to 50k. Could definitely be a game changer. I would likely invest if they ever IPO after doing some more DD.
+
+https://hyperfine.io/",troegenators,2,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqvjo1i/,0.0,0.909,0.091,0.7717
+208,ARC," An affordable image processing equipment likely built in China. Unsure of resolution and I often ask scanning tech what they mean they showed me their training class notes when doctors are not looking.  I am under the impression they use MRI or Catscan more and this equiment provides a cursary look tool.  Yahoo financials predict the performance short, intermediate terms are lower while 1 year away is same as today. Propfessionals from the medical field some are skeptical about the tool. The only positive is ARC buys them. But they buy just above any stocks unique.",Vast_Cricket,0,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqvgicd/,0.066,0.879,0.056,0.0
+209,BFLY," Well it certainly is a fun/useful product to whip out for preliminary physical examination. If you are far from your radiology dept. (or lots on process/waiting list).
+
+If you can switch it up just like a personal stethoscope (and faster than an X-Ray)... a quick 'peek' at imaging is certainly useful especially in E.R.
+
+1. I can see it in FAST exams, as BFLY iq does advertise it
+2. I don't have to second guess my palpation/percussion if organs are enlarged.. etc
+3. Probably good to check for stones, or appendicitis
+
+Now investing wise... it has upside potential, although unsure since there are competitors",blissrunner,4,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqw5g9a/,0.018,0.842,0.139,0.9042
+210,FAST," Well it certainly is a fun/useful product to whip out for preliminary physical examination. If you are far from your radiology dept. (or lots on process/waiting list).
+
+If you can switch it up just like a personal stethoscope (and faster than an X-Ray)... a quick 'peek' at imaging is certainly useful especially in E.R.
+
+1. I can see it in FAST exams, as BFLY iq does advertise it
+2. I don't have to second guess my palpation/percussion if organs are enlarged.. etc
+3. Probably good to check for stones, or appendicitis
+
+Now investing wise... it has upside potential, although unsure since there are competitors",blissrunner,4,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqw5g9a/,0.018,0.842,0.139,0.9042
+211,BFLY," How useful is this tool? for example suppose you suspect a patient has kidney stones, how will you use BFLY to conclude?",rjsh927,1,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqxo1qt/,0.09,0.777,0.133,0.264
+212,CE," I wouldn't be so sure. Have a look at the semi medical equipment sold on Alibaba (laser hair remover, ultrasound cavitation, RF skin tightening). These are sold in Europe and have CE certificates, that's as safe as can be. They're absolutely killing it in poorer countries and smaller salons that still want beauty services but can't afford a 50k machine.",kbxl,1,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqxpy40/,0.073,0.808,0.119,0.2261
+213,RF," I wouldn't be so sure. Have a look at the semi medical equipment sold on Alibaba (laser hair remover, ultrasound cavitation, RF skin tightening). These are sold in Europe and have CE certificates, that's as safe as can be. They're absolutely killing it in poorer countries and smaller salons that still want beauty services but can't afford a 50k machine.",kbxl,1,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqxpy40/,0.073,0.808,0.119,0.2261
+214,AI," For adults, yes. For pediatrics ultrasound can be good enough to use first with a skilled operator - meaning a pediatric ER that sees and orders these in volume with appropriate radiologist interpretation. I got to the point where I could find the appendix on 2/3-3/4 of patients I scanned, as long as they didn't have a high BMI. CT is still the gold standard for ruling it out though and we have no chance of finding the appendix on ultrasound if it's retrocecal, even if it's nasty and inflamed. 
+
+Ultrasound is good for ruling a lot of things in, not necessarily for ruling things out though. But most of the laypeople pumping this stock have no idea what any of that means, they just see shiny tech and AI fairy dust and think this toy is going to find its way into their medicine cabinets for at-home diagnostics...",totallynotabotAF,1,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqxr7te/,0.068,0.864,0.068,0.0258
+215,BMI," For adults, yes. For pediatrics ultrasound can be good enough to use first with a skilled operator - meaning a pediatric ER that sees and orders these in volume with appropriate radiologist interpretation. I got to the point where I could find the appendix on 2/3-3/4 of patients I scanned, as long as they didn't have a high BMI. CT is still the gold standard for ruling it out though and we have no chance of finding the appendix on ultrasound if it's retrocecal, even if it's nasty and inflamed. 
+
+Ultrasound is good for ruling a lot of things in, not necessarily for ruling things out though. But most of the laypeople pumping this stock have no idea what any of that means, they just see shiny tech and AI fairy dust and think this toy is going to find its way into their medicine cabinets for at-home diagnostics...",totallynotabotAF,1,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqxr7te/,0.068,0.864,0.068,0.0258
+216,ED," 1. EDs are already going to triage patients and the area of concern is already going to be indicated clinically for when a PCP sends someone to the ED.
+
+2. Ultrasound is not suitable for locating bullets or other penetrating foreign bodies, that's why we have x-ray and CT.",totallynotabotAF,1,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqxlltf/,0.0,1.0,0.0,0.0
+217,DD," emoji free territory here apparently lol but thanks for your reservations, it will help contribute to me strengthening future DD of other plays",yolostonktrader,2,/r/investing/comments/m4nhb2/butterfly_network_bfly_dd_is_an_awesome_company/gqveez4/,0.0,0.482,0.518,0.9535
+218,AI," Their ML courses are actually the ones I was thinking of specifically when I wrote that comment. As someone in the AI/ML space, I found their courses to be a mile wide and an inch deep.",natewOw,3,/r/investing/comments/m50ku0/coursera_files_to_go_public/gqxyazt/,0.0,1.0,0.0,0.0
+219,IT," It seems that Google's certificates require payment, and Coursera required payment to unlock the certificate. Google's IT certs to me seem to have a higher probability of success than a random Coursera one, anecdotally",EarbudScreen,3,/r/investing/comments/m50ku0/coursera_files_to_go_public/gqxcj54/,0.0,0.893,0.107,0.5719
+220,MWK," I think I will go long on MWK tomorrow, but will share what might be a downside.  They have a boat load of debt that they are refinancing at 8%.  Lender terms also give them warrants, which of course means future dilution.  This information is sourced from Seeking Alpha.
+
+[https://seekingalpha.com/article/4413216-mohawk-group-holdings-q4-mixed](https://seekingalpha.com/article/4413216-mohawk-group-holdings-q4-mixed)",Mommafed,2,/r/investing/comments/m4y0mb/why_i_think_mohawk_group_holdings_mwk_is_a_great/gqxacyg/,0.112,0.834,0.054,-0.4497
+221,DD," OP did a good job listing some bear cases with their DD. I think most investors (myself included) see those as potential risks in the short-term (rapid expansion) and in the long-term (reliance on amazon/walmart), however they have mitigation strategies and the Amazon one might be a non-factor once you consider how much revenue is generated from third-party sellers on amazon. amazon would not cut out that chunk of their business.",virkulous,2,/r/investing/comments/m4y0mb/why_i_think_mohawk_group_holdings_mwk_is_a_great/gqwv8nt/,0.028,0.839,0.133,0.6921
+222,GME," Hey, so I recommended to a family member, that they look at buying some GME puts right now.  I'm not in a position to buy right now, but I thought it might be something worth looking in to.
+
+He told me he already had.  But we looked at the numbers for doing it again.  He explained how you can buy options at a much better price if you buy spreads.
+
+I mentioned that the only thing I could think of, to really sustain the GME price level, would be if they started raising capital for a big project, or if there was some kind of acquisition.  Both seemed unlikely.  Are there other things we are missing here? Should I worry about the short squeeze still going?
+
+Obviously, the options are going to be priced, with the current situation in mind, but I'm just trying to think about all the contingencies here. What if there's some kind of intervention, and trading is halted on GME? How would that affect outstanding options?",crustycalzone,3,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqx3a6j/,0.038,0.881,0.081,0.8204
+223,BHP," Anyone know about hydrobiometallurgy? Companies that use microbes to mine precious metals out of industrial waste and sewage. I found companies like GLEN. TECK, VALE, ABX, Anglo American, Rio Tinto, and BHP. 
+I'll do more DD, I'm tired ᕕ( ᐛ )ᕗ",Squamsk,6,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwabxm/,0.126,0.742,0.131,0.0609
+224,DD," Anyone know about hydrobiometallurgy? Companies that use microbes to mine precious metals out of industrial waste and sewage. I found companies like GLEN. TECK, VALE, ABX, Anglo American, Rio Tinto, and BHP. 
+I'll do more DD, I'm tired ᕕ( ᐛ )ᕗ",Squamsk,6,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwabxm/,0.126,0.742,0.131,0.0609
+225,TECK," Anyone know about hydrobiometallurgy? Companies that use microbes to mine precious metals out of industrial waste and sewage. I found companies like GLEN. TECK, VALE, ABX, Anglo American, Rio Tinto, and BHP. 
+I'll do more DD, I'm tired ᕕ( ᐛ )ᕗ",Squamsk,6,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwabxm/,0.126,0.742,0.131,0.0609
+226,VALE," Anyone know about hydrobiometallurgy? Companies that use microbes to mine precious metals out of industrial waste and sewage. I found companies like GLEN. TECK, VALE, ABX, Anglo American, Rio Tinto, and BHP. 
+I'll do more DD, I'm tired ᕕ( ᐛ )ᕗ",Squamsk,6,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwabxm/,0.126,0.742,0.131,0.0609
+227,ZOM,"  
+
+I am following ZOM right now and it is short 250%, first time is use this calculation but to me appears to be a squeeze situation. Can some one confirm if this looks right?",BeanCounter60,2,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwkd3j/,0.0,1.0,0.0,0.0
+228,DD," How does one discern good DD from pump and dump schemes?  I know the obvious ""do your own research"".  But beyond seeing if a company is undervalued, I'm not sure what else to do with the information.  It seems like a lot of people like to enter a trade then post DD in hopes of getting more people to buy in.  Maybe not a classic pump and dump with small-cap stocks that are only held for a short time, but with all the attention reddit has been getting (more WSB than this sub) I can imagine bot farms could (and probably already are) taking advantage of the platform using pump and dump schemes.",Orome2,2,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwr2ug/,0.074,0.841,0.085,0.0948
+229,RFP, RFP. It has loads of value. Low cost to enter and it’s held strong / very bullish over the last year and even more recently throughout all of the volatility.,Much_Fortune89,2,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqx6z63/,0.062,0.769,0.169,0.5574
+230,CAP," A potential 10-bagger for the bois!
+
+$ATNF // 180 Life Sciences Corp.
+
+Highest short float of any stock, [https://www.marketwatch.com/tools/screener/short-interest](https://www.marketwatch.com/tools/screener/short-interest)
+
+MARKET CAP **$155.94M.**
+
+SHARES OUTSTANDING **18.03M.**
+
+PUBLIC FLOAT **2.72M, rest of float owned by insiders and institutions.**
+
+Vanguard recently bought 1,1mln shares, other institutions loading shares as well. 
+
+Phase 3 results coming up Q3 2021.
+
+Management has previously built multiple billion dollar businesses and sold 1 of them to J&J. Management are founders of Remicade, 4th most used drug in the world.
+
+Most of management are not getting paid directly, but instead through rise in equity value (share price increase).
+
+Company was completely under the radar for some time, but is now gaining attention fast!
+
+If you look at the graph, the drop from 11 - 2USD was due to SPAC problems and has nothing to do with the company, the problems are behind them now.
+
+Remember to do your own dd as well always. Happy sunday!",Kom_Nu_For_Helvede,2,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqxnffz/,0.056,0.801,0.143,0.9218
+231,GME," At what point is GME too expensive for meme runs? Got into the first run @ 80. Risk wasn’t that bad and it multiplied well before it got crushed. Now, getting in at 267 and hoping it gets to 850/1k? That’s a big buy in.",informal_requirement,2,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqxq86m/,0.17,0.736,0.095,-0.594
+232,MMT," Does anyone agree that the US is a horrible place for investments in the next 5-10 years? All I see is a further devaluation of the US dollar, social pressures placed on the US government to adopt MMT policies (see top twitter screenshots of politicians on Reddit), and the fact that these stimulus cheques have not resulted in any sort of return i.e. return on productive investments that would allow the repayment of this debt. These cheques have resulted in further consumption, people paying off their own debt (no velocity of money), and to an extent financial speculation. As a foreigner, I have stopped depositing funds in my US trading account and plan to convert my USD into my home currency (AUD) during the next short-term US dollar breakout. I was reading there has been a massive increase in debt per working-class citizen ($13,000) in the past year in the US and in comparison to other countries around the world it was by far the largest increase. In the long-term, the US just doesn't look like a good investment.",kashbra,8,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqvvm4e/,0.109,0.825,0.066,-0.8534
+233,DDD," Last week saw some recovery for the hard hit tech and growth stocks as investors became slightly more comfortable with inflation forecasts, meaning US bond yields tapered off, which raised stock prices *(they essentially have an inverse relationship, as one rises, the other drops).* In addition, the $1.9 trillion stimulus bill was completed by the US govt.
+
+For some, reduced stock prices provided a buying opportunity, or at least an opportunity to average down the cost of some of the positions.
+
+I don’t expect us to be fully out of the woods yet in terms or recovery, with monday market opening likely to be red all over, as late on friday, bond yields jumped again following low demand for US govt bonds in auction *(when you take into account inflation, the yields on those bonds means you essentially have less money value than what you invested),* however, that should reduce by end of the week.
+
+Still bullish
+
+Taking a step back and Looking at the overall market, this correction was not just healthy, but overdue. While some assets are still overpriced, overall economy recovery provide a good backdrop for further mark growth, at least in the short-medium term. This current period provides an opportunity to *“buy the dip“* on stocks which have a solid future, but also to reap the gain from some sectors that will see rapid growth over the next year. After all, rising inflation forecasts are due to the fact that most economists see the world economies recovering rapidly from the return of normality from COVID.
+
+What will be the recovering sectors?
+
+In short, think of any the stocks that you have not been able to use or shop from over the last year.
+
+* Airlines & Travel
+* Hospitality
+* Manufacturing
+* Consumer cyclical
+* Events
+* Retail
+
+Buzzing stocks this week
+
+I have created an algorithm that tracks chatter on social media to identify which stocks are trending, by measuring the shift in mentions this week compared to previous week. Meme stocks are purposely filtered out here.
+
+The full results can be found here: [https://buzzingstocks.s3-eu-west-1.amazonaws.com/March+Stocks+2-01.png](https://buzzingstocks.s3-eu-west-1.amazonaws.com/March+Stocks+2-01.png)
+
+Here’s my commentary on the most interesting ones in there:
+
+* **3D Systems, ticker: DDD**  
+Since the time of writing and creating this graph, this stock has shot up **%4.2** and up another **%1.5** in pre-market. Down from All-time high from earlier this year, DDD benefitted from analyst upgrades last week, as its price suffered a big tumble. Furthermore, ARK initiated DDD position in ARKQ (Autonomous Technology & Robotics) ETF yesterday, putting it in the same basket as TSLA. Expect further gains short-term, and high volatility.
+* **Accsys Technologies, ticker: AXS**  
+This is a very interesting one, especially long-term. A sustainable wood company that produces high technology, alloy-like wood, planting a tree for every one it chops down. Has recently completed the building of 2 large production factories. I might even cover this on a separate article. ***Note:*** *This company has a small market cap, meaning a low number of shares traded, which means it could take longer than you’d like to buy/sell your shares.*
+* **Vermilion Energy Inc, ticker: VET**  
+Saw a price jump as analysts upgraded its price target last week. Energy companies are rising as demand is forecast to increase over the next few months. Not sure how this one will move in the near-future, one to watch.
+* **Teradyne, ticker: TER**  
+Another one seeing lots of chatter on the back of ARK positioning. This one is a very exciting prospect to me, and ticks A LOT of boxes, most importantly, very solid finances. The company saw Earnings per share *(total earnings of the company, divided by number of shares, the higher the better)* growth of 64% last year.
+
+Summary
+
+Expect a less wild ride next week than the last few weeks, but still with some turbulence. Reduced prices have created a number of opportunities, which are being picked up by the algorithm.
+
+While there is likely still some downside in the market, longer-term I see a rosier picture, especially as economies recover and return to normality. I see now as an opportunity to purchase some opportunities at strategic prices, as well as a time to rotate into some of the recovery stocks, taking some profits from the growth/tech sectors along the way.
+
+What are your plans for the week? Let me know in the replies
+
+***None of this is financial advice, please do your own research on any stocks highlighted above.***",akokaz1,4,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqw60rj/,0.024,0.83,0.146,0.9983
+234,TSLA," Last week saw some recovery for the hard hit tech and growth stocks as investors became slightly more comfortable with inflation forecasts, meaning US bond yields tapered off, which raised stock prices *(they essentially have an inverse relationship, as one rises, the other drops).* In addition, the $1.9 trillion stimulus bill was completed by the US govt.
+
+For some, reduced stock prices provided a buying opportunity, or at least an opportunity to average down the cost of some of the positions.
+
+I don’t expect us to be fully out of the woods yet in terms or recovery, with monday market opening likely to be red all over, as late on friday, bond yields jumped again following low demand for US govt bonds in auction *(when you take into account inflation, the yields on those bonds means you essentially have less money value than what you invested),* however, that should reduce by end of the week.
+
+Still bullish
+
+Taking a step back and Looking at the overall market, this correction was not just healthy, but overdue. While some assets are still overpriced, overall economy recovery provide a good backdrop for further mark growth, at least in the short-medium term. This current period provides an opportunity to *“buy the dip“* on stocks which have a solid future, but also to reap the gain from some sectors that will see rapid growth over the next year. After all, rising inflation forecasts are due to the fact that most economists see the world economies recovering rapidly from the return of normality from COVID.
+
+What will be the recovering sectors?
+
+In short, think of any the stocks that you have not been able to use or shop from over the last year.
+
+* Airlines & Travel
+* Hospitality
+* Manufacturing
+* Consumer cyclical
+* Events
+* Retail
+
+Buzzing stocks this week
+
+I have created an algorithm that tracks chatter on social media to identify which stocks are trending, by measuring the shift in mentions this week compared to previous week. Meme stocks are purposely filtered out here.
+
+The full results can be found here: [https://buzzingstocks.s3-eu-west-1.amazonaws.com/March+Stocks+2-01.png](https://buzzingstocks.s3-eu-west-1.amazonaws.com/March+Stocks+2-01.png)
+
+Here’s my commentary on the most interesting ones in there:
+
+* **3D Systems, ticker: DDD**  
+Since the time of writing and creating this graph, this stock has shot up **%4.2** and up another **%1.5** in pre-market. Down from All-time high from earlier this year, DDD benefitted from analyst upgrades last week, as its price suffered a big tumble. Furthermore, ARK initiated DDD position in ARKQ (Autonomous Technology & Robotics) ETF yesterday, putting it in the same basket as TSLA. Expect further gains short-term, and high volatility.
+* **Accsys Technologies, ticker: AXS**  
+This is a very interesting one, especially long-term. A sustainable wood company that produces high technology, alloy-like wood, planting a tree for every one it chops down. Has recently completed the building of 2 large production factories. I might even cover this on a separate article. ***Note:*** *This company has a small market cap, meaning a low number of shares traded, which means it could take longer than you’d like to buy/sell your shares.*
+* **Vermilion Energy Inc, ticker: VET**  
+Saw a price jump as analysts upgraded its price target last week. Energy companies are rising as demand is forecast to increase over the next few months. Not sure how this one will move in the near-future, one to watch.
+* **Teradyne, ticker: TER**  
+Another one seeing lots of chatter on the back of ARK positioning. This one is a very exciting prospect to me, and ticks A LOT of boxes, most importantly, very solid finances. The company saw Earnings per share *(total earnings of the company, divided by number of shares, the higher the better)* growth of 64% last year.
+
+Summary
+
+Expect a less wild ride next week than the last few weeks, but still with some turbulence. Reduced prices have created a number of opportunities, which are being picked up by the algorithm.
+
+While there is likely still some downside in the market, longer-term I see a rosier picture, especially as economies recover and return to normality. I see now as an opportunity to purchase some opportunities at strategic prices, as well as a time to rotate into some of the recovery stocks, taking some profits from the growth/tech sectors along the way.
+
+What are your plans for the week? Let me know in the replies
+
+***None of this is financial advice, please do your own research on any stocks highlighted above.***",akokaz1,4,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqw60rj/,0.024,0.83,0.146,0.9983
+235,IRS," Capital gains tax question: 
+
+Suppose I buy a share of Apple on January 1, 2020 and another share of Apple on January 2, 2020. For the sake of the question, suppose both shares were purchased at $120.
+
+On January 1, 2021, I sell ONE Apple share for $220. Do I pay long term or short term capital gains on the $100? Since if I sold my January 2 share, its less than a year but if I sold my January 1 share, its exactly 1 year. Is it FIFO, as far as the IRS is concerned? In other words, no matter what, my first sell of any stock is matched up with my first buy of any stock?",RatinSweet,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwfymw/,0.034,0.83,0.136,0.7839
+236,ONE," Capital gains tax question: 
+
+Suppose I buy a share of Apple on January 1, 2020 and another share of Apple on January 2, 2020. For the sake of the question, suppose both shares were purchased at $120.
+
+On January 1, 2021, I sell ONE Apple share for $220. Do I pay long term or short term capital gains on the $100? Since if I sold my January 2 share, its less than a year but if I sold my January 1 share, its exactly 1 year. Is it FIFO, as far as the IRS is concerned? In other words, no matter what, my first sell of any stock is matched up with my first buy of any stock?",RatinSweet,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwfymw/,0.034,0.83,0.136,0.7839
+237,AMC, Has anyone been watching Helios Matheson Analytics lately? I heard rumors the may be acquired by AMC. Might be worth a look?,weazle777,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqx2klg/,0.0,0.894,0.106,0.3094
+238,FCF," Few challenges:
+
+1) Price is at 15x FCF so growth is baked in
+2) Stock has run up a lot since March 2020
+3) not best in class
+
+Not saying you can’t make money off of them short term, but I think if you’re buying into a challenged space (physical retailers), stick to best in class.  
+
+Walmart and Target will be around in 5 years, and unlikely to declare chapter 11.  Big Lots, who knows?",AnselmoHatesFascists,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqxgvvp/,0.107,0.85,0.043,-0.7187
+239,BBL," BK I have 250.  makes money in every type of market, sitting on cash to do a ton of buybacks when allowed by the fed.
+
+CHKP I have 217 solid cash, been actually reducing share count for years.
+
+MRK i only have 12 so far. solid underrated, good value. 
+
+WFC I have 518.  will eventually get out of fed jail, unloved so high value. 
+
+BBL i have 100. materials have been cheap for years and are used to build everything. 
+
+ZTS. I only have 12 so far.. Pet and livestock meds.  Great price for solid company right now.",bernie638,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqw9ubg/,0.028,0.791,0.181,0.9169
+240,BK," BK I have 250.  makes money in every type of market, sitting on cash to do a ton of buybacks when allowed by the fed.
+
+CHKP I have 217 solid cash, been actually reducing share count for years.
+
+MRK i only have 12 so far. solid underrated, good value. 
+
+WFC I have 518.  will eventually get out of fed jail, unloved so high value. 
+
+BBL i have 100. materials have been cheap for years and are used to build everything. 
+
+ZTS. I only have 12 so far.. Pet and livestock meds.  Great price for solid company right now.",bernie638,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqw9ubg/,0.028,0.791,0.181,0.9169
+241,CHKP," BK I have 250.  makes money in every type of market, sitting on cash to do a ton of buybacks when allowed by the fed.
+
+CHKP I have 217 solid cash, been actually reducing share count for years.
+
+MRK i only have 12 so far. solid underrated, good value. 
+
+WFC I have 518.  will eventually get out of fed jail, unloved so high value. 
+
+BBL i have 100. materials have been cheap for years and are used to build everything. 
+
+ZTS. I only have 12 so far.. Pet and livestock meds.  Great price for solid company right now.",bernie638,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqw9ubg/,0.028,0.791,0.181,0.9169
+242,MRK," BK I have 250.  makes money in every type of market, sitting on cash to do a ton of buybacks when allowed by the fed.
+
+CHKP I have 217 solid cash, been actually reducing share count for years.
+
+MRK i only have 12 so far. solid underrated, good value. 
+
+WFC I have 518.  will eventually get out of fed jail, unloved so high value. 
+
+BBL i have 100. materials have been cheap for years and are used to build everything. 
+
+ZTS. I only have 12 so far.. Pet and livestock meds.  Great price for solid company right now.",bernie638,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqw9ubg/,0.028,0.791,0.181,0.9169
+243,WFC," BK I have 250.  makes money in every type of market, sitting on cash to do a ton of buybacks when allowed by the fed.
+
+CHKP I have 217 solid cash, been actually reducing share count for years.
+
+MRK i only have 12 so far. solid underrated, good value. 
+
+WFC I have 518.  will eventually get out of fed jail, unloved so high value. 
+
+BBL i have 100. materials have been cheap for years and are used to build everything. 
+
+ZTS. I only have 12 so far.. Pet and livestock meds.  Great price for solid company right now.",bernie638,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqw9ubg/,0.028,0.791,0.181,0.9169
+244,ZTS," BK I have 250.  makes money in every type of market, sitting on cash to do a ton of buybacks when allowed by the fed.
+
+CHKP I have 217 solid cash, been actually reducing share count for years.
+
+MRK i only have 12 so far. solid underrated, good value. 
+
+WFC I have 518.  will eventually get out of fed jail, unloved so high value. 
+
+BBL i have 100. materials have been cheap for years and are used to build everything. 
+
+ZTS. I only have 12 so far.. Pet and livestock meds.  Great price for solid company right now.",bernie638,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqw9ubg/,0.028,0.791,0.181,0.9169
+245,IMO," Yes, but honestly I think wherever you put your money, an inflation crisis in the US is going to affect it - emerging markets will hit a lot of volitility. 
+
+There are a few ETFs in Europe that are comparatively well valued, I like the German Market and Lyxor Bel 20. UK is undervalued IMO, but Brexit will keep the market cap significantly lower than it was before. 
+
+I also like the 'msci Brazil' ETF at the moment. Whilst Brazil is not exactly fairing well economically this just means they still have a lot of room to grow and the ETF is very heavy on commodities and raw materials, in addition to the underlying being relatively well valued. TA makes it look like a really nice time to buy for decent swing trade rn.",Milfzilla,4,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwj6s9/,0.054,0.72,0.226,0.9775
+246,TA," Yes, but honestly I think wherever you put your money, an inflation crisis in the US is going to affect it - emerging markets will hit a lot of volitility. 
+
+There are a few ETFs in Europe that are comparatively well valued, I like the German Market and Lyxor Bel 20. UK is undervalued IMO, but Brexit will keep the market cap significantly lower than it was before. 
+
+I also like the 'msci Brazil' ETF at the moment. Whilst Brazil is not exactly fairing well economically this just means they still have a lot of room to grow and the ETF is very heavy on commodities and raw materials, in addition to the underlying being relatively well valued. TA makes it look like a really nice time to buy for decent swing trade rn.",Milfzilla,4,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwj6s9/,0.054,0.72,0.226,0.9775
+247,UK," Yes, but honestly I think wherever you put your money, an inflation crisis in the US is going to affect it - emerging markets will hit a lot of volitility. 
+
+There are a few ETFs in Europe that are comparatively well valued, I like the German Market and Lyxor Bel 20. UK is undervalued IMO, but Brexit will keep the market cap significantly lower than it was before. 
+
+I also like the 'msci Brazil' ETF at the moment. Whilst Brazil is not exactly fairing well economically this just means they still have a lot of room to grow and the ETF is very heavy on commodities and raw materials, in addition to the underlying being relatively well valued. TA makes it look like a really nice time to buy for decent swing trade rn.",Milfzilla,4,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwj6s9/,0.054,0.72,0.226,0.9775
+248,UK," Been in with them from the start. It is definitely getting harder for them as they grow and they have a few large holdings (Paypal and Microsoft) that i think they should rebalance more aggressively. Having said that, if you look at some of their recent plays (Nike, Starbucks) they continue to demonstrate an ability to pick quality companies at good entry prices using their no-nonsence approach.
+
+If I was still in the UK, i would continue to put a good portion of my ISA allowance with them.",wazzamata,2,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwympk/,0.028,0.833,0.139,0.8484
+249,ASML, UK and Dutch stocks are pretty good right now imo. I'm probably going to invest into ASML when I get my paycheck.,wetdreamzaboutmemes,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwhvdm/,0.0,0.757,0.243,0.7269
+250,UK, UK and Dutch stocks are pretty good right now imo. I'm probably going to invest into ASML when I get my paycheck.,wetdreamzaboutmemes,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwhvdm/,0.0,0.757,0.243,0.7269
+251,GME," It is difficult.  Valuation is more of an art than a science.  Based on what I've seen, the vast, vast, vast majority of posts with ""DD"" in the title on this sub have been absolute garbage since the GME situation.
+
+I prefer to just avoid the stocks that everyone is talking about a lot.",Tony0x01,3,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwv4it/,0.088,0.912,0.0,-0.5719
+252,GME," I don't see it going past 300 again except maybe in the immediate short term (stimulus boost?). Other than that I think GME loses momentum/public interest and goes away.
+
+Could be fun to watch it, but then again GME was relatively boring on Thu/Fri.",scottysing,2,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqxxdth/,0.098,0.813,0.089,-0.1154
+253,AIM," Whilst I share some of your concerns, especially around the 'debasement' of the dollar, I wonder which regions you consider as places good for investment over the next decade?
+
+Personally as a Brit, the UK market is full of dinosaurs in the FTSE and a wild west AIM market. If anything I would say the UK market seems undervalued, but only on comparison to US company valuations of the same sector. Further to that UK market as a whole seems to have reflected a better bellwether of the general economy, i.e. reflection of the effect and recovery of Covid-19 rather than the sillyville rebound we've had in the US throughout. When I ask myself where I've made money this year, it's ostensibly the latter.
+
+Now if we get onto considering Europe, what then is your view on economic policy since 2008 with regards to QE, bail outs like Monte Paschi, or even handling of Greek debt? I don't see us particularly nailing the euro to a cross, but neither do I consider the European markets as a great place to invest, due to stagnation and poor returns.
+
+So what about investing in the east? Firstly, I think a lot of people are biased about G Y N A, but the connotations are not without their own merits - risk; fraud; copyright infringement; political involvement. These are not things I want to affect my investing, I don't want a person being seemingly disappeared tanking shares I hold.
+
+So that's my answer, I think there are risks of regional policy affecting all currencies and markets, and I think we need to factor in the risk faced by the dollar/US market versus the risk faced to other perhaps less compelling/renowned ones. Is it the case that even if the US market is a bad egg, the others are also bad (possibly worse) eggs too?",ThatBiscuit,8,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqvzm6e/,0.145,0.797,0.057,-0.9822
+254,UK," Whilst I share some of your concerns, especially around the 'debasement' of the dollar, I wonder which regions you consider as places good for investment over the next decade?
+
+Personally as a Brit, the UK market is full of dinosaurs in the FTSE and a wild west AIM market. If anything I would say the UK market seems undervalued, but only on comparison to US company valuations of the same sector. Further to that UK market as a whole seems to have reflected a better bellwether of the general economy, i.e. reflection of the effect and recovery of Covid-19 rather than the sillyville rebound we've had in the US throughout. When I ask myself where I've made money this year, it's ostensibly the latter.
+
+Now if we get onto considering Europe, what then is your view on economic policy since 2008 with regards to QE, bail outs like Monte Paschi, or even handling of Greek debt? I don't see us particularly nailing the euro to a cross, but neither do I consider the European markets as a great place to invest, due to stagnation and poor returns.
+
+So what about investing in the east? Firstly, I think a lot of people are biased about G Y N A, but the connotations are not without their own merits - risk; fraud; copyright infringement; political involvement. These are not things I want to affect my investing, I don't want a person being seemingly disappeared tanking shares I hold.
+
+So that's my answer, I think there are risks of regional policy affecting all currencies and markets, and I think we need to factor in the risk faced by the dollar/US market versus the risk faced to other perhaps less compelling/renowned ones. Is it the case that even if the US market is a bad egg, the others are also bad (possibly worse) eggs too?",ThatBiscuit,8,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqvzm6e/,0.145,0.797,0.057,-0.9822
+255,GDP," Two major threads, inflation of USD and drops in returns from US markets.  The second item is easier to deal with - S&P 500 companies get more than 50% of their gross income from markets outside the US, so you can discount loss of buying power in the US pretty much entirely.  Investing in large cap US is getting you as much global market exposure as large cap international in terms of the customer bases for those companies (and therefore the companies revenue stream).  Mind that large cap internationals draw revenue from US market at similar fraction to S&P 500 companies, so flights to international market funds don't actually change exposure to US internal economic weakness unless you go small cap/local market.
+
+About inflation in the US, I suppose you can think this, but it is counter to prevailing market sentiment.  Indeed until a viable alternative currency comes to world market USD seems unlikely to see much in the way of instability (at least not much you can hedge against with some other currency, would need to go to non-currency value stores like gold or crypto).
+
+There are viable non-US markets to invest in if you are concerned about mid-term US instability, but you can construct stronger cases for why those non-US markets are unstable compared to US IMO.  UK, France, Germany, Japan have been traditional bulk of non-US market funds and I wouldn't describe any of those 4 countries as have a better stability outlook than US, UK due to brexit, France & Germany just look at modest real GDP growth over last 5 years, and Japan look at demographic outlook w/ continually aging population and contracting workforce.  Other markets run into more severe problems, either due to currency instability (so already has problem you fear US *might* have), poor industrial output (simply a shit market), or political/social instability which poses economic threat.  International investing becomes more and more each year a bet against the USD and that's pretty much it, the problem is, as uncertain a future as you make think USD has, good luck finding a better bet to take opposite it...",PatrickWhelan,4,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqw8ozh/,0.111,0.796,0.092,-0.818
+256,UK," Two major threads, inflation of USD and drops in returns from US markets.  The second item is easier to deal with - S&P 500 companies get more than 50% of their gross income from markets outside the US, so you can discount loss of buying power in the US pretty much entirely.  Investing in large cap US is getting you as much global market exposure as large cap international in terms of the customer bases for those companies (and therefore the companies revenue stream).  Mind that large cap internationals draw revenue from US market at similar fraction to S&P 500 companies, so flights to international market funds don't actually change exposure to US internal economic weakness unless you go small cap/local market.
+
+About inflation in the US, I suppose you can think this, but it is counter to prevailing market sentiment.  Indeed until a viable alternative currency comes to world market USD seems unlikely to see much in the way of instability (at least not much you can hedge against with some other currency, would need to go to non-currency value stores like gold or crypto).
+
+There are viable non-US markets to invest in if you are concerned about mid-term US instability, but you can construct stronger cases for why those non-US markets are unstable compared to US IMO.  UK, France, Germany, Japan have been traditional bulk of non-US market funds and I wouldn't describe any of those 4 countries as have a better stability outlook than US, UK due to brexit, France & Germany just look at modest real GDP growth over last 5 years, and Japan look at demographic outlook w/ continually aging population and contracting workforce.  Other markets run into more severe problems, either due to currency instability (so already has problem you fear US *might* have), poor industrial output (simply a shit market), or political/social instability which poses economic threat.  International investing becomes more and more each year a bet against the USD and that's pretty much it, the problem is, as uncertain a future as you make think USD has, good luck finding a better bet to take opposite it...",PatrickWhelan,4,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqw8ozh/,0.111,0.796,0.092,-0.818
+257,JPM," What about DIS? Seems like a good forever hold. 
+
+What bank stock to go for? JPM, Citi or something else?",TheMotorCityCobra,2,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwe4fp/,0.0,0.741,0.259,0.7131
+258,TSLA," My philosophy exactly! Just to give one example, look at the rise in TSLA stock price, this is driven hugely by individual investors wanting to shape the world by having widespread adoption of carbon friendly and emission free vehicles. And Musk is doing an amazing job of realizing it by making breakthroughs  in batteries, autonomous vehicles and cutting edge styling and performance.",SanWrencho,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqxfvws/,0.021,0.827,0.151,0.8777
+259,MSCI, I mean overperformance of Fundsmith vs MSCI world and S&P.,falconberger,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqxepy4/,0.0,1.0,0.0,0.0
+260,DD," If someone does DD on a social media, it's pump and dump.",zero_dark_30,0,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqww4w7/,0.206,0.794,0.0,-0.3818
+261,PKX, I've been looking at PKX for a South Korean stock.,bernie638,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwa18a/,0.0,1.0,0.0,0.0
+262,MSC," I like the question: ""Where is the best risk adjusted return on a diversified international portfolio?""  
+
+Currently, investors on this board probably have access to MSC EAFE type assets as mutual funds or ETFs.  Specific companies (e.g. BABA) may be available as ADRs or similar.  An investor can internationally diversify and speculate.  
+
+Where are you planning to place your investments?",Sheeple0123,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwbb2u/,0.032,0.833,0.135,0.7691
+263,IRS," You don't have to use the same cost basis your broker uses and you don't need ""permission"" from your broker to do so, although you should document what you do use so you  can show something to the IRS.
+
+Some of my cost bases are messed up anyway, due to spinoffs, mergers, splits and the like.",xkulp8,2,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwt49k/,0.041,0.917,0.042,0.0258
+264,BAC," Yes for DIS. 
+
+JPM, BAC are my first two choices, then maybe WFC but should be fine with either of the first two options.",AyDayDay232,3,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwedzw/,0.0,0.845,0.155,0.4678
+265,DIS," Yes for DIS. 
+
+JPM, BAC are my first two choices, then maybe WFC but should be fine with either of the first two options.",AyDayDay232,3,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwedzw/,0.0,0.845,0.155,0.4678
+266,JPM," Yes for DIS. 
+
+JPM, BAC are my first two choices, then maybe WFC but should be fine with either of the first two options.",AyDayDay232,3,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwedzw/,0.0,0.845,0.155,0.4678
+267,WFC," Yes for DIS. 
+
+JPM, BAC are my first two choices, then maybe WFC but should be fine with either of the first two options.",AyDayDay232,3,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwedzw/,0.0,0.845,0.155,0.4678
+268,GME," Yeah, I feel like with GME a lot of people (experienced and begginers) have had a new found fascination with the market and now are generally contributing more and getting more ""wound up"" about fluctuations in the market.",notA_cringeyusername,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwyjof/,0.0,0.802,0.198,0.7845
+269,HLT," I may be having confirmation bias ( long on LUV and HLT since summer), but I'll link you some of my ""source's"" and if you could do the same so that way we can both garner two sides to the coin
+https://finance.yahoo.com/news/re-opening-trades-keep-ripping-morning-brief-105630867.html
+https://finance.yahoo.com/news/why-its-time-to-buy-airline-stocks-114924516.html
+https://finance.yahoo.com/news/what-travel-stocks-to-consider-in-the-reopening-trade-134038303.html
+
+I personally believe in the penthouse demand, but looking forward to your source's",notA_cringeyusername,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwexgy/,0.054,0.946,0.0,-0.2382
+270,LUV," I may be having confirmation bias ( long on LUV and HLT since summer), but I'll link you some of my ""source's"" and if you could do the same so that way we can both garner two sides to the coin
+https://finance.yahoo.com/news/re-opening-trades-keep-ripping-morning-brief-105630867.html
+https://finance.yahoo.com/news/why-its-time-to-buy-airline-stocks-114924516.html
+https://finance.yahoo.com/news/what-travel-stocks-to-consider-in-the-reopening-trade-134038303.html
+
+I personally believe in the penthouse demand, but looking forward to your source's",notA_cringeyusername,1,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwexgy/,0.054,0.946,0.0,-0.2382
+271,ALL," except for years China kept their currency artificially low and only recently under pressure from ALL its trading partners let it appreciate to somewhat market levels.
+
+Also China is not USA biggest trading partner so your not even right on that case
+
+Canada is number 1
+Mexico is number 2
+China comes in at a distant number 3 far from the largest",SirGlass,3,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwj3g2/,0.068,0.827,0.105,0.0772
+272,USA," except for years China kept their currency artificially low and only recently under pressure from ALL its trading partners let it appreciate to somewhat market levels.
+
+Also China is not USA biggest trading partner so your not even right on that case
+
+Canada is number 1
+Mexico is number 2
+China comes in at a distant number 3 far from the largest",SirGlass,3,/r/investing/comments/m4rqiu/daily_general_discussion_and_spitballin_thread/gqwj3g2/,0.068,0.827,0.105,0.0772
+273,CD, What to do with money kids have been gifted and won't really have a need for in the next 10 years? It's sitting in a CD now but I'm thinking about investing instead in a total market type fund.   They don't have any earned income so I can not do a roth.,quaddeer,2,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwb94f/,0.0,1.0,0.0,0.0
+274,EDIT," Hey all, 26 yo,  graduated from University,  got a steady job, owns a house but I'd like to start investing in stock market as I like the core of it and I love the thrill. I know the basics from my Uni Classes but never invest my own money into it.
+
+As I am a complete beginner, I decided to invest 200$ into Wealthsimple just to get the grip of it. What would be the best way to spread that 200$ smartly while gaining experience ?
+
+
+200$ is an amount I am willing to lose just for the sake of learning, I know it's really not a lot but I really want to get into it then I'll invest more :)
+
+Also, Is it recommended to ''pre-buy'' shares during week-end so it stay pending until the opening on monday ?
+
+
+
+Lot of questions but hope you'll understand and help :)
+
+
+
+EDIT : Plus, I would gladly take the maximum of ressources possible (Youtube, Website etc. )",Obliks,2,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwext6/,0.019,0.695,0.287,0.9947
+275,AMC," Alright so after I financially recover from my gme blunder at the end of this month , I want to try this for real now.
+
+I will have a good chunk of money saved up in my nest egg (20k, would of hit this goal sooner,but setback) but I will always keep this 20k in liquid.  Any money I make above that and after my usual expenses are paid, I want to set them aside for investments.
+
+I will be able to set aside 500 a month for a roth IRA.  Which leaves around 1-1.7k a month set aside for other investments. 
+
+
+For someone thar is going to throw down about 1k a month in the market. What's the smartest way to go about this?   What are some literature I could read for beginners
+
+
+
+Second question: Memes aside, is AMC alright for the long term? Pre corona it was doing fine. After vaccines rollout and life slowly gets back to normal, would AMC rebound slowly overtime as well as other parts of the entertainment industry?",Gyper,2,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqy1di1/,0.0,0.858,0.142,0.9684
+276,DD," Hey guys, its CJ here again trying to make sense of the markets. I've been tracking different REITs and I noticed that Storage Units seem to be a very safe play. I've also noticed a rash of them  popping up in various locales. Couple this with my belief that the housing market, and specific job markets are in for correction/downturn respectively. So my first question is a question of DD, what indicators do I use that are specific to REITs to determine the health of a company, and what environmental factors would be endemic to this subsector specifically? 
+
+Second, would I be better served with the ""buy-and-hold"" strategy with a basket of dividend paying Storage REITs, or should I leverage by buying LEAPS Calls and possibly selling Poor Man's Covered Calls on a monthly basis?
+
+Finally how would I hedge my position if I decided to go the route of buying long dated calls?",BlackSilkEy,1,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqvxikq/,0.038,0.886,0.076,0.7106
+277,ARE, Alexandria Real Estate Equites ARE is one that I like. Dig the storage ones. Public Storage.,Willing_Bag246,1,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwag26/,0.0,0.848,0.152,0.3612
+278,DIS," Trying to establish a good portfolio breakdown. Working to get to 30k by the time I'm 30, then I can day trade occasionally if I see a scalp play but mostly I'll be holding long term. Not in high dividend stocks yet but would like to be, and an trying to figure out how liquid I should be to buy dips. 
+
+Hypothetical portfolio:
+50% total market ETF (VOO, etc)
+25% riskier ETFs, bluechip, large cap (ARK, TAN, MSFT, LULU, DIS, etc)
+15% dividend stocks (I know coke is popular but haven't looked into these as much quite yet)
+10% the risky fun stuff (weed, emerging markets, meme stocks, where my day trades would theoretically happen, but some might be high risk holds as well)",MXC-GuyLedouche,1,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwdiqf/,0.059,0.828,0.112,0.7964
+279,LULU," Trying to establish a good portfolio breakdown. Working to get to 30k by the time I'm 30, then I can day trade occasionally if I see a scalp play but mostly I'll be holding long term. Not in high dividend stocks yet but would like to be, and an trying to figure out how liquid I should be to buy dips. 
+
+Hypothetical portfolio:
+50% total market ETF (VOO, etc)
+25% riskier ETFs, bluechip, large cap (ARK, TAN, MSFT, LULU, DIS, etc)
+15% dividend stocks (I know coke is popular but haven't looked into these as much quite yet)
+10% the risky fun stuff (weed, emerging markets, meme stocks, where my day trades would theoretically happen, but some might be high risk holds as well)",MXC-GuyLedouche,1,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwdiqf/,0.059,0.828,0.112,0.7964
+280,MSFT," Trying to establish a good portfolio breakdown. Working to get to 30k by the time I'm 30, then I can day trade occasionally if I see a scalp play but mostly I'll be holding long term. Not in high dividend stocks yet but would like to be, and an trying to figure out how liquid I should be to buy dips. 
+
+Hypothetical portfolio:
+50% total market ETF (VOO, etc)
+25% riskier ETFs, bluechip, large cap (ARK, TAN, MSFT, LULU, DIS, etc)
+15% dividend stocks (I know coke is popular but haven't looked into these as much quite yet)
+10% the risky fun stuff (weed, emerging markets, meme stocks, where my day trades would theoretically happen, but some might be high risk holds as well)",MXC-GuyLedouche,1,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwdiqf/,0.059,0.828,0.112,0.7964
+281,GL," Options are good once you've gotten your feet wet, but there is a lot more luck and unforseen probability that make them really complicated out of the gate, and super easy to lose all your money. Stick with getting a feel for the market, learn the fundamentals - what makes a company profitable, what makes their stock worth something. You're in one of the best places for that, a lot of retail investors exist collectively on forums. Just through reading you will start to understand what people value. It is not always as straight forward as, this company made quarterly profit. Khan academy is a good resource and so it YouTube. There is no one way to invest, so just start information diving and work with what feels good for you. GL",piralee,2,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqx34g4/,0.05,0.662,0.287,0.9914
+282,AMC," So not necessarily literature but khan academy is a good resource to learn up on investing. As for AMC, it wasn't doing fine (70% down in a few years prior to covid), it's being dealt hit after hit from Netflix etc, and the pandemic had exasperated the convenience and the possiblity of just watching movies at home. It could have a rebound but I think it's already been priced in for that. I wouldn't buy",notA_cringeyusername,1,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqy3qbu/,0.073,0.877,0.05,-0.1872
+283,LEAP, If they are covered the latter is probably best. Or why not some of both. You wouldn’t hedge LEAP calls. Buy only with high conviction and don’t chase.,Willing_Bag246,0,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwa1h5/,0.0,0.865,0.135,0.6369
+284,ARE," Alexandria Real Estate Equites ARE is one that I like. Dig the storage ones. Public Storage.
+
+Also utilization/occupancy rates and knowing who the tenant’s are and their risks are important for evaluating REITs.",Willing_Bag246,0,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwes8k/,0.059,0.819,0.121,0.296
+285,RH," Fidelity/Schwab/Vangaurd are the largest brokerages and all good choices ; ETRADE, TDA, Ally , Chase, Plus others are good too, personally I would stay clear of RH.
+
+I have never used Ally invest they are probably fine however I usually just reccomend Fidelity/schwab/vangaurd
+
+Self Directed just means you get to choose what you invest in, you choose individual funds/etf or even individual stocks, wehre managed they will either give you select list of funds or simply choose for you
+
+Managed portfolios usually come with extra fees but they usually won't do anything stupid, with self directed its up to you and they will allow you to do something dumb like invest 100% of your funds in some high risk stock .
+
+This is a great site to start with
+
+[https://www.bogleheads.org/wiki/Getting\_started](https://www.bogleheads.org/wiki/Getting_started)",SirGlass,3,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwbczy/,0.05,0.795,0.155,0.9172
+286,TDA," Fidelity/Schwab/Vangaurd are the largest brokerages and all good choices ; ETRADE, TDA, Ally , Chase, Plus others are good too, personally I would stay clear of RH.
+
+I have never used Ally invest they are probably fine however I usually just reccomend Fidelity/schwab/vangaurd
+
+Self Directed just means you get to choose what you invest in, you choose individual funds/etf or even individual stocks, wehre managed they will either give you select list of funds or simply choose for you
+
+Managed portfolios usually come with extra fees but they usually won't do anything stupid, with self directed its up to you and they will allow you to do something dumb like invest 100% of your funds in some high risk stock .
+
+This is a great site to start with
+
+[https://www.bogleheads.org/wiki/Getting\_started](https://www.bogleheads.org/wiki/Getting_started)",SirGlass,3,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwbczy/,0.05,0.795,0.155,0.9172
+287,TDA," You would need a brokerage that allows trading on it, Interactive brokers is available about everywhere
+
+Some brokerages like schwab/TDA allow people outside the usa to open an international account",SirGlass,2,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwawru/,0.0,0.86,0.14,0.5267
+288,IRS," The main tradeoff of the 529 plan is tax free growth at the cost of restricted funds usage.   
+
+You might research the 529 restrictions relative to: 
+
+* approved schools list (many international not covered) 
+* approved expenses (computers only covered if ...) 
+* setup (donor can't be beneficiary) 
+* etc. (see IRS pubs) 
+
+One or two years of **potential** capital gains in exchange for numerous restrictions seems iffy to me.  I would consider funding a Roth IRA instead since it is much more flexible.  Your plans may change and disposing of an orphan 529 may be a problem.",Sheeple0123,1,/r/investing/comments/m4rpz1/daily_advice_thread_all_basic_help_or_advice/gqwev4d/,0.051,0.795,0.154,0.8687
+289,DD," Personally I just invest in companies I did proper DD on, whether the stock goes up or down, as long as I believe in the company and nothing significant has happened within the company to change my trust in it, I will continue to buy more share whenever possible. Remember, don't worry too much about how a stock performed in one month, instead look at the long term.",CannotThinkOfANameee,1,/r/investing/comments/m52ls9/what_to_do_with_unexpected_fluctuations/gqxywld/,0.023,0.858,0.119,0.7655
+290,DB," Thanks for posting. Just wanted to point out Amazon is an active competitor so not a question of if they enter their space. As to the concept of not trusting Amazon - DB (not a BB) put out a nice piece on this referencing their 2H 2017 survey indicating 85% of respondents who were existing Prime members would purchase prescriptions on Amazon and of non-prime customers 54% would purchase prescriptions on Amazon. So I guess more a question of how superior GDRX's offering is. I'm curious to know though, does the dual share class with super-voting on the Class B's cause any concern for you?",negativeNWC,6,/r/investing/comments/m4vzjt/good_rx_gdrx_is_a_good_investment/gqwic9s/,0.02,0.776,0.204,0.9512
+291,GDRX," >A threat to them is if Amazon or Walmart tries to enter their space. But do you trust Amazon or Walmart not to use your data? I don't. I would bet most people don't. GDRX doesn't. 
+
+Their target audience is people struggling to pay for medications. I think that audience will go wherever prices are cheapest, privacy be damned. 
+
+My bias: I sold after Amazon entered their market",CaptainCanuck93,5,/r/investing/comments/m4vzjt/good_rx_gdrx_is_a_good_investment/gqwnlqn/,0.155,0.733,0.112,-0.4939
+292,AMZN," I've been shorting the shit out of this since it hit 58 and will continue to do so. When news came out that AMZN was basically going to compete with them, GDRX PLUMMETED. But then quickly after that, a slew of analysts (likely holders of GDRX or paid by institutional owners of GDRX) started pumping the ever living shit out of it and it started a meteoric climb back up. And since it reached a new peak, its been dropping ever since. And the last peak also coincides with the insider trading window opening up allowing them to sell, post IPO. And this may be ironic but I actually use GDRX on prescriptions and it's AWESOME. But there's one huge caveat and its that pharmacies don't have to accept the GDRX coupon and have denied me more times then have accepted it. If AMZN comes through, and delivers on what they said they were going to do,GDRX will be sub 10",Bleached_Hole_Patrol,2,/r/investing/comments/m4vzjt/good_rx_gdrx_is_a_good_investment/gqxjjcr/,0.045,0.848,0.106,0.8927
+293,GDRX," I've been shorting the shit out of this since it hit 58 and will continue to do so. When news came out that AMZN was basically going to compete with them, GDRX PLUMMETED. But then quickly after that, a slew of analysts (likely holders of GDRX or paid by institutional owners of GDRX) started pumping the ever living shit out of it and it started a meteoric climb back up. And since it reached a new peak, its been dropping ever since. And the last peak also coincides with the insider trading window opening up allowing them to sell, post IPO. And this may be ironic but I actually use GDRX on prescriptions and it's AWESOME. But there's one huge caveat and its that pharmacies don't have to accept the GDRX coupon and have denied me more times then have accepted it. If AMZN comes through, and delivers on what they said they were going to do,GDRX will be sub 10",Bleached_Hole_Patrol,2,/r/investing/comments/m4vzjt/good_rx_gdrx_is_a_good_investment/gqxjjcr/,0.045,0.848,0.106,0.8927
+294,GDRX," Big development in this sector. Amazon pill packs. With low health in the U.S., its ppl are on multiple medications. Both walmart & amazon offer or will soon offer pre filled pill packs.
+
+Data security is all well & good but convenience is king. If theres a data firewall at GDRX they need to advertise it to the point of annoyance w/consumers",HoneyBadger552,1,/r/investing/comments/m4vzjt/good_rx_gdrx_is_a_good_investment/gqxbvsm/,0.07,0.807,0.123,0.1027
+295,GDRX, The pharmacy pays them for every claim. Around ~$8 give or take a few dollars. I’m long GDRX because of how much I see it used every day even by people who have insurance (I work in pharmacy),ardami,4,/r/investing/comments/m4vzjt/good_rx_gdrx_is_a_good_investment/gqwom9u/,0.0,1.0,0.0,0.0
+296,IMO," Yes. They diluted almost at the top lol. Valuation had gotten ahead of itself at that point, so good for them. Most of the insider buying comes from the interim-CEO. My guess is he’s working with the Executive Chairman so they can sell the company in 3-5 years and get a fat paycheck out of it. This might be a good scenario for existing investors IMO.",elvita12345,1,/r/investing/comments/m4qnp9/audioeye_aeye_dd_the_digital_accessibility_saas/gqxpuec/,0.0,0.803,0.197,0.9263
