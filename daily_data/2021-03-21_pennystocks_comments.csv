@@ -1,0 +1,788 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,GE, That was me with GE this week.. FML,jalex8455,3,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/gro9dz6/,0.0,1.0,0.0,0.0
+1,CS, CS,FutureFriendly8738,1,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/groynyl/,0.0,1.0,0.0,0.0
+2,RH," Don't trade on margin. Just use a cash account and disable the margin trading option. RH auto enables margin for you and I think there's a way to disable it.
+
+Pretty much margin is trading with money thats not yours. Say you buy 1k worth of stock, 500 cash and 500 margin because you didn't have the full 1k in cash. You now owe 500 to your broker and will receive a margin call to repay it, if you don't have the money it will put your account in the negative. I always disable margin but if you plan to use it make sure you pay attention to your available cash and margin so you know for sure when your trading on margin. Most brokers make you apply for it, RH just allows you to do it willy nilly.",IGfodder,95,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/gro1wv0/,0.028,0.905,0.067,0.6705
+3,RH," Naa u gotta pay $5 membership for RH Gold in order to have Margin trading enabled. There's a steps to it. Its not like everyone automatically gets Margin at RH. Also, fuck RH. But at the same time ur original statement isn't completely accurate.",rasmapes,3,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/grpje4i/,0.148,0.803,0.049,-0.5733
+4,TDA," TDA allows you to trade immediately upon deposit with uncleared funds, (there are rules though and this shouldn't include penny stocks, you can't trade below $5) which most other brokers won't do. However, those funds are margin funds until the money clears. 3-5 days. If trading on margin, your maintenance requirement must stay in the green, otherwise you'll be called going into the next day. Normally you'd have a few days to clear it, but with covid-19 crashes they're forced to call margin instantly now.",Hypochlorite_Tank_2,6,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/grp2661/,0.045,0.921,0.034,-0.4678
+5,TD," I use TD and upgraded to margin account so I could buy calls/puts because I couldn’t before. My account is for cash only and I didn’t want margin but did it to be able to get an option here and there. If I message them and ask to disable margin will it also stop me from buying options? I never plan on using margin or more cash than I have, also don’t want to open my portfolio and see stocks gone off a margin call (can they do that if I haven’t dipped into margin?)",osocinco,1,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/grp45iy/,0.036,0.935,0.029,-0.3736
+6,TD," Options trading is something you specifically selected when you opened your TD account and shouldn’t require margin but having said that I find it weird that they made you get margin before you could start trading options, so they might disable it if you remove margin from your account. I would check with them.",ShrimpSandwich1,2,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/grp6ad6/,0.039,0.961,0.0,-0.2617
+7,TD," Yeah TD charges $6.95 to buy and sell OTC. Just factor it into your buy and it’s a non issue. In regards to margin, having it attached to your account is nice because it gives you the ability to trade immediately and not have to wait for funds to settle. 
+
+So let’s say you have $1000 in your account as cash, and you have margin. You want to buy an OTC stock at, say, $1.00/share. So you could buy 993 shares and you’re left with $0.05 as your cash balance. Now you sell at $2.00/share which gives you $1979.10 (993*2-6.95+0.05) cash balance *but* you normally have to wait 2 days for the funds to settle without margin but you have margin so now you can spend that money immediately instead of waiting the 2 days. 
+
+All you have to do is look at your cash balance on ToS and hand calculate your trades before you set your orders. It’s an extra step but it saves you money (Option Calls) and you don’t have to worry about losing out on anything that might run while your funds are settling.",ShrimpSandwich1,2,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/grp603p/,0.045,0.893,0.062,0.1027
+8,RH, Its not accurate. A trade may be marked as margin if you are using unsettled funds... but to actually use margin as leverage in RH you have to have their Gold account and answer a question that you want to use margin as leverage.,Dsphar,6,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/grovfhd/,0.038,0.928,0.034,-0.0516
+9,UI," You might want to contact customer support...I have Td Ameritrade, but I'm transferring to Fidelity and TIAA because their UI is easier on the eye.",KayVlinderMe,1,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/gro7ria/,0.0,0.826,0.174,0.5927
+10,TD," Yup. I was relatively new last year and learned about the 6.95 OTC fee TD ameritrade charges, and learned the hard way (luckily only 45 bucks total) on foreign trade fees which is 15 bucks each time you trade a foreign stock like dmnxf",danman132x,2,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/grp0r8y/,0.078,0.867,0.056,0.0
+11,TD," I know TD charges 6.95 for OTC, but I wasn’t aware there was more if it’s a foreign company",FuzzyLuckton,1,/r/pennystocks/comments/m9mv1k/me_these_past_couple_of_weeks/grp38b4/,0.094,0.906,0.0,-0.1406
+12,IMO, Perfect explanation.  IMO that applies very well to individual stocks too!!,Investingwifey,1,/r/pennystocks/comments/m9uaed/this_is_how_the_wall_street_game_works/grpcmi3/,0.0,0.574,0.426,0.7702
+13,TSLA," That looks like a chart of TSLA lately 
+
+https://youtu.be/q_0WS-cgOvU",DK_Trading,1,/r/pennystocks/comments/m9uaed/this_is_how_the_wall_street_game_works/grqkl36/,0.0,0.737,0.263,0.3612
+14,TLRY," Good ol' Mitch Schumer, coming to save me from my TLRY losses.",MookSmilliams,41,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grpc0gy/,0.152,0.506,0.343,0.5267
+15,SSPK, SSPK SPAC merging with WeedMaps.  Not a total penny per-say but has potential to be huge.,bobcat_txstate,4,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grph70m/,0.0,0.826,0.174,0.4497
+16,RH, Too bad RH doesn’t have any US pot stocks.,mackinoncougars,2,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grqlk1c/,0.304,0.696,0.0,-0.5423
+17,CGC, CGC is undervalued at the moment. Grab it while you can,619Thunder619,3,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grq33r1/,0.0,1.0,0.0,0.0
+18,DD, I agree with high tide. Do your DD and maybe you will agree. I prefer their warrants. Hiti.wt. 0.35can strike price. Good for 2 years. Buy and forget,Kind_Archer_8435,2,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grq6x3x/,0.109,0.639,0.252,0.6705
+19,WH," He canned 5 people and they specifically said weed was not the only factor for those firing but has other marks as well.
+
+They have to abide by security clear protocols since it’s still illegal federally. Many people are just required to work from home instead.
+
+Dems haven’t had the house, senate and WH since 2009. And no GOP leader would ever legalize it, the odds seem pretty fair this time around.",mackinoncougars,4,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grqlzr1/,0.106,0.709,0.185,0.7906
+20,TLRY," TLRY was trading at $21/share not too long ago, ran up to 30 and now is back to 25. What did you do buy when it ran up to 60 or 70 the one day a few weeks ago",stevief150,24,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grpku4d/,0.0,1.0,0.0,0.0
+21,DD," ETFs are the way to go, the industry is still so young there's not a lot of telling what american companies will sink or swim. That said if you're looking at Canadian companies, do some serious DD into which have investments and contracts with weed farms in the states. Those are the companies that will benefit most in the short term from legalization in the US as comparitvely larger american growers could (hypothetically) catch them a better price, if cannabis as an agriculture product is regulated similar to other produce. Think Bolthouse Farms(grimway/caloranic) except for weed.
+
+Everyone else, including high tide, would have to wait to build the infrastructure to expand into the US market. Could they be the Tim Horton's of weed paraphernalia? Who knows?
+
+Then there's biotech companies like 22nd century (xxii) that have designed modified strains of cannabis with variable THC which could benefit from any possible pushback legislation regarding THC levels. Idk how much legalization would help them in the short term though. That said, approaching this market from a biotech angle makes most sense to me at this point since we have no idea what regulation would look like or even if interstate retail is going to be a serious thing yet. It's just too early.
+
+Weed stocks Disclosure
+
+245 hitif
+
+75 xxii
+
+3000 csli
+
+10 yolo",hellomondays,11,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grpjkfy/,0.036,0.873,0.091,0.932
+22,THC," ETFs are the way to go, the industry is still so young there's not a lot of telling what american companies will sink or swim. That said if you're looking at Canadian companies, do some serious DD into which have investments and contracts with weed farms in the states. Those are the companies that will benefit most in the short term from legalization in the US as comparitvely larger american growers could (hypothetically) catch them a better price, if cannabis as an agriculture product is regulated similar to other produce. Think Bolthouse Farms(grimway/caloranic) except for weed.
+
+Everyone else, including high tide, would have to wait to build the infrastructure to expand into the US market. Could they be the Tim Horton's of weed paraphernalia? Who knows?
+
+Then there's biotech companies like 22nd century (xxii) that have designed modified strains of cannabis with variable THC which could benefit from any possible pushback legislation regarding THC levels. Idk how much legalization would help them in the short term though. That said, approaching this market from a biotech angle makes most sense to me at this point since we have no idea what regulation would look like or even if interstate retail is going to be a serious thing yet. It's just too early.
+
+Weed stocks Disclosure
+
+245 hitif
+
+75 xxii
+
+3000 csli
+
+10 yolo",hellomondays,11,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grpjkfy/,0.036,0.873,0.091,0.932
+23,IP," > sit on the sidelines until the smaller companies find out what the market likes and then they'll just buy that company.  Normal business practices.
+
+This is normal in tech where IP and development costs protect the smaller business from being copied.
+
+In agriculture, it only holds true if the small farmers own a valuable plot of land.  Otherwise, the big farmers find the most economic plots, buy out large swaths of land, plant their own crops, and use scale advantages to undercut the market.",SourerDiesel,1,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grqgfif/,0.0,0.85,0.15,0.9153
+24,CBD," We're already seeing this with CBD farming. Unfortunately the little farms are looking to be pot millionaires like everyone else and flooding the market.  
+
+But I was referring to branding, edibles, and strains.",Japoco82,1,/r/pennystocks/comments/m9xnhb/marijuana_legislation_coming_in_a_few_days/grqlgg2/,0.127,0.803,0.069,-0.2732
+25,IMO," Picking up some more AABB and some ARBKF. These are on sale IMO. Everyone retreating from tech, even oil not a safe place to hide, got to go with crypto related stonks. Maybe some IMTL. Me like the NFT play.",Shizzledizzle71,11,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grph0us/,0.093,0.795,0.111,0.2008
+26,AGTC, Makes me happy not seeing AGTC on here. Actually I’m happy not seeing any of my stocks on here.,creed_1,6,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grpzij6/,0.0,0.697,0.303,0.8126
+27,ASRT, ASRT is going to break my spirit,opteamus07,3,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grpnela/,0.0,0.779,0.221,0.1779
+28,ZOM, Have ZOM will continue to hold ZOM to see what happens with product launch.,stuntmandave126,4,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grp9b1m/,0.0,1.0,0.0,0.0
+29,CTRM, Surprised CTRM not on the list,Neil_Diamond-Hands,3,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grpcpbz/,0.0,0.725,0.275,0.2263
+30,ASRT, Still hanging with ASRT 110 @.97. Thinking about buying it down to .95 then getting the🤬out.,thathird,3,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grpnu21/,0.0,1.0,0.0,0.0
+31,ZOM," I have half of these, but not ZOM, HITIF, or EEENF.
+
+I get the oil catalyst for EEENF, but what about the other two? Fellow Redditors invested in these, what is a good entrance price and price target?",PsycheRevived,2,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grp9v72/,0.0,0.89,0.11,0.6381
+32,TOPS, TOPS holder here,buttofthebread,1,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grq15g2/,0.0,0.332,0.668,0.6166
+33,RSI," ZOMs technicals are looking good.   RSI is pretty much at neutral.   Bolinger bands are squeezing hard, just want to see the MACD turn up and that should run.",All-Bidness,1,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grqmo9j/,0.043,0.732,0.226,0.7184
+34,TNXP, This week I will be relaxing and just watching how TNXP hit the $2 by end of the week!... ![gif](emote|free_emotes_pack|money_face),uru63,1,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grqnzi5/,0.0,0.826,0.174,0.5837
+35,UAL," It's calculated using natural language processing with a modified version of vadersentiment. You get pre-trained models which classify whether a given statement is positive or negative. I have modified it to analyse financial comments also ( eg. Calls, puts, moon, gain, loss etc). It then classifies the statement between -100% and +100% depending on if it's negative or positive respectively. The numbers you are seeing here is the average across all the comments. 
+
+[here](http://imgur.com/gallery/vyg92Nz) is a sample of the sentiment analysis I posted when Boeing's engine failed on UAL flight. 
+
+Is it 100% accurate? No! The program misses out of nuanced sarcasm. But when you are analysing 100's of comments the issue is not very prominent enough significantly change the results!",nobjos,3,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grqkaxi/,0.156,0.732,0.111,-0.6443
+36,CTXR," Thinking about flipping CTXR when it hits ~2.75, I feel like we’re still a bit a way from the actual run this stock should go on.",blumkinfarmer,5,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grq7b9r/,0.0,0.898,0.102,0.3612
+37,DD," My cost basis is $0.004 so I’ve been here a long time also. Genuinely, what do you think is a fair value pricing in future speculation? My DD shows market cap is getting much closer to fair value. My craziest bull case is about $1.20 without any other dilution. But $5.00? How?",EstorilBMW,4,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grpzsll/,0.021,0.802,0.177,0.829
+38,ZOM, ZOM has a market valuation of 2 billion dollars. That’s pretty insane don’t you think?,NoCrew_Remote,4,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grpfvr8/,0.16,0.651,0.189,0.128
+39,DD," Can't speak about ZOM, but for HITI this is the best DD I've seen. 
+
+https://www.youtube.com/watch?v=qsjwU7kkPsw
+
+TLDW: Largest brick & mortar presence in Canada, largest e-commerce presence in the world, brand deals with Snoop Dogg/Trailer Park Boys/Cheech & Chong/Guns & Roses/Paramount Pictures. Sales not only in Canada, but US, Germany, Mexico, UK.  Good fundamentals, good management, large insider ownership, aggressive growth within an industry expected to see huge growth this decade. Some notable risks are regulatory roadblocks preventing future growth and share dilution. I've seen price targets all over the place from $1.40-$10 EOY, I'm expecting something near the lower end of that personally.",BuffaloHustle,1,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grqa4y6/,0.067,0.699,0.234,0.9749
+40,UK," Can't speak about ZOM, but for HITI this is the best DD I've seen. 
+
+https://www.youtube.com/watch?v=qsjwU7kkPsw
+
+TLDW: Largest brick & mortar presence in Canada, largest e-commerce presence in the world, brand deals with Snoop Dogg/Trailer Park Boys/Cheech & Chong/Guns & Roses/Paramount Pictures. Sales not only in Canada, but US, Germany, Mexico, UK.  Good fundamentals, good management, large insider ownership, aggressive growth within an industry expected to see huge growth this decade. Some notable risks are regulatory roadblocks preventing future growth and share dilution. I've seen price targets all over the place from $1.40-$10 EOY, I'm expecting something near the lower end of that personally.",BuffaloHustle,1,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grqa4y6/,0.067,0.699,0.234,0.9749
+41,ZOM," Can't speak about ZOM, but for HITI this is the best DD I've seen. 
+
+https://www.youtube.com/watch?v=qsjwU7kkPsw
+
+TLDW: Largest brick & mortar presence in Canada, largest e-commerce presence in the world, brand deals with Snoop Dogg/Trailer Park Boys/Cheech & Chong/Guns & Roses/Paramount Pictures. Sales not only in Canada, but US, Germany, Mexico, UK.  Good fundamentals, good management, large insider ownership, aggressive growth within an industry expected to see huge growth this decade. Some notable risks are regulatory roadblocks preventing future growth and share dilution. I've seen price targets all over the place from $1.40-$10 EOY, I'm expecting something near the lower end of that personally.",BuffaloHustle,1,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grqa4y6/,0.067,0.699,0.234,0.9749
+42,DD," I appreciate that you're just providing information, but I've seen both hyped elsewhere on the thread. I'm hoping someone reading this can share their opinions on what I should be targeting. Just one data point as I do DD.",PsycheRevived,1,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grpaj26/,0.0,0.798,0.202,0.81
+43,DD," That's fair. My programmer brain instantly went to ""That's not what this does"" given that these companies are some of the most mentioned on the subreddit, I'm sure that there are some DD threads about them. I'm certain a quick search will net some good results",TheDarkHorse83,1,/r/pennystocks/comments/m9vtc0/most_discussed_stocks_in_pennystocks_last_week/grpe9bt/,0.0,0.81,0.19,0.8225
+44,HUGE," Ive got 633,000 total shares that I’ve probably bought 11 times for an average of 0.01279. 
+
+HUGE HUGE HUGE potential. Won’t know officially til the news breaks, if it’s positive news, better slide into them astronaut suits!!!",Robjax90,16,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grnx5x3/,0.0,0.624,0.376,0.9564
+45,TD," Dam, am i too late for this?  Will hop in Monday if my funds are cleared. So hard to know on Vangaurd/TD. Says i have buying power but some OTCS it won’t let me until it’s cleared..",ellioup,3,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grochp6/,0.038,0.928,0.034,-0.0378
+46,AMC, 10056 @ .0181 will buy more when I sell AMC and CTXR.,TheNeohuman,2,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grpdpgb/,0.0,1.0,0.0,0.0
+47,CTXR, 10056 @ .0181 will buy more when I sell AMC and CTXR.,TheNeohuman,2,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grpdpgb/,0.0,1.0,0.0,0.0
+48,TD," Jumping in tomorrow. Would have gotten in last week at .01 but Fidelity had a 50 dollar fee, so I'm opening a TD Ameritrade account just for stocks like these and waiting for my money to hit the account. I'm going to take profit if it comes with half and hold half long.",SAHDadWithDaughter,2,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grpxcev/,0.0,0.873,0.127,0.7964
+49,RH, Man I hope it takes off. Grabbed 2750 shares at .0273 or something and it promptly dropped to .01. But hey at least I learned how to buy with my E*TRADE account. In the process of relocating most off RH now and it’s a process for sure.,Rusty_is_a_good_boy,1,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grprz5d/,0.0,0.847,0.153,0.7506
+50,BIG," You are not too late, we're waiting for the BIG jump when/if they strike oil, anything that happens in the meantime (e.g. the 100%+ increase recently) is child's play compared to that. Estimates of anywhere from 5-10x increase still possible from here.",ThermalFlask,6,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grp6lfd/,0.032,0.817,0.151,0.6705
+51,AQMS, FCSMF + REZZF + AMYZF + REEMF + UURAF + AQMS + COCBF + BMIX + TLOFF + ILHMF + HPQFF,NPRjunkieDC,2,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grpa2p8/,0.0,1.0,0.0,0.0
+52,RH, Np buying on etrade. Its not on RH tho,Trey-wmLA,1,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grp08ku/,0.0,0.769,0.231,0.34
+53,TDA, TDA and eTrade have the cheapest fees for OTC stocks as far as I know.,jside7,1,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grqazwj/,0.0,1.0,0.0,0.0
+54,IBKR," Hah, no worries, Im on IBKR too and it looks kinda confusing. FYI I got stung with higher charges for LSE buy, like £6-7 just as a heads up.",Phoolf,1,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/gromzte/,0.253,0.609,0.138,-0.4501
+55,ASX, Good to know. I believe they charge some extra for ASX as well. Thanks for the headsup and help. Best of luck!,Decemvrie88,1,/r/pennystocks/comments/m9l5u6/whos_jumping_into_88_energy_eeenfthis_week/grone95/,0.0,0.453,0.547,0.9523
+56,DD, ASTI Updated DD,dgal64,7,/r/pennystocks/comments/m9h3c1/004_photovoltaics_company_solar_extensive_most/grmv4cd/,0.0,1.0,0.0,0.0
+57,USA," In 51,150 shares and adding more.
+Nasa huge catalyst. Name # 2 solar player with Nasa projects.??
+
+There is no #2.
+
+For now ASTI in my books./porfolio. 
+
+German engineering + USA market+ Nasa .
+
+Just me(long term investment) with ASTI.
+
+Whatever your strategy is: short,long, hope you make money with ASTI. Happy for you and  future profits with ASTI.
+I'm.........going to be long.term investors and hope company does well for my portfolio. 
+
+Just my humble opinion.",bravuralax1,5,/r/pennystocks/comments/m9h3c1/004_photovoltaics_company_solar_extensive_most/grnpg21/,0.026,0.746,0.229,0.9472
+58,DD," All info you gave is good except one:
+
+I am not aware of a NASA contract. However ASTI has been invited to test their product amongst other competitors, however years agoASTI already worked with NASA for satelited.
+
+If you have an update please provide a link.
+
+But regardless the amount of photovoltaic possibly produced for space is relativly small to what they might produce for tubesolar alone. This year will be a blast for all ASTI investors .
+
+Everybody else please also look at investorshub or lookup Dr PennyStocks. He has provided the best DD at the ASTI board on Investorshub.",Horsul,5,/r/pennystocks/comments/m9h3c1/004_photovoltaics_company_solar_extensive_most/grnteky/,0.019,0.869,0.112,0.8658
+59,TD, TD showing Friday spread from $.039 to $0.20!!,bestyface,2,/r/pennystocks/comments/m9h3c1/004_photovoltaics_company_solar_extensive_most/grpappe/,0.0,1.0,0.0,0.0
+60,DD," Most up to date? They release June,2020 10Q last week. 
+
+AND you don’t mention anything about the ownership change. 
+
+I’m in heavy on ASTI but this ‘up to date’ DD doesn’t do us any favors.",WhichWayToDerp,1,/r/pennystocks/comments/m9h3c1/004_photovoltaics_company_solar_extensive_most/grnwdke/,0.0,0.87,0.13,0.6016
+61,RS," Not sure why you'd evaluate a company based on what was happening a decade ago (especially in solar). They have completely new management and are in the process of restructuring. The guy who bought the company last year is a renowned investor in Germany, and there is nothing inherently wrong with a RS.",thecolor89,4,/r/pennystocks/comments/m9h3c1/004_photovoltaics_company_solar_extensive_most/grn7q6t/,0.038,0.912,0.05,0.1511
+62,DD," Do you feel like come Sept-Oct when ASTI and NASA test there Lisa-T and it’s a success this will rocket? Or atleast have a huge push?
+
+Or what do you think will push ASTI up im the next 3-6 months ?
+
+Asking because I bought 10k at .03 last week and just want to know your thoughts your DD is pretty detailed from reading everything.",Habibs3alam,7,/r/pennystocks/comments/m9h3c1/004_photovoltaics_company_solar_extensive_most/grnz4gt/,0.0,0.805,0.195,0.9107
+63,AMC," When AMC hits 1k, I'll get us a private jet from Vienna to New york to celebrate...",SebiSST,2,/r/pennystocks/comments/m9jpv7/after_vienna_to_the/grq8lz9/,0.0,1.0,0.0,0.0
+64,CCO," REFERENCE LINKS:
+
+* [according to EPA estimates](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials)
+* [according to Statista](https://www.statista.com/statistics/692063/cost-to-landfill-municipal-solid-waste-by-us-region/)
+* [according to National Geographic scientists](https://www.nationalgeographic.org/article/ocean-trash-525-trillion-pieces-and-counting-big-questions-remain)
+* [Recapitalization and 100:1 Reverse Split (MAR 2020)](https://www.newsfilecorp.com/release/77016)
+* [Executive Statement (FEB 2021)](https://xcelplusint.com/wp-content/uploads/2021/02/Executive-Summary20921.pdf)
+* [Gasifier Upgrades to 50-ton-per-day (JAN 2021)](https://xcelplusint.com/wp-content/uploads/2021/01/WTE-presentation.pdf)
+* [Acquires Gasification Technology (DEC 2020)](https://www.newsfilecorp.com/release/69542)
+* [Shareholder Letter (SEP 2020)](https://xcelplusint.com/wp-content/uploads/2020/09/XLPltr.pdf)
+* [Hires New CCO (AUG 2020)](https://xcelplusint.com/wp-content/uploads/2020/08/XcelPlus-International-Hires-New-Chief-Communications-Officer-08-2020.pdf)
+* [XLPI “Nevada” (XLPI:OTC) Revitalized and Moving Forward (JUL 2020)](https://xcelplusint.com/wp-content/uploads/2020/07/XcelPlus-PR-July-07-PR-2020.pdf)
+* [XLPI “Wyoming” Statement about XLPI “Nevada” (FEB 2020)](https://www.facebook.com/xlpiint/posts/2690783174579558)
+* [XLPI “Wyoming” and NOW Enterprises (OCT 2018)](https://www.facebook.com/xlpiint/posts/2289691534688726)
+* [XLPI “Wyoming” and Plasma To Energy (JUN 2018)](https://www.facebook.com/xlpiint/posts/2157111854613362)
+* [GDI International “Founder’s Pitch” (JAN 2018)](https://app.box.com/s/padha8iuou4tcvdqp2s5emt60eo9f2xf?fbclid=IwAR2_gwSEPqGD94FCteTUElZQQxS2HhspKa7ILUM10QbfA4IZHRALcYrHzTE)
+* [Formed Basileia Ventures Inc. (APR 2017)](https://www.facebook.com/xlpiint/posts/1903012040023346)",DCVAMD-Meetup,2,/r/pennystocks/comments/m9sri8/moon_tickets_still_available_xlpi_xcelplus/gronqsp/,0.0,0.977,0.023,0.2732
+65,NOW," REFERENCE LINKS:
+
+* [according to EPA estimates](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials)
+* [according to Statista](https://www.statista.com/statistics/692063/cost-to-landfill-municipal-solid-waste-by-us-region/)
+* [according to National Geographic scientists](https://www.nationalgeographic.org/article/ocean-trash-525-trillion-pieces-and-counting-big-questions-remain)
+* [Recapitalization and 100:1 Reverse Split (MAR 2020)](https://www.newsfilecorp.com/release/77016)
+* [Executive Statement (FEB 2021)](https://xcelplusint.com/wp-content/uploads/2021/02/Executive-Summary20921.pdf)
+* [Gasifier Upgrades to 50-ton-per-day (JAN 2021)](https://xcelplusint.com/wp-content/uploads/2021/01/WTE-presentation.pdf)
+* [Acquires Gasification Technology (DEC 2020)](https://www.newsfilecorp.com/release/69542)
+* [Shareholder Letter (SEP 2020)](https://xcelplusint.com/wp-content/uploads/2020/09/XLPltr.pdf)
+* [Hires New CCO (AUG 2020)](https://xcelplusint.com/wp-content/uploads/2020/08/XcelPlus-International-Hires-New-Chief-Communications-Officer-08-2020.pdf)
+* [XLPI “Nevada” (XLPI:OTC) Revitalized and Moving Forward (JUL 2020)](https://xcelplusint.com/wp-content/uploads/2020/07/XcelPlus-PR-July-07-PR-2020.pdf)
+* [XLPI “Wyoming” Statement about XLPI “Nevada” (FEB 2020)](https://www.facebook.com/xlpiint/posts/2690783174579558)
+* [XLPI “Wyoming” and NOW Enterprises (OCT 2018)](https://www.facebook.com/xlpiint/posts/2289691534688726)
+* [XLPI “Wyoming” and Plasma To Energy (JUN 2018)](https://www.facebook.com/xlpiint/posts/2157111854613362)
+* [GDI International “Founder’s Pitch” (JAN 2018)](https://app.box.com/s/padha8iuou4tcvdqp2s5emt60eo9f2xf?fbclid=IwAR2_gwSEPqGD94FCteTUElZQQxS2HhspKa7ILUM10QbfA4IZHRALcYrHzTE)
+* [Formed Basileia Ventures Inc. (APR 2017)](https://www.facebook.com/xlpiint/posts/1903012040023346)",DCVAMD-Meetup,2,/r/pennystocks/comments/m9sri8/moon_tickets_still_available_xlpi_xcelplus/gronqsp/,0.0,0.977,0.023,0.2732
+66,UK, Its not on Trading 212 UK,Gavstar92,0,/r/pennystocks/comments/m9sri8/moon_tickets_still_available_xlpi_xcelplus/grp25xi/,0.0,1.0,0.0,0.0
+67,FLY, I'm doubling in on INND the first dip Monday. Discount shopping to start my week. This baby is gonna FLY all summer.,PubliusSolaFide,7,/r/pennystocks/comments/m9wnyg/innerscope_hearing_technologies_innd/grpo1v9/,0.0,1.0,0.0,0.0
+68,DD," This post seems to be mostly regurgitation of some of the company's recent tweets. Do you have any independent verification of these facts, or links to anything which corroborates them? (I'm not counting the bit about the number of 5-star reviews of their app, unless you can verify that most of them aren't faked.)
+
+FWIW I've got a position in this stock, so it's in my interest to see some good news. But this doesn't even pass the sniff test, let alone seem to qualify as useful DD.",realchachadude,15,/r/pennystocks/comments/m9wnyg/innerscope_hearing_technologies_innd/grphknv/,0.021,0.871,0.107,0.7964
+69,DD," - 🔥 emojis
+
+- No possible negatives listed
+
+This isn't DD. The more people posting stuff like this, the harder I'm staying way from it.",CaptainPirk,2,/r/pennystocks/comments/m9wnyg/innerscope_hearing_technologies_innd/grqdro5/,0.089,0.81,0.101,0.0772
+70,PT," .25 by April and $1 by December or next year is my PT
+
+Lotta people on the sidelines waiting for current status, once that catalysts hits, the others follow it this thing will fly",Habibifresh,1,/r/pennystocks/comments/m9wnyg/innerscope_hearing_technologies_innd/grpu3gg/,0.0,1.0,0.0,0.0
+71,TD," TD Waterhouse Canada, doesn't recognize this stock. Cant buy any.",smileyclown,1,/r/pennystocks/comments/m9wnyg/innerscope_hearing_technologies_innd/grqcmzo/,0.0,1.0,0.0,0.0
+72,DD," Yes there was a post wondering if it was a scam. Check this DD, you'll quickly realize it wasn't.",Black_Label_36,7,/r/pennystocks/comments/m9wnyg/innerscope_hearing_technologies_innd/grpnara/,0.173,0.701,0.126,-0.25
+73,PLUS," You do realize that it will soon be possible to sell hearing aids otc which opens up the market like never before. People won't need to consult a doctor PLUS buy a very expensive hearing aids (for a total cost of around 8000$-10000$). 
+
+Many people are losing their hearing but it's so gradual that they get used to it and feel like they don't need to waste so much freaking money for that.
+
+Hearing problems are very common and cheaper solutions will only help more people to get them.",Black_Label_36,-1,/r/pennystocks/comments/m9wnyg/innerscope_hearing_technologies_innd/grpsag8/,0.094,0.772,0.135,0.482
+74,TD, I use TD Ameritrade for all my OTC stocks,MF4life,3,/r/pennystocks/comments/m9wnyg/innerscope_hearing_technologies_innd/grphe7z/,0.0,1.0,0.0,0.0
+75,DD, It's a sign you should buy more HITI (or HITIF in the states). I'm personally long HITIF and up 50% already. They're growing fast. While I'm here I'd just like to mention MMATF. You can find all the DD in my posts.,BagboyBrown,3,/r/pennystocks/comments/m9zma8/nice_going_hiti_eps_beaten_by_92_quadrillion/grpu3d6/,0.0,0.903,0.097,0.4939
+76,AR," Maybe I'm wrong but it seems way too early for this technology to take off. Phones aren't practical for enhanced shopping as long as you have to pull them out and open an app beforehand, which is something I'd hope corporations learned from the mobile app boom and the QR fad. And selling it as an advertisement medium before establishing a userbase is putting the cart before the horse.
+
+I can see this being the next big thing when AR glasses/visors make comeback but that could be a decade away or more because of cost and fashion trends. Maybe the earliest opportunity will be if EVs start integrating AR projection onto their windshields.",Hot_Shot04,5,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/grofnpu/,0.017,0.899,0.084,0.8338
+77,AR, Thank you for the detail. I’ve always been interested in this AR arena since the movie Minority Report.,SeecretID,3,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/gro75tc/,0.0,0.755,0.245,0.6369
+78,DD," The company is a complete scam. Its just a shell company to line their investors pockets. If you're going to do DD you have to look a lot further than this.
+
+&#x200B;
+
+Only a $95m market cap - based on $50,000 turnover. Its incredibly over valued, in a congested market and the cash burn is coming at the expense of shareholders. It is a complete and utter scam, I imagine this is why it was halted for a full trading session.",danjel888,2,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/groqn9v/,0.093,0.867,0.04,-0.6395
+79,DD, Thanks for the DD,D3V1LSHARK,1,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/gro42el/,0.0,0.508,0.492,0.4404
+80,IMO," Best part of it is there market cap is so low, so much room to run. Love the VR aspect on your phone, you litterlly look through your phones camera and can and see ads/nfts placed by users/companies. This will be the next big thing IMO",stocklizarddude,0,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/gro2qhi/,0.051,0.794,0.155,0.769
+81,DD," I saw the same.  Although I do not understand the business cycle with a company in this industry, the rocky revenue and heavy losses are concerning.  I'm out.  However, like AABB, where I had a similar perspective, it jumped.  I could be walking away from a winner, but I do not understand the company, industry, etc., so I'm best off not gambling on this one.  Thanks for the DD though.  I only read the first few paragraphs as I have ADD and would rather read Moby Dick.",PoopSkipPotato,2,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/grocoov/,0.069,0.776,0.155,0.8367
+82,IP," Some fair points, but I think you're underestimating our eagerness to ""pull out the phone"". The phone is always out. It's, sadly, where we live. Go to a concert or a sports event, or even just a shopping mall. Engagement via our phones is what will drive marketing more and more now. The deals that are happening for IP are real and they are for the here and the now.",MrDotto5,3,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/grokksq/,0.049,0.828,0.123,0.6705
+83,AR, Expanding AR capabilities on a video player app,mybustersword,1,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/gro2qyu/,0.0,1.0,0.0,0.0
+84,DD," Closer to two months ago, but yes, I admitted that at the beginning.  Fairly new to reddit, but i've posted 10-12 DD articles on the platform.",MrDotto5,3,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/gro0vz2/,0.0,0.817,0.183,0.631
+85,AR," I think so, too. In 2017 this company started really putting out AR products but the works wasn't ready yet. I think the pandemic really brought things forward a couple years....in many industries",MrDotto5,2,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/gro372s/,0.084,0.916,0.0,-0.395
+86,HOFV, They already have agreements with TRWRF + HOFV I think,NPRjunkieDC,2,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/gro1a9t/,0.0,0.769,0.231,0.2732
+87,AR," There aren't many pure plays out there. APPLE and Google have their AR arms, and at some point they will try to consolidate the market, but IPNFF (IP) is pretty far ahead of most others, and this AR-enriched NFT is unique.",MrDotto5,0,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/gro2cb0/,0.031,0.873,0.096,0.6033
+88,AR," Haven't you looked into the company at all? They've changed names 4 times, been in mining, cannabis, media and now AR.
+
+Imagination Park was a scam... loads of empty promises using big name celebs and name dropping major companies that materialised with absolutely nothing. 
+
+Not concerned by the top 3 shareholders? Found any link between them all? Not concerned by prior manipulation and insider trading against one of them?
+
+MC to Rev ratio of 1666 doesnt bother you?
+
+Wages of 100k for the year?
+
+Going concern status?
+
+I mean I could easily go on here but feels like you bought on the back on the NFT and hype. Hopefully Monday is kind to everyone.",danjel888,0,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/grpmg49/,0.025,0.821,0.154,0.9411
+89,MC," Haven't you looked into the company at all? They've changed names 4 times, been in mining, cannabis, media and now AR.
+
+Imagination Park was a scam... loads of empty promises using big name celebs and name dropping major companies that materialised with absolutely nothing. 
+
+Not concerned by the top 3 shareholders? Found any link between them all? Not concerned by prior manipulation and insider trading against one of them?
+
+MC to Rev ratio of 1666 doesnt bother you?
+
+Wages of 100k for the year?
+
+Going concern status?
+
+I mean I could easily go on here but feels like you bought on the back on the NFT and hype. Hopefully Monday is kind to everyone.",danjel888,0,/r/pennystocks/comments/m9npe6/imaginear_is_exploding_heres_why_i_love_it_ip/grpmg49/,0.025,0.821,0.154,0.9411
+90,DD,"  *Graphene* (/ˈɡræfiːn/) is an allotrope of carbon consisting of a single layer of atoms arranged in a two-dimensional honeycomb lattice. The name is a portmanteau of ""graphite"" and the suffix -ene, reflecting the fact that the graphite allotrope of carbon consists of stacked *graphene* layers.  
+
+ Graphene is the thinnest material known to man at one atom thick, and also incredibly strong - about 200 times stronger than steel. On top of that, graphene is an excellent conductor of heat and electricity and has interesting light absorption abilities. It is truly a material that could change the world, with unlimited potential for integration in almost any industry. 
+
+I do not think that Graphene is traded as a commodity; find the mining companies who mine it and do a DD.",Ok-GeodesRock49,2,/r/pennystocks/comments/m9jmvs/graphene_is_there_a_future/grnod3t/,0.0,0.854,0.146,0.9538
+91,OR," It was in a report Atari put out last year.  Nobody noticed it.  :)
+
+I figured with all the traction Atari is getting lately...probably a good time to talk about it.
+
+
+
+Atari has all sorts of partners and projects that they don't talk about- neither Atari OR the partners... they all keep quiet, they have all been building behind the scenes for years.",PowerDubs,3,/r/pennystocks/comments/m9k0bu/atari_is_partnered_with_portal_one_for_virtual/grnjuh1/,0.0,0.908,0.092,0.7096
+92,IT," Simple- It's not released yet.  Like all the other projects, when it is ready they will launch it.
+
+All of the projects Atari is involved with- they all keep really really quiet about what's coming.  IT can't be by accident- they want it this way.
+
+Even The Sandbox game, Yat Sui and Sebastian talk about the Sandbox all the time, but never mention Atari even though they are the largest Landholder there.
+
+Ultra.io is going to change the dynamics of gaming, and also never talk about Atari- even though they will be on the upcoming Atari VCS- all you see is the original article on their website- https://ultra.io/articles/70-7/atari-partners-with-ultra
+
+There are tweets from people involved with PortalOne that have tagged Atari- I have retweeted them on my twitter page for reference, same name as here.",PowerDubs,1,/r/pennystocks/comments/m9k0bu/atari_is_partnered_with_portal_one_for_virtual/grp1agk/,0.011,0.915,0.074,0.7732
+93,TD, TD only charges something like 6-7.,PowerDubs,2,/r/pennystocks/comments/m9k0bu/atari_is_partnered_with_portal_one_for_virtual/grnsns7/,0.244,0.465,0.291,0.1027
+94,SBBP, SBBP - released really positive ph3 data Saturday morning and announced they are applying for FDA approval.,jk230592,11,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grpskp2/,0.0,0.667,0.333,0.7902
+95,TFSA," $INND, $KAVL and $HITIF. They're all expected to fly really soon, thinking of transferring them to my TFSA to hold them long term and change zip code.",Black_Label_36,8,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grpt488/,0.0,1.0,0.0,0.0
+96,ZOM, ZOM,KevinoE,3,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grqmfho/,0.0,1.0,0.0,0.0
+97,ERJ, ERJ,A_TaR,2,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grpvsj8/,0.0,1.0,0.0,0.0
+98,CPRX, CPRX. Their recent earnings call had a 16% increase in revenue and a 30% increase in operating income.,edgaretejada,2,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grqkdrp/,0.0,0.753,0.247,0.5574
+99,CFMS," CFMS, slow grinder but kind to me so far",cdamoc,1,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grqo2h8/,0.0,0.635,0.365,0.6808
+100,LODE, LODE & PPBT,kermeli,1,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grqqov8/,0.0,1.0,0.0,0.0
+101,PPBT, LODE & PPBT,kermeli,1,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grqqov8/,0.0,1.0,0.0,0.0
+102,TFSA," You can’t add OTC stocks like INND and KAVL to a TFSA. Only if they’re listed on the TSX, so you can for HITI (without the F, which is the TSX/Canadian traded ticker)",buccca,2,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grq6wrf/,0.0,0.925,0.075,0.3612
+103,TFSA," I'm pretty sure I could buy them from my TFSA with Questrade, are you sure?
+
+Either way $KAVL is soon gonna uplist to NASQAD and $INND will probably eventually do the same.
+
+Edit: yup, just checked and I'm able to put an order to buy all do them.",Black_Label_36,3,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grq7820/,0.0,0.849,0.151,0.7783
+104,SOS, What were the points of the scam attack and how were investors confident to reinvest?  The same is with SOS but I think that is a scam.,Likes_The_Scotch,1,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grqek2n/,0.29,0.645,0.065,-0.81
+105,TFSA," Ok just realized $KAVL is penny stock exempt. And HITI is fine as I mentioned. But there's no way you can buy/add INND to a TFSA. Questrade usually blocks you from making an ineligible purchase in a TFSA anyway, but if for some reason they don't, it definitely wouldn't be eligible and you'd ultimately have to pay taxes once you realize profits on INND.",buccca,1,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grqdxjw/,0.11,0.773,0.117,0.1313
+106,TFSA," Yeah, you pay taxes to the US when selling, i know that. Look, I'll try and buy some in my TFSA on Monday and i guess I'll have a definitive answer.",Black_Label_36,1,/r/pennystocks/comments/ma0kje/its_opening_bell_tomorrow_what_ticker_are_you/grqf8dl/,0.047,0.878,0.074,0.2023
+107,DD," Good DD, I almost got in on the last dip but didn’t, idk if u posted last time",whatyearizit,3,/r/pennystocks/comments/m9m9kv/toughbuilt_update/grnrvuj/,0.091,0.798,0.111,0.09
+108,TBLT," Excuse my ignorance, I read why their price drop from 2019 was due to a reverse split but wouldn’t that have the opposite effect if it was a good stock? I’m curious what the deal is with the price. Seems like every January is has a big jump and drops lower and lower. I’d be curious how many people are still bag holding from the $55 price in January 2019. I feel like the “stonks only go up” mantra holds true quite often but this one looks like shit. Their EPS is god awful even at its current price. They are in danger of maintaining Nasdaq minimum bid requirements. I find it alarming that this stock has so many mentions on Reddit. I’m concerned about some of my other holdings now at this point. Again, excuse my ignorance, but nothing about TBLT looks appealing.",DocWeeds,3,/r/pennystocks/comments/m9m9kv/toughbuilt_update/grnv4xm/,0.157,0.681,0.163,0.0129
+109,OR," Just curious why it is taking so long to release data?  It takes 2-3 days from LPLV for data lock and about 1 week for stats guys to plug in the final numbers expanding on the data set already in place when they did the interim analysis.  So the final info. is known already.  It is naive to think it isn't.  What reason are they giving not having the final data to publish?  
+
+Seems no insider buy/sells since 2018?  That was a 4 MILLION share sell by the CEO herself.    
+
+Institutional ownership is basically zero.  
+
+So you have a drug that may be the only good treatment for a fatal disease in GBM and no insider buy since around 2016 OR institutional client wants to partake in it?  Retail investors found a $20 bill on the sidewalk that no one else cares to pick up who are more in the know ?  
+
+If their finances are so bad and they have other studies they are trying to get done why not do partnerships with big pharma companies?  So they would rather go broke then take on financial help?  Or is it that no pharma companies offered to do a JV with them?  Which is it?
+
+Just some questions I would have if I was putting money into the play.  Not saying good or bad to invest in it just curious what answers management (CEO has a very shady past) is giving to answer some of these questions which I am SURE have been asked already.",10xwannabe,1,/r/pennystocks/comments/m9xfhn/dd_northwest_biotherapeutics_nwbo_go_big_or_go/grqsll0/,0.094,0.8,0.106,0.3205
+110,DD, 10/10 DD 😂,HgFrLr,1,/r/pennystocks/comments/m9x0ux/halo_collective_dont_sleep_on_em_with_video/grpo5dv/,0.0,1.0,0.0,0.0
+111,HALO," Purely based of your last comment i dont think you even know the first step to fundamental analysis.
+
+That being said i'm going to look into HALO.
+
+Edit: Typing out what a CEO says in an interview is not fundamental analysis. Every CEO says their stock will increase 10000%",IHateLooseJoints,2,/r/pennystocks/comments/m9x0ux/halo_collective_dont_sleep_on_em_with_video/grq6c6q/,0.0,0.952,0.048,0.3182
+112,III," Can you be more clear on what you mean by approval by FDA? 
+
+I looked at the company and they have 1 study in their ENTIRE history of their pipeline that was logged through clinicaltrials.gov.  It was only a phase I for caverstem in 2019. 
+
+From Yahoo finance they mentioned they are awaiting hearing for FDA to start a trial on spinestem STUDY which would be phase I as well.  Is that what you were referring to?
+
+I am hoping you are not confusing any of this as them getting FDA approval.  They have to go through phase I, then II, then III, the apply for NDA then 1.-2 years later if your lucky get FDA approval.  
+
+Their study for caverstem was done in 2019 and saw it was published in 2020 and no info of them going for phase II?  So looks like they are going to scrap that one?  
+
+I know other stem cell companies tried to bypass FDA NDA by saying they are a device company instead and getting denied and having to go through the same process as any drug (ones mentioned above).
+
+If I am missing something please correct me otherwise I am assuming you are are excited about a drug that may get a approved to start a phase I which may or may advance beyond that?  They have some study they did outside of FDA (think outside of the country) which was not even peer reviewed and published on SRN per the yahoo finance article discussing spinestem so who knows how valid that was.
+
+Just trying to understand your excitement of the company?",10xwannabe,13,/r/pennystocks/comments/m9lrs8/celz_is_going_to_double_before_fda_decision/grnss0w/,0.026,0.847,0.128,0.9792
+113,ATHX, Would you happen to have links or sources on those ATHX news?,19TEQ77,1,/r/pennystocks/comments/m9lrs8/celz_is_going_to_double_before_fda_decision/grqo2ax/,0.0,1.0,0.0,0.0
+114,SNES, I own SNES. I like their strong revenue and EPS growth. The other stocks I have not researched.,tkon403,1,/r/pennystocks/comments/m9gmu4/new_to_investing_penny_stocks_thought_some_shares/grn6f2x/,0.0,0.588,0.412,0.8126
+115,CLVS," The penny stock I hold that I’m most hopeful about right now is EEENF. 
+Also AURI did really well on Friday, like 1200%, and is excited to climb again behind a news release on Monday. Cant really tell if it’s a pump n dump or what though. 
+And lastly CLVS looks like it’ll do well also. 
+I’m not too into holding long term unless it’s got events lined up like EEENF does. It’s also worth noting that I am very new, one week in, so I barely know what I’m doing.",PowerDriven6,0,/r/pennystocks/comments/m9gmu4/new_to_investing_penny_stocks_thought_some_shares/grmycpi/,0.026,0.769,0.204,0.939
+116,DNN, Not just DNN but the whole uranium market(UUUU etc) is very promising,ItsmeKIMOCHI4,2,/r/pennystocks/comments/m9gmu4/new_to_investing_penny_stocks_thought_some_shares/grndqlv/,0.0,0.734,0.266,0.611
+117,SP, Best to get educated on market cap. A lot of reasons these stocks look cheap is they have BILLIONS in outstanding shares.  It is the market cap that matters and not the SP.,10xwannabe,2,/r/pennystocks/comments/m9gmu4/new_to_investing_penny_stocks_thought_some_shares/grnf37b/,0.0,0.709,0.291,0.8885
+118,DD, Its not a deal. Do a DD.,PM_Me_Accounts_rGay,1,/r/pennystocks/comments/m9gmu4/new_to_investing_penny_stocks_thought_some_shares/grmt717/,0.0,1.0,0.0,0.0
+119,UUUU," Im holding urg and uec as well as dnn and uuuu. Nice and spread out, UUUU has been treating me the best by far",ItsmeKIMOCHI4,2,/r/pennystocks/comments/m9gmu4/new_to_investing_penny_stocks_thought_some_shares/gro6wbo/,0.0,0.698,0.302,0.8442
+120,ATH," I anticipated that ccj would dip after setting ATH, which happened and now it is in $17 range. I thought ccj wasn’t gonna explode like uuuu or dnn later so I wanted to take my profits and invest in other uranium stocks. I may re-enter ccj but I like uuuu and dnn better.",papaya_nyc,1,/r/pennystocks/comments/m9gmu4/new_to_investing_penny_stocks_thought_some_shares/grpgcc7/,0.0,0.803,0.197,0.8689
+121,LAC, LAC,Squirrel_Peacock,5,/r/pennystocks/comments/m9z00j/feeling_like_lithium_is_just_getting_started/grpstg2/,0.0,1.0,0.0,0.0
+122,TRCH," I'll keep this as short as possible, if you have a question, ask. TRCH is merging with a company called MMATF, it's an OTC and it's using TRCH as a shell to get onto the NASDAQ. After the merger, holders of MMATF shares are going to be given extra shares at a conversion rate of 1:3.706 give or take. That means if you hold 100 shares now, you hold 370 shares after the merger. Things worth mentioning:
+
+1. The listing price of MMAT after the merger will be the same price of TRCH at closing the day before the merger.
+2. If you are holding TRCH shares before the merger, you'll be eligible for the special one-time dividend, I personally think it's a gamble but to each their own.
+
+What this means is, if the merger were tomorrow and TRCH is valued at $2.22 and you were holding 100 shares of MMATF, you would have 370 shares of MMAT after the merger with a value of $2.22 EACH.
+
+What does this mean? Your MMATF that cost $2.78 right now, are worth $2.22 x 3.706 after the merger or $8.23. That's almost a 4x return and MMAT hasn't even done anything yet! But Baggy, is this a safe play? What if TRCH drops down to $2 a share?
+
+If you buy MMATF for $2.80 each and TRCH went through the merger at a measly 70 cents, you would break even. That's right, TRCH would need to lose literally 75% of it's current value before MMATF even considered losing value.
+
+I am not a cat. I am not a financial advisor. I'm just a guy who really likes the stock.
+
+eDit: You keep down voting while all us believers are laughing all the way to the bank! Go to Twitter, look up GeorgePalikaras and look for tweets on the days of Mar 15th and Mar 16th. That will tell you everything you need to know.
+
+This probably got downvoted by Webull and Robinhood users, sorry for your loss. Cheers!",BagboyBrown,14,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grnzu64/,0.031,0.813,0.156,0.9915
+123,DD, Need a good DD on cryto or bitcoin,PM_Me_Accounts_rGay,3,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/gro25yg/,0.0,0.674,0.326,0.4404
+124,DD," Warning Cybergun Spineway Neovacs
+
+The DD about these companies show good prognosis.
+
+But there s a bad game.They give out billions stocks every year and the prize is controlled to stay where it is.
+
+I read that on some homepages. These companies seem to exist to exploit new traders. And these will loose money. The stockes seem to be worth only a small part of the amount of the chart and they give out new stocks for the half and than sell them more expensiv.
+
+Dont ask me how that works exactly, but be careful with these stocks!
+
+I have 1m cybergun and 500k spineway. Worth remains 3k€, no matter what good news come along.",CandidateNrOne,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpnnny/,0.078,0.799,0.123,0.6696
+125,ONTX," Gonna hold ONTX for a long play, seems like there are alot of rumors around it right now. Hopefully we’ll hear good news soon.",ImmABeastttt,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/growfjh/,0.0,0.644,0.356,0.8591
+126,PDT, Does the PDT Rule apply to penny/OTC stocks?,Zombiechicken89,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grphxih/,0.0,1.0,0.0,0.0
+127,DPW," I'm heavy in 3 trendy stocks hoping they pop with the stimulus stuff hitting. SINO is the best gamble this week, a bit over penny stock land at 9 bucks to get in but NFT is hot right now and it had crazy volume on thursday. DPW is a good crypto play, was at about 8 bucks, cheap entry around 3.60 right now, could go higher than last high if people start hunting for crypto stocks. TMBR went crazy recently and is stable at a good entry point. Could go on a run at literally any second, or not for a few more weeks but the volume and interest in it is very high whenever it wakes up even the slightest everyone starts with fear of missing out. I have added like 5 times now when it dips or even starts moving myself, it has that look of a runner. I pretty much cleaned out my slow movers, and stuff moving sideways to take big positions on these, just need one to pop this week. Check them out, not the normal stuff everyone on here keeps talking about",hearsedriverjon,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpitlb/,0.065,0.791,0.144,0.9464
+128,SINO," I'm heavy in 3 trendy stocks hoping they pop with the stimulus stuff hitting. SINO is the best gamble this week, a bit over penny stock land at 9 bucks to get in but NFT is hot right now and it had crazy volume on thursday. DPW is a good crypto play, was at about 8 bucks, cheap entry around 3.60 right now, could go higher than last high if people start hunting for crypto stocks. TMBR went crazy recently and is stable at a good entry point. Could go on a run at literally any second, or not for a few more weeks but the volume and interest in it is very high whenever it wakes up even the slightest everyone starts with fear of missing out. I have added like 5 times now when it dips or even starts moving myself, it has that look of a runner. I pretty much cleaned out my slow movers, and stuff moving sideways to take big positions on these, just need one to pop this week. Check them out, not the normal stuff everyone on here keeps talking about",hearsedriverjon,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpitlb/,0.065,0.791,0.144,0.9464
+129,TMBR," I'm heavy in 3 trendy stocks hoping they pop with the stimulus stuff hitting. SINO is the best gamble this week, a bit over penny stock land at 9 bucks to get in but NFT is hot right now and it had crazy volume on thursday. DPW is a good crypto play, was at about 8 bucks, cheap entry around 3.60 right now, could go higher than last high if people start hunting for crypto stocks. TMBR went crazy recently and is stable at a good entry point. Could go on a run at literally any second, or not for a few more weeks but the volume and interest in it is very high whenever it wakes up even the slightest everyone starts with fear of missing out. I have added like 5 times now when it dips or even starts moving myself, it has that look of a runner. I pretty much cleaned out my slow movers, and stuff moving sideways to take big positions on these, just need one to pop this week. Check them out, not the normal stuff everyone on here keeps talking about",hearsedriverjon,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpitlb/,0.065,0.791,0.144,0.9464
+130,FSD," Anyone here jave some thoughts on FSD Pharma (HUGE) at all? Low volume, but I think there is some potential to move Monday. Ideas?",Vegetaman916,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grqpumr/,0.08,0.92,0.0,-0.2287
+131,ET," Honestly? AABB. But wait until like ~9:37am ET (seriously that time) when stocks dip from the initial sell off to buy. There’s an amalgamation of catalysts coming out that will continue to increase the price, even if you buy at ~.39-.52. It’s going to $1-2 short term at the very least; and truthfully, maybe even $40 long term (1+ years) if their financial audit comes back and they’re legit.",ActionPlanetRobot,5,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/groki2j/,0.0,0.856,0.144,0.8739
+132,AKBA," Quick advice:  most stocks hyped are truly worthless.  Look for those that have unique processes which put them at a competitive advantage or unique business models or ideas.  I am highly invested in HITIF, a Canadian cannabis retailer.  This is a pretty mundane business but it is exhibiting high growth, positive cash flow, and (in my opinion) undervalued.  Be careful with biotechs, they get hyped often, but only one in 10 (or fewer) will reap rewards.  Other stocks I am in are as follows:  CTXR, SHMP, ZOM, AITX, RCAT, SPRWF, WTRH, SEHCF, CLIS, AKBA, RJDG, and XDSL.  Maybe only half of these will see gains from current levels, but I hope for one or two to break out in a bigger way.
+
+AABB was hyped a few months ago.  I bought, then sold as I didn't feel the company was worth a shit.  Then it got hyped again.  I ignored it.  The stock is up well.  Point is, don't trust me.  You never know which one will actually have traction and be a true winner.
+
+Be careful with pennies.  My advice is to only ""gamble"" 10% of you investment dollars on pennies.  I'm at about 20%, but I would not suggest it.  I'm a hypocrite and do realize it.
+
+EDIT:  Here are some stocks I am seriously thinking of buying this week:  BLGO, PONGF, CWSFF (I like this one a lot), HEOFF, WSGF, and CATV.",PoopSkipPotato,11,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grodgo3/,0.06,0.762,0.178,0.9813
+133,CTXR," Quick advice:  most stocks hyped are truly worthless.  Look for those that have unique processes which put them at a competitive advantage or unique business models or ideas.  I am highly invested in HITIF, a Canadian cannabis retailer.  This is a pretty mundane business but it is exhibiting high growth, positive cash flow, and (in my opinion) undervalued.  Be careful with biotechs, they get hyped often, but only one in 10 (or fewer) will reap rewards.  Other stocks I am in are as follows:  CTXR, SHMP, ZOM, AITX, RCAT, SPRWF, WTRH, SEHCF, CLIS, AKBA, RJDG, and XDSL.  Maybe only half of these will see gains from current levels, but I hope for one or two to break out in a bigger way.
+
+AABB was hyped a few months ago.  I bought, then sold as I didn't feel the company was worth a shit.  Then it got hyped again.  I ignored it.  The stock is up well.  Point is, don't trust me.  You never know which one will actually have traction and be a true winner.
+
+Be careful with pennies.  My advice is to only ""gamble"" 10% of you investment dollars on pennies.  I'm at about 20%, but I would not suggest it.  I'm a hypocrite and do realize it.
+
+EDIT:  Here are some stocks I am seriously thinking of buying this week:  BLGO, PONGF, CWSFF (I like this one a lot), HEOFF, WSGF, and CATV.",PoopSkipPotato,11,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grodgo3/,0.06,0.762,0.178,0.9813
+134,WTRH," Quick advice:  most stocks hyped are truly worthless.  Look for those that have unique processes which put them at a competitive advantage or unique business models or ideas.  I am highly invested in HITIF, a Canadian cannabis retailer.  This is a pretty mundane business but it is exhibiting high growth, positive cash flow, and (in my opinion) undervalued.  Be careful with biotechs, they get hyped often, but only one in 10 (or fewer) will reap rewards.  Other stocks I am in are as follows:  CTXR, SHMP, ZOM, AITX, RCAT, SPRWF, WTRH, SEHCF, CLIS, AKBA, RJDG, and XDSL.  Maybe only half of these will see gains from current levels, but I hope for one or two to break out in a bigger way.
+
+AABB was hyped a few months ago.  I bought, then sold as I didn't feel the company was worth a shit.  Then it got hyped again.  I ignored it.  The stock is up well.  Point is, don't trust me.  You never know which one will actually have traction and be a true winner.
+
+Be careful with pennies.  My advice is to only ""gamble"" 10% of you investment dollars on pennies.  I'm at about 20%, but I would not suggest it.  I'm a hypocrite and do realize it.
+
+EDIT:  Here are some stocks I am seriously thinking of buying this week:  BLGO, PONGF, CWSFF (I like this one a lot), HEOFF, WSGF, and CATV.",PoopSkipPotato,11,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grodgo3/,0.06,0.762,0.178,0.9813
+135,ZOM," Quick advice:  most stocks hyped are truly worthless.  Look for those that have unique processes which put them at a competitive advantage or unique business models or ideas.  I am highly invested in HITIF, a Canadian cannabis retailer.  This is a pretty mundane business but it is exhibiting high growth, positive cash flow, and (in my opinion) undervalued.  Be careful with biotechs, they get hyped often, but only one in 10 (or fewer) will reap rewards.  Other stocks I am in are as follows:  CTXR, SHMP, ZOM, AITX, RCAT, SPRWF, WTRH, SEHCF, CLIS, AKBA, RJDG, and XDSL.  Maybe only half of these will see gains from current levels, but I hope for one or two to break out in a bigger way.
+
+AABB was hyped a few months ago.  I bought, then sold as I didn't feel the company was worth a shit.  Then it got hyped again.  I ignored it.  The stock is up well.  Point is, don't trust me.  You never know which one will actually have traction and be a true winner.
+
+Be careful with pennies.  My advice is to only ""gamble"" 10% of you investment dollars on pennies.  I'm at about 20%, but I would not suggest it.  I'm a hypocrite and do realize it.
+
+EDIT:  Here are some stocks I am seriously thinking of buying this week:  BLGO, PONGF, CWSFF (I like this one a lot), HEOFF, WSGF, and CATV.",PoopSkipPotato,11,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grodgo3/,0.06,0.762,0.178,0.9813
+136,CTXR," As for which app to use, if you want to play with penny stocks, you should go with any of the ""real"" brokers: Etrade, Fidelity, TDameritrade, Schwab, etc.  I like SoFi but they don't deal in many of the stocks I want (RECAF under $3.25, CELZ under $0.10, SLBG under $4, and many others listed by u/PoopSkipPotato below (RCAT at current range, SHMP @.40, CTXR @ 2 or under).",divesaw,3,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpvig9/,0.0,0.91,0.09,0.4678
+137,TRCH," They are going to issue new shares from TRCH to MMATF at a rate of 3 shares to 1 TRCH. This is not increasing TRCH's value which means it will dilute. You will not triple your moneu in MMATF by the merger, unless the companies value triples. TRCH stock value will be cut to 1/4th and we are hoping they sell the oil assets for more than the current stock price. It is a total gamble of what it will sell for.",Siorn,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/groaqf3/,0.094,0.804,0.102,0.1759
+138,CAN," Plenty of plays here. ARBKF is good for long run (careful of $50 trade fee on fidelity). It’s ridiculously cheap for what they have in the works. They also are crazy efficient and have a has rate. Hive (I forget ticker) good for long as well, but know it mines mostly ethereum. I really like galaxy digital, but it had a solid run this week so I’m not sure if a correction is due- will really depend on bitcoin as most crypto plays do. Its absurdly hidden still, with an avg volume of less that 1 million. It’s a great long term play as well. KR1 is also a hidden gem, the stake mostly alts have no debt and are worth a ton. SOS Ebon and CAN move in rhythm to bitcoin but have huge swings, so can make for great day trades. There’s also hut8 and bfarf, but again, careful of trade fees. Then of course the obvious Mara and riot. Riot has the hype but Mara will be the king of mining come years end.",Huge-Reserve-5981,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/gro8dmi/,0.112,0.696,0.192,0.9294
+139,SOS," Plenty of plays here. ARBKF is good for long run (careful of $50 trade fee on fidelity). It’s ridiculously cheap for what they have in the works. They also are crazy efficient and have a has rate. Hive (I forget ticker) good for long as well, but know it mines mostly ethereum. I really like galaxy digital, but it had a solid run this week so I’m not sure if a correction is due- will really depend on bitcoin as most crypto plays do. Its absurdly hidden still, with an avg volume of less that 1 million. It’s a great long term play as well. KR1 is also a hidden gem, the stake mostly alts have no debt and are worth a ton. SOS Ebon and CAN move in rhythm to bitcoin but have huge swings, so can make for great day trades. There’s also hut8 and bfarf, but again, careful of trade fees. Then of course the obvious Mara and riot. Riot has the hype but Mara will be the king of mining come years end.",Huge-Reserve-5981,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/gro8dmi/,0.112,0.696,0.192,0.9294
+140,TD," TD, 9.95 per trade but at least they have basically every OTC ticker available",chaoticdefault54,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpgcwh/,0.0,1.0,0.0,0.0
+141,IBKR, IBKR is a little annoying to get the hang of but has everything and 1$ commission on trades,thedogmatrix,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grprfn3/,0.096,0.904,0.0,-0.1787
+142,PT," Bro if you’re right about $40 PT, I can buy a freaking house off a $60 investment ... so stop messing around and be right lol",CommonNo9892,7,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/groxsiq/,0.199,0.703,0.098,-0.4341
+143,USIO," We agree on pharma . Too unpredictable and volatile even by pennystocks standards . Just looked at AABB website and looks too sketchy for a mining company .
+
+I have CWSFF + PONGF . I recommend INTV + IQST + ADOM + KAVL + USIO + FCSMF + ILUS + NLST",NPRjunkieDC,4,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grp9o2h/,0.0,0.872,0.128,0.6124
+144,TBA," It's definitely a hen's tooth, but I'll just reiterate here what's going on, exactly:
+
+I personally tweeted the founder of Metamaterials Inc about a week ago his name is     @ GeorgePalikaras
+
+I asked specifically about the conversion rate and the eligibility cut off date. As far as the former, I've already stated it. As for the latter, the cut off date is the day before the merger which is still TBA.
+
+As far as the dividend, TRCH has 6 months after the merger date to complete selling of their assets. If they do not sell them you will not get a dividend and instead be given shares of a stock into their holding company (I have no idea what it is and do not trust the play), but that's just my opinion and you could absolutely receive a decent dividend.
+
+The only risk I can see with this play is the one I've already mentioned. Buying MMATF at the current price is a heck of a bargain, as long as TRCH goes through the merger @ at least 70 cents. If it drops below that, you're not going to see any immediate gains post merger, but anything above 70 cents is gravy.
+
+About Metamaterials, they make cool, hi-tec things in all of the big sectors (Aerospace & Defense, Automotive, Medical, Tech & Energy). You can check them out here [https://metamaterial.com/solutions/](https://metamaterial.com/solutions/) but I'll list a few major ones:
+
+1. Transparent 5G Antennas for cars (Tesla interest Rumor)
+2. Needless Sugar Test for patients with Diabetes
+3. Laser Glare Protection eyewear for Pilots (MetaAir)
+
+I'm long MMAT so immediate gains or not, I'm HODL. I can see this company going to $10 by EoY. Again, I'm not a financial advisor.",BagboyBrown,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/gro678p/,0.048,0.859,0.092,0.9026
+145,TRCH," It's definitely a hen's tooth, but I'll just reiterate here what's going on, exactly:
+
+I personally tweeted the founder of Metamaterials Inc about a week ago his name is     @ GeorgePalikaras
+
+I asked specifically about the conversion rate and the eligibility cut off date. As far as the former, I've already stated it. As for the latter, the cut off date is the day before the merger which is still TBA.
+
+As far as the dividend, TRCH has 6 months after the merger date to complete selling of their assets. If they do not sell them you will not get a dividend and instead be given shares of a stock into their holding company (I have no idea what it is and do not trust the play), but that's just my opinion and you could absolutely receive a decent dividend.
+
+The only risk I can see with this play is the one I've already mentioned. Buying MMATF at the current price is a heck of a bargain, as long as TRCH goes through the merger @ at least 70 cents. If it drops below that, you're not going to see any immediate gains post merger, but anything above 70 cents is gravy.
+
+About Metamaterials, they make cool, hi-tec things in all of the big sectors (Aerospace & Defense, Automotive, Medical, Tech & Energy). You can check them out here [https://metamaterial.com/solutions/](https://metamaterial.com/solutions/) but I'll list a few major ones:
+
+1. Transparent 5G Antennas for cars (Tesla interest Rumor)
+2. Needless Sugar Test for patients with Diabetes
+3. Laser Glare Protection eyewear for Pilots (MetaAir)
+
+I'm long MMAT so immediate gains or not, I'm HODL. I can see this company going to $10 by EoY. Again, I'm not a financial advisor.",BagboyBrown,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/gro678p/,0.048,0.859,0.092,0.9026
+146,DD," That is incorrect.
+
+1. TRCH to MMAT is 1:1 with Dividend Eligibility.
+2. MMATF to MMAT is 1:3.706 with no Dividend.
+
+TRCH is worth 25% of the company and MMATF is worth the other 75%. The conversion rate comes from TRCH having more outstanding shares than MMATF and since TRCH is the shell (this is a reverse merger), that's how many shares the company is going to have.
+
+There is no dilution to the price of TRCH. If the merger is tomorrow and TRCH closes today @ $2, MMAT will open tomorrow @ $2. Like I said, I've personally tweeted the Founder / CEO of the company to clear up any misinformation out there.
+
+As far as buying MMATF at today's price of $2.75, I've already explained that it is and why it is a bargain. If MMATF goes up to $4 before the merger or down to 50 cents, it doesn't matter. It's worth 3.7x whatever TRCH is worth at closing the day prior to the merger.
+
+MMATF has been over $3.50 a couple times and I held it (being up 50% on a $7500 position) because I believe it's just the tip of what's to come. But I understand there's skeptics out there who can't do their own DD.",BagboyBrown,4,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grob594/,0.042,0.849,0.109,0.927
+147,TRCH," That is incorrect.
+
+1. TRCH to MMAT is 1:1 with Dividend Eligibility.
+2. MMATF to MMAT is 1:3.706 with no Dividend.
+
+TRCH is worth 25% of the company and MMATF is worth the other 75%. The conversion rate comes from TRCH having more outstanding shares than MMATF and since TRCH is the shell (this is a reverse merger), that's how many shares the company is going to have.
+
+There is no dilution to the price of TRCH. If the merger is tomorrow and TRCH closes today @ $2, MMAT will open tomorrow @ $2. Like I said, I've personally tweeted the Founder / CEO of the company to clear up any misinformation out there.
+
+As far as buying MMATF at today's price of $2.75, I've already explained that it is and why it is a bargain. If MMATF goes up to $4 before the merger or down to 50 cents, it doesn't matter. It's worth 3.7x whatever TRCH is worth at closing the day prior to the merger.
+
+MMATF has been over $3.50 a couple times and I held it (being up 50% on a $7500 position) because I believe it's just the tip of what's to come. But I understand there's skeptics out there who can't do their own DD.",BagboyBrown,4,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grob594/,0.042,0.849,0.109,0.927
+148,TRCH," MMATF is better, imo. It's OTC so you'll need  broker that allows trading of them. If you are in Canada then it's on the CSE as just MMAT.CN or whatever, it's the same thing (Metamaterials Inc).
+
+The merger isn't for another 30-60 days (date TBA) so you have that long to get an account together that allows trading of OTC stocks. If you do not wish to go through the trouble (though I recommend you do for this stock and all future OTC stocks you may wish to trade), it is absolutely fine to pick up TRCH, but it's a bit trickier.
+
+As far as MMATF, we don't really care what it costs as long as it's under $7 a share. But for TRCH, I personally wouldn't buy it over $2.10 and if dropped to $1.80 I would buy the dip. In the same the breath if it never hits $2.10 and it's the day before the merger, I will pick up TRCH shares just to be eligible for the dividend. It's going to cost the same price post merger anyway, but you will not be eligible for the dividend.
+
+I'm not saying this is good advice or that you should do it, I can only legally tell you what I'm personally doing.",BagboyBrown,3,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/gro9ucq/,0.049,0.877,0.074,0.6566
+149,NIO," Here are my thoughts on your pics.  Since we agree on CWSFF and PONGF, I am not including these.  Just keep in mind that most of what I say can probably be said about my pics as well, so I'm not picking them apart.
+
+INTV - bitcoin mining.  Crypto scares me since one piece of legislation can wipe it out tomorrow.  I generally stay away.  However, others have made a lot of money on crypto.
+
+IQST - I owned this briefly a month or so ago.  It has gone from $0.30 to over $1 since early Feb.  I figure I missed the run on this one.  The big question is, does it have juice for a further run.
+
+ADOM - EV play.  EV seems to be losing steam (e.g. NIO, NKLA) but could pick up.  I like this one and will be watching it.
+
+KAVL - Vaping play which is cash flow positive...always a good sign.  I do not know enough about the market to know whether they can increase.  If their products can be extended for marijuana vaping, which I assume they could, this could be a good play and see a run once cannabis is legalized.
+
+UISO - payment processing play.  The biggest red flag I see is that it has gone from $2 in Dec. to $6 today.  I feel I'm too late on this one.  Or maybe it's still early?  It's hard to judge, so my conservative self says to stay on the sidelines.
+
+FCSMF - mining play which is pre-revenue.  Could be a very good speculative play, but seems like it could be longer term until they are able to see results.  I base this on the fact that it seems their mine is in N. Quebec, so they likely cannot start mining until May when the ground thaws.
+
+ILUS - This one is up 12,000% since Jan. 1.  Did I miss the run on this?  Or does it keep running?
+
+NLST - Data storage/computing play.  Decent revenue growth and could be cash flow positive in a year or two.  It is up 200% this year.  May still be early enough to get in, but I again question if I missed the run.",PoopSkipPotato,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpiy97/,0.028,0.825,0.146,0.993
+150,PDT, Same rules across the board. If you execute 4 day trades inside any 5-day rolling period you'll get flagged as PDT and you'll need to have $25k account value to remove it. Or wait 30 days or whatever.,SilentKnightOfOld,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grqaiwu/,0.0,0.938,0.062,0.34
+151,AQMS," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+152,CCIV," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+153,CIDM," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+154,CRMT," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+155,DAC," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+156,HIMX," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+157,MGI," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+158,NKLA," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+159,PERI," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+160,RWLK," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+161,SI," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+162,TSLA," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+163,USIO," Thx! My portfolio is 85% pennystocks and not part of retirement plan. 
+
+I decided to get away from most tech except for fintech so that's where USIO + SI come in . Had MGI but sold recently.  
+
+ILUS like ALPP has a few businesses and income streams .
+
+I have about 20% in mining REEMF + REZZF + AMYZF + TLOFF + ILHMF + SXOOF + HPQFF + UURAF + AQMS + COCBF 
+
+I invest on mining instead of EV since these minerals and metals have many industrial uses and Biden wants to be self sufficient in the West.
+
+I don't believe in NIO's model of outsourcing the whole process and getting into a lifestyle theme that is a distraction I think. NKLA had fraud issues.
+
+I have CCIV/LUCID because Financial Times analyst recommended it as alternative to TSLA.
+
+You can't time in and out to know of a stock will run more . But stocks that have grown tend to keep going .
+There are exceptions mostly cuz of pumping of stocks like AQBB or EEE.. that has 12M float !
+
+I like a few NASDAQ RWLK + PERI + HIMX + CIDM + DAC + CRMT",NPRjunkieDC,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpo3yh/,0.047,0.874,0.079,0.5696
+164,TBA," It's still TBA, but it's between 30-60 days.",BagboyBrown,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grppeo7/,0.0,1.0,0.0,0.0
+165,USIO, I like INTV + IQST + KAVL + ADOM + ILUS + NLST + USIO + FCSMF + PONGF,NPRjunkieDC,1,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpgmj0/,0.0,0.783,0.217,0.3612
+166,AMZN," Well, I do hold AMZN as I do think there is a lot of room for growth.  Google, on the other hand (this thought may be outdated though) has so much cash that it is a warning sign that growth is limited.  Otherwise, they would invest the cash in other cash-generating enterprises to fuel further growth.  
+
+Check out the yield on BPMP.  I have found this stock to be a nice vehicle to park cash when I am unsure of what else to invest in.  The yield is over 10%.  Should the market slide, I have a feeling people will turn to high-yield stocks like energy, utilities, etc., so the  stock could double in price as people may be happy with a 5% yield.  Just a thought.",PoopSkipPotato,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpxl53/,0.047,0.763,0.19,0.9545
+167,BPMP," Well, I do hold AMZN as I do think there is a lot of room for growth.  Google, on the other hand (this thought may be outdated though) has so much cash that it is a warning sign that growth is limited.  Otherwise, they would invest the cash in other cash-generating enterprises to fuel further growth.  
+
+Check out the yield on BPMP.  I have found this stock to be a nice vehicle to park cash when I am unsure of what else to invest in.  The yield is over 10%.  Should the market slide, I have a feeling people will turn to high-yield stocks like energy, utilities, etc., so the  stock could double in price as people may be happy with a 5% yield.  Just a thought.",PoopSkipPotato,2,/r/pennystocks/comments/m9nagf/the_lounge_thoughts_noob_stuff_low_effort_brokers/grpxl53/,0.047,0.763,0.19,0.9545
+168,DD," I haven't been following the OTC Market long enough to know for sure, but I think you are right.  
+
+I had noticed the same thing about the lack of info from the company.  I am hoping that when doing my own DD I can find something that either make me want to invest or make me keep my money out.",pinguini05,2,/r/pennystocks/comments/ma0sgi/cbtc_is_going_pink_current/grqdh84/,0.049,0.84,0.112,0.431
+169,GHLD," A close GHLD friend told me they had the biggest January ever , they going to crush earnings , the stock isn’t really exciting though 🤷‍♂️",Haukna21,1,/r/pennystocks/comments/m9ugxs/stock_earnings_for_22_to_26_march_2021/growzn8/,0.057,0.707,0.237,0.7264
+170,CLVS," its a tradeoff between liquidity and investment.  after a quick scalp opportunity, the stock can drop as well as rise, but we only remember the ones we miss.  if you have other opportunities for the $$, scalp it.  when in doubt, take profits (sell 1/3 to 2/3) and leave some in for investment.  If the spike is good, I tend to sell enough to recover investment, but leave gains for future if its good potential.  for example, on RKT I sold all at 40, I needed cash for other opportunities.  for CLVS, I took out 1/2 of original buy and left rest in for future (and sold the Calls).  just my opinion, but if you saw the red in my portfolio, you would laugh at anything I said.",shitt4brains,1,/r/pennystocks/comments/ma4jku/serious_investing_strategy_question_about_riding/grqkd2b/,0.063,0.716,0.221,0.9787
+171,RKT," its a tradeoff between liquidity and investment.  after a quick scalp opportunity, the stock can drop as well as rise, but we only remember the ones we miss.  if you have other opportunities for the $$, scalp it.  when in doubt, take profits (sell 1/3 to 2/3) and leave some in for investment.  If the spike is good, I tend to sell enough to recover investment, but leave gains for future if its good potential.  for example, on RKT I sold all at 40, I needed cash for other opportunities.  for CLVS, I took out 1/2 of original buy and left rest in for future (and sold the Calls).  just my opinion, but if you saw the red in my portfolio, you would laugh at anything I said.",shitt4brains,1,/r/pennystocks/comments/ma4jku/serious_investing_strategy_question_about_riding/grqkd2b/,0.063,0.716,0.221,0.9787
+172,HOFV," Thanks for prompt reply new friend. So I am not quite understanding here. Yes say I made $1k profit on a quick scalp of HOFV this past Friday (which I did, and then some). Are you saying that I should not let that $1k of free money just sit there long term?",9708KENS,2,/r/pennystocks/comments/ma4jku/serious_investing_strategy_question_about_riding/grqgti3/,0.0,0.733,0.267,0.9356
+173,RKT," Thx for this. Yes, I get that the stock can go back down, and likely even below my buy price if I am scalping. Just thinking that long term, if you made $1k on RKT, and left it in there, I suppose it’s now worth $600 ... but it’s still free money and could easily get back to $40 or even $100. I guess I just answered my own question ... if you think it’s going to $100, then just sit on it",9708KENS,1,/r/pennystocks/comments/ma4jku/serious_investing_strategy_question_about_riding/grql2sn/,0.0,0.853,0.147,0.891
+174,DD," if you have extra cash for other investments, yes.  but if you don't, you do better taking some of the cash out and hitting another gainer.  if you want simple long term gains on investment, hit up SPY (which i dump 20% of all gains into regardless).  There is a lot of pump on this thread, but if you're careful and do some DD, there are some real gold mines here too.  if your gainers long term, you miss new opportunities",shitt4brains,1,/r/pennystocks/comments/ma4jku/serious_investing_strategy_question_about_riding/grqmcdr/,0.09,0.751,0.159,0.6587
+175,MARA," Argo and Hive have treated me well, and I feel are generally undervalued as far a btc plays go. Look at MARA and RIOT for reference. If you do take a look and decide to get in, wait for the tuesday dip. Theyve both had somewhat of a run recently.",evanarc,10,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grnuuo3/,0.084,0.836,0.08,-0.3034
+176,RIOT," Argo and Hive have treated me well, and I feel are generally undervalued as far a btc plays go. Look at MARA and RIOT for reference. If you do take a look and decide to get in, wait for the tuesday dip. Theyve both had somewhat of a run recently.",evanarc,10,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grnuuo3/,0.084,0.836,0.08,-0.3034
+177,MARA," ARBKF, INTV, BFCH, HVBTF, HUTMF, BFARF, BTCS, DTSRF, HSSHF, BBKCF, BKLLF.
+
+MARA and RIOT are way too expensive at this point.",danielryre,6,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grnvrl9/,0.178,0.822,0.0,-0.6523
+178,RIOT," ARBKF, INTV, BFCH, HVBTF, HUTMF, BFARF, BTCS, DTSRF, HSSHF, BBKCF, BKLLF.
+
+MARA and RIOT are way too expensive at this point.",danielryre,6,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grnvrl9/,0.178,0.822,0.0,-0.6523
+179,DD, SOS is HEAVILY undervalued right now due to the recent short attack & false claims. See 1 DD from SOSStock sub!,ApeToAstronaut,4,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grnvfk4/,0.159,0.841,0.0,-0.5255
+180,SOS, SOS is HEAVILY undervalued right now due to the recent short attack & false claims. See 1 DD from SOSStock sub!,ApeToAstronaut,4,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grnvfk4/,0.159,0.841,0.0,-0.5255
+181,CAN, MARA had been good to me.  Recently got into CAN.  The only problem I have with CAN is that it's based in China.   I don't think China enjoys the idea of a non regulated currency.,ThoughtWorldly2172,1,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/gro1fmi/,0.145,0.777,0.078,-0.3616
+182,MARA, MARA had been good to me.  Recently got into CAN.  The only problem I have with CAN is that it's based in China.   I don't think China enjoys the idea of a non regulated currency.,ThoughtWorldly2172,1,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/gro1fmi/,0.145,0.777,0.078,-0.3616
+183,IMO," IMO.. ARBKF, INTV, BFCH, HSSHF, KROEF are still undervalued.",danielryre,5,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grnx4v8/,0.0,1.0,0.0,0.0
+184,DD, Not saying this guy is or that SOS isn’t a great play- it very well could be the tip that prints. That being said in general be careful with short attack stocks and DD them hard as they have a strong potential to make you a “long term investor” if it doesn’t bounce quickly or continues to get dragged/flail and you have to be cautious about freshly minted “long term investors” trying to off load their shares on a false pump.,william_tells,4,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grnx1lz/,0.066,0.756,0.178,0.8777
+185,SOS, Not saying this guy is or that SOS isn’t a great play- it very well could be the tip that prints. That being said in general be careful with short attack stocks and DD them hard as they have a strong potential to make you a “long term investor” if it doesn’t bounce quickly or continues to get dragged/flail and you have to be cautious about freshly minted “long term investors” trying to off load their shares on a false pump.,william_tells,4,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grnx1lz/,0.066,0.756,0.178,0.8777
+186,TD, ARBKF is only a $6 commission charge on TD btw. I opened a TD account specifically for foreign and Canadian stocks bc of fidelity’s $50 rule. Also they allow all the OTC market pennies. I love my fidelity don’t get me wrong but just wanted to let you know TD has lower fees,Neil_ism,1,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grpgo94/,0.09,0.835,0.075,-0.2023
+187,MARA, I have KROEF + INTV + MARA + RIOT + SI,NPRjunkieDC,4,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/gro1xvz/,0.464,0.536,0.0,-0.6523
+188,RIOT, I have KROEF + INTV + MARA + RIOT + SI,NPRjunkieDC,4,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/gro1xvz/,0.464,0.536,0.0,-0.6523
+189,SI, I have KROEF + INTV + MARA + RIOT + SI,NPRjunkieDC,4,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/gro1xvz/,0.464,0.536,0.0,-0.6523
+190,TD," Just something to mention though. I bought ARBKF on TD and while is is only $6.95 to buy it, there is also a $15 fee for foreign stocks. It's kind of hidden but you'll see it if you look at your history. I'm pretty much going to avoid TD for buying this type of stock and stick to my Schwab or Fidelity since they are a little more clear about that fee.
+
+I would check your history to see if you got hit with that fee.",nooshdog,1,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/grpxc61/,0.031,0.882,0.086,0.7115
+191,SI," Ohhhh I forgot about SI. I have this one as well. But you guys should also check out galaxy digital, BRPHF",Huge-Reserve-5981,2,/r/pennystocks/comments/m9mlmj/whats_a_good_bitcoinethereum_play/gro9hsp/,0.0,0.896,0.104,0.2732
+192,DD, The MACD lines are poised to go one way or another !  If your DD is solid looks like a possible .40 to .50 cent jump in my crayon colored eyes,Haukna21,1,/r/pennystocks/comments/ma34y5/pulm_earnings_this_week_many_possible_catalysts/grqcgfu/,0.0,0.803,0.197,0.6588
+193,IMO, Bottom looks to be about .35. Wouldn’t suggest holding long term. Lots of private companies better situated in the market. IMO.,Severe_Reward_9401,2,/r/pennystocks/comments/m9lgmo/im_thinking_about_going_back_into_medif/grnpr5f/,0.0,0.873,0.127,0.4404
+194,TD, Tdameritrade and schwaab are good options. I use TD...,thickage,3,/r/pennystocks/comments/ma5y3y/stock_trading/grqngw9/,0.0,0.707,0.293,0.4404
+195,TD," TD is what I use no fees, Robinhood is thee worst",Serve-Electrical,2,/r/pennystocks/comments/ma5y3y/stock_trading/grqnhff/,0.441,0.559,0.0,-0.743
+196,TD," I’m with TD and I pay 9.99/trade, are on on the US based platform or CAD?",CantsellWontSell,1,/r/pennystocks/comments/ma5y3y/stock_trading/grqo8zk/,0.091,0.909,0.0,-0.1027
+197,TD, TD charges for otc stocks etc.,MrPenby,1,/r/pennystocks/comments/ma5y3y/stock_trading/grqoka5/,0.296,0.704,0.0,-0.2732
+198,DD," IMO Robinhood started it all for us small investors.   I remember being on waiting list when I got my invite.   That's what it was in the beginning.  It has progressed nicely and think the people who dislike RH are ones that didn't learn or was just gambling without DD and lost, so now they have to blame someone.",Nice-Accident-9802,0,/r/pennystocks/comments/ma5y3y/stock_trading/grqo7mk/,0.08,0.816,0.103,0.1184
+199,IMO," IMO Robinhood started it all for us small investors.   I remember being on waiting list when I got my invite.   That's what it was in the beginning.  It has progressed nicely and think the people who dislike RH are ones that didn't learn or was just gambling without DD and lost, so now they have to blame someone.",Nice-Accident-9802,0,/r/pennystocks/comments/ma5y3y/stock_trading/grqo7mk/,0.08,0.816,0.103,0.1184
+200,RH," IMO Robinhood started it all for us small investors.   I remember being on waiting list when I got my invite.   That's what it was in the beginning.  It has progressed nicely and think the people who dislike RH are ones that didn't learn or was just gambling without DD and lost, so now they have to blame someone.",Nice-Accident-9802,0,/r/pennystocks/comments/ma5y3y/stock_trading/grqo7mk/,0.08,0.816,0.103,0.1184
+201,DD, OP just presents companies that in the process of becoming current. There is no 10x claims or anything. You should be skeptical of people on the internet but just go thru their post history. Literally the smallest amount of DD you can do,h3nchman27,1,/r/pennystocks/comments/ma4znh/dscr_becoming_pink_current/grqopaz/,0.073,0.927,0.0,-0.3071
+202,SP, Dude... there are talks of bankruptcy. That’s why the SP tanked. Everyone is saying those talks are “off” now but they’ll still have to restructure at some point. Their deadline has been extended to August. How would you not mention this in your DD?,Quethewiseguy,9,/r/pennystocks/comments/m9uyh2/gtt_get_on_while_you_can/grpa81w/,0.0,1.0,0.0,0.0
+203,GM," I highly doubt any partnership with GM will get their cars introduced to the US market. From my personal experience, (ridden in Wuling branded vehicles and seen lots of them) they are a cheap car that wouldn't even come close to meeting the US safety requirements.",eremeya,1,/r/pennystocks/comments/m9yw70/wuling_motors_the_avenue_to_a_cheap_ev_across_the/grpvrbn/,0.059,0.882,0.059,0.0018
