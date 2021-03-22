@@ -1,0 +1,416 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,JPM," Jamie D is just throwing a fit because JPM has understated its risk by being able to hedge against it with these breaks. They’re way over leveraged again compared to their peers and they’ve made a killing on it with the market volatility, but now he’s gonna have to curtail that back like they should have to as a cornerstone bank.",JL1v10,-1,/r/investing/comments/maqmx6/jp_morgan_may_soon_turn_away_deposits_from/gru1gs6/,0.068,0.851,0.08,0.1901
+1,DD," How nobody has given you gold I don't understand. Thank you for the solid DD, your post officially convinced me it's time to go tits deep on this tech dip.",WarrenBuffering,1,/r/investing/comments/maqmx6/jp_morgan_may_soon_turn_away_deposits_from/grupyax/,0.12,0.751,0.129,0.0747
+2,JP, Both of our banks (chase/JP is one) Charge us substantial fees to even just deposit cash with them.  Much less trying to charge negative interest on holding it in the account,Marvin2021,1,/r/investing/comments/maqmx6/jp_morgan_may_soon_turn_away_deposits_from/gruxkyj/,0.101,0.767,0.132,0.0258
+3,JP," JP could solve the problem by issuing stock, but they have no desire to do so since it will dilute earnings.  As for MM funds, they wouldn't be buying anymore in treasuries than JP would to support the deposits.  If they really can't hold the $1.00 then someone will issue a fund that doesn't conform to the $1.00 and floats -- there are already some very short term bond funds that do similarly.",sgent,0,/r/investing/comments/maqmx6/jp_morgan_may_soon_turn_away_deposits_from/grtwsu9/,0.055,0.757,0.188,0.8825
+4,JP," They just can't do anything productive with the money.  Right now loan origination isn't limited by capital or reserve levels, it's limited by the pool of eligible borrowers.  So if JP Morgan takes on deposits they have to do something that generates a lower return with them, like dump them into excess reserves at the Fed or buy treasuries that don't return too much with them.  But with SLR they also have to post extra tier 1 capital to cover those assets since it doesn't treat them as risk-free.
+
+Here's some math:
+
+Let's say that a big bank can generate a 10 basis point spread between what they pay depositors and what they make by dumping money into t-bills or as excess reserves at the Federal Reserve.
+
+If the bank takes on a billion dollars in extra deposits they would need to raise or hold onto an additional $30M in Tier 1 capital, this is fairly expensive capital btw either common stock or preferred equity.  However they would only be generating around $1M in interest in such a scenario.  So they're getting around a 3.33% yield off that Tier 1 capital which might cost them 5%+ to actually raise (preferred equity).  That's before inflation and completely ignoring the fact that a 1-YR T-Bill currently yields only 8 basis points and IOER (what the Fed pays for extra reserves) is only 10 basis points itself.  It might literally cost them money to take on extra deposits that they don't need here.
+
+They could also retain earnings and not pay out dividends or do share buybacks to raise the capital, but again they're literally making next to no money off these deposits anyways so their shareholders are likely better off by simply having the bank not accept deposits and have more capital to return.",ObservationalHumor,8,/r/investing/comments/maqmx6/jp_morgan_may_soon_turn_away_deposits_from/grua53u/,0.054,0.892,0.054,-0.0206
+5,OCC," Well, tbf, our banking system requires them to supervise state member banks.  State non-members go to the FDIC, and national banks go to the OCC.  It's oddly feudal and probably silly, but the Fed does have a large amount of supervisory responsibility.  They are different departments at the Fed.",LongConvexity1,1,/r/investing/comments/maqmx6/jp_morgan_may_soon_turn_away_deposits_from/grux9ad/,0.029,0.918,0.053,0.0516
+6,JPM," There is a difference between reserves and equity. The SLR rule says that banks needs to put up $150 billion of equity. Equity is shareholder capital, and no amount of deposits will generate a penny of shareholder capital, not directly anyway.
+
+JPM does have $280 billion in equity, but they definitely do not have $150 billion of equity to spare.",lee1026,14,/r/investing/comments/maqmx6/jp_morgan_may_soon_turn_away_deposits_from/gru3wdh/,0.026,0.916,0.058,0.4497
+7,JPM," The limit is based on equity, or how much money a bank have that **don't** have to be returned.
+
+By taking a deposit, you are getting money, but it is money that you have to return, so your equity don't increase.
+
+Under SLR rules, each $100 in bonds need to have $3 in equity and $97 in deposits. JPM have limited equity, and so need to start turning away deposits or raise more equity. JPM apparently don't want to raise more equity, so here we are.",lee1026,3,/r/investing/comments/maqmx6/jp_morgan_may_soon_turn_away_deposits_from/gru4bh3/,0.07,0.93,0.0,-0.6281
+8,SV," Too many people pumping this stock without realising what they actually do. You've listed Twist, Fulgent and NeoGenetics as competitors and I'm not entirely sure why. You may as well have listed off any biotech company. 
+
+They're an interesting company but a circa 2.5bn market cap is insane.  Yes, they can identify SV's very well, but they don't capture the underlying sequence which means that they fit into a fairly niche use case. You also mention PacBio and a few papers but research institutions are already invested in sequencing platforms from PacBio as well as Oxford Nanopore for SV detection. On top of that the bioinformatics pipelines to detect SV's from short read sequencing (Illumina) are only getting better. In terms of the scientific literature, there are actually very few publications using Saphyr. PacBio on the other hand was recently used in a massive study to map the centromeres (essentially the last missing piece of the human genome). 
+
+They remind me of the bone density scanners from the film ""The Pursuit of Happiness"": They do a slightly better job at a very specific thing, but are only worth buying in very limited cases. If it drops in valuation it's definitely worth a look at but like I said at the beginning, 2.5bn is madness.",ButtFlannel69,7,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grtjow8/,0.06,0.77,0.17,0.9767
+9,NGS," Hi Folks, the person writing this doesn't seem to know much about biotech.  For example, Bionano is a sequencing company that focuses on structural variation.  The OP mentions ""Twist"" as a competitor, but Twist is a service provider that synthesizes custom DNA constructs for fields like synthetic biology.  Bunch of sus things in the OP's writeup.  To me, BioNano looks like a reasonable NGS play along the lines of 10X, but one of MANY NGS plays.",vishnubob,4,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grtk9zu/,0.0,0.849,0.151,0.9022
+10,BNGO, That is great to know. I will look into that BNGO. Good future.  I found a little gem WMD on tsx. WeedMD.,Motocross1963,4,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grr9rhj/,0.0,0.708,0.292,0.7906
+11,DD," Very nice DD, thanks!",Guesswhopdx,-1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grrgaz8/,0.0,0.234,0.766,0.7614
+12,BNGO, BNGO holders have been crying for Cathie to pick up shares for months...she hasn’t. This is a crap stock.,vixenwixen,-10,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grre7we/,0.249,0.655,0.096,-0.5423
+13,BNGO," > Comparing their prices the lowest is after BNGO is NEO with 50.18 per share, FLGT at 105.96 per share, and TWST sitting at 130.29 per share.
+
+""Comparing""? Share prices provide no worthwhile comparison",420_dank_pussy_juice,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grugj1d/,0.114,0.619,0.267,0.6597
+14,FLGT," > Comparing their prices the lowest is after BNGO is NEO with 50.18 per share, FLGT at 105.96 per share, and TWST sitting at 130.29 per share.
+
+""Comparing""? Share prices provide no worthwhile comparison",420_dank_pussy_juice,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grugj1d/,0.114,0.619,0.267,0.6597
+15,NEO," > Comparing their prices the lowest is after BNGO is NEO with 50.18 per share, FLGT at 105.96 per share, and TWST sitting at 130.29 per share.
+
+""Comparing""? Share prices provide no worthwhile comparison",420_dank_pussy_juice,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grugj1d/,0.114,0.619,0.267,0.6597
+16,TWST," > Comparing their prices the lowest is after BNGO is NEO with 50.18 per share, FLGT at 105.96 per share, and TWST sitting at 130.29 per share.
+
+""Comparing""? Share prices provide no worthwhile comparison",420_dank_pussy_juice,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grugj1d/,0.114,0.619,0.267,0.6597
+17,ALL," BNGO was less than 50 cents in December. Up 1518% in three months and you see growth potential? No offense, but the whole sector is bonkers even within the already overvalued tech as a whole.
+
+For what can happen if you do not present a bear case, see what happened to an arguably (worse, and way smaller) investment opportunity in the Biomedical Science Market, Idera Pharmaceutical (IDRA).
+
+One clinical trial went sideways last week and the stock went from 5.21 USD on Friday close, to the news hitting after market, to a AH value of 1.9650 USD.
+
+As of today she is at 1.78 USD, with a drop of market cap of 68% or 83.67 Million.
+
+For all of you saying this is small fish and I'm comparing peanuts with apples, I know another lady I happen to be in that is theoretically worth 2.04 billion, hasn't released the product they are developing just yet, and even when they do, their profits/revenue potential after the fact will NEVER justify their current price. None other than Zoomedica (ZOM). And this coming from someone who, full disclosure, is long in ZOM, 'cause you can't but love a stock that tends to go down to 1.82 and back to 2.60 with such consistency to play rollercoaster and profit :P
+
+Biotech is just casino plays these days, I fear :P  
+
+
+Ps: I am fully aware they have barely anything in common, product wise, safe for the sector they are in. But I'm having the feeling people are giving ALL biotech companies a pass regardless of ANY fundamentals, EV, revenue prospects, and how dependent they are from a coin toss going sideways. You have to draw a line in the sand sometimes.",SnooFoxes1179,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/gruo3pf/,0.054,0.806,0.14,0.9805
+18,ANY," BNGO was less than 50 cents in December. Up 1518% in three months and you see growth potential? No offense, but the whole sector is bonkers even within the already overvalued tech as a whole.
+
+For what can happen if you do not present a bear case, see what happened to an arguably (worse, and way smaller) investment opportunity in the Biomedical Science Market, Idera Pharmaceutical (IDRA).
+
+One clinical trial went sideways last week and the stock went from 5.21 USD on Friday close, to the news hitting after market, to a AH value of 1.9650 USD.
+
+As of today she is at 1.78 USD, with a drop of market cap of 68% or 83.67 Million.
+
+For all of you saying this is small fish and I'm comparing peanuts with apples, I know another lady I happen to be in that is theoretically worth 2.04 billion, hasn't released the product they are developing just yet, and even when they do, their profits/revenue potential after the fact will NEVER justify their current price. None other than Zoomedica (ZOM). And this coming from someone who, full disclosure, is long in ZOM, 'cause you can't but love a stock that tends to go down to 1.82 and back to 2.60 with such consistency to play rollercoaster and profit :P
+
+Biotech is just casino plays these days, I fear :P  
+
+
+Ps: I am fully aware they have barely anything in common, product wise, safe for the sector they are in. But I'm having the feeling people are giving ALL biotech companies a pass regardless of ANY fundamentals, EV, revenue prospects, and how dependent they are from a coin toss going sideways. You have to draw a line in the sand sometimes.",SnooFoxes1179,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/gruo3pf/,0.054,0.806,0.14,0.9805
+19,BNGO," BNGO was less than 50 cents in December. Up 1518% in three months and you see growth potential? No offense, but the whole sector is bonkers even within the already overvalued tech as a whole.
+
+For what can happen if you do not present a bear case, see what happened to an arguably (worse, and way smaller) investment opportunity in the Biomedical Science Market, Idera Pharmaceutical (IDRA).
+
+One clinical trial went sideways last week and the stock went from 5.21 USD on Friday close, to the news hitting after market, to a AH value of 1.9650 USD.
+
+As of today she is at 1.78 USD, with a drop of market cap of 68% or 83.67 Million.
+
+For all of you saying this is small fish and I'm comparing peanuts with apples, I know another lady I happen to be in that is theoretically worth 2.04 billion, hasn't released the product they are developing just yet, and even when they do, their profits/revenue potential after the fact will NEVER justify their current price. None other than Zoomedica (ZOM). And this coming from someone who, full disclosure, is long in ZOM, 'cause you can't but love a stock that tends to go down to 1.82 and back to 2.60 with such consistency to play rollercoaster and profit :P
+
+Biotech is just casino plays these days, I fear :P  
+
+
+Ps: I am fully aware they have barely anything in common, product wise, safe for the sector they are in. But I'm having the feeling people are giving ALL biotech companies a pass regardless of ANY fundamentals, EV, revenue prospects, and how dependent they are from a coin toss going sideways. You have to draw a line in the sand sometimes.",SnooFoxes1179,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/gruo3pf/,0.054,0.806,0.14,0.9805
+20,ZOM," BNGO was less than 50 cents in December. Up 1518% in three months and you see growth potential? No offense, but the whole sector is bonkers even within the already overvalued tech as a whole.
+
+For what can happen if you do not present a bear case, see what happened to an arguably (worse, and way smaller) investment opportunity in the Biomedical Science Market, Idera Pharmaceutical (IDRA).
+
+One clinical trial went sideways last week and the stock went from 5.21 USD on Friday close, to the news hitting after market, to a AH value of 1.9650 USD.
+
+As of today she is at 1.78 USD, with a drop of market cap of 68% or 83.67 Million.
+
+For all of you saying this is small fish and I'm comparing peanuts with apples, I know another lady I happen to be in that is theoretically worth 2.04 billion, hasn't released the product they are developing just yet, and even when they do, their profits/revenue potential after the fact will NEVER justify their current price. None other than Zoomedica (ZOM). And this coming from someone who, full disclosure, is long in ZOM, 'cause you can't but love a stock that tends to go down to 1.82 and back to 2.60 with such consistency to play rollercoaster and profit :P
+
+Biotech is just casino plays these days, I fear :P  
+
+
+Ps: I am fully aware they have barely anything in common, product wise, safe for the sector they are in. But I'm having the feeling people are giving ALL biotech companies a pass regardless of ANY fundamentals, EV, revenue prospects, and how dependent they are from a coin toss going sideways. You have to draw a line in the sand sometimes.",SnooFoxes1179,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/gruo3pf/,0.054,0.806,0.14,0.9805
+21,BNGO," $BNGO to the moon, I think it's least worth 25 to 30. Right now!
+
+However I'm gonna have to wait till payday to load up to the tits with BNGO.",DrackOfSpades,-9,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grsa7qm/,0.125,0.875,0.0,-0.4325
+22,DD," OP also listed the share price of competitors and not the market cap, as though a lower share price makes a company ""cheaper.""
+
+This actually can't be good DD with these kinds of flaws.",Aperture314159,130,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grrzs7z/,0.124,0.757,0.119,-0.0531
+23,DD, I'm shocked to see this comment at the bottom? What kind of DD is just nonstop cheerleading without a big section on risks? Especially in biotech with a company that isn't profitable.,Not_FinancialAdvice,135,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grrpwt3/,0.203,0.735,0.062,-0.608
+24,BNGO," Bear case scenario is BNGO doesnt get FDA approval to be used in clinicals(hospitals). Another one is Illumina, or Pacific Bio make their own version of Saphyre. As of right now they have no competitors at the level of how fast, cheap and clean they can read the whole gene. Another one is that insiders holding is less than 1%. 
+
+I own 5600 sharesand and i dont give a shit about the above bear case scenarios. I have done a lot of dd that for lpng term is a solid hold.",guerrilla-investor,32,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grrxvi9/,0.052,0.87,0.079,0.3549
+25,AAPL," The more I read, the less I feel I'm qualified to pick genomics winners. I think Ark really do know what they're doing, but even there, I'm pondering buying XBI or IBB to hedge against any mistakes they might make. 
+
+I'm also looking to buy CRSP, simply because of the number of trials they have in progress as well as how well-established they are compared to most of their competition. Aside from that, I'll wait and see. I know I'll never be the guy who bought AAPL in the early 90s, but I'll settle with being the guy who bought AAPL in the early 00s.",jsfsmith,8,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grsg24w/,0.03,0.88,0.09,0.6808
+26,CRSP," The more I read, the less I feel I'm qualified to pick genomics winners. I think Ark really do know what they're doing, but even there, I'm pondering buying XBI or IBB to hedge against any mistakes they might make. 
+
+I'm also looking to buy CRSP, simply because of the number of trials they have in progress as well as how well-established they are compared to most of their competition. Aside from that, I'll wait and see. I know I'll never be the guy who bought AAPL in the early 90s, but I'll settle with being the guy who bought AAPL in the early 00s.",jsfsmith,8,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grsg24w/,0.03,0.88,0.09,0.6808
+27,BNGO," Arkg actually mentioned BNGO in their 'Big Plans'(or something) presentation, listing it as one of the tools most important in Genomic sequencing. However like most invested in the company I too have no idea why Ark hasn't bought Bingo.",Senfgestalt,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grtfbns/,0.053,0.837,0.11,0.3384
+28,BNGO," Until recently, they had a great product with a crappy business model: They were trying to sell their expensive machine to research groups, and nobody felt like it was worth it.
+
+Last year, they decided to give their machines to customers for free, and then charge them whenever they use it. This has been much more profitable for them and gives them more exposure.
+
+Additionally, you shouldn't look at a companies revenue 2 years ago to compare to their market today.  You could say this about tesla too. BNGO was under a dollar 6 months ago.",Starter200,40,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grrhej0/,0.035,0.819,0.146,0.8858
+29,DD, Do your own DD and take a look for yourself!,JoacoFerna24,-5,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grtvbtc/,0.0,1.0,0.0,0.0
+30,BP," Price earnings ratio is not necessarily the best method for evaluating growth stocks. They often are spending money on themselves for greater future profit. The point is to get in now with great upside, but also some risk of failure. 
+
+Sales should matter more when looking at matured companies, like comparing target to Walmart, cvs to rite aid,  or ExxonMobil to BP. This helps you determine if they are undervalued. Do you agree?",Starter200,-4,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grrowjy/,0.103,0.686,0.211,0.7793
+31,BNGO, lol you are a fool. BNGO optical mapping see's shit that sequencers miss,BNGOKevo,0,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/gru8qta/,0.429,0.423,0.148,-0.6486
+32,BNGO," They map genomes. They don't sequence.
+
+That is what has set them apart. Saphyr can do mapping more quickly at a much lower cost.
+
+Sequencing and mapping companies may seem the same but are very different and actually complement each other. 
+
+What you may actually see here is a large sequencing company actually buying BNGO in order to fill one of their own capability gaps.",Spinaker99,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grtx0ca/,0.025,0.975,0.0,-0.1531
+33,BNGO," I do follow Cathie and trust her judgment when it comes to the market but that doesn’t mean she doesn’t miss some from time to time. Also if you follow Ark closely, their advisor that covers their genomic section (Simon) surprisingly only has a very basic understanding of genomics as a whole, he’s an intelligent guy but I wouldn’t call him an expert in the field by any means, and for some odd reason he seems to have a hard on for PACB that seems to shadow his oversight when it comes to BNGO. I have done my research with BNGO and for that reason I have bought in but I’m not here to pump the stock, just to suggest that people do their own research and not blindly follow everything Ark does or doesn’t do.",Itsinthehole31,2,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grss94i/,0.047,0.889,0.065,0.5423
+34,PACB," I do follow Cathie and trust her judgment when it comes to the market but that doesn’t mean she doesn’t miss some from time to time. Also if you follow Ark closely, their advisor that covers their genomic section (Simon) surprisingly only has a very basic understanding of genomics as a whole, he’s an intelligent guy but I wouldn’t call him an expert in the field by any means, and for some odd reason he seems to have a hard on for PACB that seems to shadow his oversight when it comes to BNGO. I have done my research with BNGO and for that reason I have bought in but I’m not here to pump the stock, just to suggest that people do their own research and not blindly follow everything Ark does or doesn’t do.",Itsinthehole31,2,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grss94i/,0.047,0.889,0.065,0.5423
+35,ATH," They care about the price despite what many people say. There are many companies that they talk about a lot but only start buying when there is a ""discount"" from ATH",Thuggish_Rose,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/gruify7/,0.0,0.93,0.07,0.2732
+36,BNGO, BNGO is a solid investment. Its  only a matter of time before they get acquired.,glimpus,7,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grrb3p8/,0.0,0.803,0.197,0.1779
+37,BNGO," If 1000% percent gain is a “maybe” to you. What metric are you using? BNGO is already a winner and their product are used by the following academia:
+
+* Harvard University - Top 1 University in the whole world
+* University of Bari - #378 in the world.
+
+What I did not share is the number of academia using BNGO platform in betweeen top 1 and 378.  Do your own DD! 
+
+This shows a huge academic diversity using BNGO tech!",CeleryFamous7044,1,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/gruhkmv/,0.024,0.789,0.188,0.9021
+38,DD, DD iced coffee > r/investing DD,semipalmated_plover,6,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grt5ky2/,0.0,1.0,0.0,0.0
+39,BNGO," I understand that research is needed to make a drug. Which then moves on to FDA approval to begin stages of clinical trials.
+
+BNGO does not make the drugs. They help people do research in genomics. This is not a binary company like many pharmaceuticals. 
+
+Can you please help me with what I'm not understanding? I really like to learn and would be happy to learn more from someone that works in this field.",Starter200,5,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grrid3y/,0.052,0.771,0.177,0.8828
+40,GOOG," >FB, GOOG, MSFT have always released after market close. So have dozens of other well performing companies I've followed.
+
+Those companies are outliers and it doesn't really matter as their financials do not move the stock much anyway.
+
+>And many well performing companies I've followed have released pre-market.
+
+
+Yes in order to gain momentum day's trading. Many Daytraders look for premarket gappers to scalp or short.",TheDynamicHamza21,-12,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grs0l5b/,0.018,0.84,0.142,0.8405
+41,MSFT," >FB, GOOG, MSFT have always released after market close. So have dozens of other well performing companies I've followed.
+
+Those companies are outliers and it doesn't really matter as their financials do not move the stock much anyway.
+
+>And many well performing companies I've followed have released pre-market.
+
+
+Yes in order to gain momentum day's trading. Many Daytraders look for premarket gappers to scalp or short.",TheDynamicHamza21,-12,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grs0l5b/,0.018,0.84,0.142,0.8405
+42,BNGO," A company pays for research before they profit. Bngo gets paid to help these companies do research whether the company is successful or not with the research. I dont get you're point.
+
+BNGO would only need the companies they work with to be profitable if said companies were promising to pay them once they are profitable. 
+
+If you really don't believe any of these companies will be profitable and Gene therapy is a waste, then what is the future market of medicine?",Starter200,10,/r/investing/comments/ma9f0t/bngo_bionano_genomics_dd_the_future_of_genomics/grrk27u/,0.044,0.737,0.219,0.9485
+43,CME," What exact argument are you trying to make? 
+
+You posted a link about one overseas exchange that bitcoin has traded on. This is like posting one Chinese bank that uses dollars that got sued.
+
+In your mind do you believe Paypal, Square, Visa, Mastercard, JPM, Melon Bank, Blackrock, CME, Goldman Sachs, Fidelity Digital Services, ETF/ETNs, Coinbase/Gemini Custody, Mass Mutual, Square, Tesla, Microstrategy, and Harvard/Yale/Brown Endowments are all unaware of this? Or do you believe Bitfinex literally *is* Bitcoin?",notapersonaltrainer,5,/r/investing/comments/ma80kp/morgan_stanley_spotlight_raises_curtain_for/grtqovu/,0.06,0.91,0.031,-0.327
+44,JPM," What exact argument are you trying to make? 
+
+You posted a link about one overseas exchange that bitcoin has traded on. This is like posting one Chinese bank that uses dollars that got sued.
+
+In your mind do you believe Paypal, Square, Visa, Mastercard, JPM, Melon Bank, Blackrock, CME, Goldman Sachs, Fidelity Digital Services, ETF/ETNs, Coinbase/Gemini Custody, Mass Mutual, Square, Tesla, Microstrategy, and Harvard/Yale/Brown Endowments are all unaware of this? Or do you believe Bitfinex literally *is* Bitcoin?",notapersonaltrainer,5,/r/investing/comments/ma80kp/morgan_stanley_spotlight_raises_curtain_for/grtqovu/,0.06,0.91,0.031,-0.327
+45,AG," Yes Bitfinex refuses to show their banking partners because if they do they those partners get shut down. In the end, they settled and did not admit to any wrongdoing so I guess you agree with the AG from NY?
+
+In any case Bitfinex =/= Bitcoin
+
+The CME trades Bitcoin futures btw, and almost all banks are offering Bitcoin exposure. I guess they are all criminals?",Garbondon34,1,/r/investing/comments/ma80kp/morgan_stanley_spotlight_raises_curtain_for/grtkqne/,0.074,0.844,0.082,0.136
+46,CME," Yes Bitfinex refuses to show their banking partners because if they do they those partners get shut down. In the end, they settled and did not admit to any wrongdoing so I guess you agree with the AG from NY?
+
+In any case Bitfinex =/= Bitcoin
+
+The CME trades Bitcoin futures btw, and almost all banks are offering Bitcoin exposure. I guess they are all criminals?",Garbondon34,1,/r/investing/comments/ma80kp/morgan_stanley_spotlight_raises_curtain_for/grtkqne/,0.074,0.844,0.082,0.136
+47,UPST," Holding UPST since 60s, I know they had great earnings but what else is fuelling this crazy rally, how long can it keep up?",samwiseg1,5,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grup5pk/,0.133,0.773,0.094,-0.2675
+48,GILD, GILD looking solid and held by 72 HF’s. Insider Monkey seems to like the stock and I’m up 5% on a 6 share position :),ImpressiveExplosion,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grtlxj0/,0.0,0.671,0.329,0.8074
+49,UUUU," Anyone have any idea why UUUU is tanking today? As I understand, the recently released earnings report was better than expected.
+
+Also why there's always a spike after the first hour of trading, then a slow decline over the rest of the day... Someone always buying in the morning? ^ ^",don_cornichon,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grtu8cz/,0.0,0.932,0.068,0.504
+50,HIMX," FTMDF up 47% + UAMM 21%  + HIMX 10% + PONGF 28% + DTMXF 32,%",NPRjunkieDC,1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grui9zc/,0.0,1.0,0.0,0.0
+51,DM," Opportunity Zones
+
+Defer capital gains from 2020
+
+Until March 31st, you can invest capital gains from 2020 (and even some from 2019) in an Opportunity Zone Fund and possibly reduce taxes on those gains and defer paying them for years - even if the gains are more than 180 days old.
+
+DM for more information",PickHumble9057,1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grunkt9/,0.067,0.701,0.232,0.8689
+52,HOFV, Has anyone looked at HOFV. I invested in it today and stock went up 32.35% with over 206 million volume. I believe this is a stock that we all could rocket with,lexmark0331,1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/gruxyi5/,0.0,1.0,0.0,0.0
+53,SMG," You've probably read that Shumer wants to introduce legislation. Supposedly the legislation would focus on small businesses. From NY Post: ""Part of the effort would be to ensure that Big Tobacco doesn't overpower smaller companies"". I'm not sure how they'll be able to do this at a federal level without benefitting bigger players so to me it's also strange they're down today. 
+
+If you want to reduce your risk in single weed stocks try an ETF with exposure to big tobacco and agricultural stocks like SMG. Such as $TOKE.",Teuszie,6,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/gru0v56/,0.086,0.847,0.067,-0.2187
+54,AAPL," VXUS, AAPL is already included in VTI, so no need to hold it separately.",XorFish,4,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grubjdv/,0.181,0.819,0.0,-0.4341
+55,STLA, I was looking at STLA the other day. I think Peugeot will do well. The rebranding they have done and look of their EV line up is pretty impressive. Just hope they have addressed reliability and build quality.,wasupg,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grt7t6x/,0.0,0.736,0.264,0.8885
+56,CCIV, CCIV yooo,linkin06,1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grt5ik5/,0.0,1.0,0.0,0.0
+57,ERIC," You are probably thinking of Huawei. They aren't a public company I don't think, so you won't find them available to trade.
+
+Ericsson is their competitor with a ticker of  ERIC.",Joeyjoejoejabadu,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/gru328m/,0.0,1.0,0.0,0.0
+58,MRVL, I think MRVL and SWKS are the top 5G plays. Also look into NXPI,dsyoo21,1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grumjyy/,0.0,0.743,0.257,0.4215
+59,NXPI, I think MRVL and SWKS are the top 5G plays. Also look into NXPI,dsyoo21,1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grumjyy/,0.0,0.743,0.257,0.4215
+60,SWKS, I think MRVL and SWKS are the top 5G plays. Also look into NXPI,dsyoo21,1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grumjyy/,0.0,0.743,0.257,0.4215
+61,AAL, DKNG will continue to grow.  QS is a pure speculation. There technology won't come to market for years.  I would rather invest in BA over AAL. I think it has much more upside.  Don't really have an opinion on CCL.,millerlit,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grun3od/,0.0,1.0,0.0,0.0
+62,BA, DKNG will continue to grow.  QS is a pure speculation. There technology won't come to market for years.  I would rather invest in BA over AAL. I think it has much more upside.  Don't really have an opinion on CCL.,millerlit,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grun3od/,0.0,1.0,0.0,0.0
+63,CCL, DKNG will continue to grow.  QS is a pure speculation. There technology won't come to market for years.  I would rather invest in BA over AAL. I think it has much more upside.  Don't really have an opinion on CCL.,millerlit,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grun3od/,0.0,1.0,0.0,0.0
+64,DKNG, DKNG will continue to grow.  QS is a pure speculation. There technology won't come to market for years.  I would rather invest in BA over AAL. I think it has much more upside.  Don't really have an opinion on CCL.,millerlit,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grun3od/,0.0,1.0,0.0,0.0
+65,QS, DKNG will continue to grow.  QS is a pure speculation. There technology won't come to market for years.  I would rather invest in BA over AAL. I think it has much more upside.  Don't really have an opinion on CCL.,millerlit,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grun3od/,0.0,1.0,0.0,0.0
+66,DAC, HIMX + DAC + PERI + DSS + BNXAF + VLDR + LUNA + PONGF just hit $1,NPRjunkieDC,0,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grujjpk/,0.0,1.0,0.0,0.0
+67,DSS, HIMX + DAC + PERI + DSS + BNXAF + VLDR + LUNA + PONGF just hit $1,NPRjunkieDC,0,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grujjpk/,0.0,1.0,0.0,0.0
+68,HIMX, HIMX + DAC + PERI + DSS + BNXAF + VLDR + LUNA + PONGF just hit $1,NPRjunkieDC,0,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grujjpk/,0.0,1.0,0.0,0.0
+69,LUNA, HIMX + DAC + PERI + DSS + BNXAF + VLDR + LUNA + PONGF just hit $1,NPRjunkieDC,0,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grujjpk/,0.0,1.0,0.0,0.0
+70,PERI, HIMX + DAC + PERI + DSS + BNXAF + VLDR + LUNA + PONGF just hit $1,NPRjunkieDC,0,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grujjpk/,0.0,1.0,0.0,0.0
+71,VLDR, HIMX + DAC + PERI + DSS + BNXAF + VLDR + LUNA + PONGF just hit $1,NPRjunkieDC,0,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grujjpk/,0.0,1.0,0.0,0.0
+72,RH, RH,SQ401k,-1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grt4siv/,0.0,1.0,0.0,0.0
+73,STLA, STLA,xkulp8,5,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grtfkm5/,0.0,1.0,0.0,0.0
+74,ATH," Market spends something like 30% within 2% of ATH. This might mean your favoured to buy puts but what happens is we hit an ATH, then another 2% higher ATH, then it drops and sits down 1% for a week before jumping again. You need to buy puts at the 2nd ATH but you don’t know that at the first ATH and there may not be the 2nd ATH for weeks. 
+
+Point is we have no clue",captainbling,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grt0rjr/,0.035,0.919,0.046,-0.0387
+75,ATH," There's been a new ATH in SPY bascially every day, week or at least month in the last year, with some dips inbetween. So I'm not sure what you mean by ""usually"" or how you would determine that the last ATH would be **the** ATH after which it should correct.
+
+Others, namely people holding speculative tech stocks (**\o**), would argue the market has corrected more than enough in this last month.",don_cornichon,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grt12io/,0.063,0.917,0.019,-0.4983
+76,HR, Check with your HR department.,stickman07738,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grt102t/,0.0,1.0,0.0,0.0
+77,ADBE, Understood. Certain companies like GIS and ADBE are giving their earnings this week and are expected to exceed expectations. Decent price point for them right now long-term as well.,AmateurAtEverything8,1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grtxnol/,0.0,0.733,0.267,0.7964
+78,GIS, Understood. Certain companies like GIS and ADBE are giving their earnings this week and are expected to exceed expectations. Decent price point for them right now long-term as well.,AmateurAtEverything8,1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/grtxnol/,0.0,0.733,0.267,0.7964
+79,HR," So I called my HR department and they weren’t really helpful. So I have my 401k contribution, my company retirement contribution, and now a ESOP company match. Does that even make sense?",Reddevil44,1,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/gruo0cb/,0.0,0.901,0.099,0.4754
+80,HR, No surprise your HR could not help.,stickman07738,2,/r/investing/comments/maiydm/daily_general_discussion_and_spitballin_thread/gruov82/,0.422,0.379,0.199,-0.3309
+81,TLRY," Schumer is introducing a [marijuana reform bill](https://nypost.com/2021/03/18/schumer-says-he-will-introduce-a-marijuana-reform-bill/).
+
+TLRY/APHA are meeting on [April 14](https://www.prnewswire.com/news-releases/aphria-to-host-special-meeting-of-shareholders-on-wednesday-april-14-2021-to-approve-proposed-aphria-tilray-business-combination-301247250.html).
+
+This company feels poised to be the leader as the merger moves forward and as steps toward legalization in the US march on. I think the price in 6 months will be higher than the price today, so it's a buy to me.
+
+What are your thoughts? What would be your entry and exit price points?",genericasallfuck,4,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grtopw7/,0.0,0.964,0.036,0.3313
+82,MSCI," Hi all, first time posting here so thank you in advance!
+
+I am in the process of creating a new portfolio balancing different types of investments. A big chunk of it will be Index tracking ETFs, and my question is: is it better to go for an MSCI World type fund, or to pick 3-4 individual regional funds? I would be adding monthly quantities. Based on my initial research
+
+Reasons to go with 1 fund: Simplicity, less transaction (and associated costs)
+
+Reasons to go with various funds: More freedom to allocate % per market, lower TER for individual funds.
+
+Thank you",hywelbane87,2,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grt0kgs/,0.021,0.833,0.146,0.925
+83,TER," Hi all, first time posting here so thank you in advance!
+
+I am in the process of creating a new portfolio balancing different types of investments. A big chunk of it will be Index tracking ETFs, and my question is: is it better to go for an MSCI World type fund, or to pick 3-4 individual regional funds? I would be adding monthly quantities. Based on my initial research
+
+Reasons to go with 1 fund: Simplicity, less transaction (and associated costs)
+
+Reasons to go with various funds: More freedom to allocate % per market, lower TER for individual funds.
+
+Thank you",hywelbane87,2,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grt0kgs/,0.021,0.833,0.146,0.925
+84,NMCI," Take a look at NMCI guys if you are interested in Freighting stocks, I added some long term positions to my portfolio and the upward trend of the stock and business they are doing looks very promising.",munt4life123,2,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grtwkuw/,0.0,0.853,0.147,0.6901
+85,UPST," Holding UPST from 60s, I know they had great earnings but what else is fuelling their crazy rally?",samwiseg1,2,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gruoms4/,0.15,0.726,0.123,-0.1406
+86,EEA," Hi all, 
+
+The CIIG/Arrival merger will complete this week and is expected to start trading on NASDAQ on Thursday. In Arrival's statement, right at the bottom it says that shares won't be available to retail investors in the UK or EEA. Does anyone know what will happen to your shares if you already hold shares in CIIG? I use DEGIRO. 
+
+[https://arrival.com/news/CIIG-Merger-Corp-Announces-Stockholder-Approval-of-Business-Combination-with-Arrival-Sarl](https://arrival.com/news/CIIG-Merger-Corp-Announces-Stockholder-Approval-of-Business-Combination-with-Arrival-Sarl) 
+
+Thank you in advance!",omor_fi,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grt3y0j/,0.0,0.865,0.135,0.8122
+87,UK," Hi all, 
+
+The CIIG/Arrival merger will complete this week and is expected to start trading on NASDAQ on Thursday. In Arrival's statement, right at the bottom it says that shares won't be available to retail investors in the UK or EEA. Does anyone know what will happen to your shares if you already hold shares in CIIG? I use DEGIRO. 
+
+[https://arrival.com/news/CIIG-Merger-Corp-Announces-Stockholder-Approval-of-Business-Combination-with-Arrival-Sarl](https://arrival.com/news/CIIG-Merger-Corp-Announces-Stockholder-Approval-of-Business-Combination-with-Arrival-Sarl) 
+
+Thank you in advance!",omor_fi,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grt3y0j/,0.0,0.865,0.135,0.8122
+88,DD, Does anyone have any DD on GE they would like to share for this week?,Kam-Jim,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grtdqea/,0.0,0.734,0.266,0.5719
+89,GE, Does anyone have any DD on GE they would like to share for this week?,Kam-Jim,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grtdqea/,0.0,0.734,0.266,0.5719
+90,AGI,"  About Roth IRA married filing jointly limit $206,000
+
+Me and my wife's gross income combined is $214,240 per year. I don't think we qualify for IRA deductions. So, I'm assuming modified AGI would be the same as gross. As per the contribution limits for 2020 - for married filing jointly modified AIG should not be more than $206,000 per year. So I'm not qualified? What can I do to contribute? Heard about backdoor Roth but don't know how to make it work for married filling jointly. What are my options? Any help on this would be greatly appreciated :)",AffeFUCKYOUe_Milk_87,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grtz7c0/,0.038,0.839,0.123,0.9061
+91,AIG,"  About Roth IRA married filing jointly limit $206,000
+
+Me and my wife's gross income combined is $214,240 per year. I don't think we qualify for IRA deductions. So, I'm assuming modified AGI would be the same as gross. As per the contribution limits for 2020 - for married filing jointly modified AIG should not be more than $206,000 per year. So I'm not qualified? What can I do to contribute? Heard about backdoor Roth but don't know how to make it work for married filling jointly. What are my options? Any help on this would be greatly appreciated :)",AffeFUCKYOUe_Milk_87,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grtz7c0/,0.038,0.839,0.123,0.9061
+92,PLTR," Well, I think i'm in the PLTR gang. I'm not sure I would have found this company without reddit.",tenbeersdeep,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gru889v/,0.103,0.787,0.11,0.0356
+93,HIMX," FTMDF up 47% + UAMM 21%  + HIMX 10% + PONGF 28% + DTMXF 32,%",NPRjunkieDC,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gruiapi/,0.0,1.0,0.0,0.0
+94,TDA," Hello investors,
+
+I am a new investor and am hoping that I have a simple question for my TDA account! To date, I have invested ~4K into my brokerage account and have purchased various positions with the entire 4K. However, under “buying power” it shows that I have $600 “cash available.” I’m a bit confused as to this amount as I have put almost every dollar into some sort of position. I have no unsettled deposits, no pending funds and do not wish to trade on margins. Does this mean I can add to my positions, should I not count on it, or is it something else entirely? 
+
+Thank you for the time and helpfulness.",ho0tho0t,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gruiwut/,0.1,0.827,0.073,-0.2633
+95,API," I'm looking for some portfolio analysis and tracking tools.  
+
+Any information or suggestions would be greatly appreciated - even if the suggestion is somewhere else to post that may be a better/targeted audience.
+
+Specifically: 
+
+* I'd like data and a plot of whole-portfolio performance with **dividend reinvestment counted as profit/gains**.  
+* A resolution of daily close would be ideal.
+* The ability to compare to major indices would be nice
+
+Background:
+
+My brokerage account is in ETrade.  I've tried ETrade Pro and Power ETrade.  The ""Portfolios->Performance"" area in ETrade is as close as I've found to what I'm looking for.
+
+I wrote my own simple program in Python to do exactly what I want, but it is a pain to get new position data into it.  I even tried getting the ETrade API up and running in Python to solve this, but ran into challenges and circled back around to - ""why am I doing this - I feel like I can't possibly be the only one out there that wants to see this information presented this way"". 
+
+I'm a generally long-term investor.  I'm not making a ton of trades, but I do add to my portfolio bi-weekly, so I have quite a few individual positions with differing cost basis to track.  Most of my positions are in a few ETFs, but I do have some in a few more speculative areas.",InquisitiveFactotum,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gruvhr2/,0.02,0.89,0.09,0.8568
+96,PM," Opportunity Zone News:
+
+Defer capital gains from 2020  
+
+
+Until March 31st, 2021, you can invest capital gains from 2020 (and even some from 2019) in an Opportunity Zone Fund and possibly reduce taxes on those gains and defer paying them for years - even if the gains are more than 180 days old.  
+
+
+PM for more information",PickHumble9057,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gruxbfi/,0.065,0.71,0.225,0.8689
+97,ACH," Disclaimer: I’m not a cpa, etc..
+
+> As I understand it, I have to pay taxes four times a year now
+
+No you don’t. It only means that if you do nothing, you will likely underpay taxes for 2021 and if it’s enough, pay interest and a small penalty for the amount you underpaid when you file taxes in 2022.
+
+> What is the easiest way to pay this?
+
+For federal, you can pay estimated taxes online from the website through ACH.
+
+For your last two questions, you have to guesstimate the tax. I wouldn’t change your w4 (see below) since this is a one time thing. I’d just make a one time estimated tax payment before April 15. For the calculation, what I typically do is use your marginal income tax bracket for 2020 and multiply that by 15000 and round up.
+
+Another way to solve this is find the minimum amount of money you have to prepay to not get penalties and make sure you pay that. If your total with holdings is at least the amount you paid in tax in 2020, you won’t be penalized. So you can adjust w4 this year to be at least that. Note that I’m going off my memory of the rule here. I know some states income tax rules are different in this regard and my thresholds might have overlapped.",FinndBors,2,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grtfi6b/,0.053,0.904,0.043,0.1779
+98,IMO," IMO, the S&P500 is significantly overvalued (with an average P/E = 41.18 as of 12:4PM today).  If you have your heart set on investing in the S&P500 Index, you would do well at this time to keep your money in Cash and wait for a market correction in this index and then invest.  Patience is a virtue.",CheonsaGateun,-2,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grtwqw7/,0.0,0.914,0.086,0.5994
+99,USA," What kind of diversification are you trying to achieve?
+
+vwce heavily overlaps with IWDA, with iwda not having EM. If you want diversification, iwda is redunant. If you don't want EM, VWCE is redundant.
+
+VUSA tracks the s&p500, which already exists of more than 1/4 technology sector.
+
+You're heavily favoring USA and technology here. All 4 ETF's have apple msft as their top 2 holdings.",venomous_frost,2,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grukcu4/,0.0,0.891,0.109,0.6369
+100,GE," Depending on how long you're willing to hold GE, it should benefit from global aviation ramping back up as the pandemic eases and aircraft deliveries increase. 787, 737MAX, 777X and A320NEO use GE engines or CFM engines (which is a GE-Safran joint venture). That's the *entire* narrowbody aircraft market right there.",srv340mike,3,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grtfe1u/,0.0,0.861,0.139,0.765
+101,HIMX," FTMDF up 47% + UAMM 21%  + HIMX 10% + PONGF 28% + DTMXF 32,%",NPRjunkieDC,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gruigkw/,0.0,1.0,0.0,0.0
+102,CD," Emergency funds should stay as liquid as possible. Best find an online bank that has low overhead and can provide higher APY. If you are still feeling bad about loosing potential gains perhaps a consider CD ladder for a minority % of your E-fund. 
+
+Respectfully,
+A.M.",Illustrious-Ad7201,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grulikq/,0.149,0.655,0.196,0.3818
+103,APHA," *tl;dr –* Multiply TLRY's price by 0.8381. If the result of that equation is higher than APHA's current price, buy APHA. If the result of that equation is lower than APHA's price, buy TLRY. In math:
+
+TLRY \* 0.8381 = X
+
+If X > APHA, buy APHA
+
+If X < APHA, buy TLRY
+
+&#x200B;
+
+*Long version –*  
+In the case of TRLY/APHA, each share you own of APHA will automatically convert to 0.8381 shares of TLRY. (The conversion is automatic, you don't need to do anything. New ticker will be TLRY. APHA just goes away.)
+
+Using the numbers you provided, if TLRY is at $23 and APHA is at $19 at the time of the merger, you would be better off owning APHA because $23\*0.8381=$19.28. In this scenario, you would sort of make $0.28 on each share when APHA shares convert to TLRY.
+
+Every single time I've checked since the merger was announced, APHA has been the better deal, so the one to buy. As the merger approaches, the gap between them will continue to narrow until there's probably no difference in buying one or the other.
+
+*Most importantly –*   
+Do your due diligence on any company or fund you invest in. Any stock can lose money. Maybe I own one or both of these stocks (I do), but don't let my optimism guide you.",genericasallfuck,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grubuuc/,0.039,0.909,0.052,0.0323
+104,TLRY," *tl;dr –* Multiply TLRY's price by 0.8381. If the result of that equation is higher than APHA's current price, buy APHA. If the result of that equation is lower than APHA's price, buy TLRY. In math:
+
+TLRY \* 0.8381 = X
+
+If X > APHA, buy APHA
+
+If X < APHA, buy TLRY
+
+&#x200B;
+
+*Long version –*  
+In the case of TRLY/APHA, each share you own of APHA will automatically convert to 0.8381 shares of TLRY. (The conversion is automatic, you don't need to do anything. New ticker will be TLRY. APHA just goes away.)
+
+Using the numbers you provided, if TLRY is at $23 and APHA is at $19 at the time of the merger, you would be better off owning APHA because $23\*0.8381=$19.28. In this scenario, you would sort of make $0.28 on each share when APHA shares convert to TLRY.
+
+Every single time I've checked since the merger was announced, APHA has been the better deal, so the one to buy. As the merger approaches, the gap between them will continue to narrow until there's probably no difference in buying one or the other.
+
+*Most importantly –*   
+Do your due diligence on any company or fund you invest in. Any stock can lose money. Maybe I own one or both of these stocks (I do), but don't let my optimism guide you.",genericasallfuck,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grubuuc/,0.039,0.909,0.052,0.0323
+105,IMO," The advantage of an index fund is that you don't have to do a ton of research or try and figure out what the best play is. The advantage of passive investing is not that you get better returns, but you get money without doing any work. If you start worrying about timing it you're missing the point IMO. VFIAX is a great fund to track s&p500 bc it has low fees, so I'll second that one.",Historical-Egg3243,3,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grud9dv/,0.095,0.723,0.181,0.6956
+106,BPMP," The market is generally overvalued.  However, there is always a few stocks (companies) that are situationally undervalued or fairly valued.  One stock that is fairly or perhaps slightly undervalued (IMO) is BPMP.  This is a oil & gas ""transportation"" (pipeline) company.  They are paying an 11.11% 'dividend' at the current price.  And while this may not be a 30 year investment, it is paying a market return rate that would double your money in 10 years (if the stock price remains unchanged).  Currently, they are earning in excess of what they are paying out.  And with the rise of oil above $60/barrel this year, I suspect they will have no problem maintaining the payout with the REV/EPS they will earn going forward.  In the future - when the market finally corrects - can could sell this and buy an S&P500 ETF if you desire.  I would not recommend putting 100% of your money in this stock, and I'll leave the appropriate investment size of your portfolio up to you.  Boring, but steady and with the potential for equity appreciation and/or dividend increase.  Please remember to always do your own DD.  Best regards!
+
+Full disclosure, I own shares in this company.",CheonsaGateun,-3,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gru3ajj/,0.045,0.845,0.11,0.9564
+107,DD," The market is generally overvalued.  However, there is always a few stocks (companies) that are situationally undervalued or fairly valued.  One stock that is fairly or perhaps slightly undervalued (IMO) is BPMP.  This is a oil & gas ""transportation"" (pipeline) company.  They are paying an 11.11% 'dividend' at the current price.  And while this may not be a 30 year investment, it is paying a market return rate that would double your money in 10 years (if the stock price remains unchanged).  Currently, they are earning in excess of what they are paying out.  And with the rise of oil above $60/barrel this year, I suspect they will have no problem maintaining the payout with the REV/EPS they will earn going forward.  In the future - when the market finally corrects - can could sell this and buy an S&P500 ETF if you desire.  I would not recommend putting 100% of your money in this stock, and I'll leave the appropriate investment size of your portfolio up to you.  Boring, but steady and with the potential for equity appreciation and/or dividend increase.  Please remember to always do your own DD.  Best regards!
+
+Full disclosure, I own shares in this company.",CheonsaGateun,-3,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gru3ajj/,0.045,0.845,0.11,0.9564
+108,REV," The market is generally overvalued.  However, there is always a few stocks (companies) that are situationally undervalued or fairly valued.  One stock that is fairly or perhaps slightly undervalued (IMO) is BPMP.  This is a oil & gas ""transportation"" (pipeline) company.  They are paying an 11.11% 'dividend' at the current price.  And while this may not be a 30 year investment, it is paying a market return rate that would double your money in 10 years (if the stock price remains unchanged).  Currently, they are earning in excess of what they are paying out.  And with the rise of oil above $60/barrel this year, I suspect they will have no problem maintaining the payout with the REV/EPS they will earn going forward.  In the future - when the market finally corrects - can could sell this and buy an S&P500 ETF if you desire.  I would not recommend putting 100% of your money in this stock, and I'll leave the appropriate investment size of your portfolio up to you.  Boring, but steady and with the potential for equity appreciation and/or dividend increase.  Please remember to always do your own DD.  Best regards!
+
+Full disclosure, I own shares in this company.",CheonsaGateun,-3,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gru3ajj/,0.045,0.845,0.11,0.9564
+109,IQ," Would you suggest that I give him an over-priced passive index to to invest in instead?
+
+FYI:  ""BP Midstream Partners LP(BPMP) has an average rating of  Outperform and price targets ranging from $11.50 to  $15, according to analysts polled by Capital IQ.""",CheonsaGateun,1,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/gruamwt/,0.0,0.9,0.1,0.516
+110,BPMP," > Would you suggest that I give him an over-priced passive index to to invest in instead?
+
+Yes, considering index being ""overvalued"" is your minority opinion and not consensus whatsoever. He asked for a good S&P500 fund, and that's a pretty easy answer to give.
+
+It's diversified across every sector. If he had asked for an energy play, BPMP would have been an appropriate response. This is like asking for a quality bond fund and you suggest bitcoin.",WeenisWrinkle,3,/r/investing/comments/maixu3/daily_advice_thread_all_basic_help_or_advice/grudewo/,0.0,0.76,0.24,0.9552
+111,NOW," The issue is the price prediction now is based on the information you have of the past instead of forward-looking into new catalysts that could trigger a price action. 
+
+&#x200B;
+
+Right NOW, there is a housing boom, right NOW there is a wide swath of mill closure that's restricting. That's all your bull cases that's based on NOW.   
+
+
+Meanwhile all your bear cases are predictions for the future. That does not bold well for your thesis.",TheCuriousBread,20,/r/investing/comments/matlli/ishares_global_timber_forestry_etf_wood_dd/gru66nl/,0.086,0.914,0.0,-0.6806
