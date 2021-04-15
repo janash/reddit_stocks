@@ -1,0 +1,16 @@
+name: analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - numpy
+  - nltk
+  - pandas
+  - pip:
+      - praw
+      - get-all-tickers
+      - yfinance
+      - jinja2
+  - python=3.8
