@@ -63,6 +63,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        rm setup-miniconda-patched-env.yaml
         git checkout data
         mv *top50.csv website_data/
         mv *.csv daily_data/
