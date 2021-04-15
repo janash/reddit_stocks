@@ -66,7 +66,8 @@ jobs:
         git checkout data
         mv *top50.csv website_data/
         mv *.csv daily_data/
-        git add .
+        git add website_data/
+        git add daily_data/
         git commit -m "Update data for $(date)" -a || true
         # The above command will fail if no changes were present, so we ignore
         # the return code.
