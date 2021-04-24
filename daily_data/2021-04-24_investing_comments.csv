@@ -1,0 +1,218 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,ETN," Keeping bond in an environment where real interest rates (nominal minus inflation) is just a bad idea. Furthermore  urrent interest rates levels are at the lowest levels in history which is another argument against it. 
+Regarding commodities: I prefer to hold some of the sector stocks etf (which buy actual stocks of companies focused on base materials sector) rather than ETN (funds which are rolling commodities future contracts).",ZR4aBRM,7,/r/investing/comments/mxaojd/the_100_year_portfolio_a_look_at_using_the_dragon/gvoyeb7/,0.111,0.777,0.111,0.0
+1,PM," I will be messaging you in 6 months on [**2021-10-24 11:24:00 UTC**](http://www.wolframalpha.com/input/?i=2021-10-24%2011:24:00%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/investing/comments/mxaojd/the_100_year_portfolio_a_look_at_using_the_dragon/gvoc5t1/?context=3)
+
+[**4 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Finvesting%2Fcomments%2Fmxaojd%2Fthe_100_year_portfolio_a_look_at_using_the_dragon%2Fgvoc5t1%2F%5D%0A%0ARemindMe%21%202021-10-24%2011%3A24%3A00%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20mxaojd)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",RemindMeBot,2,/r/investing/comments/mxaojd/the_100_year_portfolio_a_look_at_using_the_dragon/gvocau2/,0.105,0.895,0.0,-0.6322
+2,MLP," lmao bruh if that's the case then how come ~1/3 of the SMiD cap E&P and G&P/MLP tickers go bankrupt within 4 quarters when crude/gas drops from $60/boe to $40/boe. 
+
+There are so many push/pull factors involved + the effect of random walks (see: Midcon spot gas prices shooting up 100x this past February and the subsequent shitstorm your seeing with insolvent utilities companies now) that thinking you're going to get rich quick timing the commodities futures market, you are going to wind up eating shit. Hard.
+
+Especially if your only exposure to markets/investing is browsing /r/investing or /r/stocks or other circle jerky finance subs. And within the past 12 months.",trill_collins__,1,/r/investing/comments/mxaojd/the_100_year_portfolio_a_look_at_using_the_dragon/gvr2xrf/,0.072,0.866,0.062,-0.0258
+3,EM," It's just math (I won't bore you with the formulas), so you can expect it to work as long as the following assumptions are true: 
+
+* The assets return more than cash/risk-free rate.
+
+* The assets are uncorrelated.
+
+Some other examples: 
+
+* [with gold](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=3&absoluteDeviation=5.0&relativeDeviation=25.0&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=VFINX&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=VFINX&allocation1_1=60&allocation1_2=75&symbol2=gld&allocation2_1=40&allocation2_2=50&symbol3=CASHX&allocation3_2=-25)
+
+* [with EM bonds](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=3&absoluteDeviation=5.0&relativeDeviation=25.0&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=VFINX&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=VFINX&allocation1_1=60&allocation1_2=75&symbol2=PAEMX&allocation2_1=40&allocation2_2=50&symbol3=CASHX&allocation3_2=-25)
+
+Yes, the eternal debate wrt diversification is always a) what assets/baskets should be represented, and b) what is the ideal allocation/rebalancing strategy. For example, there's the notion that treasuries won't behave as they have in the past 20 years, which the OP has pointed out. So there's always room for error.",sleepless_sheeple,1,/r/investing/comments/mxaojd/the_100_year_portfolio_a_look_at_using_the_dragon/gvqtnoq/,0.025,0.821,0.154,0.891
+4,TDA," TDA is my broker and I use micro e-minis^((SPY is an ETF)^).  
+I am not recommending someone actually take on 1900% exposure to stocks, just that you can use them for capital efficiency in order to fit more of the other assets/strategies that OP uses while raising your overall risk to a similar level as stocks or whatever target you have. Margin call risk is a practical consideration that can be avoided with very frequent rebalancing but that's annoying. Figuring out a good, practical rebalancing strategy is an important discussion, but you don't need to have that discussion in order to talk about leveraging a low vol portfolio in order to achieve higher returns than a (relatively) undiversified 100% stocks portfolio. (And I just want to add a disclaimer that I don't really endorse the dragon portfolio or its allocations to CTA and managed long vol for retail investors. I think it's a fun theoretical portfolio with useful but difficult to implement ideas.)",kiwimancy,1,/r/investing/comments/mxaojd/the_100_year_portfolio_a_look_at_using_the_dragon/gvr3p5t/,0.098,0.79,0.111,0.5076
+5,NFLX," That kind of a return is seen Tech centric portfolios over the last decade, esp if you had some Apple, NFLX and/or TSLA.",sambame,133,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvqucug/,0.0,1.0,0.0,0.0
+6,TSLA," That kind of a return is seen Tech centric portfolios over the last decade, esp if you had some Apple, NFLX and/or TSLA.",sambame,133,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvqucug/,0.0,1.0,0.0,0.0
+7,AAPL," 22% is great and certainly possible.
+
+That said, I take self reported returns with a grain of salt, because I don't think people are good at reporting total portfolio returns.  And it's not even that easy to figure returns when you take into account additions and subtractions from an account.
+
+See: [https://en.wikipedia.org/wiki/Beardstown\_Ladies](https://en.wikipedia.org/wiki/Beardstown_Ladies)
+
+>The club got media attention after it authored a book, published in 1995, titled *The Beardstown Ladies' Common-Sense Investment Guide: How We Beat the Stock Market - And How You Can Too*, which claimed that the club produced annual returns of 23.4% since inception.  
+>  
+>After an audit by [PricewaterhouseCoopers](https://en.wikipedia.org/wiki/PricewaterhouseCoopers), the club noted that it had made a computer formula error in calculating its returns and its actual annual returns were 9.1%, which were below those of the [S&P 500 Index](https://en.wikipedia.org/wiki/S%26P_500_Index) during the same time period.
+
+She says her ""stock account"" returned that much...  So, if she picked AAPL and a couple of other tech companies with some of her ""play"" money, but also had separate set index/bond funds and cash sitting by as well as index funds in her 401k -- that's not the same as actually getting 22% total annual returns, and least when compared to just putting it all in the S&P500.
+
+Heck, my TSLA pick returned 1000% in the past couple of years.
+
+The trick is being able to scale and getting 22% returns on your entire portfolio.",sqcirc,3,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvqy035/,0.021,0.941,0.038,0.612
+8,TSLA," 22% is great and certainly possible.
+
+That said, I take self reported returns with a grain of salt, because I don't think people are good at reporting total portfolio returns.  And it's not even that easy to figure returns when you take into account additions and subtractions from an account.
+
+See: [https://en.wikipedia.org/wiki/Beardstown\_Ladies](https://en.wikipedia.org/wiki/Beardstown_Ladies)
+
+>The club got media attention after it authored a book, published in 1995, titled *The Beardstown Ladies' Common-Sense Investment Guide: How We Beat the Stock Market - And How You Can Too*, which claimed that the club produced annual returns of 23.4% since inception.  
+>  
+>After an audit by [PricewaterhouseCoopers](https://en.wikipedia.org/wiki/PricewaterhouseCoopers), the club noted that it had made a computer formula error in calculating its returns and its actual annual returns were 9.1%, which were below those of the [S&P 500 Index](https://en.wikipedia.org/wiki/S%26P_500_Index) during the same time period.
+
+She says her ""stock account"" returned that much...  So, if she picked AAPL and a couple of other tech companies with some of her ""play"" money, but also had separate set index/bond funds and cash sitting by as well as index funds in her 401k -- that's not the same as actually getting 22% total annual returns, and least when compared to just putting it all in the S&P500.
+
+Heck, my TSLA pick returned 1000% in the past couple of years.
+
+The trick is being able to scale and getting 22% returns on your entire portfolio.",sqcirc,3,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvqy035/,0.021,0.941,0.038,0.612
+9,AAPL, She holds SHOP and AAPL. The past 8.5 years were huge for those two companies. It is more than likely luck than skill. AAPL becoming the world most valuable company was not even in anyone radar a decade ago. After Steve Jobs died everyone thought Apple was going to return to their 1990s nightmare days. SHOP becoming the e-commerce giant was a reflection of the shifting changes to the retail economy. Right place and right time.,realmastodon2,1,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvqzdgc/,0.044,0.848,0.108,0.6549
+10,SHOP, She holds SHOP and AAPL. The past 8.5 years were huge for those two companies. It is more than likely luck than skill. AAPL becoming the world most valuable company was not even in anyone radar a decade ago. After Steve Jobs died everyone thought Apple was going to return to their 1990s nightmare days. SHOP becoming the e-commerce giant was a reflection of the shifting changes to the retail economy. Right place and right time.,realmastodon2,1,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvqzdgc/,0.044,0.848,0.108,0.6549
+11,TSLA," It's great and impressive!  Where the problem lies is people have trouble timing the market over the long-run and how risky her holdings are to have during a bear market.
+
+She's only really invested in a bull market.
+
+When we have these long bull markets it is pretty easy to beat the market, at least on some level... if not this much or more. You just put your money into riskier stocks that has more innovation, momentum, and more room for future growth.
+
+The catch is if you can keep all of your gains when there is a bear market in the future. The same stocks that go up more now, will go down more in a future bear market. The reason for this is these types of innovating growth stocks are being valued and priced on their momentum to grow future revenue. Their P/E ratios are often considerably higher, but there is a real innovation/market disruption coming from that company. The problem is many people see that and buy it and the price grows beyond what their current revenue would make it worth. They are pricing assumptions of future growth in revenue. In a recession that future revenue growth is at high risk and it the stock price will fall faster and further.
+
+You have 3 basic strategies, without getting into options or anything complicated you can play:
+
+1) Stay the course. Keep taking bigger gains hoping that will over power the losses in downturns (ie. If you bought TSLA, you're hoping they're going to sell 25% of the cars on the road before there is a bear market and investors will get huge gains as the growth company gains a stronger foothold in the market that turns to a permanent change)
+
+2) Choose when to get out before a bear market and invest in safer things that are more defensive or value oriented before a bear market. The problem is the moment she does this her huge gains year-to-year will go down and her annualized gains will drop. She has to have the will to get out of the riskier high growth stocks before a downturn, while they still are making some gains.
+
+3) You can diversify your portfolio to own combinations of both. This is what most people do, especially ETF index investors...whether they know it or not. You won't get the annualized growth that large, but you're investing in many things that are safer for the bear market and things that are making large gains for the bull market. This means you're annualized growth rate during the bull market will be lower then what your friend has done, but it might stay higher through both the bull and bear markets.
+
+&#x200B;
+
+I tend to be diversified, but I buy more growth stocks and innovation stocks when I feel like the bull market is young, stable, and has room to run.
+
+I then buy more value stocks when the bull market has been around for awhile, the market has high P/E ratios (like right now), and the bull market each year has more risk of ending.
+
+In doing this I miss out on a few years of bull market gains, but I'm safely switched over to safer stocks with stable, lower P/E ratios before a bear market or a bubble bursts. 
+
+&#x200B;
+
+There are two sides to investing, you want to maximize gains and you want to manage the risks. This is why people balance portfolios and this is where people run into trouble timing the market. It is the timing of the shift to the bear markets and asset bubbles that bursts and you need to be prepared.",cwdawg15,1,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvr16sq/,0.072,0.731,0.197,0.998
+12,AMZN," 22% returns for that period of time is excellent, certainly higher than the vast majority of hedge fund managers and individuals during that time. There is still a large amount of luck when picking individual companies over that period of time though. I have 20%+ annual returns over the past 5 years and will be the first to say there was a large amount of luck, having sizeable amounts of AMZN and TSLA. 
+
+Warren Buffet has averaged ~18% returns over the past 60 years. Given the number of investors out there, plenty of people will hit this at the 5, 10, maybe 15 year marks. What ends up distinguishing millionaires from billionaires are those select few who can do it consistently through their lifetime and time and again with different stocks.
+
+So your friends returns are certainly impressive. But it’s hard to distinguish luck from skill even over 8 years, especially if much of the return can be attributed to just a few companies.",Languid_lizard,1,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvr1yx7/,0.009,0.877,0.114,0.9279
+13,TSLA," 22% returns for that period of time is excellent, certainly higher than the vast majority of hedge fund managers and individuals during that time. There is still a large amount of luck when picking individual companies over that period of time though. I have 20%+ annual returns over the past 5 years and will be the first to say there was a large amount of luck, having sizeable amounts of AMZN and TSLA. 
+
+Warren Buffet has averaged ~18% returns over the past 60 years. Given the number of investors out there, plenty of people will hit this at the 5, 10, maybe 15 year marks. What ends up distinguishing millionaires from billionaires are those select few who can do it consistently through their lifetime and time and again with different stocks.
+
+So your friends returns are certainly impressive. But it’s hard to distinguish luck from skill even over 8 years, especially if much of the return can be attributed to just a few companies.",Languid_lizard,1,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvr1yx7/,0.009,0.877,0.114,0.9279
+14,AAPL," I bought AAPL in 1995 and sold it this year for 115,000% gain, or about 33% per year. Yes these returns are realistic.
+
+But is it realistic that a typical investor can expect these returns? Absolutely not. Nobody knew what was coming for Apple. Personally I thought it was going to die. They lost a billion dollars that year.
+
+Another company that I bought stock of in 1995 manufactured CD-ROMs. I thought they were here to stay.
+
+She took a risk and it paid off. Shopify could also have gone to zero. But it didn't.",npre,1,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvr25ly/,0.112,0.847,0.041,-0.836
+15,AAPL, I agree. But still took guts to hold during some massive tech dips. I know AAPL dropped 40-50% several times in the last 8 years,Shoddy_Ad7511,31,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvqw106/,0.0,0.923,0.077,0.1901
+16,AAPL," > I know AAPL dropped 40-50% several times in the last 8 years
+
+If you go back *9* years, the worst case was ~36%",HulksInvinciblePants,62,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvqwsjj/,0.17,0.83,0.0,-0.6249
+17,AAPL," I'm a boglehead so I'd totally recommend that as well.  If she wants to stick with high quality stocks like AAPL, there's nothing wrong with that, but if she would start shifting her riskier holdings over to an index portfolio she'll find herself very very happy when she retires. Since she seems to have a solid investment style maybe suggesting she keeps ~10% of her portfolio for fun money   might make it more palatable if she's got fomo or thinks she can still find deals (though I admit I sure as hell don't think I can find them, so pure indexing for me).",Anganfinity,3,/r/investing/comments/mxrodc/is_this_good_22_returns_for_85_years/gvqxxc9/,0.077,0.694,0.229,0.9418
+18,ZIM," It's my birthday today. What stocks/etf should I buy myself for $500? (On Monday of course). I have fun watching and buying all kinds. I have some recent IPO's, some I researched specific markets, and some meme stocks. 
+
+Favorite that I found a few months back is $ZIM. Shipping company. I felt like logistics is where the trends are going. Discovered ZIM and am up almost 100%.
+
+Did the same with a nasal vaccine company and it it isn't doing so well. Still fun to watch. 
+
+Any fun sectors or specifics I should check out?",Nerdso77,2,/r/investing/comments/mxg637/daily_advice_thread_all_basic_help_or_advice/gvny8gh/,0.0,0.812,0.188,0.9552
+19,DEO," Question about foreign owned companies with multiple tickers -
+
+I’m very new to what can be classified as speculative investing, I historically have stuck to ETFs. 
+
+Can anyone give a pro/con or some insights into the underlying strategy in choosing between these examples:
+
+LVMHF vs. LVMUY
+
+DGEAF vs. DEO",whoreadsthisshitanyw,1,/r/investing/comments/mxg637/daily_advice_thread_all_basic_help_or_advice/gvqg0ck/,0.042,0.928,0.03,-0.1531
+20,UK," Hey guys! Super typical question. I just sold my house in the USA and moved back to the UK. Made way more money than I’d thought and I have 100,000 and I don’t know what to do with it. I have a small house and it’s fully paid off and don’t want to upgrade. I’m 35 and have some individual stocks but just fancying piling into some etfs??
+
+I’m thinking :
+ICLN 20%
+some ARK funds? 20%
+QQQs 20%
+individual stock picks? 40%",DaveyGD,1,/r/investing/comments/mxg637/daily_advice_thread_all_basic_help_or_advice/gvqwi6d/,0.0,0.939,0.061,0.593
+21,USA," Hey guys! Super typical question. I just sold my house in the USA and moved back to the UK. Made way more money than I’d thought and I have 100,000 and I don’t know what to do with it. I have a small house and it’s fully paid off and don’t want to upgrade. I’m 35 and have some individual stocks but just fancying piling into some etfs??
+
+I’m thinking :
+ICLN 20%
+some ARK funds? 20%
+QQQs 20%
+individual stock picks? 40%",DaveyGD,1,/r/investing/comments/mxg637/daily_advice_thread_all_basic_help_or_advice/gvqwi6d/,0.0,0.939,0.061,0.593
+22,ABNB," How does the rest of your portfolio look?  If you’ve got $500,000 in a 3-fund portfolio, go nuts. I’ve had fun watching ABNB lately. 
+
+If you’re starting out, put that $500 in a Vanguard fund and give your future self a gift.",PM__me_compliments,0,/r/investing/comments/mxg637/daily_advice_thread_all_basic_help_or_advice/gvog4c1/,0.052,0.809,0.139,0.5994
+23,EBS," Great question. I'd say ask yourself the question ""Would i advise a new investor to invest in this stock too?"". If the answer is yes, then keep holding.
+
+
+As an example, i lost money so far on ICLN but honnestly i think its still a good pick. On the other end, i am still in EBS i'm seriously unsure i'd advise people to get in this train wreck. Could be a sign i should cut my losses hehe.",Floofyboy,0,/r/investing/comments/mxg637/daily_advice_thread_all_basic_help_or_advice/gvorc1c/,0.19,0.713,0.096,-0.7906
+24,TDF," Yes, it's possible, generally it's recommended to stick with broad market index funds like the TDF you're currently in for retirement savings and use spare fun money for higher risk stock picking, but that's ultimately up to you and your risk tolerance
+
+Personally I'm not familiar with Vanguard site, found [this page](https://investor.vanguard.com/contact-us/faqs/sell-vanguard-fund) that may help with the clicking, if you still can't find it then contact their customer service",antoniosrevenge,2,/r/investing/comments/mxg637/daily_advice_thread_all_basic_help_or_advice/gvqclt4/,0.053,0.775,0.172,0.8074
+25,API," There’s no way you’re using an API if you aren’t a programmer. Stick with the guy’s recommendation to make a dashboard in Google Sheets with those two functions and just hand record any other information you want like M2, which you can see on FRED.",Empirical_Spirit,2,/r/investing/comments/mxr1ta/tracking_your_portfolio_and_economic_indicators/gvr1d2g/,0.046,0.809,0.145,0.5859
+26,DEO," Question about foreign owned companies with multiple tickers -
+
+I’m very new to what can be classified as speculative investing, I historically have stuck to ETFs.
+
+Can anyone give a pro/con or some insights into the underlying strategy in choosing between these examples:
+
+LVMHF vs. LVMUY
+
+DGEAF vs. DEO",whoreadsthisshitanyw,1,/r/investing/comments/mxg6pm/daily_general_discussion_and_spitballin_thread/gvqgu2z/,0.042,0.928,0.03,-0.1531
+27,TDA," I don't really see a problem with anything there; is the lack of residency an actual issue already, or is this a preemptive attempt to avoid any issues?
+
+A lot of brokerages support international clients (Interactive Brokers has among the most, at like 200 on their list as I recall, TDA around 100.), regardless of citizenship.
+
+If it's a mailing address being required for the purposes of communication, there are mail forwarding services (typically kind of expensive; for a few months, I just had a friend sort my stuff and only ship stuff I had to personally deal with).",Cuedon,3,/r/investing/comments/mxg6pm/daily_general_discussion_and_spitballin_thread/gvp0sjj/,0.046,0.841,0.113,0.7679
+28,IMO," I think MMEDF will X 10+ by EOY. Absolutely a phenomenal long play if you can get in under $5 IMO. 
+
+Not a financial advisor, can barely even read",TheDude0007,1,/r/investing/comments/mxg6pm/daily_general_discussion_and_spitballin_thread/gvqmz23/,0.0,0.9,0.1,0.3947
+29,PM," Your submission was automatically removed because it contains an email address. Please only use email addresses via the private message function. You can send a PM by navigating to the userpage of a user. 
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",AutoModerator,1,/r/investing/comments/mxg6pm/daily_general_discussion_and_spitballin_thread/gvpg8xe/,0.0,0.92,0.08,0.5574
+30,DEO," DGEAF = ADR on American exchange
+
+DEO = real share on London Stock Exchange
+
+As for LVMH they both are ADRS but:
+
+&#x200B;
+
+>The typical ticker for a foreign stock trading on the OTCBB will be a �ve letter code ending in either a Y or an F.The Y shares are ADR’s with a depositary institution (i.e. a large bank like Citi) holding the local shares. The Fshares are listings made by market makers where the market maker purchases the actual shares on theprimary exchange for the company and are often very low volume, low liquidity listings.",Ironleg01,1,/r/investing/comments/mxg6pm/daily_general_discussion_and_spitballin_thread/gvr3ii7/,0.062,0.807,0.132,0.7245
+31,PM," Your submission was automatically removed because it contains an email address. Please only use email addresses via the private message function. You can send a PM by navigating to the userpage of a user. 
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",AutoModerator,1,/r/investing/comments/mxg6pm/daily_general_discussion_and_spitballin_thread/gvpgaad/,0.0,0.92,0.08,0.5574
+32,GE," Public perception matters a lot, especially with companies that rely on general public consumers.
+
+You're not wrong being skeptical though. I mean, look at what happened to GE.",srv340mike,2,/r/investing/comments/mxg6pm/daily_general_discussion_and_spitballin_thread/gvpomo7/,0.0,0.804,0.196,0.5597
+33,NXRT," NXRT, or BSR REIT in Canada (there's a foreign ordinary share class in the US but be careful as some brokerages charge steep fees for trading in foreign ordinary shares.)",dvdmovie1,1,/r/investing/comments/mx7aye/ideas_for_investing_in_growth_in_the_sunbelt/gvnxd3w/,0.0,0.885,0.115,0.3612
+34,PNW," I live in a fast growing part of Dallas and the real estate market is just stupid at the moment so I’m good there.
+
+I’ve been keeping an eye on PNW but haven’t pulled the trigger yet.",NativeTxn7,1,/r/investing/comments/mx7aye/ideas_for_investing_in_growth_in_the_sunbelt/gvpnv4b/,0.058,0.85,0.091,0.0616
+35,AI, lol yea i'm sure /investing is all about letting an AI tell them when to trade a crypto,Look_into_my_o_O,1,/r/investing/comments/mxsvq2/cryptodivineai_is_a_crypto_predictive_trend/gvr0ccz/,0.0,0.746,0.254,0.6249
+36,UK," Is it just me or is no one in my age group (25-30) using snapchat anymore? Like instagram completely killed Snapchat, at least in the UK & Ireland region.",MinhNguyenPFL,19,/r/investing/comments/mxdrej/snap_q1_earnings_report_is_pretty_good/gvnro4j/,0.203,0.725,0.072,-0.6697
+37,FB," Personally, I love these numbers. The younger generation of marketers is using SnapChat more or less than they are FB + IG.
+
+It's a great and growing niche audience of consumers as well.
+
+I'm long on $SNAP and in at $18 from April 2020.",notwiththatattidude,1,/r/investing/comments/mxdrej/snap_q1_earnings_report_is_pretty_good/gvqmf87/,0.0,0.754,0.246,0.9022
+38,AMZN," Someone should calculate the total earnings per share over the last 22 or 23 years for Amazon, and then figure out the annualized earnings return on investment.
+
+No wait: I have some data for you.  Been tracking AMZN for a long time.
+
+My AMZN quarterly data goes back to 2Q 2004.   Since then:
+
+Total GAAP EPS:  $106.50 / Shr
+
+Total Revenue: $1,710,322,000,000
+
+Net Margin:   0.00000062%
+
+In the last week of Q2 2004, the high price for AMZN stock was $54.70.  So, if we were calculating return on investment based on EPS, the annual return on the $54.70 invested in Q2 2004 would be 4.06%.  However, just based on the stock price, which reflects a prediction of uncertain future returns, the annual return on AMZN is  27.8%",hendrix_srv,1,/r/investing/comments/mxdrej/snap_q1_earnings_report_is_pretty_good/gvq42tn/,0.035,0.934,0.031,-0.128
