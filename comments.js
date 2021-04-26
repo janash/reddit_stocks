@@ -50,7 +50,7 @@ $(document).ready( function (){
         
 
         for (let i=0; i<subreddits.length; i++) {
-            let file_name = `https://raw.githubusercontent.com/janash/reddit_stocks/data/daily_data/2021-04-25_${subreddits[i]}_comments.csv`
+            let file_name = `https://raw.githubusercontent.com/janash/reddit_stocks/data/daily_data/2021-04-26_${subreddits[i]}_comments.csv`
             
             let subComments = load_file(file_name)
             let processedComments = tickerArray(subComments, subreddits[i], ticker)
@@ -58,7 +58,7 @@ $(document).ready( function (){
         }
     }
     else {
-        let file_name = `https://raw.githubusercontent.com/janash/reddit_stocks/data/daily_data/2021-04-25_${subreddit}_comments.csv`
+        let file_name = `https://raw.githubusercontent.com/janash/reddit_stocks/data/daily_data/2021-04-26_${subreddit}_comments.csv`
         let subComments = load_file(file_name)
         let processedComments = tickerArray(subComments, subreddit, ticker)
         comments = processedComments
