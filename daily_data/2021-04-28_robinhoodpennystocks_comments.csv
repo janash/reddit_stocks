@@ -1,0 +1,64 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,GME," Fishy, you already got caught once.
+
+https://www.reddit.com/r/GME/comments/mkmg4m/web_app_to_help_you_track_gme_sentiment_across/gtgorqj/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3",Business-Spite9069,16,/r/RobinHoodPennyStocks/comments/n0g25u/i_built_a_redditpowered_bloomberg_terminal_to/gw7kcep/,0.0,1.0,0.0,0.0
+1,DD,"  Hey everyone! I built a site that tracks all types of trends across reddit (mentions, comment volume, bullish sentiment, etc.). I know there’s a couple other sites out there with similar functionalities so I won’t go into this aspect too much (list of features at bottom).
+
+Another big inconvenience I wanted to address was finding good bull/bear cases. A lot of subreddits and posts end up being echo chambers where only one viewpoint bubbles to the top so it’s hard to get unbiased opinions. Also, some of the best DD can be found nested in the comments, and those can be hard to weed out. That’s why I added the ability to filter for analysis (in posts and comments) by financial sentiment (bull/bear) to help you find opinions from both sides of the spectrum. The term “analysis” encompasses things like DD, company/fundamental analysis, news, etc. This tool can be found on the “Ticker View” Page under the “Analysis Screener” tab.
+
+Here’s a brief list of features:
+
+* Chart with mentions/sentiment/price data over time for a particular ticker
+* Reddit post feed filterable by ticker, subreddit, and flair
+* Analysis Bias screener allowing you to sort analysis (DD, company analysis, news, etc.)
+* News/financial data feed for a selected ticker
+* Graph showing the most popular (mentions/sentiment/score) tickers over different time frames
+* Sortable table for trends on the “Overall Trends” page, where you can see the top 50 tickers sorted by mentions, mentions change, sentiment, sentiment change, etc.
+* Price Action Filtering page, allowing you to discover tickers based on price changes, combined with trend data (for example, if you wanted to see which tickers dropped 50% in price over a week that are above a certain popularity threshold)
+
+Note that financial sentiment may not be as accurate for non-analysis posts, as it’s harder to pinpoint a positive/negative viewpoint for less research-based posts. Also, posts that have bullish and bearish sentiment may be classified incorrectly. Obviously, the model doesn’t perform perfectly.
+
+TLDR - Made a site that tracks ticker trends/sentiment throughout reddit and helps you filter bullish/bearish analysis for unbiased viewpoints.
+
+Link to site - [https://stockular.app/](https://stockular.app/)",likevinli,22,/r/RobinHoodPennyStocks/comments/n0g25u/i_built_a_redditpowered_bloomberg_terminal_to/gw6c0vj/,0.026,0.879,0.094,0.9779
+2,GME," It's been deleted. GME sub was obv not happy about showing different perspectives, since they pump one stock.",likevinli,-1,/r/RobinHoodPennyStocks/comments/n0g25u/i_built_a_redditpowered_bloomberg_terminal_to/gw7zrsr/,0.15,0.85,0.0,-0.4585
+3,MVIS, I sold MVIS for a lost of maybe 6K last year when it was under a dollar.,ChrisJNelson,16,/r/RobinHoodPennyStocks/comments/n00cch/fuxk_yeah/gw3vtim/,0.15,0.85,0.0,-0.3182
+4,AGTC," >""We are excited to present these preclinical results for OTO-825 that build on our previous presentations demonstrating gene expression in support cells of the cochlear, which are the target cells for GJB2 gene therapy, using novel AAV vectors identified through our collaboration with AGTC,” said Alan C. Foster, Ph.D., chief scientific officer of Otonomy. “Based on these **encouraging results that demonstrate hearing recovery and improved cochlear morphology following OTO-825 administration**, the companies have initiated IND-enabling activities and look forward to providing additional details of the program in the next several months.”
+
+>The oral presentation entitled “AAV-mediated GJB2 gene therapy rescues hearing loss and cochlear damage in a mouse model of congenital hearing loss caused by conditional **Connexin26** knockout” by Mathur et al., will be presented on May 13 at 6:30 p.m. EDT.
+
+Had to look up Connexin26, this seems like great news.  Definition below:
+
+Connexin 26 (Cx26) is a protein found on the (GJB2) gene and is the most common cause of congenital sensorineural hearing loss. Connexin 26 mutations are responsible for at least 20% of all genetic hearing loss and 10% of all childhood hearing loss. Sensorineural Definition: (of hearing loss) caused by a lesion or disease of the inner ear or the auditory nerve.
+
+Hoping this pops to minimum $5.75 to $6.  The news is not even close to priced in but probably will be by the end of next week.  And just as small-caps are coming back as well.   I yolo'd 14k into it.",Re_LE_Vant_UN,6,/r/RobinHoodPennyStocks/comments/n0ex00/agtc_to_present_preclinical_proofofconcept/gw6exhc/,0.04,0.878,0.081,0.8225
+5,AGTC, Keen to see how this affects the price over the next month. Had t close AGTC for the time being cause I really needed to divert that capital to other places but I have faith in the prospects by the end of the year and will probably look for a smooth opportunity to reenter once the wash sale window passes over.,OKJMaster44,2,/r/RobinHoodPennyStocks/comments/n0ex00/agtc_to_present_preclinical_proofofconcept/gw6ymgg/,0.0,0.816,0.184,0.899
+6,AGTC, Too bad I just sold all my stake. AGTC was a big oof for a short term play,Gilbert_Goldfish,0,/r/RobinHoodPennyStocks/comments/n0ex00/agtc_to_present_preclinical_proofofconcept/gw6rgro/,0.185,0.688,0.127,-0.2732
+7,ZOM," I’ve heard that it’s “ready to take off” for over a year...  I’ve made money with ZOM, but have lost faith...   I wish you the best of luck if you hold.",wdhalbur,27,/r/RobinHoodPennyStocks/comments/n0292j/penny_stock_of_the_day_iszom/gw45k4w/,0.071,0.605,0.323,0.9081
+8,ZOM," ZOM is not a meme stock, but I'm bullish for it's long term prospects. The May disclosure is going to be underwhelming as it won't reflect much of the sales of it's product released in March, but going forward there will be an in-house sales force, as well as multiple awesome products in the pipeline. Add to that the very accomplished leadership, and this company has a very good outlook over the long term.",Pwnxor,6,/r/RobinHoodPennyStocks/comments/n0292j/penny_stock_of_the_day_iszom/gw498d8/,0.0,0.773,0.227,0.9669
+9,AGTC, I still believe in the bones of AGTC. Analyst reports still value the company even after losing CFO,the_gurper,12,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw4wbfd/,0.13,0.75,0.12,-0.0516
+10,MNMD," New to my 👀 list , NAOV & MNMD",CombinationDry8329,2,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw50ce7/,0.0,1.0,0.0,0.0
+11,NAOV," New to my 👀 list , NAOV & MNMD",CombinationDry8329,2,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw50ce7/,0.0,1.0,0.0,0.0
+12,JOB," I’m trying out JOB. It’s super cheap (like 60 some cents), so it’s far into penny stock territory.",icomma,2,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw63wmt/,0.0,0.813,0.187,0.5994
+13,OBSV," On one hand I've finally broken even on my TRCH as it continues to make big moves towards TRCH's turn at tackling the merger. On the other hand, I was forced to let go of OBSV for the time being cause I've really had to spend more time putting together a firmer investing strategy over the past month and needed to free up capital during the small cap beatdown to start realigning myself which blows cause OBSV already seems to be making moves:
+
+http://www.globenewswire.com/en/news-release/2021/04/27/2217294/0/en/ObsEva-Initiates-PRIMROSE-3-Bone-Mineral-Density-Follow-Up-Study-in-PRIMROSE-1-and-PRIMROSE-2-Trial-Participants.html
+
+They are giving updates and are still well behind Primose. Even though I sold them off for now I am still confident long term. I feel *way* better about my overall investing strategy now and have rebalanced well enough that I feel I can go long on them again without straining myself. They still should be poised to make their biggest moves later into the year (like Q2?) so hopefully I can make it through the wash sale period and find a good chance to re-enter next month.",OKJMaster44,1,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw79on5/,0.032,0.784,0.184,0.9768
+14,TRCH," On one hand I've finally broken even on my TRCH as it continues to make big moves towards TRCH's turn at tackling the merger. On the other hand, I was forced to let go of OBSV for the time being cause I've really had to spend more time putting together a firmer investing strategy over the past month and needed to free up capital during the small cap beatdown to start realigning myself which blows cause OBSV already seems to be making moves:
+
+http://www.globenewswire.com/en/news-release/2021/04/27/2217294/0/en/ObsEva-Initiates-PRIMROSE-3-Bone-Mineral-Density-Follow-Up-Study-in-PRIMROSE-1-and-PRIMROSE-2-Trial-Participants.html
+
+They are giving updates and are still well behind Primose. Even though I sold them off for now I am still confident long term. I feel *way* better about my overall investing strategy now and have rebalanced well enough that I feel I can go long on them again without straining myself. They still should be poised to make their biggest moves later into the year (like Q2?) so hopefully I can make it through the wash sale period and find a good chance to re-enter next month.",OKJMaster44,1,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw79on5/,0.032,0.784,0.184,0.9768
+15,TRCH, TRCH is the ticker to invest on long term. Merging company has great upside potentials plus merger dividends.,momoscellany,1,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw7arw0/,0.0,0.806,0.194,0.6249
+16,RH," I'm pulling out of Robinhood for platforms with more options and stability (and a need to remove the gamification of trading/investing that Robinhood does so well).
+
+If I wanted to leave a small amount of funds in RH that I'll proceed to never check and let run for long game plays, what are some appealing stocks that stick out to you for this?",Tiverty,1,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw7byiq/,0.02,0.948,0.033,0.2023
+17,CASI," Gurper -- Check out CASI, one analyst gave it 200% upside -- [https://finance.yahoo.com/news/2-penny-stocks-could-rally-143937122.html](https://finance.yahoo.com/news/2-penny-stocks-could-rally-143937122.html)",StockyJ122,1,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw703dv/,0.0,1.0,0.0,0.0
+18,ATOS, Aha I just came here to mention ATOS. Finally back to even. Wish I would have bought the dip but I already have too much money invested than what I should :P,zzman1894,3,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw6yuwj/,0.0,0.811,0.189,0.7227
+19,ATOS, I'm waiting for ATOS to go up too,essak508,1,/r/RobinHoodPennyStocks/comments/n0261o/daily_discussion_thread/gw75zbx/,0.0,1.0,0.0,0.0
+20,TXMD," I got, I wasn’t sure if you had a specific stock that you invested in that brought you down a lot.  For example, I bought 10 shares of TXMD but instead of soaring I’ve been down 42 cents. ☹️",DijonDeLaPorte,2,/r/RobinHoodPennyStocks/comments/n0ilkw/my_robinhoodpennystocks_positions_of_the_still/gw6w4ck/,0.0,0.908,0.092,0.3071
+21,ASRT, F. Member when this sub was being bombarded by ASRT GOLDEN CROSS INCOMING posts?,McKimboSlice,3,/r/RobinHoodPennyStocks/comments/n0e7il/does_anyone_else_still_have_belief_in_this_stock/gw6cqp2/,0.0,1.0,0.0,0.0
+22,CTXR," I'm a very silly boy so I just sold up and poured it all into CTXR. My average went up a couple of cents there (initially bought that at a bad price too).
+
+Now I will probably wait to bag hold that and make all my money go away.",PiratePeteIsCool,1,/r/RobinHoodPennyStocks/comments/n0e7il/does_anyone_else_still_have_belief_in_this_stock/gw6kubx/,0.075,0.896,0.03,-0.4779
