@@ -1,0 +1,140 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,UK," So not on robinhood (in the UK with Trading 212) but I was surprised in a good way - I set my limit sell at whatever price I was happy taking on one trade a while back. 15% or so, not expected to got it quickly. Very soon after I get a notification that it's filled at my limit price. The chart never went near that price. Someone somewhere got a bad deal on their market order and I owe them a drink. Always two sides to a trade.",gruffffalo,6,/r/RobinHoodPennyStocks/comments/n1wn7n/i_know_its_been_stated_before_but/gwgdqpx/,0.053,0.82,0.126,0.7579
+1,NAKD," The reason it does this is because the price you see in RH is the average between the bid and the ask. You can see the current ask price by clicking on ""Market Price"", or by looking at the level 2 data. [Here's an example](https://imgur.com/a/AgXd0m6) with NAKD. You see the chart shows $0.71 but the actual Ask price is $0.7115, which would be the price you'd pay on a market order.",ichantz,2,/r/RobinHoodPennyStocks/comments/n1wn7n/i_know_its_been_stated_before_but/gwgrfaa/,0.023,0.977,0.0,-0.1531
+2,RH," The reason it does this is because the price you see in RH is the average between the bid and the ask. You can see the current ask price by clicking on ""Market Price"", or by looking at the level 2 data. [Here's an example](https://imgur.com/a/AgXd0m6) with NAKD. You see the chart shows $0.71 but the actual Ask price is $0.7115, which would be the price you'd pay on a market order.",ichantz,2,/r/RobinHoodPennyStocks/comments/n1wn7n/i_know_its_been_stated_before_but/gwgrfaa/,0.023,0.977,0.0,-0.1531
+3,TD," They allow limit orders now? Yeah, that’s why I dipped on rh for TD when they went commission free. They alwaaaaaaays fucked me on the market orders.",WolfofLawlStreet,1,/r/RobinHoodPennyStocks/comments/n1wn7n/i_know_its_been_stated_before_but/gwgjsci/,0.13,0.651,0.219,0.25
+4,RH," Yes and no on that ""always negative right away"" part.
+
+I don't use RH so maybe I am missing something, but I use a real broker lol.
+
+When you see a stock trading for 20 dollars, and you put a market order in, you are paying the lowest ""ask"" price. This is the price for you to get into this position.
+
+When you get into that position and suddenly you see red, this is because you are now seeing the ""bid"" price. The stock doesn't have to move at all for you to appear to be red on the position. This is the money you will get to close the position immediately because that is what the best bid price is.
+
+Almost every single position you enter will appear red the moment you buy it, for at least a bit.",MaybeICanOneDay,1,/r/RobinHoodPennyStocks/comments/n1wn7n/i_know_its_been_stated_before_but/gwgteih/,0.062,0.86,0.078,0.6449
+5,RH, I’ve also noticed (no unrefutable proof per say) that it seems like RH skimps pennies off every order if I didn’t set limits.,Chipperdie,1,/r/RobinHoodPennyStocks/comments/n1wn7n/i_know_its_been_stated_before_but/gwgy0r7/,0.0,0.894,0.106,0.3612
+6,RH, I've only been on RH for a year and they've always had limit orders in that time.,manginahunter1970,1,/r/RobinHoodPennyStocks/comments/n1wn7n/i_know_its_been_stated_before_but/gwglwp5/,0.0,1.0,0.0,0.0
+7,RH, i left RH cuz this is some sketchy shit,Complex_Beautiful_19,3,/r/RobinHoodPennyStocks/comments/n1wn7n/i_know_its_been_stated_before_but/gwgkcmh/,0.34,0.66,0.0,-0.5574
+8,TKAT, F in the chat for TKAT though 🤓,Re_LE_Vant_UN,4,/r/RobinHoodPennyStocks/comments/n21wg8/trying_to_keep_the_uptrend_going/gwgvy63/,0.0,1.0,0.0,0.0
+9,ASRT," As a former ASRT bagholder, let me tell right now that compliance plays ain’t it chief. 
+
+Unless you want to hold this stock through a potential reverse split lol.",OKJMaster44,22,/r/RobinHoodPennyStocks/comments/n1ksqu/nakd_is_back_in_play/gweebtk/,0.0,0.797,0.203,0.6249
+10,NAKD," Held onto NAKD for a month from an average of 90 cents, then averaged down into the 70 cent range and got out when I broke even. 
+
+Really wanted to tell people holding NAKD made me rich but I'll wait for another play",tryasayemight,2,/r/RobinHoodPennyStocks/comments/n1ksqu/nakd_is_back_in_play/gwf5o0i/,0.042,0.839,0.119,0.5423
+11,ASRT," I jumped on ASRT way too late. Everytime I would average down a little, it would fall farther. I had 650 shares, taking a 22% loss. I sold them yesterday to put the money elsewhere. 
+
+So all of you ASRT bag holders fear not, it'll likely go up 100% today! That seems to always happen to me.  Looking at you BTX and MVIS. Skyrocketed after I got out of them.",JBMac007,9,/r/RobinHoodPennyStocks/comments/n1ksqu/nakd_is_back_in_play/gwevo56/,0.085,0.882,0.032,-0.5562
+12,BTX," I jumped on ASRT way too late. Everytime I would average down a little, it would fall farther. I had 650 shares, taking a 22% loss. I sold them yesterday to put the money elsewhere. 
+
+So all of you ASRT bag holders fear not, it'll likely go up 100% today! That seems to always happen to me.  Looking at you BTX and MVIS. Skyrocketed after I got out of them.",JBMac007,9,/r/RobinHoodPennyStocks/comments/n1ksqu/nakd_is_back_in_play/gwevo56/,0.085,0.882,0.032,-0.5562
+13,MVIS," I jumped on ASRT way too late. Everytime I would average down a little, it would fall farther. I had 650 shares, taking a 22% loss. I sold them yesterday to put the money elsewhere. 
+
+So all of you ASRT bag holders fear not, it'll likely go up 100% today! That seems to always happen to me.  Looking at you BTX and MVIS. Skyrocketed after I got out of them.",JBMac007,9,/r/RobinHoodPennyStocks/comments/n1ksqu/nakd_is_back_in_play/gwevo56/,0.085,0.882,0.032,-0.5562
+14,CTXR," What do you think of CTXR long term?   
+I'm currently at 106@ $1.61 I see a lot of post exiting at $8 - $14 range.",Geephotos,2,/r/RobinHoodPennyStocks/comments/n1wf3n/catalyst_may_and_upside_280/gwg26cv/,0.0,1.0,0.0,0.0
+15,CTXR," Do da DD. Trust your gut and don't just listen to some guy on reddit.
+
+ I think CTXR will make alot of millionaires. I will be one of them. Holding 43.777
+
+ Long term, end of year, and P3 would be $8-12
+
+I have done the DD, and I'am all in",Donsemand,2,/r/RobinHoodPennyStocks/comments/n1wf3n/catalyst_may_and_upside_280/gwgkjwv/,0.0,0.933,0.067,0.5106
+16,DD," Do da DD. Trust your gut and don't just listen to some guy on reddit.
+
+ I think CTXR will make alot of millionaires. I will be one of them. Holding 43.777
+
+ Long term, end of year, and P3 would be $8-12
+
+I have done the DD, and I'am all in",Donsemand,2,/r/RobinHoodPennyStocks/comments/n1wf3n/catalyst_may_and_upside_280/gwgkjwv/,0.0,0.933,0.067,0.5106
+17,DD, Thanks! Yeah I believe in the stock as well and done my fair and share of DD,Geephotos,1,/r/RobinHoodPennyStocks/comments/n1wf3n/catalyst_may_and_upside_280/gwgvbnh/,0.0,0.478,0.522,0.8748
+18,ADVM," I would put 1/4 or half of what you’re willing to lose on ADVM. A trial run that made a patient blind when it suppose to help them ain’t something to take lightly. They want their phase 2 of trials to overshadow this so we can see the “big” picture. Also their price targets are dropping too, from $21-$30 to $6-$11. I just read the Wall Street journal article that’s on RH",solviii5,19,/r/RobinHoodPennyStocks/comments/n1tzda/advm_in_a_major_64_dip/gwfbekm/,0.075,0.87,0.055,-0.34
+19,RH," I would put 1/4 or half of what you’re willing to lose on ADVM. A trial run that made a patient blind when it suppose to help them ain’t something to take lightly. They want their phase 2 of trials to overshadow this so we can see the “big” picture. Also their price targets are dropping too, from $21-$30 to $6-$11. I just read the Wall Street journal article that’s on RH",solviii5,19,/r/RobinHoodPennyStocks/comments/n1tzda/advm_in_a_major_64_dip/gwfbekm/,0.075,0.87,0.055,-0.34
+20,ADVM," I dunno. One of the larger shareholders seems to be aggressively pushing for their people on the board. I like that the company is trying to be transparent about their results, but I think it will get worse before it gets better.
+
+I'm not one for analyst ratings or targets, but it should be noted that 3 analysts changed their rating on ADVM yesterday. Maybe there's some money to be made by being contrarian and weathering the storm, but it's definitely risky.",Itsboomhomie,3,/r/RobinHoodPennyStocks/comments/n1tzda/advm_in_a_major_64_dip/gwfat7a/,0.09,0.808,0.103,0.2846
+21,GL," Nice, GL investing 👍",solviii5,2,/r/RobinHoodPennyStocks/comments/n1tzda/advm_in_a_major_64_dip/gwfd11y/,0.0,0.146,0.854,0.7034
+22,ADVM, Yeah ADVM was not just a secondary objective not being met or something they literally made someone go blind. Expect it to further decline if anything.,EatingMusic6,2,/r/RobinHoodPennyStocks/comments/n20dtd/ive_seen_a_lot_of_posts_discussing_advms_recent/gwgir3c/,0.097,0.824,0.079,-0.128
+23,CTXR, Finally in the green with CTXR 🙌🏻,nicknyr23,15,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwdnsup/,0.0,1.0,0.0,0.0
+24,CE," Anyone looking for a good short, mid, or long term biotech play, check out NDRA.  Currently holding 10.4K @ $2.40 average. (Originally bought at $1.90, had a couple of stop losses kick in and re-bought right away).   Small overview follows, but there’s a bit of DD already on Reddit.
+
+*Thermo Acoustic Enhanced Ultra Sound = TAEUS, a disruptive  technology, visualizes tissue like MRI, but at 1/50th the cost & at the point of patient care. 
+*TAEUS is Euro CE Mark approved, likely FDA 510k clearance is imminent, 50X cheaper than MRI 
+*Small $92M market cap, 41M shares outstanding, No Toxic Financing, No Reverse Splits, LOW Daily Volume
+*80+ patents already issued
+*Experienced GE alum management team 
+*GE Healthcare, NDRA partner, has 30%+ of ultrasound market   
+*1Billion++ patients with fatty liver disease, NAFLD & NASH.  TAEUS is the first diagnostic product to market addressing liver disease up to 2 Full Stages ahead of FibroScan & Velacur 
+*Future TAEUS applications include visualize tissue temperature, perfusion & vascular flow 
+*Pharmas & CROs need TAEUS technology for their NAFLD/NASH drug studies 
+*Multiple potential revenue streams: software, services, supplies & licensing deals with OEMs, TAEUS pricing $50k per unit 
+*Burn rate low with NDRA's ""light asset model"" 
+s3.amazonaws.com/cdn.irdire...",Aeddon1234,5,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwelvgr/,0.084,0.796,0.12,0.8765
+25,DD," Anyone looking for a good short, mid, or long term biotech play, check out NDRA.  Currently holding 10.4K @ $2.40 average. (Originally bought at $1.90, had a couple of stop losses kick in and re-bought right away).   Small overview follows, but there’s a bit of DD already on Reddit.
+
+*Thermo Acoustic Enhanced Ultra Sound = TAEUS, a disruptive  technology, visualizes tissue like MRI, but at 1/50th the cost & at the point of patient care. 
+*TAEUS is Euro CE Mark approved, likely FDA 510k clearance is imminent, 50X cheaper than MRI 
+*Small $92M market cap, 41M shares outstanding, No Toxic Financing, No Reverse Splits, LOW Daily Volume
+*80+ patents already issued
+*Experienced GE alum management team 
+*GE Healthcare, NDRA partner, has 30%+ of ultrasound market   
+*1Billion++ patients with fatty liver disease, NAFLD & NASH.  TAEUS is the first diagnostic product to market addressing liver disease up to 2 Full Stages ahead of FibroScan & Velacur 
+*Future TAEUS applications include visualize tissue temperature, perfusion & vascular flow 
+*Pharmas & CROs need TAEUS technology for their NAFLD/NASH drug studies 
+*Multiple potential revenue streams: software, services, supplies & licensing deals with OEMs, TAEUS pricing $50k per unit 
+*Burn rate low with NDRA's ""light asset model"" 
+s3.amazonaws.com/cdn.irdire...",Aeddon1234,5,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwelvgr/,0.084,0.796,0.12,0.8765
+26,GE," Anyone looking for a good short, mid, or long term biotech play, check out NDRA.  Currently holding 10.4K @ $2.40 average. (Originally bought at $1.90, had a couple of stop losses kick in and re-bought right away).   Small overview follows, but there’s a bit of DD already on Reddit.
+
+*Thermo Acoustic Enhanced Ultra Sound = TAEUS, a disruptive  technology, visualizes tissue like MRI, but at 1/50th the cost & at the point of patient care. 
+*TAEUS is Euro CE Mark approved, likely FDA 510k clearance is imminent, 50X cheaper than MRI 
+*Small $92M market cap, 41M shares outstanding, No Toxic Financing, No Reverse Splits, LOW Daily Volume
+*80+ patents already issued
+*Experienced GE alum management team 
+*GE Healthcare, NDRA partner, has 30%+ of ultrasound market   
+*1Billion++ patients with fatty liver disease, NAFLD & NASH.  TAEUS is the first diagnostic product to market addressing liver disease up to 2 Full Stages ahead of FibroScan & Velacur 
+*Future TAEUS applications include visualize tissue temperature, perfusion & vascular flow 
+*Pharmas & CROs need TAEUS technology for their NAFLD/NASH drug studies 
+*Multiple potential revenue streams: software, services, supplies & licensing deals with OEMs, TAEUS pricing $50k per unit 
+*Burn rate low with NDRA's ""light asset model"" 
+s3.amazonaws.com/cdn.irdire...",Aeddon1234,5,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwelvgr/,0.084,0.796,0.12,0.8765
+27,LOW," Anyone looking for a good short, mid, or long term biotech play, check out NDRA.  Currently holding 10.4K @ $2.40 average. (Originally bought at $1.90, had a couple of stop losses kick in and re-bought right away).   Small overview follows, but there’s a bit of DD already on Reddit.
+
+*Thermo Acoustic Enhanced Ultra Sound = TAEUS, a disruptive  technology, visualizes tissue like MRI, but at 1/50th the cost & at the point of patient care. 
+*TAEUS is Euro CE Mark approved, likely FDA 510k clearance is imminent, 50X cheaper than MRI 
+*Small $92M market cap, 41M shares outstanding, No Toxic Financing, No Reverse Splits, LOW Daily Volume
+*80+ patents already issued
+*Experienced GE alum management team 
+*GE Healthcare, NDRA partner, has 30%+ of ultrasound market   
+*1Billion++ patients with fatty liver disease, NAFLD & NASH.  TAEUS is the first diagnostic product to market addressing liver disease up to 2 Full Stages ahead of FibroScan & Velacur 
+*Future TAEUS applications include visualize tissue temperature, perfusion & vascular flow 
+*Pharmas & CROs need TAEUS technology for their NAFLD/NASH drug studies 
+*Multiple potential revenue streams: software, services, supplies & licensing deals with OEMs, TAEUS pricing $50k per unit 
+*Burn rate low with NDRA's ""light asset model"" 
+s3.amazonaws.com/cdn.irdire...",Aeddon1234,5,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwelvgr/,0.084,0.796,0.12,0.8765
+28,NDRA," Anyone looking for a good short, mid, or long term biotech play, check out NDRA.  Currently holding 10.4K @ $2.40 average. (Originally bought at $1.90, had a couple of stop losses kick in and re-bought right away).   Small overview follows, but there’s a bit of DD already on Reddit.
+
+*Thermo Acoustic Enhanced Ultra Sound = TAEUS, a disruptive  technology, visualizes tissue like MRI, but at 1/50th the cost & at the point of patient care. 
+*TAEUS is Euro CE Mark approved, likely FDA 510k clearance is imminent, 50X cheaper than MRI 
+*Small $92M market cap, 41M shares outstanding, No Toxic Financing, No Reverse Splits, LOW Daily Volume
+*80+ patents already issued
+*Experienced GE alum management team 
+*GE Healthcare, NDRA partner, has 30%+ of ultrasound market   
+*1Billion++ patients with fatty liver disease, NAFLD & NASH.  TAEUS is the first diagnostic product to market addressing liver disease up to 2 Full Stages ahead of FibroScan & Velacur 
+*Future TAEUS applications include visualize tissue temperature, perfusion & vascular flow 
+*Pharmas & CROs need TAEUS technology for their NAFLD/NASH drug studies 
+*Multiple potential revenue streams: software, services, supplies & licensing deals with OEMs, TAEUS pricing $50k per unit 
+*Burn rate low with NDRA's ""light asset model"" 
+s3.amazonaws.com/cdn.irdire...",Aeddon1234,5,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwelvgr/,0.084,0.796,0.12,0.8765
+29,MOTS, MOTS product gets fda approved here we go,OurOnlyWayForward,2,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwf9z2l/,0.0,0.714,0.286,0.4215
+30,CTRM, CTRM went from 17 to 23 ships this week alone!,montey_burns,1,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwfi25v/,0.203,0.797,0.0,-0.3164
+31,AGTC, Next week AGTC got me both excited and nervous.  This is for all the farms in cuba.,Re_LE_Vant_UN,1,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwgwdb2/,0.108,0.769,0.123,0.0772
+32,PLIN, PLIN will be going back to $1 soon. Very predictable stock. Have been making easy money with short term plays for awhile with this stock.,briggsbay,-2,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwf3w3f/,0.0,0.824,0.176,0.5994
+33,MOTS, Been bag holding MOTS for-freaking-ever. Now to find the right exit point.,RectalJihad,1,/r/RobinHoodPennyStocks/comments/n1hstj/daily_discussion_thread/gwfgdjp/,0.0,1.0,0.0,0.0
+34,ADMA," I thought the same for ADMA the other day when they got FDA news, got a decent pop but pretty much back down now after people have sold off.",blindsided789,2,/r/RobinHoodPennyStocks/comments/n1ud4w/motus_gi_holdings_mots_stock_soars_46_on_fda/gwfmnqi/,0.0,0.858,0.142,0.6486
+35,OCGN," generally with penny stocks you sell the news, except OCGN lmao rip my 8k shares @ .44 that i sold early as hell",Bear_buh_dare,1,/r/RobinHoodPennyStocks/comments/n1ud4w/motus_gi_holdings_mots_stock_soars_46_on_fda/gwg6il9/,0.16,0.627,0.213,0.128
+36,ATOS," Finally back in the green at 2.17! Also, OP is right. This is the best since ATOS",JasonVersetti,3,/r/RobinHoodPennyStocks/comments/n21gpr/its_time_to_get_back_into_ctxr/gwgm7zc/,0.0,0.781,0.219,0.6696
+37,ATOS," Lol I learned quick as well. I miss the simple times. That’s why I’m so happy about CTXR, got that ATOS feeling again! Who knows what’s after that, so I’ll enjoy it when I see 100% again!",JasonVersetti,2,/r/RobinHoodPennyStocks/comments/n21gpr/its_time_to_get_back_into_ctxr/gwgzsqe/,0.036,0.625,0.339,0.9274
+38,CTXR," Lol I learned quick as well. I miss the simple times. That’s why I’m so happy about CTXR, got that ATOS feeling again! Who knows what’s after that, so I’ll enjoy it when I see 100% again!",JasonVersetti,2,/r/RobinHoodPennyStocks/comments/n21gpr/its_time_to_get_back_into_ctxr/gwgzsqe/,0.036,0.625,0.339,0.9274
+39,WPG," I sell to a bunch of WPG properties (Mainly Malls). Dawg these malls look like 3rd world countries right now. Take that for what it’s worth, just one person’s experience....but man.",Ginky_Hackle,3,/r/RobinHoodPennyStocks/comments/n1yiww/washington_prime_group_dd/gwg484r/,0.0,0.86,0.14,0.5267
+40,DD, DD means due diligence (researching the stock)  What else have you seen?,Re_LE_Vant_UN,1,/r/RobinHoodPennyStocks/comments/n1w8xk/just_curious_on_whats_what/gwgw97k/,0.0,1.0,0.0,0.0
