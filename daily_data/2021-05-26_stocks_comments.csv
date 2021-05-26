@@ -1,0 +1,1325 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,CPA," As a CPA, great write up!",PerplexedCPA,24,/r/stocks/comments/nlhcci/accounting_101_part_1_the_income_statement/gziv1xi/,0.0,0.477,0.523,0.6588
+1,CPA," As a CPA, I would simply like to add a few things:
+
+1) Economic depreciation are called impairment, I never saw a FS that used the term economic depreciation from my clients. Also, I have never heard the term in my accounting classes. That said, I did not audit all the entities publicly traded so that does not mean the term is never used. I just thought I might as well share the most common term. Furthermore, an entity will register an impairment when the accounting value is higher than the fair value (either the value on the market or the estimated value as per the cash flow. That said, most of the time the two values should be about the same). 
+
+2) PP&E, other tangible assets and intangible assets will go directly in your BS. They won't appear in your P&L, unless you are talking about depreciation. (When you mention the capital expenses)
+
+3) for extraordinary items, I would simply add that the entity has to present them distinctly in the P&L.
+
+Great post though! As a CPA, that seems like basic information that everyone should know. I sometimes forget that not everyone knows this. If anyone has questions on the financial statements, feel free to post them on r/accounting. We don't bite, we just hate our jobs!",frostcanadian,43,/r/stocks/comments/nlhcci/accounting_101_part_1_the_income_statement/gziufle/,0.024,0.824,0.152,0.9768
+2,ASC, Extraordinary items no longer exist as of 2015.  It was written out of the ASC to reduce some complexities + they didn’t even allow losses related to 9/11 to be taken as extraordinary items so they were pretty useless anyway.,hot_exhaust,4,/r/stocks/comments/nlhcci/accounting_101_part_1_the_income_statement/gzivvg2/,0.164,0.722,0.114,-0.3262
+3,IP," I think you're maybe conflating two separate things. The idea behind depreciation is to adhere to the matching principle in accounting which is based on matching expenses to use of those expenses. So for anything long term (more than one year), depreciation is a way to quantify the use of that asset over it's lifetime instead of expensing it all at once since the economic benefit derived from it is more than a short term timeline. 
+
+Impairment is to prevent economic assets which the depreciation (or if it's an asset which has no fixed economic life) from being overstated, for instance large amounts of damage reduces the life of a piece of machinery, or an IP someone owned becomes toxic and is no longer worth what it was. 
+
+It seems you're estimating utilization efficiency based output, which isn't an accounting measure, but more of an economic one. If I add more machines, does it become more difficult over time to keep productivity at the same levels as one machine for instance. Accounting is just really a measurement system, you can use what the financial statements say to create a model over time that gives you what you're looking at, but no financial statement metric measures that.",AlphaOhmega,1,/r/stocks/comments/nlhcci/accounting_101_part_1_the_income_statement/gzjuyyk/,0.056,0.879,0.065,-0.2592
+4,DD, Solid DD check list! 👊,Clarkydewd,69,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzfw5q4/,0.0,0.613,0.387,0.2244
+5,DD," Where can you find out which mutual fund, etf or hedge funds owns the stock ? Great DD btw",MrHCurious,9,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzgz9rg/,0.0,0.806,0.194,0.6249
+6,DD, Thank you! This is the best breakdown post of how to DD and much needed😆.,thedragonof,8,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzh61lv/,0.0,0.65,0.35,0.7901
+7,DD," This is actually quite thorough information!  
+
+
+Very well done and something that a lot of new people could learn from. Also a very good list to have, incase one might forget elements during his og hers DD.  
+
+
+Well done sir. I tip my fancy hat for thee",Paven82Boss,6,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzi3r6q/,0.038,0.802,0.16,0.7251
+8,DD," Probably the best post I seen on this sub, and it was direct and to the point to boot.  
+I keep hearing people say do your DD and never define what that means.  
+10/10 would read again. Probably also save it somewhere for reference.",WatchandThings,3,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzjiyw0/,0.0,0.844,0.156,0.8126
+9,RSI," The stocks chart, RSI, MACD etc... you shouldn’t buy a company that is extremely overbought or at the top of a run up in most cases",DonDraper1994,8,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzfxnre/,0.0,0.927,0.073,0.2023
+10,DD," DD steps:
+
+1. Buy GME/AMC/PennyStonks/Shitcoin
+2. Write ""diamond hands"" all over Reddit.
+3. Lose everything, move under a bridge.",NDC03,8,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzhwpt9/,0.128,0.758,0.114,-0.0772
+11,GME," DD steps:
+
+1. Buy GME/AMC/PennyStonks/Shitcoin
+2. Write ""diamond hands"" all over Reddit.
+3. Lose everything, move under a bridge.",NDC03,8,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzhwpt9/,0.128,0.758,0.114,-0.0772
+12,DD, If trading isn't your full time job I imagine you can't possibly be doing proper DD. Just keep this in mind.,No_Smile821,-1,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzfx14p/,0.0,1.0,0.0,0.0
+13,DD," And remember kids, DD always requires KY👌",trampdonkey,1,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzhw3nz/,0.0,1.0,0.0,0.0
+14,DD," If serious gains want to be made, it all comes down to DD.",_prime_x,0,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzgzdln/,0.087,0.667,0.247,0.34
+15,DD, Stock twits = DD,Brocco64,1,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzi2gkv/,0.0,1.0,0.0,0.0
+16,DD," The correct way to do DD is to go on reddit and find someone else's DD that's long, has charts/graphs and most importantly has awards. Then you skip the text and go to the comments looking for ""100 shares in"" ""Added 300 more shares""",Sam_jangg,1,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzisjd2/,0.0,0.796,0.204,0.8503
+17,AMC," Thanks for posting this. Im curious in how this has worked out for you, what your portfolio consists of, and whether or not this method still is valid in the YOLO economy of GME and AMC.",bchen270,1,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzjwzes/,0.0,0.804,0.196,0.7925
+18,GME," Thanks for posting this. Im curious in how this has worked out for you, what your portfolio consists of, and whether or not this method still is valid in the YOLO economy of GME and AMC.",bchen270,1,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzjwzes/,0.0,0.804,0.196,0.7925
+19,RSI, Plus look at the RSI since mean reversion usually applies to stocks.,Unlucky_Cook,0,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzg89up/,0.0,1.0,0.0,0.0
+20,DD," I've built a symbol ""analyzer"" not super detailed DD but I always think about what's most important rather than being clouded by too many factors. You can use [the tool here](https://app.sparticus.xyz) \+ the trade signals that's updated daily",wingchun777,0,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzi2gca/,0.086,0.846,0.068,0.0686
+21,DD, This. While i do find the dd approach here comprehensive i am missing that risk view/opinion in there. A good DD always has a risk section.,Even-Function,30,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzhp8ii/,0.226,0.601,0.173,-0.128
+22,NKLA, If you buy stuff like NKLA dollar cost averaging and holding won't magically make it a good investment.,csiz,34,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzgiubv/,0.0,0.735,0.265,0.6597
+23,GME," Crypto got milked for over a trillion in the last month alone, I wouldn't mess  with it for a while unless you're buying dips.  Same with any penny stock, far as I'm concerned they're all pump and dump traps until citadel and friends get liquidated.
+
+As for GME, the squeeze hasn't happened yet, if you had bought in on Monday you would be up right now so I'm not sure where your hate is coming from.",hardcoreac,3,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzi284i/,0.127,0.81,0.063,-0.6503
+24,DD, Everyone knows it's not a full DD until you smash that like button,Jed1M1ndTr1ck,27,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzgesh6/,0.0,0.815,0.185,0.3612
+25,GME," Lots of doom and gloom these days. Between the market crashing rumors, hyperinflation, and the repo market shenanigans, it's too much. I'm not retiring any time soon so I'm just gonna ride it out and see what happens. Maybe my 20 GME shares will save me.",aBushelofApples,21,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzi2nix/,0.117,0.782,0.101,-0.2263
+26,ALL, I wonder how many ppl know about the fact that they paid off ALL their debts and raised over 550 million in capital to grow and expand into E-sports and online/digital sales like Steam and Amazon.,hardcoreac,1,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzi2pr5/,0.0,0.831,0.169,0.6705
+27,DD, Well that is the step 1 of the proposed DD,impatient_trader,3,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzhzolk/,0.0,0.792,0.208,0.2732
+28,DD," A lot of people can outperform the market in the long run too, if they do their DD and stay active. There is always this idea that if hedge funds (who do this stuff for a living) can't beat the market then certainly us normal folks can't. The lunacy to this argument is that hedge funds are moving around hundreds of millions if not billions of dollars. Most people are moving around 7 figures at most. Hedge funds can't enter and exit positions as easily as someone with a million or less can and they're more or less confined to trading mid/large cap stocks.",ChestyMenace,-2,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzgztyv/,0.027,0.902,0.071,0.561
+29,GME, Why do people still think this has yet to happen. The short interest was 139%. It's 20% now. GME is done. It's math.,dractepes,-8,/r/stocks/comments/nl0qad/due_diligence_how_do_i_perform_it/gzib6rz/,0.0,0.88,0.12,0.4588
+30,USA, Tend to move their headquarters to the USA,aussix,46,/r/stocks/comments/nlhpv3/dutch_court_rules_oil_giant_shell_must_cut_carbon/gzjjalc/,0.0,1.0,0.0,0.0
+31,XOM," First Engine gets a couple people on XOM, now Shell has to accelerate their carbon transition, guess I'm moving to Chevron, who also have lower debt levels and greater diversification.",CorneredSponge,2,/r/stocks/comments/nlhpv3/dutch_court_rules_oil_giant_shell_must_cut_carbon/gzjo9p2/,0.142,0.783,0.075,-0.296
+32,ARE, How the fuck does an oil company cut carbon emissions? They ARE carbon emissions,mmarlaire1997,1,/r/stocks/comments/nlhpv3/dutch_court_rules_oil_giant_shell_must_cut_carbon/gzk9bye/,0.318,0.682,0.0,-0.6808
+33,SA," I mean, the kind of supply-side scrutiny that would disadvantage producers like SA is decades overdue, so if anything this court decision and similar pressures will help that happen more quickly.
+
+There's a market for ESG performance and it covers more than just environmental impact.
+
+This isn't necessarily a criticism aimed at you, but I'm really sick and tired of people bringing an argument that amounts to ""Those people over there are going to break the rules, so we just shouldn't have rules.""",ragnaroksunset,7,/r/stocks/comments/nlhpv3/dutch_court_rules_oil_giant_shell_must_cut_carbon/gzj83qo/,0.171,0.772,0.057,-0.9124
+34,DARE, How DARE you!,ToneSolaris,1,/r/stocks/comments/nlhpv3/dutch_court_rules_oil_giant_shell_must_cut_carbon/gzk926c/,0.0,1.0,0.0,0.0
+35,ICE," Maybe that’s the point. Remember back when oil was $12x-$15x way back when the prices were atrocious but that’s all you had. Pretty sure once you factor inflation and sky high oil prices more people will move to EV. They’re not banning your production capacity, nor forcing ICE out of existence but taking enough pieces of the pie and making the option so hellish and eventually unjustifiable it is a soft-ban in everything but name.",KruseControl01,0,/r/stocks/comments/nlhpv3/dutch_court_rules_oil_giant_shell_must_cut_carbon/gzjno5t/,0.088,0.828,0.084,-0.3181
+36,SA," Yes, so they have a coat that SA doesnt have",StaticUncertainty,1,/r/stocks/comments/nlhpv3/dutch_court_rules_oil_giant_shell_must_cut_carbon/gzjbu3o/,0.0,0.748,0.252,0.4019
+37,BP," Going after supply will lower usage if it leads to an increase in price. There is still plenty of supply in the middle east, north america, and russia so i dont really see how this will significantly raise prices. No oil company outside of Europe is making reduction goals similar to those of BP or Shell. 
+
+This is comparable to raising corporate or wealth taxes when tax havens still exist. You need everybody on board.
+
+I don't understand how this does anything but shift production to other corporations/nations.",wadamday,5,/r/stocks/comments/nlhpv3/dutch_court_rules_oil_giant_shell_must_cut_carbon/gzjr5ao/,0.036,0.922,0.042,0.1406
+38,SA," >The list of energy analysts who now foresee a peak in oil demand keeps growing. It includes Norway’s state-owned oil company Equinor (peaking around 2027-28), Norwegian energy researcher Rystad Energy (2028), French oil major Total SA (2030), consulting firm McKinsey (2033), clean-energy research group BloombergNEF (2035), and energy-industry advisors Wood Mackenzie (2035). The exporting nations of OPEC put the peak in 2040 while acknowledging that its new forecast might still prove too optimistic for oil.
+
+>Notable exceptions include the International Energy Agency, which sees demand “plateauing” but not quite peaking, and the U.S. Energy Information Agency. Both of these agencies advise governments on policy.
+
+
+
+
+https://www.bloomberg.com/graphics/2020-peak-oil-era-is-suddenly-upon-us/
+
+
+It remains to be seen how much reductions in the developed world will offset increases in developing countries.",wadamday,0,/r/stocks/comments/nlhpv3/dutch_court_rules_oil_giant_shell_must_cut_carbon/gzjuqxd/,0.02,0.887,0.093,0.7469
+39,CC," But you're conflating sensationalized predictions with actual science. Al Gore isn't a climate scientist, doesn't matter if he claimed that Florida would be underwater by now, the science didn't
+
+You also use ""they"" as if they are the same people. Politicians aren't scientists and scientists aren't politicians. It doesn't matter if the science says we should be making serious changes when half of *they* in Congress don't even believe in CC, and the other half is too busy grandstanding to make a substantive impact
+
+Best to ignore the political fuckery coming from both sides and focus on the science
+
+We have hundreds of thousands of years of climate records via ice core data, not a couple hundred, and the evidence is substantial enough that there's an interdisciplinary consensus on climate change. That's our current best understanding of the subject, and should be the default position.  I understand being skeptical of everything, but blanket skepticism without counter-evidence is ironically uncritical 
+
+We may not be careening towards the apocalypse but we're clearly having a substantial impact on the climate and ecosystem around us
+
+Agree to disagree I suppose",elbowgreaser1,2,/r/stocks/comments/nlhpv3/dutch_court_rules_oil_giant_shell_must_cut_carbon/gzk2r5a/,0.077,0.812,0.111,0.9007
+40,MGM," I just realized I haven't seen a MGM movie in a long time.
+
+[https://en.wikipedia.org/wiki/List\_of\_Metro-Goldwyn-Mayer\_films](https://en.wikipedia.org/wiki/List_of_Metro-Goldwyn-Mayer_films)
+
+And the last one I really liked was the Cabin in the Woods in 2012.",DerekPaxton,13,/r/stocks/comments/nlh6fq/amazon_confirmed_mgm_takeover_for_845billion/gziy28e/,0.0,0.881,0.119,0.4754
+41,MGM," Holy shit, for a second I thought this is about MGM Resorts. Who cares about the James Bond brand lol.",neotoxgg,1,/r/stocks/comments/nlh6fq/amazon_confirmed_mgm_takeover_for_845billion/gzipvp3/,0.148,0.615,0.238,0.296
+42,WB, They have been struggling recently. If Amazon didn’t buy them the price would just drop a little and be picked up by someone else..whether that be Disney or WB etc.,Pokesaurus_Rex,4,/r/stocks/comments/nlh6fq/amazon_confirmed_mgm_takeover_for_845billion/gzjfwcl/,0.15,0.798,0.052,-0.4939
+43,GM," Thanks for sharing this, I too wasn't really aware of what movies wrre GM or not GM. Have to say that Creed was pretty awesome though.",Shakedaddy4x,3,/r/stocks/comments/nlh6fq/amazon_confirmed_mgm_takeover_for_845billion/gzjijst/,0.0,0.618,0.382,0.9186
+44,MGM," Nah, decent content is going to be cheaper to own than to license in. And they can license the content out as well. The MGM library is pretty big.",Mail_Order_Lutefisk,5,/r/stocks/comments/nlh6fq/amazon_confirmed_mgm_takeover_for_845billion/gzis7fc/,0.043,0.795,0.162,0.5994
+45,PLUG," Holding some on the London listed version for the long haul as well. From my understanding they were overweight on a few companies like PLUG that has dragged then down recently but have rebalanced since. There is also an overall risk that renewable energy companies in general are overpriced even currently however. 
+
+My view on it was that I don't understand renewables enough to buy individual companies. ICLN is more diversified geographically than most other renewable ETFs and so I feel more comfortable with a set and forget approach on it, my horizon on it is well over 5 years and likely more than 10 unless the management of it changes in such a way that I want to get out. 
+
+Others will likely have a more informed opinion.",KingMucker,70,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzhtalx/,0.059,0.827,0.114,0.8169
+46,ATH," I am in QCLN and in exactly the same boat. I bought at ATH \~90$ as I had just started in the market and didn't know how overweight the green stocks all were. TSLA, NIO and Plug are big holdings that drove it to where it was, but now are the ones weighing it down around 60$.
+
+It was always a long term hold, but I wish I had jumped in a month later as I think the entry point in either one right now is pretty good.",Your_Product_Here,28,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzhvs9n/,0.0,0.851,0.149,0.9225
+47,NIO," I am in QCLN and in exactly the same boat. I bought at ATH \~90$ as I had just started in the market and didn't know how overweight the green stocks all were. TSLA, NIO and Plug are big holdings that drove it to where it was, but now are the ones weighing it down around 60$.
+
+It was always a long term hold, but I wish I had jumped in a month later as I think the entry point in either one right now is pretty good.",Your_Product_Here,28,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzhvs9n/,0.0,0.851,0.149,0.9225
+48,TSLA," I am in QCLN and in exactly the same boat. I bought at ATH \~90$ as I had just started in the market and didn't know how overweight the green stocks all were. TSLA, NIO and Plug are big holdings that drove it to where it was, but now are the ones weighing it down around 60$.
+
+It was always a long term hold, but I wish I had jumped in a month later as I think the entry point in either one right now is pretty good.",Your_Product_Here,28,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzhvs9n/,0.0,0.851,0.149,0.9225
+49,IEA," I’m pretty deep into renewables and do climate science research. If we want to keep a semistable climate, we have to move away from fossil fuels to alternative energy sources as rapidly as possible. The IEA just released a report that says if we want to keep warming under 1.5C, we have to stop all new oil and gas development. We can already see the acute symptoms of our climate crisis and those are only going to get worse. If we move away from fossil fuels, where are we going to get our energy from? 
+
+Renewable focused funds are going to do well in the next 10-20 years because we have to shift into those sectors to solve this crisis.",crazydr13,31,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzi399y/,0.099,0.769,0.133,-0.1027
+50,ATH," PBW was often touted as a better fund than ICLN, as was QCLN in a number of subs. PBW peaked at $138 a few months back and has dropped 43% since. QCLN has seen a sizable drop since its ATH as well. I think a lot of people jumped in once Biden got elected thinking the green push would come swift and fast. PLUG also dragged this thing down - PLUG itself saw a 62% drop after its ATH. Now that PLUG's weight has dropped in the fund (from 9.5% down to 4%), it should be more stable and perform better.",VMP85,5,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzi7gd1/,0.064,0.805,0.131,0.7841
+51,PLUG," PBW was often touted as a better fund than ICLN, as was QCLN in a number of subs. PBW peaked at $138 a few months back and has dropped 43% since. QCLN has seen a sizable drop since its ATH as well. I think a lot of people jumped in once Biden got elected thinking the green push would come swift and fast. PLUG also dragged this thing down - PLUG itself saw a 62% drop after its ATH. Now that PLUG's weight has dropped in the fund (from 9.5% down to 4%), it should be more stable and perform better.",VMP85,5,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzi7gd1/,0.064,0.805,0.131,0.7841
+52,BEP, I got alot of it when it was as going up. Lost alot now that it dropped. Going to hold on and see. Renewable seems promising from BEP is more reliable.,ediblemonkeycakes,5,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzhvyn4/,0.07,0.848,0.082,0.1027
+53,IMO," Back in 2008 it was pumped up to $50 and dumped down to $8-$10 and stayed there for about 10 years.
+
+Same thing is likely to happen again IMO, but this time it went up like $35 or whatever the top was.",EngiNERD1988,2,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzig7k7/,0.04,0.842,0.118,0.5574
+54,GE," When you look at the stocks making up the ETF, i can't see why any of them would be successful.   When the green energy things start happening for real,  these aren't going to be the winning picks.   The real winners are going to be the same giants that the government always picks.   GE, Siemens,  Oshkosh,  the major utilities,  etc.  There small green companies aren't going to be able to win against the big players.   There was enough of an uproar over a small company getting the contract to rebuild Puerto Rico electric grid after the hurricane destroyed it, governments will only contract with the majors.  See what happened with the postal service contract.  That's the way it works.",bernie638,-2,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzhytch/,0.025,0.85,0.125,0.9186
+55,PLUG, I dropped it because they were like WAY overweight in Enphase and PLUG and we all know how those stocks did for a good while this year,DrBlackGuy99,1,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gziapc6/,0.084,0.736,0.181,0.4404
+56,PLUG," People are mentioning the rebalancing and PLUG. That wasn't just a rebalancing, it was a major change not in the etf itself but in the clean energy index it's tracking. The index wqs completely overhauled. ETF manager has to comply to some rules set by the index it's following. As it's a full replication etf, Black Rock had to buy stocks and during the ""rebalancing"" sell positions to comply with the new index rules and company weighting. Had to sell millions of Plug shares as well. That's why it's plummeted so hard, not only because of accounting mistakes.
+
+Now about the index and etf. It had 30 100% hreen energy companies, now it has 80+ not only pure clean energy but related companies, etc. PLUG which was a heaviest holding and a major drag down lost half of it's weight, etc.
+
+Go to Black Rock site, fond the fact sheet of the ICLN/INRG. All the data about the etf overhaul is the and explained in detail.
+
+The etf lost a lot, but I believe it's a good entry point. Although it lacks backwind as Biden is too quiet about all the climate stuff. We need it back on the table. Hopefully after infrastructure project is done.",renjkb,1,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzjosf5/,0.06,0.801,0.139,0.9581
+57,PLUG," Yes interesting! Do you know why PLUG went down so much? I've heard indeed that they were too heavy invested in it.
+
+I agree about the knowledge on individual stocks. It's not that 1 company wins it all, more like a whole industry or sector. Exactly the reason I went for this as well! Let's hope it'll play out in the good run 👌🏼",preciouscode96,7,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzhw3ms/,0.04,0.675,0.286,0.9484
+58,PLUG, If I also remember correctly PLUG had a horrible earnings report one quarter where they posted negative revenue for some reason.  Didn't follow the stock that much but after that earnings call the stock tanked and kept going.,Sir_Jimbo2222,2,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzi9z95/,0.119,0.881,0.0,-0.5574
+59,DD," That’s terrible DD.
+
+The last green wave in 2008 had the same message.  ICLN was $50. It then crashed completely and even with this crazy run the past 12 months barely recovered to half that value.  
+
+You can justify ICLN as necessary, but many others see a basket of companies that are in a highly competitive, high capital, low margin, low/no cash flows, low moat industry that is also currently undergoing disruption.  Yes, some of these companies have great ideas, but as we pivot away from fossil fuels, it’s very likely these current technologies get disrupted themselves.  Given the previous statement about the industry, it’s very possible many perform poorly or go bankrupt even with a few winners.
+
+If you want to invest in renewables, stay out of the fray and invest in electrical transmission companies or raw material miners,
+
+I fully expect ICLN to drop a further 50% from here once interest rates normalize",CarRamRob,0,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gziclbs/,0.112,0.76,0.128,0.6078
+60,BP," I doubt it personally.  Even if green energy persists, which it will eventually
+
+They need to beat out companies like BP which are massive and already have more EV charging stations then the little guys.
+
+These giant energy companies are simply not going to give up their positions as the worlds largest energy providers.
+
+Plus you want something that will gain steadily for the next 10 years.  not sit dormant for 10 years before it makes another move.
+
+Do a ""remind me"" for 3 years and I bet you can buy in much cheaper then today.",EngiNERD1988,1,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzjb2wz/,0.025,0.842,0.134,0.8402
+61,ENPH," If you say so, I just looked at the top holdings and saw ENPH and PLUG were there, I didn't go to the full list to see if the small holdings were any good but if their small... I guess one of them could grow big, but I still think the deck is stacked against them.",bernie638,2,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzi234u/,0.0,0.937,0.063,0.3291
+62,PLUG," If you say so, I just looked at the top holdings and saw ENPH and PLUG were there, I didn't go to the full list to see if the small holdings were any good but if their small... I guess one of them could grow big, but I still think the deck is stacked against them.",bernie638,2,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzi234u/,0.0,0.937,0.063,0.3291
+63,GE," Tons of ETFs hold the big stocks, just not in isolation to ones likely to play a big role in green power.
+
+ It's tough to win though, these companies are so big, these projects are a small part of their earnings. GE got the Vinyard Wind project in March but it's share price didn't move much at all.  Looking at OSK, there is a big perturbation where the post office contract was announced,  but looking backwards you can't see where it made a difference in the overall upward trend based on reopening.",bernie638,1,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzj8598/,0.013,0.895,0.092,0.7414
+64,OSK," Tons of ETFs hold the big stocks, just not in isolation to ones likely to play a big role in green power.
+
+ It's tough to win though, these companies are so big, these projects are a small part of their earnings. GE got the Vinyard Wind project in March but it's share price didn't move much at all.  Looking at OSK, there is a big perturbation where the post office contract was announced,  but looking backwards you can't see where it made a difference in the overall upward trend based on reopening.",bernie638,1,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzj8598/,0.013,0.895,0.092,0.7414
+65,PLUG," No, that wasn't the reason. It was because PLUG needed to restate their financial statements.",Inferdo12,2,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzig2lr/,0.136,0.864,0.0,-0.296
+66,NEE," Enph is the 3rd biggest holding. Above that is Vestas and Orsted. Below them are IBE, XEL, NEE, ENEL, then there's Plug, then SEDG and SSE. Of these 10 companies, 9 have a positive net income, and most have a normal P/E.",Traditional_Fee_8828,4,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzi4vls/,0.0,0.913,0.087,0.5574
+67,SEDG," Enph is the 3rd biggest holding. Above that is Vestas and Orsted. Below them are IBE, XEL, NEE, ENEL, then there's Plug, then SEDG and SSE. Of these 10 companies, 9 have a positive net income, and most have a normal P/E.",Traditional_Fee_8828,4,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzi4vls/,0.0,0.913,0.087,0.5574
+68,XEL," Enph is the 3rd biggest holding. Above that is Vestas and Orsted. Below them are IBE, XEL, NEE, ENEL, then there's Plug, then SEDG and SSE. Of these 10 companies, 9 have a positive net income, and most have a normal P/E.",Traditional_Fee_8828,4,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzi4vls/,0.0,0.913,0.087,0.5574
+69,BP," Its all in the same sector still. I don't expect these companies to do well at all. Many of them will completely go under IMO.
+
+They have to compete with the largest energy producers in the world such as BP and CVX which will of course not give up their seats as the largest energy producers in the world.
+
+BP already owns and operates the most EV charging stations in the world, and they are just getting started.
+
+in short PLUG ect. will not going to dethrone these giants.",EngiNERD1988,2,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gziofnt/,0.0,0.931,0.069,0.6486
+70,CVX," Its all in the same sector still. I don't expect these companies to do well at all. Many of them will completely go under IMO.
+
+They have to compete with the largest energy producers in the world such as BP and CVX which will of course not give up their seats as the largest energy producers in the world.
+
+BP already owns and operates the most EV charging stations in the world, and they are just getting started.
+
+in short PLUG ect. will not going to dethrone these giants.",EngiNERD1988,2,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gziofnt/,0.0,0.931,0.069,0.6486
+71,IMO," Its all in the same sector still. I don't expect these companies to do well at all. Many of them will completely go under IMO.
+
+They have to compete with the largest energy producers in the world such as BP and CVX which will of course not give up their seats as the largest energy producers in the world.
+
+BP already owns and operates the most EV charging stations in the world, and they are just getting started.
+
+in short PLUG ect. will not going to dethrone these giants.",EngiNERD1988,2,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gziofnt/,0.0,0.931,0.069,0.6486
+72,PLUG," Its all in the same sector still. I don't expect these companies to do well at all. Many of them will completely go under IMO.
+
+They have to compete with the largest energy producers in the world such as BP and CVX which will of course not give up their seats as the largest energy producers in the world.
+
+BP already owns and operates the most EV charging stations in the world, and they are just getting started.
+
+in short PLUG ect. will not going to dethrone these giants.",EngiNERD1988,2,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gziofnt/,0.0,0.931,0.069,0.6486
+73,IMO," Back in 2008 it was pumped up to $50 and dumped down to $8-$10 and stayed there for about 10 years.
+
+Same thing is likely to happen again IMO, but this time it went up like $35 or whatever the top was.",EngiNERD1988,0,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzid91s/,0.04,0.842,0.118,0.5574
+74,BP," Yes. Where do you think BP is getting a lot of its tech from?
+
+'BP in 2018 acquired Chargemaster, the largest EV charging company in the UK. ... In September 2020, BP and Uber announced a partnership under which BP will build out a rapid charging network in London to enable Uber's fleet in the city to go 100% electric by 2025.'
+
+A lot of these companies are creating designs and IP that will be absorbed and acquired by bigger companies. Some may go under yes, but that happens in all sectors.",The49thwarrior,1,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzip3uh/,0.0,0.941,0.059,0.5106
+75,IP," Yes. Where do you think BP is getting a lot of its tech from?
+
+'BP in 2018 acquired Chargemaster, the largest EV charging company in the UK. ... In September 2020, BP and Uber announced a partnership under which BP will build out a rapid charging network in London to enable Uber's fleet in the city to go 100% electric by 2025.'
+
+A lot of these companies are creating designs and IP that will be absorbed and acquired by bigger companies. Some may go under yes, but that happens in all sectors.",The49thwarrior,1,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzip3uh/,0.0,0.941,0.059,0.5106
+76,UK," Yes. Where do you think BP is getting a lot of its tech from?
+
+'BP in 2018 acquired Chargemaster, the largest EV charging company in the UK. ... In September 2020, BP and Uber announced a partnership under which BP will build out a rapid charging network in London to enable Uber's fleet in the city to go 100% electric by 2025.'
+
+A lot of these companies are creating designs and IP that will be absorbed and acquired by bigger companies. Some may go under yes, but that happens in all sectors.",The49thwarrior,1,/r/stocks/comments/nlbzl1/whats_your_thought_on_icln_for_long_term/gzip3uh/,0.0,0.941,0.059,0.5106
+77,AI," Your are exactly right. Data and AI analysis will always help your understand underlying patterns and give you better entry and exit points compared to emotional trading. 
+
+But humans connections, experiences, intuition provides that spark that cannot be replicated by cold data. If you look at data to predict the future I don’t think we could’ve ever predicted the sheer technological and social changes of the last 20 years.",Nozymetric,3,/r/stocks/comments/nlhbrq/i_build_a_model_that_supplements_stock_market/gzimkla/,0.0,0.896,0.104,0.6652
+78,AAPL," Can you run the model on AAPL with tech and economic related narratives (consumers, fed policy tech etc?)",thewatcher_v2,2,/r/stocks/comments/nlhbrq/i_build_a_model_that_supplements_stock_market/gzip754/,0.0,1.0,0.0,0.0
+79,RH," While the info here is good, before you buy options, you should learn to use http://optionsprofitcalculator.com to make sure you have everything you need to know to make a good decision. Additionally, you would be really wise to watch inthemoney on YouTube for some really good info on options trading. I suggest his recent video on LEAPS and an older video, I think it's ""how to trade options on Robinhood"" (a more recent one on WeBull exists too, but the RH one goes into more detail. They really aren't so much broker specific, just what was popular at the time. Great detail either way)
+
+Good luck getting to know options!",jam3s2001,14,/r/stocks/comments/nldj8c/trying_to_understand_options/gzi9ynh/,0.0,0.783,0.217,0.9781
+80,AMC," The calls cost $74 a piece, and give you the right to but 100 shares at $19/share for ($1900). But, since the calls cost $0.74/share you need AMC to go over $19.74/share by May 28th to make a profit.
+
+If AMC drops today, your call will lose value as it becomes less likely that $19/share will be reached by Friday. Your $74 might become $45.
+
+Conversely, if AMC rises to $19 today, you call will probably go from $74 to $125. I’m assuming you don’t want to actually buy 100 shares though, so if you get a price pop, sell the option back to the market",ProfessorPurrrrfect,2,/r/stocks/comments/nldj8c/trying_to_understand_options/gzi9j05/,0.031,0.834,0.135,0.8765
+81,AMC," Yeah it was just an example. So if I did purchase this option for AMC, and the price never reaches what I want it to, is the $74 i spent for the option the most I can lose? Or can I lose more money than that?",hhhax7,1,/r/stocks/comments/nldj8c/trying_to_understand_options/gzi9u6s/,0.185,0.768,0.047,-0.6691
+82,DTE," Most pieces of an options price are known. The DTE, the strike, and the price and history of the underlying. However, the future volatility of the underlying is unknown, and influences the price of an option. If you own an OTM put that is increasing in value as the price of the underlying moves against you, the market believes the price of the underlying will be more volatile in the future.",fish60,1,/r/stocks/comments/nldj8c/trying_to_understand_options/gzjrgks/,0.021,0.947,0.033,0.2263
+83,AMC, $74 is the most you can lose if you buy just 1 contract. But you’ll only lose it all if you let the option expire worthless on Friday if AMC closes the week at $18.50/share.,ProfessorPurrrrfect,4,/r/stocks/comments/nldj8c/trying_to_understand_options/gzia1jw/,0.24,0.76,0.0,-0.8682
+84,AMC, Someone else will want the deal you currently have (say an ITM strike of $19 when the market price of AMC is $85) it would only cost someone $1900 to buy 100 shares of AMC with the contract where it would cost the same person $8500 to buy 100 shares at market price. If you sell the underlying option to someone so they can exercise the option and buy the 100 shares on the cheap YOU make the difference between $19 and $85. In this scenario that means you just made $66 dollars per share x 100 (number of shares in an option) for a grand total of $6600 from your $74 trade.,FakeItThenMakeIt,4,/r/stocks/comments/nldj8c/trying_to_understand_options/gzhzrn9/,0.013,0.86,0.128,0.8957
+85,GM, I’m long F.  I like it and GM.,Phuffu,27,/r/stocks/comments/nlilhm/first_stocks_purchased_in_my_life_today_in_f_ford/gziqx2v/,0.0,0.706,0.294,0.3612
+86,GM," Great purchase for a beginner. Too many people jump in and start researching Elliot waves and candlestick patterns and try to hit grand slams and capture massive gains. They love to tell you about their big wins but leave out all then times they lost their entire initial investment.
+
+I didn’t buy Ford but I did buy GM a while back after seeing the crazy rise of Tesla and their valuation. Turned out very well for me.
+
+Tesla is worth 4.5 times both Ford and GM combined. That is insane. And that valuation showed every manufacturer just how valuable EV is. That showed every major owner of Ford/GM and all executives that their net worth can literally triple if they get EV right. They have logistics, distribution, and footprints that Tesla dreams about. That potential value also easily allows the manufacturers to stop handcuffing themselves to the oil and gas lobbying. Energy companies can’t sky rocket their valuation. EV can.
+
+I can’t deny I’m starting to see Teslas on the road a lot more. But honestly, most people are buying the base model which is kind of ugly and plain when you see the real one in person. Not the add-on loaded one you see in pictures/videos. Just my opinion, not the aesthetic simplicity the likes of Apple products. The premium models are beautiful though; but overpriced.
+
+Basically, that’s why I’m long F and GM. They are still 2-3 years out from actually selling relevant EV. But I’d expect a sharp spike when they officially announce market release of a few models. Which will happen. Hell, GM spiked after their conference announcing their EV line.",TheGourmetHotDog,2,/r/stocks/comments/nlilhm/first_stocks_purchased_in_my_life_today_in_f_ford/gziuvda/,0.092,0.754,0.153,0.955
+87,GME," As long as you buy dips and sell at peaks you are set.
+
+Side note. GME is about to explode.",Johnnywg1996,-9,/r/stocks/comments/nlilhm/first_stocks_purchased_in_my_life_today_in_f_ford/gziojmi/,0.0,1.0,0.0,0.0
+88,DD, I would say that $GME has already exploded bc 1 share is already a lot lol but $AMC is undervalued so we can see a squeeze coming soon….just do your own DD 🙂,_prime_x,-1,/r/stocks/comments/nlilhm/first_stocks_purchased_in_my_life_today_in_f_ford/gzizsb4/,0.0,0.881,0.119,0.3612
+89,FTCI, I mean for people that got in super early I can see why they wanna discuss them all the time. I’m making gains myself off two of them but I wasn’t as early or lucky. Anyway FTCI is being nice to me gonna try to add some more today.,Crazyolblazed,6,/r/stocks/comments/nle6cf/rstocks_daily_thread_on_meme_stocks_wednesday_may/gzi2fml/,0.0,0.784,0.216,0.8898
+90,GME," As someone who has avoided most of the GME/AMC/etc convo, can someone explain whether this magical date where GME is supposed to rocket is a complete fantasy or if it based any part in truth? It’s odd to see a comment expressing that in r/stocks and see it upvoted but then there’s a lot of comments saying these people are delusional.
+
+How does the common man read into whether a massive group of trolls are supporting each other’s fantasy or if the normal investor like myself is just misunderstanding and poised to miss out?",SeaSpur,6,/r/stocks/comments/nle6cf/rstocks_daily_thread_on_meme_stocks_wednesday_may/gzitodv/,0.087,0.8,0.113,0.5661
+91,GME, Would should be the appropriate exit strategy for AMC? I dont think it has same potential as GME(if GME does hit 800),thisIsCleanChiiled,3,/r/stocks/comments/nle6cf/rstocks_daily_thread_on_meme_stocks_wednesday_may/gzjlj4n/,0.0,1.0,0.0,0.0
+92,AMC," Investing in AMC is a huge risk as the company was bleeding funds pre-COVID and, most likely, will continue to do so post-COVID. As of the latest update, AMC'S cash burn amounts to $400M per quarter. Equity dilution has been substantial given their need to raise capital every few months during the pandemic just to survive. Barring a miracle, bankruptcy seems inevitable sometime in the future.",SavannahSmiles_,1,/r/stocks/comments/nle6cf/rstocks_daily_thread_on_meme_stocks_wednesday_may/gzk4q29/,0.03,0.857,0.113,0.7003
+93,GME," There is no magical date. The theory present here is that short sellers never covered in January, but instead thought they could wait out retail investors. Within this theory is the SI% reporting loop, where every T+21 days and T+35 days of initial options selling/buying that failures-to-deliver have to be covered. Over this cycle on these days, the price has seen intra day increases followed by sharp decreases. Monday and Tuesday were two consecutive days of the SI% loop and price increases were seen on both days, falling in line with the theory. 
+
+In addition to this, one of the people responsible for designing high frequency trading systems, David Lauer, has shared information that the steep price declines in January and March from around ~$500 and ~$325ish, respectively, were highly suspect of being flash crashes. From here, other industry professionals, such as Susanne Trimbath, Carl Hagberg, and Wes Christian (a lawyer who helped pen Reg SHO) have added their opinions and knowledge on this matter. All of them have some belief that GME has seen abusive naked short selling. Carl Hagberg, who has made a career out of stock ownership programs and voting rights, believes strongly that GME has been sold significantly beyond the available shares. Wes Christian also kindly provided previous cases from suits against firms that revealed most firms either purposely ignore Reg SHO, or don't care enough to design systems capable of properly tracking and reconciling naked shorts. In many of these cases, short sales were either mismarked as long sales - especially in ETFs. 
+
+There are many people at GME and Superstonk that make it an echo chamber, but within it is some very valid information. The idea of the $20M floor is not literal (or at least most people don't consider it literally), but rather it gives the idea that, if enough people don't sell, GME can theoretically turn into a financial black hole. 
+
+
+I'm not going to tell you to buy into GME. Instead, read this https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/ and decide for yourself.",TheCaptainCog,22,/r/stocks/comments/nle6cf/rstocks_daily_thread_on_meme_stocks_wednesday_may/gzj1ynh/,0.053,0.882,0.065,0.5033
+94,SHO," There is no magical date. The theory present here is that short sellers never covered in January, but instead thought they could wait out retail investors. Within this theory is the SI% reporting loop, where every T+21 days and T+35 days of initial options selling/buying that failures-to-deliver have to be covered. Over this cycle on these days, the price has seen intra day increases followed by sharp decreases. Monday and Tuesday were two consecutive days of the SI% loop and price increases were seen on both days, falling in line with the theory. 
+
+In addition to this, one of the people responsible for designing high frequency trading systems, David Lauer, has shared information that the steep price declines in January and March from around ~$500 and ~$325ish, respectively, were highly suspect of being flash crashes. From here, other industry professionals, such as Susanne Trimbath, Carl Hagberg, and Wes Christian (a lawyer who helped pen Reg SHO) have added their opinions and knowledge on this matter. All of them have some belief that GME has seen abusive naked short selling. Carl Hagberg, who has made a career out of stock ownership programs and voting rights, believes strongly that GME has been sold significantly beyond the available shares. Wes Christian also kindly provided previous cases from suits against firms that revealed most firms either purposely ignore Reg SHO, or don't care enough to design systems capable of properly tracking and reconciling naked shorts. In many of these cases, short sales were either mismarked as long sales - especially in ETFs. 
+
+There are many people at GME and Superstonk that make it an echo chamber, but within it is some very valid information. The idea of the $20M floor is not literal (or at least most people don't consider it literally), but rather it gives the idea that, if enough people don't sell, GME can theoretically turn into a financial black hole. 
+
+
+I'm not going to tell you to buy into GME. Instead, read this https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/ and decide for yourself.",TheCaptainCog,22,/r/stocks/comments/nle6cf/rstocks_daily_thread_on_meme_stocks_wednesday_may/gzj1ynh/,0.053,0.882,0.065,0.5033
+95,DD," Okay, first up, anyone telling you with complete confidence the reason for something happening due to this or that in GME/AMC is completely delusional. Yes I said that, completely delusional just like the ""cultists"" they like to call those over in superstonk or gme subreddits.
+
+It essentially boils down to this thesis, which is:
+""Did the shorts cover in January?""
+
+If you read the explanation by the other comment, I find it very plausible that they didn't. But not everyone thinks the same way for whatever reasons.
+
+So choose which you believe. I will be completely honest, no one knows how it will play out, and anyone confidently telling you otherwise isn't to be fully trusted.
+
+But of course, here is a little bias from my own opinion.
+
+Would you trust an unknown stranger on reddit who probably isn't even a millionaire, or would you trust a sub (no matter how cult like it may seem) that has tons of people dedicating their time to looking through every single piece of information they can about validating their theory, and even have certified professionals amongst them who are on board and understands about the fuckery of some bad actors in the market? 
+
+Even if some DD is filled with misinformation, the core idea is still there. It's just that people are so hung up on the mistakes, they fail the see the overarching point of a DD that is made. (The analogy of the make one mistake and everyone points it out)",jingsen,8,/r/stocks/comments/nle6cf/rstocks_daily_thread_on_meme_stocks_wednesday_may/gzjanm8/,0.08,0.771,0.149,0.9587
+96,GME," Okay, first up, anyone telling you with complete confidence the reason for something happening due to this or that in GME/AMC is completely delusional. Yes I said that, completely delusional just like the ""cultists"" they like to call those over in superstonk or gme subreddits.
+
+It essentially boils down to this thesis, which is:
+""Did the shorts cover in January?""
+
+If you read the explanation by the other comment, I find it very plausible that they didn't. But not everyone thinks the same way for whatever reasons.
+
+So choose which you believe. I will be completely honest, no one knows how it will play out, and anyone confidently telling you otherwise isn't to be fully trusted.
+
+But of course, here is a little bias from my own opinion.
+
+Would you trust an unknown stranger on reddit who probably isn't even a millionaire, or would you trust a sub (no matter how cult like it may seem) that has tons of people dedicating their time to looking through every single piece of information they can about validating their theory, and even have certified professionals amongst them who are on board and understands about the fuckery of some bad actors in the market? 
+
+Even if some DD is filled with misinformation, the core idea is still there. It's just that people are so hung up on the mistakes, they fail the see the overarching point of a DD that is made. (The analogy of the make one mistake and everyone points it out)",jingsen,8,/r/stocks/comments/nle6cf/rstocks_daily_thread_on_meme_stocks_wednesday_may/gzjanm8/,0.08,0.771,0.149,0.9587
+97,AMC," Complete fantasy, it's literally a bunch of cult members convincing each other they're going to get rich fast and easily. 
+
+Check out /r/superstonk or /r/amcstock and it's quite obvious it's a cult. 
+
+They're not really trolls by any means, just literal morons.
+
+I wouldn't FOMO into these stocks. AMC especially is dead on a fundamental level.",ppa61,-13,/r/stocks/comments/nle6cf/rstocks_daily_thread_on_meme_stocks_wednesday_may/gzivwrf/,0.11,0.751,0.139,0.2075
+98,GME," People are just betting big on the next earnings date mostly. It's GME so, no one knows what will happen over the next few weeks.",respekthename,-4,/r/stocks/comments/nle6cf/rstocks_daily_thread_on_meme_stocks_wednesday_may/gzizziy/,0.107,0.893,0.0,-0.4341
+99,GME, CNBC is going to be so pissed when they have to talk about GME again today. Lol,SameAsItEverWasss,47,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gziczjb/,0.232,0.647,0.121,-0.5524
+100,TSLA, CNBC is saying there is a rotation back into growth by the hedge funds. And Jim Cramer even saying he'd buy TSLA after attack it and other Cathie Wood stocks for weeks. Lmao how quick they change their tune as soon as stocks turn green they become good to them.,WickedSensitiveCrew,18,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjggi9/,0.054,0.783,0.163,0.743
+101,GME," Them puts on GME look tasty, but I know I'll just get burnt if I try",Traditional_Fee_8828,12,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzigl27/,0.0,1.0,0.0,0.0
+102,PTON, This PTON rise is the perfect example of why you buy when others are fearful! I added more shares at $87 earlier this month.,shinjury,12,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gziyg5c/,0.108,0.674,0.218,0.5081
+103,PTON, PTON never disappoints,chromelogan,12,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj27vz/,0.0,0.478,0.522,0.2924
+104,BB, Why is BB so high today?,ITried2,7,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gziiae4/,0.0,1.0,0.0,0.0
+105,AMC," Fuck. I sold AMC at 12 after getting fed up with the roller coaster ride. I just wanted off. I still made some money, but fuck. That is all.",birdsnap,8,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzk36on/,0.226,0.774,0.0,-0.7906
+106,AAPL, AAPL my duuuude what is you doin,VengefulMigit,7,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzk65d2/,0.0,1.0,0.0,0.0
+107,AAPL, AAPL 😎...,xSAV4GE,5,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gziivy1/,0.0,1.0,0.0,0.0
+108,USAC, Why would congressman sell and then rebuy same stock? I'm looking at Mark Green. He sold and then rebought USAC within a matter of days,possumtree,6,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjhcy3/,0.0,0.954,0.046,0.0258
+109,MGM," Amazon's MGM deal is confirmed
+
+https://news.sky.com/story/amazon-agrees-deal-to-buy-james-bond-maker-mgm-for-8-45bn-12317488",TODO_getLife,4,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzifdm4/,0.0,1.0,0.0,0.0
+110,SPCE, To sell SPCE breaking even or let it keep running 🤔,xSAV4GE,5,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzilehi/,0.0,1.0,0.0,0.0
+111,AAPL," Figures literally every meme and tech stock would rip, *except* AAPL. An asteroid could hit and it wouldn’t budge.",VengefulMigit,14,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj0fs0/,0.0,1.0,0.0,0.0
+112,AMZN, I watched a YouTube video where the person said that AMZN stock was at one point dropped from $100 to $6. I tried to confirm this statement but could not do so. Can someone tell me if it's true?,dontouchyourself,4,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzhxwg6/,0.0,0.904,0.096,0.5719
+113,PINS, PINS the only red name on my growth stocks watchlist. Bought some more this am.,PocketAces93,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzisoby/,0.0,0.843,0.157,0.3818
+114,ABNB, When is ABNB lock up period expiration? The NASDAQ IPO detail says its June 8th [source](https://www.nasdaq.com/market-activity/ipos/overview?dealId=891868-94768). But then there's a bunch of articles on May 17th saying that that's when the lock up period expired [source](https://www.marketwatch.com/story/airbnb-stock-drops-more-than-6-as-post-ipo-lockup-ends-11621274665).,travisth0tt,4,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gziy5py/,0.0,1.0,0.0,0.0
+115,BB," What happened today? I haven't had a day this nice in months.
+
+BB finally paying off!",semaphore-1842,9,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjsw5k/,0.0,0.786,0.214,0.5487
+116,SO, Holy shit first time I've been overall in the green since February. That's not including the ARK that I sold at a loss though so if it included that I'd still be red. But whatever the app shows green SO WE GREEEEN.,NuttyhatchAf,7,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjtwak/,0.094,0.906,0.0,-0.4497
+117,SP, SP companies getting hit hard today?,iTayluh,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzij8z2/,0.219,0.781,0.0,-0.1027
+118,SHOP, Are SHOP and TTD share values justified?,Starbuckwhatdoyahear,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjlewp/,0.0,0.345,0.655,0.765
+119,TTD, Are SHOP and TTD share values justified?,Starbuckwhatdoyahear,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjlewp/,0.0,0.345,0.655,0.765
+120,GD," Amongst the following defense companies, which is a good one to get in as of now and hold for at least 1 year?
+
+LMT
+
+NOC
+
+HII
+
+GD
+
+RTX",aapolitical,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjovvt/,0.0,0.845,0.155,0.5267
+121,HII," Amongst the following defense companies, which is a good one to get in as of now and hold for at least 1 year?
+
+LMT
+
+NOC
+
+HII
+
+GD
+
+RTX",aapolitical,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjovvt/,0.0,0.845,0.155,0.5267
+122,LMT," Amongst the following defense companies, which is a good one to get in as of now and hold for at least 1 year?
+
+LMT
+
+NOC
+
+HII
+
+GD
+
+RTX",aapolitical,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjovvt/,0.0,0.845,0.155,0.5267
+123,NOC," Amongst the following defense companies, which is a good one to get in as of now and hold for at least 1 year?
+
+LMT
+
+NOC
+
+HII
+
+GD
+
+RTX",aapolitical,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjovvt/,0.0,0.845,0.155,0.5267
+124,RTX," Amongst the following defense companies, which is a good one to get in as of now and hold for at least 1 year?
+
+LMT
+
+NOC
+
+HII
+
+GD
+
+RTX",aapolitical,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjovvt/,0.0,0.845,0.155,0.5267
+125,AMC," Every time GME, AMC, and the meme stocks rally the rest of the market tanks",jrex035,19,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzidue4/,0.0,1.0,0.0,0.0
+126,GME," Every time GME, AMC, and the meme stocks rally the rest of the market tanks",jrex035,19,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzidue4/,0.0,1.0,0.0,0.0
+127,PLTR, I am hoping PLTR can get some 20%+ green day action so that I can offload my 500 shares. Don't feel confident in them in the long run nowadays,due11,8,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj5u72/,0.083,0.759,0.158,0.3339
+128,AMZN, Lol AMZN just giving up all the gains from today.,bennyllama,6,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjvtpa/,0.0,0.479,0.521,0.765
+129,NVDA, NVDA yay or nay?,Cristian7x,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gziw1gh/,0.0,0.469,0.531,0.5267
+130,SFIX, SFIX hype train leaving the station y’all,klyphw,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzim74u/,0.0,1.0,0.0,0.0
+131,PDSB," PDSB hit new 52 week high 5/24 and again 5/26 it’s valued at $12 but selling now around 9, highly recommended. I tried telling WSB but they don’t like <1B market caps. Just trying to let people know",stepinson,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzinbwp/,0.0,0.813,0.187,0.7808
+132,WBA," Anyone buying the WBA dip, or do you think the prospect of bricks and mortal Amazon pharmacies is a real threat?",j_husk,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzixqn5/,0.14,0.7,0.16,-0.128
+133,MSFT, Why are APPL and MSFT down -0.14% and -0.13% when the rest of the market is up?,abdul10000,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj9l2y/,0.0,1.0,0.0,0.0
+134,AMC, Was yesterday and today the short squeeze that we were expecting from GME and AMC or will it continue over the next week or so??,Overall-Jaguar-445,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjxgc7/,0.0,1.0,0.0,0.0
+135,GME, Was yesterday and today the short squeeze that we were expecting from GME and AMC or will it continue over the next week or so??,Overall-Jaguar-445,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjxgc7/,0.0,1.0,0.0,0.0
+136,NVDA, NVDA is a monster,Scameron313,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzk3bsb/,0.0,1.0,0.0,0.0
+137,IPOE, IPOE (SoFi) ... is worth checking out soon. The past day and half...Shorts have wasted a ton of capital continue to try shorting it .. rather than covering!  It appears they are about completely spent.. and it may take off anytime this afternoon (merger vote is friday) .. ticker change beginning of next week..,InvestorCoast,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjan76/,0.062,0.904,0.034,-0.3802
+138,AMC," With AMC and GME preparing for liftoff, the market will be red as fuck isn't it",taimusrs,-14,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzi1m4e/,0.189,0.811,0.0,-0.5423
+139,GME," With AMC and GME preparing for liftoff, the market will be red as fuck isn't it",taimusrs,-14,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzi1m4e/,0.189,0.811,0.0,-0.5423
+140,DIS, Any theories on when DIS will hit $200?,thegiant001,-1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzi3zdt/,0.0,1.0,0.0,0.0
+141,RTP," Will RTP be converted to Joby aviation shares after going public?
+
+
+
+Joby Aviation to List on NYSE Through Merger With Reinvent Technology Partners [RTP]
+
+Thanks",DataLender,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzi32a9/,0.0,0.819,0.181,0.6249
+142,GME," Yeah if the past 4 months has taught anyone anything, it's don't short GME lol",jrex035,21,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzii4ni/,0.141,0.726,0.133,-0.0341
+143,TTD, I bought TTD when it fell off a cliff and it's coming back quickly.,tinyraccoon,4,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj01h7/,0.0,1.0,0.0,0.0
+144,PTON," Same I knew the opportunity was too great, granted I've been bullish on PTON for over a year now, grabbed it luckily literally timed at $83 during that tip, and looking back, only wish I grabbed more, granted I had to hold cash in the case it actually dipped below $80, so at this point really just greed lol.",LifeInAction,4,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj2bz1/,0.043,0.672,0.285,0.9431
+145,CPNG, Bill Gates foundation selling and bought CPNG,NW1na7a,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjwkwi/,0.0,1.0,0.0,0.0
+146,NBA," Not sure if you been listening to earnings reports but places have been saying things like concerts, vacations, are being booked like crazy. And just watching the NBA playoffs many of those stadiums have been packed too. I think the talking heads are right on this that there is pent up demand for things.",WickedSensitiveCrew,10,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjmud0/,0.104,0.789,0.107,0.289
+147,AMC," I don’t pay careful attention to stocks after I sell them, it’s too much of a “look at the $$ you could have made!” most of the time. I sold AMC at 14 for a 10% profit, my normal time to exit. I only look if there is a major dip to see if I should buy again.",allieinwonder,4,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzk8ukz/,0.026,0.884,0.09,0.5255
+148,JD," Its soared like crazy over the past year+ though. How much more can it really still have in its tank?
+
+And what happens if/when they pass laws that allow farmers to repair their JD equipment other than JD dealerships? Its insane they're allowed to mandate that",jrex035,4,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjwi8i/,0.105,0.81,0.085,-0.264
+149,AAPL, LOL. I was looking at that a few mins ago. Literally everything on my watch list in the green---except AAPL.,morinthos,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzk76b0/,0.0,0.828,0.172,0.5473
+150,DKNG, DKNG undercut my stop by literally a penny on Monday and is now up like 15% since then lol. feels bad man,ThePelvicWoo,8,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj9c06/,0.204,0.607,0.189,-0.1027
+151,AMD," AMD is nor really a blue chip (not yet), but I would say yes ARKK is more risky than AMD. And ARKK is way more risky than real blue chips like Apple, Micrsoft,...",f3lix735,8,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjbr4q/,0.135,0.691,0.174,0.3655
+152,DOW," Day trader statistics aren’t great though. Few make money, and even fewer beat the DOW or S&P 500.",allieinwonder,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzk8b81/,0.0,0.806,0.194,0.6249
+153,AMC, I wonder if the margin calls are looming and they’re being forced to cover. I can’t believe how high AMC is right now.,notherday11,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjt47g/,0.191,0.809,0.0,-0.5423
+154,TELL, It's not sexy tech but it is a 10 bagger. TELL your friends.,StockMarket_Soup,5,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjt3xl/,0.118,0.624,0.259,0.5043
+155,PLTR, What is your cost basis? Because if you not confident in PLTR or any stock long term why not dump it now?,WickedSensitiveCrew,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj6hwz/,0.119,0.795,0.087,-0.2033
+156,AAPL," AMZN, AAPL, and MSFT have been a pain in my ass for months now",jrex035,9,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjw5oi/,0.382,0.618,0.0,-0.7783
+157,AMZN," AMZN, AAPL, and MSFT have been a pain in my ass for months now",jrex035,9,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjw5oi/,0.382,0.618,0.0,-0.7783
+158,MSFT," AMZN, AAPL, and MSFT have been a pain in my ass for months now",jrex035,9,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjw5oi/,0.382,0.618,0.0,-0.7783
+159,AMD, I'd go AMD and ignore both AMZN and BABA due to the anti-trust and geopolitical risk.,Runningflame570,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzigdeg/,0.247,0.753,0.0,-0.5574
+160,AMZN, I'd go AMD and ignore both AMZN and BABA due to the anti-trust and geopolitical risk.,Runningflame570,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzigdeg/,0.247,0.753,0.0,-0.5574
+161,BABA, I'd go AMD and ignore both AMZN and BABA due to the anti-trust and geopolitical risk.,Runningflame570,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzigdeg/,0.247,0.753,0.0,-0.5574
+162,GOOGL, Dude forget about Amazon. I put about $1k into them ~6 months ago and it’s been stagnant the whole time. It dipped pretty far down and I’m barely getting back to even. I’d look at GOOGL if I were you. Not financial advice of course.,deewheredohisfeetgo,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjpor9/,0.041,0.855,0.105,0.4588
+163,IRS," go to the IRS website and look up ""estimate tax payments."" you should expect that you'll pay your marginal income tax rate at the federal level and whatever your state rate is.",crozby,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzipgc0/,0.043,0.957,0.0,-0.1027
+164,IRS," Not a FA, but one thing I've done in the past, is after a sale, I've talked to my brooker and about sending the money for the taxes directly to the IRS.",_hiddenscout,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzisj80/,0.0,1.0,0.0,0.0
+165,SNOW," Pretty sure Berkshire bought SNOW at 120/share during it's IPO. But yes, it's overvalued for sure!",fino_alla_fine,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzi97tu/,0.0,0.532,0.468,0.8605
+166,BMO, I’m Canadian so I’m using the BMO one,lawnicus18,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjonnn/,0.0,1.0,0.0,0.0
+167,AMC, My speculative portfolio is literally up 6% today and I don't even hold GME or AMC.,alttoby,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjr9pl/,0.0,0.909,0.091,0.1027
+168,GME, My speculative portfolio is literally up 6% today and I don't even hold GME or AMC.,alttoby,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjr9pl/,0.0,0.909,0.091,0.1027
+169,LYV," yeah travel and live venues is going to be crazy thats what people are missing, i own LYV stock, but nobody is going to buy laptops, ipads, pc, cars... we already seeing it in used car sales. The housing market is going to crash soon too. House sales dropped 6%. The data is already showing whats going on.",DoneDidNothing,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjnb8t/,0.111,0.862,0.026,-0.6428
+170,GME, Are you saying you think GME will go back to ~$400 a share? I'm highly skeptical,jrex035,-2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzifucz/,0.146,0.731,0.124,-0.101
+171,PLTR," Yeah I could be very wrong about PLTR in the long run and it could end up at $80/share in the next 5 years or so. However, I think it's best for me to wait till break-even and offload my shares as I am realizing that this might be money that I need in the next 1-2 years so it's not worth the risk.",due11,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj95vu/,0.077,0.771,0.152,0.6238
+172,AAPL," $24.92 is my cost basis. I like AAPL, TSLA long term because I have conviction in those plays, PLTR seemed great at first but with them barely having a profit every quarter plus insider sell off so often, makes me uneasy",due11,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj7tst/,0.075,0.723,0.202,0.5903
+173,PLTR," $24.92 is my cost basis. I like AAPL, TSLA long term because I have conviction in those plays, PLTR seemed great at first but with them barely having a profit every quarter plus insider sell off so often, makes me uneasy",due11,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj7tst/,0.075,0.723,0.202,0.5903
+174,TSLA," $24.92 is my cost basis. I like AAPL, TSLA long term because I have conviction in those plays, PLTR seemed great at first but with them barely having a profit every quarter plus insider sell off so often, makes me uneasy",due11,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj7tst/,0.075,0.723,0.202,0.5903
+175,PLTR, premiums are absolute trash for the $25 strike. PLTR seems to be on the move so there's a risk of selling a $25 call too early for low premium. If it sky rockets to $25 next week then buying back my calls would be too expensive. I could just let myself get assigned at $25 which I'm fine with but what if the price drops below $25 and tanks to $21 again then I don't get assigned and I miss my opportunity to offload my shares ar break even after all these months.,due11,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj75b7/,0.067,0.85,0.083,0.544
+176,AG," Porsche Holding SE isn't the Porsche car brand per se. It holds about 53% of Volkswagen AG's ordinary shares (VWAGY in USA or VOW in EU), which in turn owns 100% of the Porsche brand. So if you want to invest in the Porsche brand because you believe in the cars, it would be more efficient to invest directly in Volkswagen AG.",maz-o,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj4eeb/,0.0,0.896,0.104,0.7056
+177,SE," Porsche Holding SE isn't the Porsche car brand per se. It holds about 53% of Volkswagen AG's ordinary shares (VWAGY in USA or VOW in EU), which in turn owns 100% of the Porsche brand. So if you want to invest in the Porsche brand because you believe in the cars, it would be more efficient to invest directly in Volkswagen AG.",maz-o,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj4eeb/,0.0,0.896,0.104,0.7056
+178,USA," Porsche Holding SE isn't the Porsche car brand per se. It holds about 53% of Volkswagen AG's ordinary shares (VWAGY in USA or VOW in EU), which in turn owns 100% of the Porsche brand. So if you want to invest in the Porsche brand because you believe in the cars, it would be more efficient to invest directly in Volkswagen AG.",maz-o,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj4eeb/,0.0,0.896,0.104,0.7056
+179,ATH," I think there's a pretty big difference between thinking inflation is ""cancelled"" and recouping a fractional amount of losses after a big sell-off. NASDAQ is still ~600 points off its ATH.
+
+The week by week sort of obscures it, but it's a fairly straight correlation that Treasury yields rose, NASDAQ sold off, and now that Treasury yields took a pause so did the sell-off. But unless you think Treasury yields are actually going to *go back down* then no, inflation isn't cancelled because objectively it hasn't been and it also means stocks are not going back to their ATHs any time soon.
+
+If a stock has a -10% red day, then a +11% green day, then another -10% red day and another +11% green day the reality is that the stock is deep in the red",CommercialFindingNo9,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj0oxp/,0.034,0.87,0.096,0.7587
+180,GLOP, GLOP,DoneDidNothing,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzix1uw/,0.0,1.0,0.0,0.0
+181,GME," You'd think that, but GME could go to 300 and I wouldn't even be surprised.",Traditional_Fee_8828,9,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzijvxp/,0.133,0.867,0.0,-0.2498
+182,AMZN, Too big to grow on the short term maybe. But in the long they’re a goldmine. Never selling these. Also AMZN has been stagnant for the past 10 months so I don’t really see the argument.,maz-o,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzik6c3/,0.099,0.901,0.0,-0.564
+183,GME," > ahead in credibility
+
+Why, because a volatile stock is being volatile? GME isn't going anywhere.",passaloutre,3,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj99bm/,0.0,1.0,0.0,0.0
+184,PLTR," And also for compensation purposes.  Not sure about PLTR, but quite a few companies pay their CEOs primarily in shares and they sell them to get paid.  TWLO's Jeff Lawson comes to mind for some odd reason.  Atlassian's Mike Cannon-Brooks is another one I can think of.",tinyraccoon,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjannk/,0.128,0.816,0.056,-0.3872
+185,SFT," I don't know, if you want the money back and not spend it on other stocks that's fine. But I just recently sold a stock that had it's fundamentals change in a way that I did not feel confident in it anymore and put it all into a different stock 2 days ago on which I am extremely bullish (it's SFT, went down 15 percent after an offering of senior notes and dropped to like 6.30, where I doubled down on my position). Either way that stock is now up to like 7.15 today. So sometimes it really is better to cut losses as the other stock I sold ended up going down further.",alttoby,2,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjru8w/,0.081,0.807,0.112,0.3971
+186,CRWD," Oh you talking about GME? I was talking about buying SNOW, CRWD, SE, and other stocks 2 weeks ago. I didn't FOMO that those and other tech stocks were getting crapped on as overvalued and would keep dropping.",WickedSensitiveCrew,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj4nbv/,0.0,1.0,0.0,0.0
+187,SE," Oh you talking about GME? I was talking about buying SNOW, CRWD, SE, and other stocks 2 weeks ago. I didn't FOMO that those and other tech stocks were getting crapped on as overvalued and would keep dropping.",WickedSensitiveCrew,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj4nbv/,0.0,1.0,0.0,0.0
+188,SNOW," Oh you talking about GME? I was talking about buying SNOW, CRWD, SE, and other stocks 2 weeks ago. I didn't FOMO that those and other tech stocks were getting crapped on as overvalued and would keep dropping.",WickedSensitiveCrew,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzj4nbv/,0.0,1.0,0.0,0.0
+189,DIS, Lmao I don't own DIS and you were just shouting into the wind,gavelTree,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjgpm6/,0.0,0.738,0.262,0.5994
+190,DIS," Then why reply if you don't own DIS, and since you did reply why would you bring up the fact that you dont own DIS? Sounds like you're just being defensive because you wrote a thoughtless reactionary comment.",thegiant001,1,/r/stocks/comments/nlcs5h/rstocks_daily_discussion_wednesday_may_26_2021/gzjysmk/,0.074,0.837,0.089,-0.1027
+191,FB," Mega cap tech (AAPL, MSFT, FB, GOOG)",syzygyz,14,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzggh76/,0.0,1.0,0.0,0.0
+192,MSFT," Mega cap tech (AAPL, MSFT, FB, GOOG)",syzygyz,14,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzggh76/,0.0,1.0,0.0,0.0
+193,AMD," Some of the large cap tech stocks that have been flat since last fall - $AAPL (Apple), $AMD (Advanced Micro Devices).  AMD has a massive short position against it that should let up soon.  Good luck.",Fuelrod_son_of_Zippy,7,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzgtll7/,0.0,0.844,0.156,0.7096
+194,PLCE," Lots of responses here about reopening stocks.
+
+The question is, which one of those hasn’t been priced yet and recovered? Most are almost back to their pre pandemic price (ie PLCE DIN PLAY)",brovash,4,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzhbmd6/,0.0,1.0,0.0,0.0
+195,DKNG, DKNG this year. Easy money,Construction_Man1,5,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzghy6q/,0.0,0.58,0.42,0.4404
+196,YETI, Travel related companies. Bought some shares of YETI.,san_serifs,2,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzghj82/,0.0,0.761,0.239,0.296
+197,ABNB," Airlines and travel. TSA numbers are already starting to tick back up and with more people getting vaccinated it will only get higher, on top of that they super cheap at the moment. Gas prices are high right now so it could be a while before they really take off (no pun intended), could be looking at year end for decent gainz.
+
+I’m also heavily in ABNB. They just had a big sell off with the insider holding period being lifted from the IPO so it is cheap. I personally love AirBNB and use it whenever I travel, but I think people with gravitate towards this type of accommodation and avoid densely populated ones like hotels etc.",BushLeagueQuant,2,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzh4cn3/,0.023,0.895,0.081,0.7096
+198,FB," Technology.   I think we have barely even got started.   So all the big tech companies should be owned, IMO.  Google, Amazon, Apple and Microsoft.
+
+FB is a little bit more complicated.",bartturner,1,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzi9ep7/,0.0,0.943,0.057,0.1779
+199,IMO," Technology.   I think we have barely even got started.   So all the big tech companies should be owned, IMO.  Google, Amazon, Apple and Microsoft.
+
+FB is a little bit more complicated.",bartturner,1,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzi9ep7/,0.0,0.943,0.057,0.1779
+200,HD, SPACE TOURISm! I think many EV makers are launching their new ev cars so I expect the ev sector to get hot again and HD map service sector!,papaya_nyc,-9,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzg7vrx/,0.0,1.0,0.0,0.0
+201,ENPH," ENPH has suffered a lot over the past few months, hopefully it can reverse",wellidliketotellyou,6,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzgiy2h/,0.189,0.651,0.16,-0.128
+202,UPWK, Outsourcing firms too. I think these companies are going to realize that it makes no sense to have work from home employees on American wages when you have have work from home people in India. These companies should run terminations and cut their payroll expenses. Long UPWK,msnebjsnsbek5786,4,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzgfpva/,0.089,0.911,0.0,-0.5106
+203,LYV," That is indeed the question. Someone on here said concerts so I checked out LYV, and it's trading near its all-time high -- higher than its pre-pandemic levels -- and there haven't been concerts for over a year.",fossiltools,2,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzhf64z/,0.0,1.0,0.0,0.0
+204,IMO," If they wanted that they could have done it already.
+
+Quality still matters, I work for a company does a little of this in tech and the quality of work is still much worse IMO.",Viking999,12,/r/stocks/comments/nl26o9/what_sectors_do_you_think_are_going_to_be_hot/gzgivqi/,0.091,0.877,0.032,-0.4588
+205,AAPL," If you want to set it and forget it, VTI or VOO. If you want a little more risk any of the FAANG stocks. AAPL, MSFT, GOOG",hiroshero,9,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzgzeab/,0.14,0.769,0.091,-0.3431
+206,GOOG," If you want to set it and forget it, VTI or VOO. If you want a little more risk any of the FAANG stocks. AAPL, MSFT, GOOG",hiroshero,9,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzgzeab/,0.14,0.769,0.091,-0.3431
+207,MSFT," If you want to set it and forget it, VTI or VOO. If you want a little more risk any of the FAANG stocks. AAPL, MSFT, GOOG",hiroshero,9,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzgzeab/,0.14,0.769,0.091,-0.3431
+208,TA," Go with individual stocks over etfs, you learn alot more going that route. If you are a guy that follows catalysts for specific companies and can do a little TA on a chart then dedicate a small percentage of your portfolio to options, but never all of that dedicated amount into a single trade.",OilBerta,-16,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzgzh3d/,0.0,0.923,0.077,0.6124
+209,GOOGL, Divide equally. MSFT NVDA UNH AAPL GOOGL PYPL. But I'd wait till after the 20% correction next week.,apooroldinvestor,-6,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzhf1az/,0.0,1.0,0.0,0.0
+210,MSFT, Divide equally. MSFT NVDA UNH AAPL GOOGL PYPL. But I'd wait till after the 20% correction next week.,apooroldinvestor,-6,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzhf1az/,0.0,1.0,0.0,0.0
+211,UNH, Divide equally. MSFT NVDA UNH AAPL GOOGL PYPL. But I'd wait till after the 20% correction next week.,apooroldinvestor,-6,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzhf1az/,0.0,1.0,0.0,0.0
+212,MSCI," World Portfolio: 70% MSCI World and 30% MSCI Emerging Markets.
+
+Advantages: Very diversified across countries and industries, steady ""secure"" growth. If you believe civilization won't crumble soon then this is a good bet. You won't have to guess wether the US will keep growing like it did in the past or wether china or europe or any other region might overtake the growth of the US. Look at Japan, stagnant since nearly 30 years, I don't want to risk my bet on a single country. Same with sectors, just because tech did well in the past doesn't mean it jas to in the future. Maybe health sector will overtake tech etc. With a world portfolio you will capture the growth of the world economy. However you won't be able to catch crazy 25% returns or something.",cakeandcoffeebook,1,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzhzp3b/,0.025,0.829,0.146,0.9402
+213,AAPL," Have you ever used products from NIO, GBOX, or CLOV?  What about AAPL or MSFT?
+
+Look at your credit card bill.  Look around your house.",caem123,1,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzi0qrz/,0.0,0.89,0.11,0.4515
+214,GBOX," Have you ever used products from NIO, GBOX, or CLOV?  What about AAPL or MSFT?
+
+Look at your credit card bill.  Look around your house.",caem123,1,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzi0qrz/,0.0,0.89,0.11,0.4515
+215,NIO," Have you ever used products from NIO, GBOX, or CLOV?  What about AAPL or MSFT?
+
+Look at your credit card bill.  Look around your house.",caem123,1,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzi0qrz/,0.0,0.89,0.11,0.4515
+216,CD, If you are going to buy property with that 10k in the next 2 years. Safest bet is to put it in the bank in a CD. No telling what the market will be like with such a short timeframe.,blahblah12345blah123,1,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gziwoii/,0.053,0.821,0.126,0.4588
+217,UI," If you want to put it into something stable(since you mentioned VTI) then I suggest just putting it into stable coins. You could get around 20-40% yeild depending on where you park it. I believe that Curve Finance on the polygon network is paying out around 9% apy in stable and an additional 30% but paid in matic, which you could just swap back out for something like USDC and reinvest it back into your stable coins pool so it can compound. 
+
+I admit that this method would probably make things a bit complicated for tax reporting purposes and Curve has a bit of a complicated UI for those who aren't tech savvy/defi savvy.",Calvinbolic,1,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzjba6i/,0.0,0.89,0.11,0.8625
+218,COIN," If you're young and have a high risk profile, then COIN, MARA and/or BLOK, for crypto oriented investments.",rhetorical_twix,-11,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzh9cj8/,0.116,0.884,0.0,-0.2732
+219,MARA," If you're young and have a high risk profile, then COIN, MARA and/or BLOK, for crypto oriented investments.",rhetorical_twix,-11,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzh9cj8/,0.116,0.884,0.0,-0.2732
+220,COIN," COIN.    PSLV.
+
+F.   Yes    F.",CHM11moondog,-3,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzhftti/,0.0,0.597,0.403,0.4019
+221,AJAX," LSE: 
+PREM, Premier African Minerals Ltd
+CUSN, Cornish Metals, Inc.
+ZNWD, Zinnwald Lithium PLC
+KOD, Kodal Minerals PLC
+ICON, Iconic Labs PLC
+OTC:
+WYGPY, Worley Ltd
+NYSE:
+AJAX, Ajax I - Class A
+Do your own DD but this is my ""growth"" list 18 months min.",InterwebFox,-3,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzhpn2g/,0.0,1.0,0.0,0.0
+222,DD," LSE: 
+PREM, Premier African Minerals Ltd
+CUSN, Cornish Metals, Inc.
+ZNWD, Zinnwald Lithium PLC
+KOD, Kodal Minerals PLC
+ICON, Iconic Labs PLC
+OTC:
+WYGPY, Worley Ltd
+NYSE:
+AJAX, Ajax I - Class A
+Do your own DD but this is my ""growth"" list 18 months min.",InterwebFox,-3,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzhpn2g/,0.0,1.0,0.0,0.0
+223,CZR," Man Im so used to 2020 prices. Sold my CZR at 97ish. over 400% gain on 800 bucks. Its at 108 now. 
+
+Im buying mostly ETFs now and that is so much slower pace but Its safer and much more guaranteed. My investment horizon is 26 years at least but Im used to these huge gains over a year.
+
+Its hard seeing my ETF gain .5% in a day and CZR gaining 4% in a day after I sold.
+
+Im looking for retirement and not risk. Just hardnto change my mindset now",LanceX2,1,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzikow0/,0.015,0.769,0.216,0.9677
+224,MSCI, The 30% are deliberately overweight because the MSCI World has the united states heavily overweight with nearly [67%](https://www.msci.com/documents/10199/178e6643-6ae6-47b9-82be-e1fc565ededb) of it being invested into the US. Generally this would be seen as too much reliance on US performance which is something you are trying to avoid if you're going for a world-portfolio. Therefore putting more into the MSCI Emerging Market will help avoid this issue.,cakeandcoffeebook,1,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzib5dz/,0.131,0.793,0.076,-0.4404
+225,MSCI," Then don't use MSCI world, if you're looking for a world portfolio, don't choose a large and mid only developed markets only benchmark and try to mix and match other indexes, when what you're looking for already exists in the FTSE Global All Cap Index. Also if 67% of your 70% MSCI World allocation is US, then that puts it at around 47% in the total portfolio which is underweight the world market, where it makes up 57% of total world market cap.",LeocantoKosta_,1,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzihen4/,0.0,1.0,0.0,0.0
+226,EM," A couple of things. 
+
+* I deliberately choose choose a large and mid only developed markets only benchmark and try to mix and match other indexes because it allows me to decide myself how much I want to weight developed and emerging markets
+* The FTSE Global All Cap Index is great. I recommend it for anyone that just want's to set and forget and never worry about anything at all, it's a very fine choice.
+* I am not trying to exactly recreate the worldwide stock market but balance it out with a small emphasis on gdp. However I don't want to fully recreate the world economy only by gdp, so I am going for less than the overweight [56%](https://www.statista.com/statistics/710680/global-stock-markets-by-country/) but more than the [16%](https://www.statista.com/statistics/256381/share-of-global-regions-in-the-gross-domestic-product/)\-[24%](https://www.visualcapitalist.com/the-88-trillion-world-economy-in-one-chart/) (depending on calculation) of the worldwide gdp share the US holds.  
+
+
+So while 47% is still relatively high overall this is more or less necessary because the US holds a large share of the publicly listed companies and is the biggest economy of the west. However I do not want to bet nearly 60% of my money on a single country, which is why I prefer to go with a 70/30 World/EM Portfolio.",cakeandcoffeebook,1,/r/stocks/comments/nl6w8c/10k_to_invest_in_a_standard_account_but_where/gzik9uy/,0.022,0.888,0.09,0.8358
+227,ATH, VB (Vanguard's small cap ETF) is about 5% down from its ATH as opposed to VV (Vanguard's large cap ETF) which is down just 0.92% from ATH.,SeaFutures,6,/r/stocks/comments/nl3qq4/now_is_the_time_for_small_caps_again/gzh22rl/,0.0,1.0,0.0,0.0
+228,DM," My micro-cap hasn't done s***
+
+Edit: if you want to know my microcap just looked through my post history but I wouldn't advise jumping in because it's been nothing but downhill for months. Please don't DM me. Thx.",FamiliarEnemy,10,/r/stocks/comments/nl3qq4/now_is_the_time_for_small_caps_again/gzge97k/,0.065,0.834,0.101,0.1116
+229,TA," Lol I have history of every trade. Batting 1.000 how about you chump?
+
+Edit: I also use TA for my DCA programme",iggy555,-4,/r/stocks/comments/nl4pih/anyone_else_hate_the_phrase_let_your_winners_ride/gzhbdog/,0.0,0.872,0.128,0.4215
+230,KO," How does previous market behavior have anything to do with a long term investment, or the performance and execution of a company? You invest in the company,  not the chart.  You think Warren Buffet used TA when deciding to buy KO with a significant part of his portfolio and to hold it for over a decade? 
+
+One of the funniest examples of TA out of ""A random walk down Wallstreet"" was when the author flipped a coin 100x to make a stock chart.  Then showed the chart to a TA nerd who said ""what company is that? We need to buy it right away!""",moolium,5,/r/stocks/comments/nl4pih/anyone_else_hate_the_phrase_let_your_winners_ride/gzhgkpg/,0.021,0.918,0.061,0.6164
+231,TA," How does previous market behavior have anything to do with a long term investment, or the performance and execution of a company? You invest in the company,  not the chart.  You think Warren Buffet used TA when deciding to buy KO with a significant part of his portfolio and to hold it for over a decade? 
+
+One of the funniest examples of TA out of ""A random walk down Wallstreet"" was when the author flipped a coin 100x to make a stock chart.  Then showed the chart to a TA nerd who said ""what company is that? We need to buy it right away!""",moolium,5,/r/stocks/comments/nl4pih/anyone_else_hate_the_phrase_let_your_winners_ride/gzhgkpg/,0.021,0.918,0.061,0.6164
+232,TA, Ok you don’t understand TA. This will go no where,iggy555,-1,/r/stocks/comments/nl4pih/anyone_else_hate_the_phrase_let_your_winners_ride/gzhgyf0/,0.177,0.645,0.177,0.0
+233,TA," Yes I understand TA. I've been doing this a while.  I've studied behavioral finance too. The only validation to TA is that other ""herd mentality"" TA users keep it alive by all acting the same to the patterns. When you invest,  taking the business approach of being an owner is always far superior than trying to predict what a group of traders will do.  You can't use TA to see where a company is going to be 5 years or 10 years from now.
+
+ Seeing patterns in the past is always going to be a reaction of the mind. The only reason they all seem to work,  is because when they don't... the pattern isn't formed to validate.   Supports and resistance as well, it's all trader mentality.  Resistance is created by the fear of traders that missed selling at the previous recent highs,  so traders who missed selling the last time tend to pull trigger as it approaches again causing a high sell demand,  or what you TA folks call it Resistance point.  Reality is that there is no fundamental behind that, it's just behavior of traders.",moolium,0,/r/stocks/comments/nl4pih/anyone_else_hate_the_phrase_let_your_winners_ride/gzht0nl/,0.068,0.854,0.078,0.457
+234,TA, TA Does not predict what a group of traders will do. I don’t believe you understand TA.,iggy555,0,/r/stocks/comments/nl4pih/anyone_else_hate_the_phrase_let_your_winners_ride/gzikc69/,0.0,1.0,0.0,0.0
+235,TA," Since your just making judgements instead of using facts to argue,  I'll use my judgements of you.  I don't believe you understand the market, business,  and investing in general.  Probably in your teens or twenties who is inexperienced enough to think you know everything.
+
+Where do you see on TA that a company is going to create a new product 5 years from now that will double their revenue? Where was the coronavirus shut down shown coming via TA? It's just time consuming garbage for people who don't have a value to their own time, and have the short sighted impatience.",moolium,0,/r/stocks/comments/nl4pih/anyone_else_hate_the_phrase_let_your_winners_ride/gzil4hm/,0.075,0.905,0.021,-0.6701
+236,NVDA," For me, NVDA has two, big short-term events that will affect the stock price, its earnings report tomorrow (will probably make it go up or down a few percentage points) and also their stock split next month in June (will also probably cause a big change in price, although not sure which direction). Also worth considering, fears about inflation have previously driven down NVDA's price the past few months and might continue to cause volatility in the near-term future. In a vacuum, though, I think NVDA should be a good stock to own longer-term.",HappyCrabDay,14,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzg3sfx/,0.05,0.899,0.051,0.0098
+237,AMD," Buy AMD instead, they just announced a share buyback and have strong forward guidance. Stock near support",Eyeman1234,2,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzh5u4s/,0.0,0.613,0.387,0.802
+238,NVDA, Do you understand the products NVDA makes? If you do then its a solid long play imo (I have held since $50 in 2016),cuj0cless,2,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzhvbp7/,0.0,0.84,0.16,0.4588
+239,NVDA," I'll be the bear here. I have puts on NVDA. They trade at a P/E of 90 and typically have a fair value estimate around $400 ($100 post-split). The split news has ran up the price in the last week with no fundamental change to the stock. There are a huge number of people who are buying it for the short term because they think everyone else will be buying it because it's cheap, all trying to sell after the split actually happens. Back to the point of fundamentals, their profit was lower in 2019 and 2020 than in 2018 - this could be fine if they were reinvesting it all, but they aren't. In 2020 their revenue was only about 25% more than in 2018 but their stock price is more than double. They're a great company, but they are too expensive right now. I would buy them if their P/E dropped under 50.",Match_MC,2,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzifyb2/,0.02,0.883,0.096,0.8735
+240,UK, The ARM deal will 100% fail. It needs approval from multiple major government and has already been scrutinized by the UK. It’s not gonna happen.,RichieWOP,2,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzidrdt/,0.118,0.777,0.105,-0.1027
+241,NVDA," I think there is a third short term event which cause cause a price drop, which is ethereum 2.0 proof of stake, and the subsequent flood of mining 3070 and 3080 back to the consumer market.
+
+I think NVDA shares prices have priced in selling more cards at the current price point, and not being able to do that will cause a drop.",ghostcaesar,0,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzhqv58/,0.068,0.896,0.036,-0.25
+242,NVDA," This is true, 100%. I was getting into NVDA when it was $599 previously earlier this year. I then started DCAing, buying 1 to 3 shares at a time, then 10 when big dips happened. Got my cost average down to $565 thanks to this, with now 100 shares in my portfolio.
+
+Now planning on holding onto them until the split, then sell weekly calls at the \~.2 delta range. NVDA will be a good stock to wheel & hold for some time.",BagFullOfKittenBones,3,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzgecg5/,0.0,0.845,0.155,0.9001
+243,AMD, NVDA is much stronger than AMD.,jeffreyianni,0,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzh70ap/,0.0,0.658,0.342,0.3818
+244,NVDA, NVDA is much stronger than AMD.,jeffreyianni,0,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzh70ap/,0.0,0.658,0.342,0.3818
+245,AMD," I have AMD, been down a couple points for months haha",bchen270,4,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzgcbi1/,0.0,0.727,0.273,0.4588
+246,AI," AMD will go up, but maybe not at the same speed as NVidia did. AMD is still treating itself as a retail product producer, focusing on slinging silicon to eat away at Intel's market share. My worry for AMD is that it still have a to make a reliable moat that will protect it for decades. NVidia has this with its focus on AI development.
+
+Not saying AMD would be a bad choice. I had it in my portfolio for sometime, then pruned my holdings to just NVidia (10%) and VTI (90%). I'll be adding more AMD again once I increase my VTI again.",BagFullOfKittenBones,7,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzgexxf/,0.078,0.84,0.083,-0.1154
+247,AMD," AMD will go up, but maybe not at the same speed as NVidia did. AMD is still treating itself as a retail product producer, focusing on slinging silicon to eat away at Intel's market share. My worry for AMD is that it still have a to make a reliable moat that will protect it for decades. NVidia has this with its focus on AI development.
+
+Not saying AMD would be a bad choice. I had it in my portfolio for sometime, then pruned my holdings to just NVidia (10%) and VTI (90%). I'll be adding more AMD again once I increase my VTI again.",BagFullOfKittenBones,7,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzgexxf/,0.078,0.84,0.083,-0.1154
+248,AMD," AMD market cap 94B and revenue 10B
+
+NVDA market cap 390B and revenue 17B
+
+What more do I have to say.",Eyeman1234,8,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzh7guo/,0.0,1.0,0.0,0.0
+249,NVDA," AMD market cap 94B and revenue 10B
+
+NVDA market cap 390B and revenue 17B
+
+What more do I have to say.",Eyeman1234,8,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzh7guo/,0.0,1.0,0.0,0.0
+250,AMD, While I agree that AMD is the stronger buy. Only looking at market cap / revenue is not a good indicator.,yevo,1,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzi9nag/,0.107,0.666,0.227,0.4007
+251,AMZN, Past performance doesn't equal future performance. What's the plan when MSFT and AMZN design their own chips?,jeffreyianni,1,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzj7hx2/,0.0,1.0,0.0,0.0
+252,MSFT, Past performance doesn't equal future performance. What's the plan when MSFT and AMZN design their own chips?,jeffreyianni,1,/r/stocks/comments/nl1d02/thinking_about_nvidia/gzj7hx2/,0.0,1.0,0.0,0.0
+253,RTX," Considering how hard it was to buy the new RTX 3000 series, I wonder what would have happened if the cards had been produced in larger quantities and easier to buy.",Dhaimoran,4,/r/stocks/comments/nlqtjo/nvda_nvidia_announces_financial_results_for_first/gzk580s/,0.043,0.87,0.087,0.34
+254,UK," ITER is not yet complete. Given that commercial fusion will be at least 10 years after it is, your looking at least 15-25 years barring any major breakthroughs. It's planned first operation is 2035 and that's literally the first operation reaction.
+
+The world's first fission station, Calder Hall in the UK, was commsioned in 1956. So assuming that fusion is on the same timescale your looking at mid 2040s probably. That is also assuming you can even invest. ITER is in France, where the energy company is state owned (84.5%) meaning that initally you won't be able to invest in fusuon in europe at all.
+
+The US can forget about it, that said they are currently involved in the coalition of countries contributing to ITER. So they will at least have access to the technology.
+
+It will be a long time before retail investors can touch fusion.",HumbleInspector9554,19,/r/stocks/comments/nlbyjy/investment_into_nuclear_fusion/gzhrm0f/,0.013,0.973,0.014,0.0516
+255,ALB," At first glance I would look at the ARKX and UFO ETFs for a ultra long term commitment like this, for that 20-30 year investment.
+
+If I wanted a shorter term 2-5 year investment in something like ITER by looking at the contractors and material suppliers that have been subcontracted to provide services for ITER and investing in those.  Although I suspect at this point in project those contracts are already signed and built into the stock price.
+
+If hot fusion is ever successful it will consume and drive the consumption of lithium.  Which right now the biggest company in world is ALB Albemarle corporation.",Organic_Current6585,2,/r/stocks/comments/nlbyjy/investment_into_nuclear_fusion/gzi22yx/,0.02,0.875,0.105,0.8481
+256,LMT," I bought LMT because they announced they were ~6 years away from a working prototype of a fusion reactor that could fit on a truck.  
+
+That was around 10 years ago, luckily the stock is up a lot despite there being no movement on the fusion, so that's neat",Evil_Patriarch,1,/r/stocks/comments/nlbyjy/investment_into_nuclear_fusion/gziauxn/,0.0,0.785,0.215,0.874
+257,IMO," I want to know this as well.  IMO this is going to be revolutionary if it works.  I was speaking with some people about this today. 
+
+I've found out so far from their website: 
+
+USA
+
+Oak Ridge National Lab, PPPL (princton plasma physics lab), and Savannahy River National lab, 
+
+IDK if these are publicly traded companies, as this is information i am trying to find out at as well.",BuyNLargeCorp,1,/r/stocks/comments/nlbyjy/investment_into_nuclear_fusion/gziz9xk/,0.031,0.89,0.079,0.3328
+258,USA," I want to know this as well.  IMO this is going to be revolutionary if it works.  I was speaking with some people about this today. 
+
+I've found out so far from their website: 
+
+USA
+
+Oak Ridge National Lab, PPPL (princton plasma physics lab), and Savannahy River National lab, 
+
+IDK if these are publicly traded companies, as this is information i am trying to find out at as well.",BuyNLargeCorp,1,/r/stocks/comments/nlbyjy/investment_into_nuclear_fusion/gziz9xk/,0.031,0.89,0.079,0.3328
+259,ASG," All kinds of companies help building ITER, private, public and state-owned. 
+
+Just look through some articles on ITERs site. Here's an [example](http://iter.org/newsline/-/3410):
+
+>Fusion for Energy has worked closely with European industry at every stage of the process: Luvata (copper strand); Oxford Instruments Superconducting Technology and Bruker European Advanced Superconductors (niobium-tin strand); the ICAS consortium (ENEA, Tratos and Criotec) for conductor cabling, jacketing and spooling; CNIM and SIMIC for radial plate manufacturing; the ASG consortium (ASG Superconductors, Iberdrola Ingeneria, Elytt Energy) for the creation of the superconducting winding pack; and finally SIMIC and subcontractor Babcock Noell for the final production steps (including cold testing, insertion of the winding pack into a structural steel case, and closure welding and machining).
+
+>In all, 700 people from at least 40 companies took part.
+
+These are the kind of companies one should look into. Im absolutely positive, at least some of them are public.",Actual-Ad-7209,3,/r/stocks/comments/nlbyjy/investment_into_nuclear_fusion/gzi1u55/,0.0,0.918,0.082,0.8955
+260,DD," You’re the CPA…. But I thought 5 stocks was supposed to be ideal, 10 was manageable. More than 10 you’re spending too much time or not enough with proper DD.
+Unless you’re part of a investment team, and then each member should use the above rules.",youngbear21,7,/r/stocks/comments/nlkdvg/how_many_stocks_is_too_many/gzj22m9/,0.0,0.901,0.099,0.6808
+261,AMC," well all of these are considered meme stocks.  GME obviously the biggest.  AMC is the other major one out there.  BB was trying to be hyped up and got to $16 or so then toppled down in that same timeframe.  BB has a future, but we really don't know when. 
+
+I'm personally thinking of pulling the ripcord on BB right now to get out of it on today's gains.  So probably a good play lol.",donthavethetime2,3,/r/stocks/comments/nln5br/blackberry_listen_to_my_son/gzjxqw1/,0.0,0.808,0.192,0.9443
+262,BB," well all of these are considered meme stocks.  GME obviously the biggest.  AMC is the other major one out there.  BB was trying to be hyped up and got to $16 or so then toppled down in that same timeframe.  BB has a future, but we really don't know when. 
+
+I'm personally thinking of pulling the ripcord on BB right now to get out of it on today's gains.  So probably a good play lol.",donthavethetime2,3,/r/stocks/comments/nln5br/blackberry_listen_to_my_son/gzjxqw1/,0.0,0.808,0.192,0.9443
+263,GME," well all of these are considered meme stocks.  GME obviously the biggest.  AMC is the other major one out there.  BB was trying to be hyped up and got to $16 or so then toppled down in that same timeframe.  BB has a future, but we really don't know when. 
+
+I'm personally thinking of pulling the ripcord on BB right now to get out of it on today's gains.  So probably a good play lol.",donthavethetime2,3,/r/stocks/comments/nln5br/blackberry_listen_to_my_son/gzjxqw1/,0.0,0.808,0.192,0.9443
+264,BB," His earlier recommendations worked out due to luck. Gut feelings, tip from a friend, ""experts"" on Reddit. Invest something to show your support but investing in individual stocks on a hunch can go south real fast.
+
+Of all the stocks to pick BB would not be one of them.",hopingtothrive,2,/r/stocks/comments/nln5br/blackberry_listen_to_my_son/gzjxlpc/,0.0,0.881,0.119,0.6059
+265,AMC, Yes. I told him how smart he is and how proud I am. We check the stocks everyday together. He also told me to buy AMC and we did earlier. The reason I was worried about Blackberry is because he said it was just mainly a gut feeling mixed with reading up some. So I wasn't sure if it's better to put more in AMC instead of splitting between the two.,hotmomma21,0,/r/stocks/comments/nln5br/blackberry_listen_to_my_son/gzjq4zr/,0.058,0.773,0.169,0.8156
+266,CVS," Just bought some CVS. :/ I keep telling myself not to buy at the top, but...",HappyCrabDay,7,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gziu1gx/,0.14,0.756,0.105,-0.1531
+267,CVS," Long CVS
+
+&#x200B;
+
+Can someone pull up a chart of Kroger from when Amazon bought Whole foods to now?",TR_the_Bull_Moose,3,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gzj6fwx/,0.0,0.909,0.091,0.1779
+268,CVS," CVS isn't a pharmacy play anymore, it's a full-vertical play (Aetna+MinuteClinic+Pharmacy) so the initial selloff (~3%+) was a *huge* overreaction. $100 PT year end, 4.1% of my portfolio, second highest-conviction stock (behind MSFT).",syzygyz,1,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gzjxcie/,0.176,0.824,0.0,-0.582
+269,PT," CVS isn't a pharmacy play anymore, it's a full-vertical play (Aetna+MinuteClinic+Pharmacy) so the initial selloff (~3%+) was a *huge* overreaction. $100 PT year end, 4.1% of my portfolio, second highest-conviction stock (behind MSFT).",syzygyz,1,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gzjxcie/,0.176,0.824,0.0,-0.582
+270,CVS, Think there is a chance CVS sees $80 before it bounces?,COYSnizle,1,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gzk9dd3/,0.0,0.818,0.182,0.25
+271,CVS, After continued strong earnings and guidance I’m confident CVS will surpass the $90 mark in the next year and continue growing from there. Hold tight and don’t let the Amazon buzz scare you too much,Didntlikedefaultname,2,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gzj0lea/,0.074,0.696,0.23,0.6908
+272,CVS," Also, it's interesting what happened with Target pharmacies:
+
+https://corporate.target.com/article/2015/12/cvs-target-acquisition-complete
+
+If it was easy to compete in the retail pharmacy business with CVS and Walgreens, you'd think that Target with its existing brick and mortar footprint and ecommerce platform should have been able to do it. Yet they decided to sell to CVS and now the Target pharmacies are in fact CVS.",snake250,2,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gzjlfzx/,0.0,0.913,0.087,0.6808
+273,CVS, No it isn't lol. CVS has tons of contracts that *explicitly* exclude non-CVS pharmacies.,ThemChecks,1,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gzkb8hl/,0.369,0.631,0.0,-0.6632
+274,CVS," Excellent example and I 100% agree. CVS also plays both sides of the transaction with Aetna as the payor, which gives them an additional edge",Didntlikedefaultname,1,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gzjq8oq/,0.0,0.719,0.281,0.802
+275,CVS," Okay but that could be because other pharmacies don’t want to bother given the reimbursement rates. 
+
+CVS can’t exclude other pharmacies for no reason. If Amazon doesn’t want to partake in it, that’s a different story.",AmbitiousPig,1,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gzkblh6/,0.193,0.657,0.15,-0.5927
+276,CVS," CVS excludes other pharmacies because client employers agree to it for their groups. Has little to do with what other pharmacies want or do not want. Pharmacies that don't want to work with CVS are rare, maybe excepting compounding pharmacies. Vast majority have some kind of contract already, although it often excludes maintenance drugs (ie, unit shifters). CVS also already works with government insurance, via Silverscript and a ton of Medicaid groups, although I don't think they can require patients to go to CVS (pharmacy lock in can still apply).
+
+The only way for Amazon to make good on retail pharmacies is by launching their own pbm or buying another company out that operates one. CVS runs the largest pbm in the country by far--quite legally. 
+
+I don't get the sense you know much about what drives pharmacy payor profits.",ThemChecks,1,/r/stocks/comments/nlj25d/cvs_walgreens_shares_fall_on_report_that_amazon/gzkcicf/,0.0,0.894,0.106,0.8834
+277,EM," Thank you for the well thought out reply. I am recently up around 35% year to date and closed all of my positions besides Gee EM Eeee (my cost basis is 45$).
+
+I have been looking at 10 year charts for Spy, Dow, Nasdaq, and it seems extremely unsustainable. However, I am in my first year of trading (good timing I suppose)
+
+I think I may continue to sit out until there is a major pullback. Do you have a strategy?",JonnyIII,0,/r/stocks/comments/nl0xmt/spdr_sp_500_etf_spy_short_interest_climbs_to/gzgjxo6/,0.0,0.939,0.061,0.5574
+278,ATH," If you are following the market on a daily basis, then you might as well partake in the game of musical chairs. Right now, the market is euphoric and at the ATH, so a pullback could be imminent, or the market could go on another run.
+
+I'd wait right now to see what happens in the next week or two as we get a move one way or another away from SPY $415. If the market still has room to move higher, then I'd maintain 25% USD, 15% EUR (managing the currency balance depending on whether EURUSD breaks higher or lower), 5% crypto (once volatility has died down; BTC, ETH, IOTA); 10% gold, and 45% in reopening equity trades. Financials, consumer spending, and cash-positive FANGs like Apple and Google. Just try to keep your positions as simple as possible so you can quickly liquidate your positions and move into a strong currency if shit hits the fan.
+
+I think if you wait you'll be able to get 225 basis points or more on the 10 year, some time next year. It will depend on whether inflation gets out of control or not, whether the Fed needs to go on a crazy hiking spree that would crush bonds. But I'd probably start buying the front end of the curve out to the 10 year bonds around 190-225 basis points in small position sizes, maybe through ETFs. I wouldn't use ETFs outside of bonds however, as you can usually find good picks that will outperform the market, and you don't want to be caught in a stampede where you are trying to sell the same basket of stocks as every other retail investor out there.
+
+So yeah, 40-45% cash position, then try to sell-out before the music stops, and look to buy the big companies with an aggressive 75% equity/15% bond/5% crypto/5% cash portfolio. For the equities portion, I'm thinking:
+
+Alphabet 15%
+
+Amazon 12.5%
+
+Tesla 12.5% (Tesla, unlike Google, Apple, and Amazon, is debt heavy with relatively weak cash flow, so will suffer from high rates more than other tech companies. So buy low.)
+
+Nvidia 10%
+
+Apple 10%
+
+JP Morgan 10%
+
+Microsoft 5%
+
+Visa 5%
+
+Costco 5%
+
+Home Depot 5%
+
+Coca-cola 5%
+
+Crispr 2.5%
+
+Exact Sciences 2.5%",Law_And_Politics,4,/r/stocks/comments/nl0xmt/spdr_sp_500_etf_spy_short_interest_climbs_to/gzgnanf/,0.072,0.867,0.061,-0.6717
+279,ETH," If you are following the market on a daily basis, then you might as well partake in the game of musical chairs. Right now, the market is euphoric and at the ATH, so a pullback could be imminent, or the market could go on another run.
+
+I'd wait right now to see what happens in the next week or two as we get a move one way or another away from SPY $415. If the market still has room to move higher, then I'd maintain 25% USD, 15% EUR (managing the currency balance depending on whether EURUSD breaks higher or lower), 5% crypto (once volatility has died down; BTC, ETH, IOTA); 10% gold, and 45% in reopening equity trades. Financials, consumer spending, and cash-positive FANGs like Apple and Google. Just try to keep your positions as simple as possible so you can quickly liquidate your positions and move into a strong currency if shit hits the fan.
+
+I think if you wait you'll be able to get 225 basis points or more on the 10 year, some time next year. It will depend on whether inflation gets out of control or not, whether the Fed needs to go on a crazy hiking spree that would crush bonds. But I'd probably start buying the front end of the curve out to the 10 year bonds around 190-225 basis points in small position sizes, maybe through ETFs. I wouldn't use ETFs outside of bonds however, as you can usually find good picks that will outperform the market, and you don't want to be caught in a stampede where you are trying to sell the same basket of stocks as every other retail investor out there.
+
+So yeah, 40-45% cash position, then try to sell-out before the music stops, and look to buy the big companies with an aggressive 75% equity/15% bond/5% crypto/5% cash portfolio. For the equities portion, I'm thinking:
+
+Alphabet 15%
+
+Amazon 12.5%
+
+Tesla 12.5% (Tesla, unlike Google, Apple, and Amazon, is debt heavy with relatively weak cash flow, so will suffer from high rates more than other tech companies. So buy low.)
+
+Nvidia 10%
+
+Apple 10%
+
+JP Morgan 10%
+
+Microsoft 5%
+
+Visa 5%
+
+Costco 5%
+
+Home Depot 5%
+
+Coca-cola 5%
+
+Crispr 2.5%
+
+Exact Sciences 2.5%",Law_And_Politics,4,/r/stocks/comments/nl0xmt/spdr_sp_500_etf_spy_short_interest_climbs_to/gzgnanf/,0.072,0.867,0.061,-0.6717
+280,JP," If you are following the market on a daily basis, then you might as well partake in the game of musical chairs. Right now, the market is euphoric and at the ATH, so a pullback could be imminent, or the market could go on another run.
+
+I'd wait right now to see what happens in the next week or two as we get a move one way or another away from SPY $415. If the market still has room to move higher, then I'd maintain 25% USD, 15% EUR (managing the currency balance depending on whether EURUSD breaks higher or lower), 5% crypto (once volatility has died down; BTC, ETH, IOTA); 10% gold, and 45% in reopening equity trades. Financials, consumer spending, and cash-positive FANGs like Apple and Google. Just try to keep your positions as simple as possible so you can quickly liquidate your positions and move into a strong currency if shit hits the fan.
+
+I think if you wait you'll be able to get 225 basis points or more on the 10 year, some time next year. It will depend on whether inflation gets out of control or not, whether the Fed needs to go on a crazy hiking spree that would crush bonds. But I'd probably start buying the front end of the curve out to the 10 year bonds around 190-225 basis points in small position sizes, maybe through ETFs. I wouldn't use ETFs outside of bonds however, as you can usually find good picks that will outperform the market, and you don't want to be caught in a stampede where you are trying to sell the same basket of stocks as every other retail investor out there.
+
+So yeah, 40-45% cash position, then try to sell-out before the music stops, and look to buy the big companies with an aggressive 75% equity/15% bond/5% crypto/5% cash portfolio. For the equities portion, I'm thinking:
+
+Alphabet 15%
+
+Amazon 12.5%
+
+Tesla 12.5% (Tesla, unlike Google, Apple, and Amazon, is debt heavy with relatively weak cash flow, so will suffer from high rates more than other tech companies. So buy low.)
+
+Nvidia 10%
+
+Apple 10%
+
+JP Morgan 10%
+
+Microsoft 5%
+
+Visa 5%
+
+Costco 5%
+
+Home Depot 5%
+
+Coca-cola 5%
+
+Crispr 2.5%
+
+Exact Sciences 2.5%",Law_And_Politics,4,/r/stocks/comments/nl0xmt/spdr_sp_500_etf_spy_short_interest_climbs_to/gzgnanf/,0.072,0.867,0.061,-0.6717
+281,UK," I day trade index options but wouldn't buy ETFs unless it was for exposure to rates. 
+
+We just sold some real property in CA are are keeping it all in USD hedged with other properties in UK and EU for the time being. There is literally nothing worth buying at the moment in my opinion and it's more about managing the forex risk against dollar inflation.",Law_And_Politics,3,/r/stocks/comments/nl0xmt/spdr_sp_500_etf_spy_short_interest_climbs_to/gzh1c98/,0.069,0.931,0.0,-0.5645
+282,GOOG, GOOG and LMT,JRshoe1997,2,/r/stocks/comments/nljpkq/quantum_computing_stocks/gziz7e6/,0.0,1.0,0.0,0.0
+283,LMT, GOOG and LMT,JRshoe1997,2,/r/stocks/comments/nljpkq/quantum_computing_stocks/gziz7e6/,0.0,1.0,0.0,0.0
+284,IBM," If I’m not mistaken, IBM is surprisingly at the forefront of quantum right now.",BenevolentMachine,2,/r/stocks/comments/nljpkq/quantum_computing_stocks/gzj2px9/,0.0,0.736,0.264,0.5122
+285,GOOG," Even if this is right, and Google are only in their backheel, i will rather put my money on GOOG.",AK47DK,3,/r/stocks/comments/nljpkq/quantum_computing_stocks/gzjg8hd/,0.0,1.0,0.0,0.0
+286,HON, HON - https://www.honeywell.com/us/en/news/2020/06/the-worlds-highest-performing-quantum-computer-is-here,stickman07738,2,/r/stocks/comments/nljpkq/quantum_computing_stocks/gzjnl76/,0.0,1.0,0.0,0.0
+287,EZGO," EZGO, not to be confused with EZ-GO golf carts, owned by Textron, TXT.",Infinite_Prize287,1,/r/stocks/comments/nl614g/15_billion_people_in_china_estimated_600_million/gzi02n5/,0.0,0.859,0.141,0.2411
+288,TXT," EZGO, not to be confused with EZ-GO golf carts, owned by Textron, TXT.",Infinite_Prize287,1,/r/stocks/comments/nl614g/15_billion_people_in_china_estimated_600_million/gzi02n5/,0.0,0.859,0.141,0.2411
+289,SE," In with SE for long term, is competing effectively against some very dominant players. I believe it long term hold.
+
+Coupang, I not to interested as it seems not fairly valued at current price and is mostly South Korea.
+
+Waiting for Tokopedia Gojek and will enter that as second SEA internet play.",one8e4,2,/r/stocks/comments/nlnhas/what_are_your_thoughts_on_the_longevity_of_se/gzjmnrh/,0.083,0.822,0.095,0.162
+290,AI," SE will be a 500B mkt cap company easily if not a 1T before it’s over with. I absolutely love the vision of Forrest Li, Founder and CEO. I also appreciate they are taking a page from Amazon (AWS) and using their high revenue gaming leg of the business (Garena) to fund their other ventures until those then become profitable. 
+
+3 Strong ‘Legs’ of the business 
+
+ - Garena, Shopee(E-Commerce), SeaMoney (Fintech) 
+
+And they keep growing the business ‘legs’ to stand on 
+
+ - AI Labs, and Sea Capital 
+
+Company will be huge.
+
+Gojek and Tokopedia merged for a reason, SE is that reason.",PootJuice94,2,/r/stocks/comments/nlnhas/what_are_your_thoughts_on_the_longevity_of_se/gzk33du/,0.0,0.78,0.22,0.9672
+291,SE," SE will be a 500B mkt cap company easily if not a 1T before it’s over with. I absolutely love the vision of Forrest Li, Founder and CEO. I also appreciate they are taking a page from Amazon (AWS) and using their high revenue gaming leg of the business (Garena) to fund their other ventures until those then become profitable. 
+
+3 Strong ‘Legs’ of the business 
+
+ - Garena, Shopee(E-Commerce), SeaMoney (Fintech) 
+
+And they keep growing the business ‘legs’ to stand on 
+
+ - AI Labs, and Sea Capital 
+
+Company will be huge.
+
+Gojek and Tokopedia merged for a reason, SE is that reason.",PootJuice94,2,/r/stocks/comments/nlnhas/what_are_your_thoughts_on_the_longevity_of_se/gzk33du/,0.0,0.78,0.22,0.9672
+292,BABA," I really like SE, but i think their valuation is mind boggling. They have so much competition in SE Asia ( Lazada, tokopedia). They are currently growing very agressively in order to gain market share. They are luring customer with discounts. I dont think that huge growth is sustainable. Nevertheless, I think the stock willl gain momentum again.
+
+Coupang is also a cool company, but I think the market in Southkorea is too small, altought they have a huge online penetration in retail. I would like to see them entering new markets in South korea. 
+
+Personally, I think BABA is currently just stupid undervalued. Its like China and SEA Etf with only fast growing companies",Competitive_Judge664,1,/r/stocks/comments/nlnhas/what_are_your_thoughts_on_the_longevity_of_se/gzjxwk3/,0.071,0.691,0.238,0.9692
+293,SE," I really like SE, but i think their valuation is mind boggling. They have so much competition in SE Asia ( Lazada, tokopedia). They are currently growing very agressively in order to gain market share. They are luring customer with discounts. I dont think that huge growth is sustainable. Nevertheless, I think the stock willl gain momentum again.
+
+Coupang is also a cool company, but I think the market in Southkorea is too small, altought they have a huge online penetration in retail. I would like to see them entering new markets in South korea. 
+
+Personally, I think BABA is currently just stupid undervalued. Its like China and SEA Etf with only fast growing companies",Competitive_Judge664,1,/r/stocks/comments/nlnhas/what_are_your_thoughts_on_the_longevity_of_se/gzjxwk3/,0.071,0.691,0.238,0.9692
+294,SE," Hey thanks for the feedback. It was irritating that it went down $11/share right away, but it happens. I bought Berk-b which also started sliding right away, but I feel confident it’s a good stock to hold longer term. 
+
+I want to hold my investments a few years but I was starting to second guess that one pick for no logical reason. I just started getting single stocks and taking more risks. I had been in robo managed accounts and mutual funds before but I had some extra income to “play with” and I placed an almost $1,300 bet on SE",Mojo_of_Jojos,1,/r/stocks/comments/nlnhas/what_are_your_thoughts_on_the_longevity_of_se/gzkb40z/,0.076,0.812,0.112,0.5662
+295,NI," Assuming I did my math right.. it’s trading at a 46 PE ratio based on 2020 earnings. It would need earnings to grow by 132% YoY to grow into its current valuation.. and Q1 NI grew 279%. 
+
+It’s pricy, anecdotally I’ve seen the demand for their products. The one thing I’m not sure about is staying power, how many users will stay on and keep buying supplies, subscriptions, etc. 
+
+Personally, didn’t even know they IPO’d. I’d start a tiny position but sounds like a wait and see. Closer to $20 is fair value but everything is overvalued in this market.",hdhsshsb,2,/r/stocks/comments/nlkpw4/cricut_ticker_crct/gzk24yo/,0.027,0.883,0.09,0.821
+296,AXON," TTC, AXON, CURI",Farscape1477,1,/r/stocks/comments/nlkgg1/rstocks_discuss_overlooked_stocks_wednesday_may/gzjiu4u/,0.0,1.0,0.0,0.0
+297,CURI," TTC, AXON, CURI",Farscape1477,1,/r/stocks/comments/nlkgg1/rstocks_discuss_overlooked_stocks_wednesday_may/gzjiu4u/,0.0,1.0,0.0,0.0
+298,TTC," TTC, AXON, CURI",Farscape1477,1,/r/stocks/comments/nlkgg1/rstocks_discuss_overlooked_stocks_wednesday_may/gzjiu4u/,0.0,1.0,0.0,0.0
+299,DD," Opko Health and CoreMedix. Both are super undervalued for quite some time now. Go do your DD on them, or just look at what the analysts are saying if you are lazy",BK108,1,/r/stocks/comments/nlkgg1/rstocks_discuss_overlooked_stocks_wednesday_may/gzjyrn1/,0.069,0.824,0.107,0.34
+300,LRMR," One person said try a paper account and see how it goes. 
+
+For every 2 best ones there are 10 worst ones
+
+Company	Price	Change	Rel. vol.
+
+SONG	$8.97	-84.04%	
+
+LK	$1.38	-54.00%	
+
+LRMR	$7.82	-42.09%	
+
+MNK	$0.75	-31.19%	
+
+ETP-PE	$9.17	-25.75%	
+
+JCP	$0.18	-23.02%	
+
+SKYS	$7.17	-22.74%	
+
+WINS	$14.21	-22.35%	
+
+BRPAU	$40.00	-18.37%	
+
+YRCW	$5.11	-17.58%",1UpUrBum,3,/r/stocks/comments/nlgtcs/what_can_you_make_off_day_trading/gzilgek/,0.063,0.803,0.133,0.6739
+301,VERY," It's very easy to turn $100 m into $ 1 m day trading.  No skill needed. 
+Almost no one, however, has what it takes to make a living at it.  It takes intelligence, mental focus,  control,  a willingness to lose and stay focused. 
+If you are trying to actually make your daily bread with it it is VERY hard. What do you do when you have a losing week and the mortgage is due and the baby needs shoes.  It's easy to make mistakes and over stress.
+I know this because I have tried and failed. My problem is patience and losses.",Gwsb1,2,/r/stocks/comments/nlgtcs/what_can_you_make_off_day_trading/gzimmlo/,0.219,0.661,0.12,-0.864
+302,GS," Yes, those who work at GS, MS, Deutsche, et al.",TribalTrading,3,/r/stocks/comments/nlgtcs/what_can_you_make_off_day_trading/gziorhv/,0.0,0.769,0.231,0.4019
+303,MS," Yes, those who work at GS, MS, Deutsche, et al.",TribalTrading,3,/r/stocks/comments/nlgtcs/what_can_you_make_off_day_trading/gziorhv/,0.0,0.769,0.231,0.4019
+304,TD," Just a bit of advice from someone who’s been screwed by robinhood more than once. I currently use TD Ameritrade. I also have Robinhood, but don’t have any money on it. Robinhood is a simple, but useful tool for reading charts and doing research. You can still use Robinhood for these purposes without trusting them with your money. You might not even actually own the stocks you buy on Robinhood. They’re shady as hell. TD Ameritrade’s app “Think or Swim” has zero fees and works great.",cavemaps,2,/r/stocks/comments/nlngj8/wheres_a_good_place_to_learn_more_about_stocks/gzk2tmn/,0.116,0.787,0.097,-0.2232
+305,HUGE," You and countless traders/investors try to use it as a hedge and get smoked every time, including myself. You will try 10 times and maybe time it once. There is too much market depth and transparency on it so anytime there is heavy buying into banks and hedge funds will take the opposite side of your trade deliberately and with 10 thousand times more volume so you will rarely ever win that game. Then there the times you time it perfectly, market sells off HUGE and it only moves up 3%. I’m telling you it’s 100% the most manipulated etf in existence. Of course do what you’d like but I’m tryin to save you the decade of losses I incurred and learned the hard way. It’s a bogus scam. Good luck either way/",fogization,2,/r/stocks/comments/nlhd2t/why_did_i_lose_all_of_my_equity_in_uvxy/gzitls1/,0.093,0.784,0.122,0.6524
+306,RES, RES is my pick,caem123,1,/r/stocks/comments/nl7xdg/deals_in_the_market/gzhxqyn/,0.0,1.0,0.0,0.0
+307,AMC," The rocket being the overall market ... self destruct sequence has already been initiated!!
+
+The Moon Rocket that is AMC & GME will continue to thrive in this hostile new realm!",Excellent-Welcome-28,-1,/r/stocks/comments/nl7xdg/deals_in_the_market/gzjhtnv/,0.206,0.794,0.0,-0.8061
+308,GME," The rocket being the overall market ... self destruct sequence has already been initiated!!
+
+The Moon Rocket that is AMC & GME will continue to thrive in this hostile new realm!",Excellent-Welcome-28,-1,/r/stocks/comments/nl7xdg/deals_in_the_market/gzjhtnv/,0.206,0.794,0.0,-0.8061
+309,DISCA," I was long DISCA and got out as the bottom fell out a couple months ago. They work great as a lean niche cash flow positive low expense service which hits core demos of passionate fans for a cheap rate. Can they do the massive conglomerate thing and drive mainstream audience in a sustained way that Netflix does... maybe? But that’s a harder game to play. 
+
+I am potentially interested in the new company should they show the ability to grow cash flows and pay down the now massive debt. But I don’t see a good way to enter predeal so I’m on the sidelines till I see what shakes out.",ParadoxPath,2,/r/stocks/comments/nl4nb1/discovery_warner_media_from_att_means_the_stock/gzgmhur/,0.054,0.772,0.174,0.9337
+310,DISCA," I think it's be even more of a shock if the deal DIDN'T happen at this point. These are no small companies and the amount of lawsuits that would ensue of they decided not to do it after people bailed on the stocks would be pretty insane. Basically, anyone buying DISCA at this point is purchasing 29% of the new company...at least as far as we know.",Mr_JerryS,2,/r/stocks/comments/nl4nb1/discovery_warner_media_from_att_means_the_stock/gzgm30c/,0.129,0.827,0.044,-0.6344
+311,DISCA, Buying DISCA now means you are getting 29% of both Discovery and HBO.  The deal is clearly designed to be balanced or the shorted side would have walked away.,jbetexas,2,/r/stocks/comments/nl4nb1/discovery_warner_media_from_att_means_the_stock/gzgmrzn/,0.0,0.912,0.088,0.4019
+312,AMC, Take your money and run. Options can go very wrong very fast especially if it’s AMC like you said,Druid16,3,/r/stocks/comments/nlkxfq/i_have_a_question_about_options/gzjcrox/,0.148,0.743,0.109,-0.2247
+313,AAPL," Price per share should be the last consideration when choosing to buy a stock unless you can't access fractionals.
+
+AAPL now has a lower P/E than other FAANGMs but higher than its historical with very little change in its revenue streams. The increased premium could be justified from its growing revenues from services and future plans in EVs and some other tech. Whether it is overvalued now or not is debatable. It will likely retain its growth rate as long as people love Apple products. 
+
+I don't find any of the FAANGMs to be overvalued at the moment. They are immensely profitable, growing like what you'd expect from growth companies, and their products are globally popular and likely to stay that way. I will pounce on any huge dips off inflation fears and whatnot.",littlefiredragon,3,/r/stocks/comments/nljjva/apple_vs_the_other_faang_s/gzjas3e/,0.033,0.727,0.24,0.9861
+314,FB, Wtf does price per share have to do with anything. Throw that out of your analysis ASAP. Aapl is a fine company that I have held for years and plan on holding well into the future. Imo That said Google and FB are cheaper or similar value with more growth and Amzn while more expensive I would argue is also cheaper if you factor in growth. Msft is probably in a similar situation.,Beagleoverlord33,3,/r/stocks/comments/nljjva/apple_vs_the_other_faang_s/gzj7ql8/,0.079,0.746,0.175,0.7024
+315,AAPL," I think among FAANG FB and GOOGL has best chance imo. I personally own FB GOOGL MSFT. AAPL is something I would think about touching under 110. They posted great numbers last couple quarters and their products are great. Boosted dividends and buybacks but I dont see same growth it had over last couple years. Look at it post split, it split around 125 back in August i think, still hovers arnd there. FB, GOOGL performed much better during same time.
+It seems expensive over here but doesnt hurt to start small position and add on as it correct.",erpatel,1,/r/stocks/comments/nljjva/apple_vs_the_other_faang_s/gziwadm/,0.026,0.802,0.172,0.9285
+316,FB," I think among FAANG FB and GOOGL has best chance imo. I personally own FB GOOGL MSFT. AAPL is something I would think about touching under 110. They posted great numbers last couple quarters and their products are great. Boosted dividends and buybacks but I dont see same growth it had over last couple years. Look at it post split, it split around 125 back in August i think, still hovers arnd there. FB, GOOGL performed much better during same time.
+It seems expensive over here but doesnt hurt to start small position and add on as it correct.",erpatel,1,/r/stocks/comments/nljjva/apple_vs_the_other_faang_s/gziwadm/,0.026,0.802,0.172,0.9285
+317,GOOGL," I think among FAANG FB and GOOGL has best chance imo. I personally own FB GOOGL MSFT. AAPL is something I would think about touching under 110. They posted great numbers last couple quarters and their products are great. Boosted dividends and buybacks but I dont see same growth it had over last couple years. Look at it post split, it split around 125 back in August i think, still hovers arnd there. FB, GOOGL performed much better during same time.
+It seems expensive over here but doesnt hurt to start small position and add on as it correct.",erpatel,1,/r/stocks/comments/nljjva/apple_vs_the_other_faang_s/gziwadm/,0.026,0.802,0.172,0.9285
+318,MSFT," I think among FAANG FB and GOOGL has best chance imo. I personally own FB GOOGL MSFT. AAPL is something I would think about touching under 110. They posted great numbers last couple quarters and their products are great. Boosted dividends and buybacks but I dont see same growth it had over last couple years. Look at it post split, it split around 125 back in August i think, still hovers arnd there. FB, GOOGL performed much better during same time.
+It seems expensive over here but doesnt hurt to start small position and add on as it correct.",erpatel,1,/r/stocks/comments/nljjva/apple_vs_the_other_faang_s/gziwadm/,0.026,0.802,0.172,0.9285
+319,PT," After making my 100% gain from the american covid recovery, I dumped some into EWZ to catch Brazil's delayed recovery. i'm up 13% on EWZ since march- So it was a good move 4 months ago.That being said, Brazil (EWZ) is very cyclic in its ups and down, And I'll be selling when it hits $40/share, and will wait for its next 15% dip, then ride it up to $45/share. While waiting on the dip, i'll move the money to VOO, where i'll either be wrong and not make as much as I could, or will be right, and will have saved myself from a 15% qtrly dip that brazil likes to do.
+
+I think there is a least one, maybe two more of these quarterly dips and rises before brazil either 1) breaks it's trend and keeps rising at a steady rate or 2) election cycle chaos causes a 20% dip overnight, in which I'll buy back into right away.  Afterall, it's Bolso vs. whoever the PT is able to wrangle up - A literal shitstorm waiting to happen, so I'd rather sit it out.
+
+tldr, i've got some money in EWZ, and it's treated me well these last 4 months. i'm going to try and play off the cyclic pattern to get a little more out of it; - But i'll be gone before the next presidential election cycle-",NavalLacrosse,2,/r/stocks/comments/nliwx4/opportunity_in_emerging_markets/gziv9up/,0.034,0.916,0.05,0.3883
+320,EM, I personally hold VWO but I think EM markets might be choppy for a bit,Didntlikedefaultname,1,/r/stocks/comments/nliwx4/opportunity_in_emerging_markets/gzj0you/,0.0,1.0,0.0,0.0
+321,EM," VWO is heavy China with Tawain, India, and Brazil I believe as other top holding. I still say all EM might be choppy for a bit but I also think there will be tremendous long term growth. Particularly from China and India",Didntlikedefaultname,2,/r/stocks/comments/nliwx4/opportunity_in_emerging_markets/gzjabmx/,0.0,0.882,0.118,0.5859
+322,ARCT," I always see your posts and wonder so I decided to look back one month ago and see how you did. I'll assume you sold most quickly but still...if someone held:
+
+One month ago watchlist and returns:
+
+ARCT down 21%
+
+CEMI down 19.95%
+
+ETSY down 21%
+
+FFHL  down 15.99%
+
+GTS   down .9%
+
+OSW  up 4.7%
+
+VGR   up 6.2%
+
+WBA up 2%
+
+WWE  up 8.3%",LegendLarrynumero1,9,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgewbp/,0.0,1.0,0.0,0.0
+323,CEMI," I always see your posts and wonder so I decided to look back one month ago and see how you did. I'll assume you sold most quickly but still...if someone held:
+
+One month ago watchlist and returns:
+
+ARCT down 21%
+
+CEMI down 19.95%
+
+ETSY down 21%
+
+FFHL  down 15.99%
+
+GTS   down .9%
+
+OSW  up 4.7%
+
+VGR   up 6.2%
+
+WBA up 2%
+
+WWE  up 8.3%",LegendLarrynumero1,9,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgewbp/,0.0,1.0,0.0,0.0
+324,ETSY," I always see your posts and wonder so I decided to look back one month ago and see how you did. I'll assume you sold most quickly but still...if someone held:
+
+One month ago watchlist and returns:
+
+ARCT down 21%
+
+CEMI down 19.95%
+
+ETSY down 21%
+
+FFHL  down 15.99%
+
+GTS   down .9%
+
+OSW  up 4.7%
+
+VGR   up 6.2%
+
+WBA up 2%
+
+WWE  up 8.3%",LegendLarrynumero1,9,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgewbp/,0.0,1.0,0.0,0.0
+325,FFHL," I always see your posts and wonder so I decided to look back one month ago and see how you did. I'll assume you sold most quickly but still...if someone held:
+
+One month ago watchlist and returns:
+
+ARCT down 21%
+
+CEMI down 19.95%
+
+ETSY down 21%
+
+FFHL  down 15.99%
+
+GTS   down .9%
+
+OSW  up 4.7%
+
+VGR   up 6.2%
+
+WBA up 2%
+
+WWE  up 8.3%",LegendLarrynumero1,9,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgewbp/,0.0,1.0,0.0,0.0
+326,GTS," I always see your posts and wonder so I decided to look back one month ago and see how you did. I'll assume you sold most quickly but still...if someone held:
+
+One month ago watchlist and returns:
+
+ARCT down 21%
+
+CEMI down 19.95%
+
+ETSY down 21%
+
+FFHL  down 15.99%
+
+GTS   down .9%
+
+OSW  up 4.7%
+
+VGR   up 6.2%
+
+WBA up 2%
+
+WWE  up 8.3%",LegendLarrynumero1,9,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgewbp/,0.0,1.0,0.0,0.0
+327,OSW," I always see your posts and wonder so I decided to look back one month ago and see how you did. I'll assume you sold most quickly but still...if someone held:
+
+One month ago watchlist and returns:
+
+ARCT down 21%
+
+CEMI down 19.95%
+
+ETSY down 21%
+
+FFHL  down 15.99%
+
+GTS   down .9%
+
+OSW  up 4.7%
+
+VGR   up 6.2%
+
+WBA up 2%
+
+WWE  up 8.3%",LegendLarrynumero1,9,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgewbp/,0.0,1.0,0.0,0.0
+328,VGR," I always see your posts and wonder so I decided to look back one month ago and see how you did. I'll assume you sold most quickly but still...if someone held:
+
+One month ago watchlist and returns:
+
+ARCT down 21%
+
+CEMI down 19.95%
+
+ETSY down 21%
+
+FFHL  down 15.99%
+
+GTS   down .9%
+
+OSW  up 4.7%
+
+VGR   up 6.2%
+
+WBA up 2%
+
+WWE  up 8.3%",LegendLarrynumero1,9,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgewbp/,0.0,1.0,0.0,0.0
+329,WBA," I always see your posts and wonder so I decided to look back one month ago and see how you did. I'll assume you sold most quickly but still...if someone held:
+
+One month ago watchlist and returns:
+
+ARCT down 21%
+
+CEMI down 19.95%
+
+ETSY down 21%
+
+FFHL  down 15.99%
+
+GTS   down .9%
+
+OSW  up 4.7%
+
+VGR   up 6.2%
+
+WBA up 2%
+
+WWE  up 8.3%",LegendLarrynumero1,9,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgewbp/,0.0,1.0,0.0,0.0
+330,WWE," I always see your posts and wonder so I decided to look back one month ago and see how you did. I'll assume you sold most quickly but still...if someone held:
+
+One month ago watchlist and returns:
+
+ARCT down 21%
+
+CEMI down 19.95%
+
+ETSY down 21%
+
+FFHL  down 15.99%
+
+GTS   down .9%
+
+OSW  up 4.7%
+
+VGR   up 6.2%
+
+WBA up 2%
+
+WWE  up 8.3%",LegendLarrynumero1,9,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgewbp/,0.0,1.0,0.0,0.0
+331,PT, A bit biased seeing as 1/2 that were down actually hit my PT in like 4 days but okay lol,No_Seesaw1134,-6,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgfdwh/,0.066,0.6,0.334,0.7391
+332,WBA," > WBA
+
+The charts he uses are easy enough to read. Walgreen is more my style and it was easy back in March with a strong overall uptrend. It's back close to a buy point now. BUT it's no longer in a strong uptrend because it has failed to make new highs. So don't buy it.",1UpUrBum,1,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgtccc/,0.114,0.722,0.165,0.3071
+333,PT, Going long. That was also RIGHT before a market crashed. PT for my clients,No_Seesaw1134,0,/r/stocks/comments/nl34v8/my_watchlist_for_5262021/gzgkbrw/,0.0,1.0,0.0,0.0
+334,MA," A potential workaround which I'm using is based on moving averages. 
+
+I use trading view for most of my charting needs. 
+
+For your scenario you may consider using a 20 period moving average for example.
+
+A $10 increase from the hypothetical dip to $60 
+Would generally correspond to a break above a certain periods (e.g. on a 4hour chart)'s 20 period moving average.
+
+Trading view can send you an alert when the stock touches/breaks above the 20period MA.
+
+You may then manually buy the stock.",bboyrawn,1,/r/stocks/comments/nloc31/wondering_if_this_niche_order_typescenario_exists/gzka99u/,0.0,0.919,0.081,0.6808
+335,UK," I'm with Capital but I use UK spread betting with them not CFDs. Apparently you don't pay tax with UK spread betting, the share prices are different too",luckytheo7,1,/r/stocks/comments/nlk7w7/capitalcom_for_long_term_investments_why_not/gzjfifn/,0.0,0.855,0.145,0.5013
+336,IBKR," I have QT and IBKR, both solid. I can't believe people hate QT. Had zero issue, and best customer service imo.",daynightcase,2,/r/stocks/comments/nlm9wp/canadian_brokers/gzjjvor/,0.0,0.469,0.531,0.9419
+337,TFSA," to the guy who commented asking why ive had enough, idk where ur comment went but ill answer; 
+
+ QT has an awful UI and their app is buggy and hard to work with (obviously this isnt a great concern but i get impatient and frustrated easily)
+
+But this morning i got an email regarding my TFSA which isnt a margin account but the email basically said that i owed money, huh, on friday my options expired ITM and i was good, i acknowledged this and did not want to exercise  but for some reason QT ""automatically exercised"" and bought all those shares out and that has never happened to me with any other options i have dealt with in the past. when i called them to see why this had happened they had a pretty hard time explaining why and they just sent an email stating that it was automatically exrcised because my option expired ITM and that i had the buying power to buy all those shares (which i didnt or i wouldnt have gotten the email saying that i owed money \* someone more educated pls correct me if im wrong about this). I sold all those shares and obviously i was in the green again.",Madlukk,1,/r/stocks/comments/nlm9wp/canadian_brokers/gzjma3r/,0.127,0.752,0.121,0.1512
+338,UI," to the guy who commented asking why ive had enough, idk where ur comment went but ill answer; 
+
+ QT has an awful UI and their app is buggy and hard to work with (obviously this isnt a great concern but i get impatient and frustrated easily)
+
+But this morning i got an email regarding my TFSA which isnt a margin account but the email basically said that i owed money, huh, on friday my options expired ITM and i was good, i acknowledged this and did not want to exercise  but for some reason QT ""automatically exercised"" and bought all those shares out and that has never happened to me with any other options i have dealt with in the past. when i called them to see why this had happened they had a pretty hard time explaining why and they just sent an email stating that it was automatically exrcised because my option expired ITM and that i had the buying power to buy all those shares (which i didnt or i wouldnt have gotten the email saying that i owed money \* someone more educated pls correct me if im wrong about this). I sold all those shares and obviously i was in the green again.",Madlukk,1,/r/stocks/comments/nlm9wp/canadian_brokers/gzjma3r/,0.127,0.752,0.121,0.1512
+339,BMO, Yea thinking of going with BMO as they are my bank,Madlukk,1,/r/stocks/comments/nlm9wp/canadian_brokers/gzjdv06/,0.0,1.0,0.0,0.0
+340,BMO, Im sure BMO will be fine too.,vitalylativ,2,/r/stocks/comments/nlm9wp/canadian_brokers/gzjehfw/,0.0,0.549,0.451,0.4767
+341,NIO, NIO is overvalued but might stay overvalued for the rest of the year,Thedhcpddosgod,6,/r/stocks/comments/nldgbo/shifting_some_of_the_portfolio_to_puts_what_would/gzhzhpm/,0.0,1.0,0.0,0.0
+342,RBLX," RBLX, or pretty much anything making inflated earnings during the pandemic that will be unsustainable when it’s over.",YuroStudios,3,/r/stocks/comments/nldgbo/shifting_some_of_the_portfolio_to_puts_what_would/gzhy678/,0.0,0.842,0.158,0.4939
+343,AMC," Many on reddit believe this is possible. I’ve been holding AMC and GME for a while and have read this theory many times on the subreddits over the last 5 months. You won’t find mainstream media talking about this though, so I can’t provide solid sources. Also no one really knows how much of the shorts have been covered, even though the mainstream media tries to put out numbers. This could go a lot deeper than what the media wants retail investors to know.
+
+Also, I am not a financial expert.",cavemaps,4,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzk26c8/,0.025,0.953,0.021,-0.0865
+344,GME," Many on reddit believe this is possible. I’ve been holding AMC and GME for a while and have read this theory many times on the subreddits over the last 5 months. You won’t find mainstream media talking about this though, so I can’t provide solid sources. Also no one really knows how much of the shorts have been covered, even though the mainstream media tries to put out numbers. This could go a lot deeper than what the media wants retail investors to know.
+
+Also, I am not a financial expert.",cavemaps,4,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzk26c8/,0.025,0.953,0.021,-0.0865
+345,AMC, Don’t worry about GME & AMC if you aren’t in them. What you should be worried about is the Reverse Repo Rates. In the last 3 days 1T USD has been pushed into the market at 0% interest. They have another collateral issue. 2.1M Mortgages are in the overdue 90+ days.,Glum-Researcher1532,1,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzk8mam/,0.094,0.85,0.055,-0.2732
+346,GME, Don’t worry about GME & AMC if you aren’t in them. What you should be worried about is the Reverse Repo Rates. In the last 3 days 1T USD has been pushed into the market at 0% interest. They have another collateral issue. 2.1M Mortgages are in the overdue 90+ days.,Glum-Researcher1532,1,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzk8mam/,0.094,0.85,0.055,-0.2732
+347,AMC," I'm not a GME or AMC holder, but *cheat* is a bit ridiculous given hedge fund activities. More like retailers are coordinating. There's no cheat in that.",wilderecon,7,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzk2udz/,0.289,0.604,0.106,-0.7477
+348,GME," I'm not a GME or AMC holder, but *cheat* is a bit ridiculous given hedge fund activities. More like retailers are coordinating. There's no cheat in that.",wilderecon,7,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzk2udz/,0.289,0.604,0.106,-0.7477
+349,AMC," Is that why AMC is up 58% in the last week????????????? Doesn’t seem like it’s over, genius",cavemaps,1,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzk9vl5/,0.0,0.822,0.178,0.5362
+350,DD," No I don’t, but I also don’t think the hedge funds were prepared for the amount of effort and DD that has gone into this the past few months.  Have you read some of the DD?  It isn’t some high schooler writing those up.
+
+No one knows what’s going to happen, including you.",Vladimir_Taradanko91,2,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzk782h/,0.08,0.877,0.043,-0.2617
+351,AMC, There are institutions and big players invested in GME and AMC as well,cavemaps,1,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzka1l8/,0.0,0.851,0.149,0.2732
+352,GME, There are institutions and big players invested in GME and AMC as well,cavemaps,1,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzka1l8/,0.0,0.851,0.149,0.2732
+353,DD," Dude you have zero idea what you’re talking about.  Zero.  
+
+I’m not even a GME fanboy, but I can certainly tell you the company is worth more than $20 today and the foreseeable future.  You should do your own DD on GameStop; they’re not the same company they were 12 months ago.",Vladimir_Taradanko91,2,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzk8h73/,0.0,0.898,0.102,0.6652
+354,GME," Dude you have zero idea what you’re talking about.  Zero.  
+
+I’m not even a GME fanboy, but I can certainly tell you the company is worth more than $20 today and the foreseeable future.  You should do your own DD on GameStop; they’re not the same company they were 12 months ago.",Vladimir_Taradanko91,2,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzk8h73/,0.0,0.898,0.102,0.6652
+355,GME," Im very dump persone i can barly right my name
+But i know GME is not going to 0$ 
+I might lose 40% max 
+You realy see gme going under 80$ in the next few month?",lag_lol,1,/r/stocks/comments/nlq74u/what_happens_to_the_general_stock_market_if_the/gzkc53e/,0.151,0.849,0.0,-0.6701
+356,ON," Alrightyyyy I got you fam.
+
+Fist of all, I think of “trading” to be a pejorative term for “investing”. All those people who day trade and swing trade are gambling.. which in essence is fine! However, they’re playing with their savings and you think it’s proper investing. Buffet say “time in the market beats timing the market”. Stop looking for a quick penny because chances are, you’re going to get emotional and fail. 
+
+Stay away from options for the first year. Idk if you’re trading options or equities, but stick to equities until you get your footing. 
+
+Second of all, the best way to win in an equity market is time. Markets fluctuate. If you have a conviction, stick to it. Even if you appear to be wrong, stay with your thesis. You might be right in the end, but if you sold too early into red, you’re wrong and you lose. 
+
+Target ETF’s. Most people fail to consistently pick winners. That’s why ETF’s come in handy. Let the professionals make the picks. Take $20 a week and put it into the $SPY. Average into positions, and don’t YOLO. Beware the FOMO demon too. He’s big, he’s loud, and he’s convincing, but he’s evil at nature. Make coordinated moves with conviction. Make a journal and diary your thoughts and plays. 
+
+You’re building equity, so let it build and compound. Look for diversification. Get compounding dividends. Look for growth. Look for value. **YOU MAKE MONEY ON THE BUY, not the sell!!** 
+
+My fingers hurt now, so goodbye",RelativeEnthusiasm27,1,/r/stocks/comments/nlizin/how_do_you_trade/gzjcgff/,0.108,0.765,0.127,0.5386
+357,REGN, I do some swing trading and day trading for companies I know will go up within a short amount of time. There are some stocks I swing trade a lot like REGN which goes up and comes down within roughly 2 weeks.  The rest of my portfolio is long term investments,Key-Elephant-2000,0,/r/stocks/comments/nlizin/how_do_you_trade/gzixd51/,0.0,0.946,0.054,0.3612
+358,DXC," IBM  . . .  their gigantic 'Global Business Services' division is the largest IT outsourcing, consulting, and business process provider on the planet.  But no one under age 30 seems to know that, LOL.  Approximately 350k employees
+
+DXC Technology . . . formerly HP Enterprise and before that EDS and CSC.  Also a gigantic outsourcing and consulting firm with around 150k employees",Extremely-Bad-Idea,3,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzh5q4e/,0.046,0.875,0.079,0.4587
+359,HP," IBM  . . .  their gigantic 'Global Business Services' division is the largest IT outsourcing, consulting, and business process provider on the planet.  But no one under age 30 seems to know that, LOL.  Approximately 350k employees
+
+DXC Technology . . . formerly HP Enterprise and before that EDS and CSC.  Also a gigantic outsourcing and consulting firm with around 150k employees",Extremely-Bad-Idea,3,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzh5q4e/,0.046,0.875,0.079,0.4587
+360,IBM," IBM  . . .  their gigantic 'Global Business Services' division is the largest IT outsourcing, consulting, and business process provider on the planet.  But no one under age 30 seems to know that, LOL.  Approximately 350k employees
+
+DXC Technology . . . formerly HP Enterprise and before that EDS and CSC.  Also a gigantic outsourcing and consulting firm with around 150k employees",Extremely-Bad-Idea,3,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzh5q4e/,0.046,0.875,0.079,0.4587
+361,IT," IBM  . . .  their gigantic 'Global Business Services' division is the largest IT outsourcing, consulting, and business process provider on the planet.  But no one under age 30 seems to know that, LOL.  Approximately 350k employees
+
+DXC Technology . . . formerly HP Enterprise and before that EDS and CSC.  Also a gigantic outsourcing and consulting firm with around 150k employees",Extremely-Bad-Idea,3,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzh5q4e/,0.046,0.875,0.079,0.4587
+362,SE," Nagarro's former parent company, Allgeier SE is also traded in Germany.",GYN-k4H-Q3z-75B,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzk7ola/,0.0,1.0,0.0,0.0
+363,DXC," Lol, yeah, I know IBM has a huge service division, but I've intentionally kept it out because it's pretty much impossible to identify the value the market gives to the Service VS other things like Cloud (red hat) or other software they own.  Same with HPE... 
+
+&#x200B;
+
+But thanks for the comment! I appreciate the help and will take a look at DXC.",theLOLbird,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzie2uw/,0.0,0.649,0.351,0.9777
+364,HPE," Lol, yeah, I know IBM has a huge service division, but I've intentionally kept it out because it's pretty much impossible to identify the value the market gives to the Service VS other things like Cloud (red hat) or other software they own.  Same with HPE... 
+
+&#x200B;
+
+But thanks for the comment! I appreciate the help and will take a look at DXC.",theLOLbird,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzie2uw/,0.0,0.649,0.351,0.9777
+365,IBM," Lol, yeah, I know IBM has a huge service division, but I've intentionally kept it out because it's pretty much impossible to identify the value the market gives to the Service VS other things like Cloud (red hat) or other software they own.  Same with HPE... 
+
+&#x200B;
+
+But thanks for the comment! I appreciate the help and will take a look at DXC.",theLOLbird,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzie2uw/,0.0,0.649,0.351,0.9777
+366,VS," Lol, yeah, I know IBM has a huge service division, but I've intentionally kept it out because it's pretty much impossible to identify the value the market gives to the Service VS other things like Cloud (red hat) or other software they own.  Same with HPE... 
+
+&#x200B;
+
+But thanks for the comment! I appreciate the help and will take a look at DXC.",theLOLbird,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzie2uw/,0.0,0.649,0.351,0.9777
+367,GD," Also, are you looking at government consulting too? Booz and Leidos would be adds for that. Gov’t tends to be lower margin work from what I can tell, but those would be more or less pure consulting (versus GD, which has consulting and other lines of business)
+
+Also, are you looking at staffing? KForce does both IT and Financial staffing. Some of the other big ones do IT, as well as everything else (Randstad, Adecco, Kelly Services, Robert Half). GEE group is also listed, but looks to be in a financially terrible position.",Sgt-Bullish,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzipvvz/,0.063,0.909,0.027,-0.5362
+368,IT," Also, are you looking at government consulting too? Booz and Leidos would be adds for that. Gov’t tends to be lower margin work from what I can tell, but those would be more or less pure consulting (versus GD, which has consulting and other lines of business)
+
+Also, are you looking at staffing? KForce does both IT and Financial staffing. Some of the other big ones do IT, as well as everything else (Randstad, Adecco, Kelly Services, Robert Half). GEE group is also listed, but looks to be in a financially terrible position.",Sgt-Bullish,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzipvvz/,0.063,0.909,0.027,-0.5362
+369,HR," Hey bud! Thanks for the suggestion... But I'm specifically looking for an IT pure play service provider... Or at least something with 80%+ of revenue coming say an IT consulting division.
+
+&#x200B;
+
+I'm not familiar with Booz and Leidos...What kind of consulting to they provide to the government? Is it a bit of a mixed bag? Accounting? Urbanism? Perhaps defense, environmental, etc etc? Or is it more IT focused?
+
+&#x200B;
+
+To my knowledge most of the revenues from (Randstad, Adecco, Robert Half or even say something like Morneau Shepell) comes from HR consulting. This wouldn't be of use to me, unfortunately as I'm really looking at IT focused specifically.",theLOLbird,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzixp2m/,0.025,0.819,0.155,0.9417
+370,IT," Hey bud! Thanks for the suggestion... But I'm specifically looking for an IT pure play service provider... Or at least something with 80%+ of revenue coming say an IT consulting division.
+
+&#x200B;
+
+I'm not familiar with Booz and Leidos...What kind of consulting to they provide to the government? Is it a bit of a mixed bag? Accounting? Urbanism? Perhaps defense, environmental, etc etc? Or is it more IT focused?
+
+&#x200B;
+
+To my knowledge most of the revenues from (Randstad, Adecco, Robert Half or even say something like Morneau Shepell) comes from HR consulting. This wouldn't be of use to me, unfortunately as I'm really looking at IT focused specifically.",theLOLbird,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzixp2m/,0.025,0.819,0.155,0.9417
+371,IT," Booz and Leidos do a lot of government consulting most of which is IT. Booz also has management consulting and intelligence work. Leidos does too, but less of it. But they compete with Accenture. SAIC might also be one that does similar work. Leidos runs the help desk for the NRC. Booz does a lot of Forescout implementations for DoD entities. (I don’t have a full list of what they do).",Sgt-Bullish,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gziymv3/,0.0,0.922,0.078,0.6808
+372,NRC," Booz and Leidos do a lot of government consulting most of which is IT. Booz also has management consulting and intelligence work. Leidos does too, but less of it. But they compete with Accenture. SAIC might also be one that does similar work. Leidos runs the help desk for the NRC. Booz does a lot of Forescout implementations for DoD entities. (I don’t have a full list of what they do).",Sgt-Bullish,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gziymv3/,0.0,0.922,0.078,0.6808
+373,SAIC," Booz and Leidos do a lot of government consulting most of which is IT. Booz also has management consulting and intelligence work. Leidos does too, but less of it. But they compete with Accenture. SAIC might also be one that does similar work. Leidos runs the help desk for the NRC. Booz does a lot of Forescout implementations for DoD entities. (I don’t have a full list of what they do).",Sgt-Bullish,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gziymv3/,0.0,0.922,0.078,0.6808
+374,IT," Okay... That's actually quite interesting... 
+
+&#x200B;
+
+I'm assuming if 80-90% + of the revenue comes from 1 specific customer (US government at large), then the multiple will differ as it's riskier, but it's still relevant. 
+
+&#x200B;
+
+I will have a look at Booz, Leidos and SAIC. If they have a good chunk of revenue from IT, then it's worth having has a comparable. 
+
+&#x200B;
+
+Thanks mate, I had no knowledge of these companies whatsoever! But it's definitely worth taking a look at the Investors presentation and trying to figure out how much of the revenue comes from IT. 
+
+&#x200B;
+
+I'm not sure what Forescout implementation actually means? Trying to figure it out, it seems related to network access and architecture? Definitely something that would be interesting to me.",theLOLbird,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzj2cly/,0.049,0.782,0.169,0.9569
+375,SAIC," Okay... That's actually quite interesting... 
+
+&#x200B;
+
+I'm assuming if 80-90% + of the revenue comes from 1 specific customer (US government at large), then the multiple will differ as it's riskier, but it's still relevant. 
+
+&#x200B;
+
+I will have a look at Booz, Leidos and SAIC. If they have a good chunk of revenue from IT, then it's worth having has a comparable. 
+
+&#x200B;
+
+Thanks mate, I had no knowledge of these companies whatsoever! But it's definitely worth taking a look at the Investors presentation and trying to figure out how much of the revenue comes from IT. 
+
+&#x200B;
+
+I'm not sure what Forescout implementation actually means? Trying to figure it out, it seems related to network access and architecture? Definitely something that would be interesting to me.",theLOLbird,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzj2cly/,0.049,0.782,0.169,0.9569
+376,IT," Lol, yeah... I guess the margins would naturally be compressed due to the regulations and overhead, but I think it's still worth digging into... If I see I'm just going down a useless rabbit whole, I will just dump them, but I think a look at the investor's presentation would be worth it, just to see how much revenue comes from IT servicing. 
+
+&#x200B;
+
+I'll add Serco to the list of names to dig into! 
+
+&#x200B;
+
+I truly appreciate the suggestion mate! Thanks so much dude!",theLOLbird,1,/r/stocks/comments/nl7km5/help_with_dd_it_service_firms/gzjb7zm/,0.074,0.73,0.195,0.8916
+377,RIDE," Can you name a new customer they landed since you've heard of them?  Are they taking pre-orders like Tesla's Cybertruck?  Have you been tracking alternative EV fleet truck company's progress, like Ford?  or XL Fleet which is up to 4,200 vehicles per quarter?
+
+I own a modest amount of RIDE shares (I'm a Buckeye and love Ohio) but am hesitant to buy more shares.",caem123,4,/r/stocks/comments/nl81ts/ride_is_lordstown_motors_doomed_now/gzhxk1k/,0.036,0.77,0.194,0.8343
+378,XL," Can you name a new customer they landed since you've heard of them?  Are they taking pre-orders like Tesla's Cybertruck?  Have you been tracking alternative EV fleet truck company's progress, like Ford?  or XL Fleet which is up to 4,200 vehicles per quarter?
+
+I own a modest amount of RIDE shares (I'm a Buckeye and love Ohio) but am hesitant to buy more shares.",caem123,4,/r/stocks/comments/nl81ts/ride_is_lordstown_motors_doomed_now/gzhxk1k/,0.036,0.77,0.194,0.8343
+379,GM," I do not like RIDE. CEO is a....joke. There are other companies coming in as well - established ones like GM and Ford along with Tesla and a more popular new company, Rivian. 
+
+And RIDE is an easy money maker: sell calls and short the stock",Key-Elephant-2000,2,/r/stocks/comments/nl81ts/ride_is_lordstown_motors_doomed_now/gzj3v3c/,0.084,0.755,0.161,0.5958
+380,RIDE," I do not like RIDE. CEO is a....joke. There are other companies coming in as well - established ones like GM and Ford along with Tesla and a more popular new company, Rivian. 
+
+And RIDE is an easy money maker: sell calls and short the stock",Key-Elephant-2000,2,/r/stocks/comments/nl81ts/ride_is_lordstown_motors_doomed_now/gzj3v3c/,0.084,0.755,0.161,0.5958
+381,RIDE," I can't for the life of me understand why anyone would invest in this company.
+
+Douchebag CEO aside, this is a company built around one product: an EV truck.  That means they have to compete with Tesla and every major auto manufacturer out there, who have all committed to transitioning their fleets over to EV.  Ford already makes the best selling vehicle in the US and it's going to be EV.
+
+What makes anyone think that RIDE, or any of the small EV players for that matter, can compete?",SirGasleak,2,/r/stocks/comments/nl81ts/ride_is_lordstown_motors_doomed_now/gzif42c/,0.042,0.879,0.078,0.34
+382,GM, Rivian and many others are coming....  some with established brands like Ford and GM.,caem123,2,/r/stocks/comments/nl81ts/ride_is_lordstown_motors_doomed_now/gzhxmdd/,0.0,0.839,0.161,0.3612
+383,TSLA," TSLA was the only real game in town... til lately.  VW, Ford and pretty much every other major auto maker are making their entry.  
+
+They very well may be behind TSLA in terms of FA (fully autonomous), but that doesn't really matter.  Right now people are looking for nice electric cars with good safety (e.g. collision avoidance) at a good price.
+
+As these well know automakers eat away at TSLA they'll also be perfecting their own FA for years down the road when that becomes the norm.
+
+TSLA has lots of legit competition now.  The narrative that ""TSLA will own the EV market"" simply is provably no longer true.  5, 10 years from now there'll still be roughly the same major automakers still competing for that ridiculously lucrative pie.",Karnes,10,/r/stocks/comments/nl5tob/teslas_explosive_growth/gzgstep/,0.068,0.738,0.194,0.9663
+384,FSD," I hear your point, but think that 40% revenue growth is likely underestimating Tesla's trajectory at least for the next few years significantly and also ignores margin expansion of which there's likely to be a lot (removal of radar, additional FSD revs at $10k per vehicle, front-end casting, and 4680 cells all seem like feasible areas of improvement).
+
+I'm viewing 50% growth as the minimum target this year and with Q1 showing 74% YoY growth and production ramping alongside an expansion in Shanghai plus two additional factories starting up later in the year I don't think that's terribly unreasonable. Both Austin and Berlin have the physical footprint to have much higher production than their existing facilities as well.
+
+Still not adding unless it hits $500 but if and when it does I'm finding a fat stack of cash to drop on it unless something major changes in the meantime.",Runningflame570,1,/r/stocks/comments/nl5tob/teslas_explosive_growth/gzhb8ia/,0.033,0.844,0.123,0.9402
