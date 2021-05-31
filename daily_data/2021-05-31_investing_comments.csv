@@ -1,0 +1,430 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,UK, I'm in the UK and I have way more invested in the S&P than the FTSE,_DeanRiding,3,/r/investing/comments/nozzic/if_i_am_not_from_us_should_i_still_invest_in_sp/h02lb0d/,0.0,1.0,0.0,0.0
+1,SNX," my bank in thailand offers mutual funds for SP500 (and countless other markets), not sure how safe the mutual fund is but the exposure is 100% sp500.
+
+also from thailand I was able to open accounts at many brokers like interactivebrokers, swissquote, saxo. they are regulated brokers that should be safe and let you invest in any international ETF.
+
+if you live in some sanctioned country, you could try cryptocurrency exchanges that offer synthetic assets, like binance or SNX or FTX. you can use those to get exposure to stocks or ETFs without actually holding the ETF yourself. though cryptocurrency exchanges have somewhat high risk of exit scamming, but it's probably still better than keeping your money in fiat if you have no other option. Split it amongst many exchanges to lower risk of exchange exit scam and make sure to use Google Auth 2fa to prevent hacks.
+
+cash is trash, you should never hold it long term. if you don't have access to any form of institutional investment, you should buy physical gold and/or self custody cryptocurrency.
+
+the safest bet is to have a bit of everything, physical gold, physical cash, self custody cryptocurrency, stocks (etfs), and gov bonds. this way no matter what happens you're safe from short term crisis and long term fiat devaluation.",Theory-Early,1,/r/investing/comments/nozzic/if_i_am_not_from_us_should_i_still_invest_in_sp/h02l5e4/,0.142,0.785,0.073,-0.9528
+2,UK, Iam from the UK and iam invested in the s&p 500 and other us companys and global companies,royalshah10,1,/r/investing/comments/nozzic/if_i_am_not_from_us_should_i_still_invest_in_sp/h0381ea/,0.0,1.0,0.0,0.0
+3,FANG," Didn't they just release the FANG mutual fund? Also i use vested to invest in US markets, the fees are really high for back transfer and trading",Hospital_Slow,1,/r/investing/comments/nozzic/if_i_am_not_from_us_should_i_still_invest_in_sp/h02p98h/,0.0,0.94,0.06,0.1531
+4,AMC, What is your PT for AMC on Tuesday? The overall sentiment seems bullish and many big influencer are loading up,Thedhcpddosgod,-22,/r/investing/comments/nozzic/if_i_am_not_from_us_should_i_still_invest_in_sp/h02n7hs/,0.0,1.0,0.0,0.0
+5,PT, What is your PT for AMC on Tuesday? The overall sentiment seems bullish and many big influencer are loading up,Thedhcpddosgod,-22,/r/investing/comments/nozzic/if_i_am_not_from_us_should_i_still_invest_in_sp/h02n7hs/,0.0,1.0,0.0,0.0
+6,AMC," So this past weekend, I went to Macy's  (wasted money on clothes) , GME (spent my money wisely on games), and to AMC (movies back in town). Saw so many women and MILFs wearing LULULEMON. I'm going to go long on LULU.",Growthing742,2,/r/investing/comments/noyxay/daily_general_discussion_and_spitballin_thread/h049s57/,0.0,0.933,0.067,0.4215
+7,GME," So this past weekend, I went to Macy's  (wasted money on clothes) , GME (spent my money wisely on games), and to AMC (movies back in town). Saw so many women and MILFs wearing LULULEMON. I'm going to go long on LULU.",Growthing742,2,/r/investing/comments/noyxay/daily_general_discussion_and_spitballin_thread/h049s57/,0.0,0.933,0.067,0.4215
+8,LULU," So this past weekend, I went to Macy's  (wasted money on clothes) , GME (spent my money wisely on games), and to AMC (movies back in town). Saw so many women and MILFs wearing LULULEMON. I'm going to go long on LULU.",Growthing742,2,/r/investing/comments/noyxay/daily_general_discussion_and_spitballin_thread/h049s57/,0.0,0.933,0.067,0.4215
+9,TD," Modern Portfolio Theory, the CAPM, etc. all say to do this: maximize your Sharpe ratio (or something similar) along the efficient frontier of asset allocation, then draw a tangent line between that cure and the risk-free rate. Then pick the point along the tangent line that matches your risk tolerance and leverage up your investments to an acceptable level of risk tolerance.
+
+But obviously I can't borrow at the risk-free rate. I can borrow at the TD Ameritrade rate, which is not good. Or I could get an Interactive Brokers account, and maybe borrow at a lower rate.
+
+But there are other ways of getting leverage. I could, for example, buy itm or atm calls (on securities with liquid options trading; so not most bond funds, unfortunately).  It seems like it would be helpful to know how much this leverage costs versus buying on margin. For a given option, how do I calculate the implied financing cost of getting leverage? Is it just theta decay plus the spread? I know put-call parity implies a return at the risk-free rate (or slightly less, actually), but that's not the only fee you pay when buying options.
+
+(I realize there are other risks associated with buying like a 60/40 bond:stock fund and leveraging it heavily with options. My question is less whether this is prudent and more how it would work for an actual investor.)",Jeff_Bezels,1,/r/investing/comments/noyxay/daily_general_discussion_and_spitballin_thread/h03apab/,0.069,0.841,0.09,0.6188
+10,APR," You can borrow close to the risk free rate by using a box spread on SPX. I'm on TDA and used this to borrow from the markets at around a 0.81% APR which is way better than TDA margin. SPX is euro style options so no chance of early assignment. 
+
+https://www.optionseducation.org/referencelibrary/white-papers/page-assets/listed-options-box-spread-strategies-for-borrowing-or-lending-cash.aspx",bazonkers,1,/r/investing/comments/noyxay/daily_general_discussion_and_spitballin_thread/h046k45/,0.086,0.766,0.148,0.5442
+11,TDA," You can borrow close to the risk free rate by using a box spread on SPX. I'm on TDA and used this to borrow from the markets at around a 0.81% APR which is way better than TDA margin. SPX is euro style options so no chance of early assignment. 
+
+https://www.optionseducation.org/referencelibrary/white-papers/page-assets/listed-options-box-spread-strategies-for-borrowing-or-lending-cash.aspx",bazonkers,1,/r/investing/comments/noyxay/daily_general_discussion_and_spitballin_thread/h046k45/,0.086,0.766,0.148,0.5442
+12,AAPL," Investors were saying the same thing about AMZN, AAPL, GOOGL, NFLX and others 5 or so years ago. Tech and growth stocks trade differently compared to Boomer stocks.",Growthing742,-1,/r/investing/comments/noyxay/daily_general_discussion_and_spitballin_thread/h046fd1/,0.0,0.909,0.091,0.3818
+13,AMZN," Investors were saying the same thing about AMZN, AAPL, GOOGL, NFLX and others 5 or so years ago. Tech and growth stocks trade differently compared to Boomer stocks.",Growthing742,-1,/r/investing/comments/noyxay/daily_general_discussion_and_spitballin_thread/h046fd1/,0.0,0.909,0.091,0.3818
+14,GOOGL," Investors were saying the same thing about AMZN, AAPL, GOOGL, NFLX and others 5 or so years ago. Tech and growth stocks trade differently compared to Boomer stocks.",Growthing742,-1,/r/investing/comments/noyxay/daily_general_discussion_and_spitballin_thread/h046fd1/,0.0,0.909,0.091,0.3818
+15,NFLX," Investors were saying the same thing about AMZN, AAPL, GOOGL, NFLX and others 5 or so years ago. Tech and growth stocks trade differently compared to Boomer stocks.",Growthing742,-1,/r/investing/comments/noyxay/daily_general_discussion_and_spitballin_thread/h046fd1/,0.0,0.909,0.091,0.3818
+16,TD," Hi everyone,
+
+I just wanted to ask for some feedback regarding ETFs that I wanted to invest in. Time horizon is long-term, looking to hold at least 20 years and ideally beyond that. 28 years old right now and living in Canada.
+
+The platform I am using is Questrade. (TFSA)
+
+I am starting with $1000 for now and looking to add about $500 each month for an even allocation (dollar cost averaging)
+
+I initially bought seven ETFs, but I wanted to simplify because I think I over-diversified my portfolio considering I am only starting with $1000. So my question is, if I had to choose my top 4 from this list, which ones would be the best?
+
+VCN, VFV, XQQ, XUU, XEQT, VEB, ZCN, ZEA, ZLB, TD (I know this is not an ETF but I wanted to get some as well).
+
+Please let me know! Thank you so much in advance. :)",pcskimchi,2,/r/investing/comments/noywnc/daily_advice_thread_all_basic_help_or_advice/h03072d/,0.0,0.869,0.131,0.9656
+17,AAPL," I’ve been playing around with backtesting a possible portfolio, but I feel like I’m missing something or doing something wrong. 
+
+A bit of background: I started investing beyond my employer 401k by opening a Roth last April (great timing!). Because I knew very little I put about 80% in an S&P 500 index fund and chose a couple individual stocks like AAPL DIS TGT.
+
+Now I’m at a point where I really enjoy doing DD, following the market, and watching individual stocks. I built a portfolio made up of mostly stable old, boring dividend aristocrats with some index funds to add some growth. I’ve been backtesting it before selling off a large chunk of my S&P 500 holding and jumping in.
+
+I’m 35 and looking at least 20 years until retirement. Everything I’ve heard and read has shown it’s really hard to beat the total market benchmark, especially with a tilt towards value. Testing this portfolio across different timeframes (5 years, 10 years, 20 years) and various time periods from 90s to 2000s to recent, this value dividend-growth focused portfolio beats every time. From 2001-2021 it ends up 34% higher than VTSAX. Even starting after the dotcom crash still puts me ahead.
+
+I know past performance doesn’t predict future, but am I missing something here? 
+
+[Here’s the portfolio backtesting link](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=2001&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=6000&annualOperation=1&annualAdjustment=500&inflationAdjusted=true&annualPercentage=0.0&frequency=2&rebalanceType=4&absoluteDeviation=5.0&relativeDeviation=25.0&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=-1&benchmarkSymbol=VTSMX&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Growth+Portfolio&symbol1=VTSMX&allocation1_1=0&symbol2=AAPL&allocation2_1=2&symbol3=AFL&allocation3_1=4&symbol4=DIS&allocation4_1=3&symbol5=JNJ&allocation5_1=5&symbol6=ABT&allocation6_1=4&symbol7=JPM&allocation7_1=4&symbol8=KO&allocation8_1=3&symbol9=LMT&allocation9_1=3&symbol10=MCD&allocation10_1=2&symbol11=MMM&allocation11_1=2&symbol12=MSFT&allocation12_1=2&symbol13=NEE&allocation13_1=5&symbol14=O&allocation14_1=4&symbol15=PEP&allocation15_1=3&symbol16=PG&allocation16_1=3&symbol17=QQQ&allocation17_1=10&allocation17_2=0&symbol18=FRT&allocation18_1=4&symbol19=TGT&allocation19_1=3&symbol20=VFINX&allocation20_1=30&symbol21=VZ&allocation21_1=4)
+ - $6000 starting balance, maxing out at $500/month contribution for 20 years",danhauk,1,/r/investing/comments/noywnc/daily_advice_thread_all_basic_help_or_advice/h037npt/,0.074,0.808,0.118,0.8957
+18,DD," I’ve been playing around with backtesting a possible portfolio, but I feel like I’m missing something or doing something wrong. 
+
+A bit of background: I started investing beyond my employer 401k by opening a Roth last April (great timing!). Because I knew very little I put about 80% in an S&P 500 index fund and chose a couple individual stocks like AAPL DIS TGT.
+
+Now I’m at a point where I really enjoy doing DD, following the market, and watching individual stocks. I built a portfolio made up of mostly stable old, boring dividend aristocrats with some index funds to add some growth. I’ve been backtesting it before selling off a large chunk of my S&P 500 holding and jumping in.
+
+I’m 35 and looking at least 20 years until retirement. Everything I’ve heard and read has shown it’s really hard to beat the total market benchmark, especially with a tilt towards value. Testing this portfolio across different timeframes (5 years, 10 years, 20 years) and various time periods from 90s to 2000s to recent, this value dividend-growth focused portfolio beats every time. From 2001-2021 it ends up 34% higher than VTSAX. Even starting after the dotcom crash still puts me ahead.
+
+I know past performance doesn’t predict future, but am I missing something here? 
+
+[Here’s the portfolio backtesting link](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=2001&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=6000&annualOperation=1&annualAdjustment=500&inflationAdjusted=true&annualPercentage=0.0&frequency=2&rebalanceType=4&absoluteDeviation=5.0&relativeDeviation=25.0&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=-1&benchmarkSymbol=VTSMX&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Growth+Portfolio&symbol1=VTSMX&allocation1_1=0&symbol2=AAPL&allocation2_1=2&symbol3=AFL&allocation3_1=4&symbol4=DIS&allocation4_1=3&symbol5=JNJ&allocation5_1=5&symbol6=ABT&allocation6_1=4&symbol7=JPM&allocation7_1=4&symbol8=KO&allocation8_1=3&symbol9=LMT&allocation9_1=3&symbol10=MCD&allocation10_1=2&symbol11=MMM&allocation11_1=2&symbol12=MSFT&allocation12_1=2&symbol13=NEE&allocation13_1=5&symbol14=O&allocation14_1=4&symbol15=PEP&allocation15_1=3&symbol16=PG&allocation16_1=3&symbol17=QQQ&allocation17_1=10&allocation17_2=0&symbol18=FRT&allocation18_1=4&symbol19=TGT&allocation19_1=3&symbol20=VFINX&allocation20_1=30&symbol21=VZ&allocation21_1=4)
+ - $6000 starting balance, maxing out at $500/month contribution for 20 years",danhauk,1,/r/investing/comments/noywnc/daily_advice_thread_all_basic_help_or_advice/h037npt/,0.074,0.808,0.118,0.8957
+19,TGT," I’ve been playing around with backtesting a possible portfolio, but I feel like I’m missing something or doing something wrong. 
+
+A bit of background: I started investing beyond my employer 401k by opening a Roth last April (great timing!). Because I knew very little I put about 80% in an S&P 500 index fund and chose a couple individual stocks like AAPL DIS TGT.
+
+Now I’m at a point where I really enjoy doing DD, following the market, and watching individual stocks. I built a portfolio made up of mostly stable old, boring dividend aristocrats with some index funds to add some growth. I’ve been backtesting it before selling off a large chunk of my S&P 500 holding and jumping in.
+
+I’m 35 and looking at least 20 years until retirement. Everything I’ve heard and read has shown it’s really hard to beat the total market benchmark, especially with a tilt towards value. Testing this portfolio across different timeframes (5 years, 10 years, 20 years) and various time periods from 90s to 2000s to recent, this value dividend-growth focused portfolio beats every time. From 2001-2021 it ends up 34% higher than VTSAX. Even starting after the dotcom crash still puts me ahead.
+
+I know past performance doesn’t predict future, but am I missing something here? 
+
+[Here’s the portfolio backtesting link](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=2001&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=6000&annualOperation=1&annualAdjustment=500&inflationAdjusted=true&annualPercentage=0.0&frequency=2&rebalanceType=4&absoluteDeviation=5.0&relativeDeviation=25.0&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=-1&benchmarkSymbol=VTSMX&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Growth+Portfolio&symbol1=VTSMX&allocation1_1=0&symbol2=AAPL&allocation2_1=2&symbol3=AFL&allocation3_1=4&symbol4=DIS&allocation4_1=3&symbol5=JNJ&allocation5_1=5&symbol6=ABT&allocation6_1=4&symbol7=JPM&allocation7_1=4&symbol8=KO&allocation8_1=3&symbol9=LMT&allocation9_1=3&symbol10=MCD&allocation10_1=2&symbol11=MMM&allocation11_1=2&symbol12=MSFT&allocation12_1=2&symbol13=NEE&allocation13_1=5&symbol14=O&allocation14_1=4&symbol15=PEP&allocation15_1=3&symbol16=PG&allocation16_1=3&symbol17=QQQ&allocation17_1=10&allocation17_2=0&symbol18=FRT&allocation18_1=4&symbol19=TGT&allocation19_1=3&symbol20=VFINX&allocation20_1=30&symbol21=VZ&allocation21_1=4)
+ - $6000 starting balance, maxing out at $500/month contribution for 20 years",danhauk,1,/r/investing/comments/noywnc/daily_advice_thread_all_basic_help_or_advice/h037npt/,0.074,0.808,0.118,0.8957
+20,AMZN," Hello all, 
+
+I am a newbie to stocks and investing in general. I am interested in buying some AMZN with the looks of its potential growth. My question is : Would you suggest buying in today at the price of 3,223 or wait until a few weeks after prime day is over? I'm looking to invest long term mainly but also would like to sell a little short term during the 1- 2 week period after prime day if possible. This may sound ridiculous but again I am a newb and just looking for other opinions! Thank you!",JuiliusSneezer21,1,/r/investing/comments/noywnc/daily_advice_thread_all_basic_help_or_advice/h03yqqb/,0.033,0.857,0.11,0.7568
+21,AMD," I have been getting by on pure luck so far (I think) and would very much like some advice on my portfolio future by you kind redditors. Thank you for taking the time to read!! 
+
+I have $13,300 or £9500 ish 
+I'm 23 (M) from Scotland, UK 
+
+Asking Advice on my Dodgy dealings 
+
+I started investing at the start of the pandemic and since then I've made about 28% return (starting cash was just under £7000. But I wouldn't say I know what I'm doing. I still read alot of stuff that makes no sense to me and I don't understand alot of the jargon.
+
+Because of this I've tried to stick to the philosophy of Invest into what I genuinely see a future in. And company's I just like being a part off.  
+I haven't been looking into balance sheets or projections etc just kinda winging it. 
+
+I'm definitely high risk, I constantly close positions when there at what I think is a bit of a peak, so I can reinvest in something that's down elsewhere. 
+
+My current holdings are 
+SPCE- virgin galactic 8.5%
+Tesla 8.5%
+Air BnB  9%
+Google 17% with leverage
+Microsoft 13% some leverage 
+Rolls royce 11.5%
+PayPal 4%
+Etsy 9%
+Game stop  5%(bit of fun) 
+Intel 4%
+
+
+The rest is scattered amongst;
+AMD 
+PLUG
+COIN
+PLTR
+MARA
+
+I've realised that I'm probably going to get my fingers burned if I keep messing around. What I was planning on doing is shifting my portfolio to something I think is probably more sensible. Such as this; 
+
+50% of my portfolio into the following indexes 
+Ishares- INDA 
+Vanguard- VEU & VWO 
+SPDR- XLU 
+Direxion- SPXL
+
+And the other 50% split between 
+Microsoft 
+Google 
+Apple 
+Amazon 
+Garmin 
+Peloton 
+
+I might also keep my current positions in Tesla, AirBnB, Virgin galactic and possibly ETSY. 
+
+If it makes any difference the money I make is going to be used as a deposit for my first home and i might possibly take it out the market in the next 1-5 years. But at the same time I'm also kinda thinking early retirement. (Or spend it traveling) 
+
+I'm a marine engineering apprentice,  just finishing up my qualification in the next few weeks and should be starting to earn some decent cash with my company soon. 
+Also with the nature of the job I work on cruise ships for 3 months at a time so save alot of cash during those periods. 
+
+Any advice on my future portfolio plan from people who actually know what there doing would be very much welcome.",charlie-bit-myfinger,0,/r/investing/comments/noywnc/daily_advice_thread_all_basic_help_or_advice/h02r198/,0.023,0.911,0.066,0.9589
+22,ETSY," I have been getting by on pure luck so far (I think) and would very much like some advice on my portfolio future by you kind redditors. Thank you for taking the time to read!! 
+
+I have $13,300 or £9500 ish 
+I'm 23 (M) from Scotland, UK 
+
+Asking Advice on my Dodgy dealings 
+
+I started investing at the start of the pandemic and since then I've made about 28% return (starting cash was just under £7000. But I wouldn't say I know what I'm doing. I still read alot of stuff that makes no sense to me and I don't understand alot of the jargon.
+
+Because of this I've tried to stick to the philosophy of Invest into what I genuinely see a future in. And company's I just like being a part off.  
+I haven't been looking into balance sheets or projections etc just kinda winging it. 
+
+I'm definitely high risk, I constantly close positions when there at what I think is a bit of a peak, so I can reinvest in something that's down elsewhere. 
+
+My current holdings are 
+SPCE- virgin galactic 8.5%
+Tesla 8.5%
+Air BnB  9%
+Google 17% with leverage
+Microsoft 13% some leverage 
+Rolls royce 11.5%
+PayPal 4%
+Etsy 9%
+Game stop  5%(bit of fun) 
+Intel 4%
+
+
+The rest is scattered amongst;
+AMD 
+PLUG
+COIN
+PLTR
+MARA
+
+I've realised that I'm probably going to get my fingers burned if I keep messing around. What I was planning on doing is shifting my portfolio to something I think is probably more sensible. Such as this; 
+
+50% of my portfolio into the following indexes 
+Ishares- INDA 
+Vanguard- VEU & VWO 
+SPDR- XLU 
+Direxion- SPXL
+
+And the other 50% split between 
+Microsoft 
+Google 
+Apple 
+Amazon 
+Garmin 
+Peloton 
+
+I might also keep my current positions in Tesla, AirBnB, Virgin galactic and possibly ETSY. 
+
+If it makes any difference the money I make is going to be used as a deposit for my first home and i might possibly take it out the market in the next 1-5 years. But at the same time I'm also kinda thinking early retirement. (Or spend it traveling) 
+
+I'm a marine engineering apprentice,  just finishing up my qualification in the next few weeks and should be starting to earn some decent cash with my company soon. 
+Also with the nature of the job I work on cruise ships for 3 months at a time so save alot of cash during those periods. 
+
+Any advice on my future portfolio plan from people who actually know what there doing would be very much welcome.",charlie-bit-myfinger,0,/r/investing/comments/noywnc/daily_advice_thread_all_basic_help_or_advice/h02r198/,0.023,0.911,0.066,0.9589
+23,PLTR," I have been getting by on pure luck so far (I think) and would very much like some advice on my portfolio future by you kind redditors. Thank you for taking the time to read!! 
+
+I have $13,300 or £9500 ish 
+I'm 23 (M) from Scotland, UK 
+
+Asking Advice on my Dodgy dealings 
+
+I started investing at the start of the pandemic and since then I've made about 28% return (starting cash was just under £7000. But I wouldn't say I know what I'm doing. I still read alot of stuff that makes no sense to me and I don't understand alot of the jargon.
+
+Because of this I've tried to stick to the philosophy of Invest into what I genuinely see a future in. And company's I just like being a part off.  
+I haven't been looking into balance sheets or projections etc just kinda winging it. 
+
+I'm definitely high risk, I constantly close positions when there at what I think is a bit of a peak, so I can reinvest in something that's down elsewhere. 
+
+My current holdings are 
+SPCE- virgin galactic 8.5%
+Tesla 8.5%
+Air BnB  9%
+Google 17% with leverage
+Microsoft 13% some leverage 
+Rolls royce 11.5%
+PayPal 4%
+Etsy 9%
+Game stop  5%(bit of fun) 
+Intel 4%
+
+
+The rest is scattered amongst;
+AMD 
+PLUG
+COIN
+PLTR
+MARA
+
+I've realised that I'm probably going to get my fingers burned if I keep messing around. What I was planning on doing is shifting my portfolio to something I think is probably more sensible. Such as this; 
+
+50% of my portfolio into the following indexes 
+Ishares- INDA 
+Vanguard- VEU & VWO 
+SPDR- XLU 
+Direxion- SPXL
+
+And the other 50% split between 
+Microsoft 
+Google 
+Apple 
+Amazon 
+Garmin 
+Peloton 
+
+I might also keep my current positions in Tesla, AirBnB, Virgin galactic and possibly ETSY. 
+
+If it makes any difference the money I make is going to be used as a deposit for my first home and i might possibly take it out the market in the next 1-5 years. But at the same time I'm also kinda thinking early retirement. (Or spend it traveling) 
+
+I'm a marine engineering apprentice,  just finishing up my qualification in the next few weeks and should be starting to earn some decent cash with my company soon. 
+Also with the nature of the job I work on cruise ships for 3 months at a time so save alot of cash during those periods. 
+
+Any advice on my future portfolio plan from people who actually know what there doing would be very much welcome.",charlie-bit-myfinger,0,/r/investing/comments/noywnc/daily_advice_thread_all_basic_help_or_advice/h02r198/,0.023,0.911,0.066,0.9589
+24,PLUG," I have been getting by on pure luck so far (I think) and would very much like some advice on my portfolio future by you kind redditors. Thank you for taking the time to read!! 
+
+I have $13,300 or £9500 ish 
+I'm 23 (M) from Scotland, UK 
+
+Asking Advice on my Dodgy dealings 
+
+I started investing at the start of the pandemic and since then I've made about 28% return (starting cash was just under £7000. But I wouldn't say I know what I'm doing. I still read alot of stuff that makes no sense to me and I don't understand alot of the jargon.
+
+Because of this I've tried to stick to the philosophy of Invest into what I genuinely see a future in. And company's I just like being a part off.  
+I haven't been looking into balance sheets or projections etc just kinda winging it. 
+
+I'm definitely high risk, I constantly close positions when there at what I think is a bit of a peak, so I can reinvest in something that's down elsewhere. 
+
+My current holdings are 
+SPCE- virgin galactic 8.5%
+Tesla 8.5%
+Air BnB  9%
+Google 17% with leverage
+Microsoft 13% some leverage 
+Rolls royce 11.5%
+PayPal 4%
+Etsy 9%
+Game stop  5%(bit of fun) 
+Intel 4%
+
+
+The rest is scattered amongst;
+AMD 
+PLUG
+COIN
+PLTR
+MARA
+
+I've realised that I'm probably going to get my fingers burned if I keep messing around. What I was planning on doing is shifting my portfolio to something I think is probably more sensible. Such as this; 
+
+50% of my portfolio into the following indexes 
+Ishares- INDA 
+Vanguard- VEU & VWO 
+SPDR- XLU 
+Direxion- SPXL
+
+And the other 50% split between 
+Microsoft 
+Google 
+Apple 
+Amazon 
+Garmin 
+Peloton 
+
+I might also keep my current positions in Tesla, AirBnB, Virgin galactic and possibly ETSY. 
+
+If it makes any difference the money I make is going to be used as a deposit for my first home and i might possibly take it out the market in the next 1-5 years. But at the same time I'm also kinda thinking early retirement. (Or spend it traveling) 
+
+I'm a marine engineering apprentice,  just finishing up my qualification in the next few weeks and should be starting to earn some decent cash with my company soon. 
+Also with the nature of the job I work on cruise ships for 3 months at a time so save alot of cash during those periods. 
+
+Any advice on my future portfolio plan from people who actually know what there doing would be very much welcome.",charlie-bit-myfinger,0,/r/investing/comments/noywnc/daily_advice_thread_all_basic_help_or_advice/h02r198/,0.023,0.911,0.066,0.9589
+25,UK," I have been getting by on pure luck so far (I think) and would very much like some advice on my portfolio future by you kind redditors. Thank you for taking the time to read!! 
+
+I have $13,300 or £9500 ish 
+I'm 23 (M) from Scotland, UK 
+
+Asking Advice on my Dodgy dealings 
+
+I started investing at the start of the pandemic and since then I've made about 28% return (starting cash was just under £7000. But I wouldn't say I know what I'm doing. I still read alot of stuff that makes no sense to me and I don't understand alot of the jargon.
+
+Because of this I've tried to stick to the philosophy of Invest into what I genuinely see a future in. And company's I just like being a part off.  
+I haven't been looking into balance sheets or projections etc just kinda winging it. 
+
+I'm definitely high risk, I constantly close positions when there at what I think is a bit of a peak, so I can reinvest in something that's down elsewhere. 
+
+My current holdings are 
+SPCE- virgin galactic 8.5%
+Tesla 8.5%
+Air BnB  9%
+Google 17% with leverage
+Microsoft 13% some leverage 
+Rolls royce 11.5%
+PayPal 4%
+Etsy 9%
+Game stop  5%(bit of fun) 
+Intel 4%
+
+
+The rest is scattered amongst;
+AMD 
+PLUG
+COIN
+PLTR
+MARA
+
+I've realised that I'm probably going to get my fingers burned if I keep messing around. What I was planning on doing is shifting my portfolio to something I think is probably more sensible. Such as this; 
+
+50% of my portfolio into the following indexes 
+Ishares- INDA 
+Vanguard- VEU & VWO 
+SPDR- XLU 
+Direxion- SPXL
+
+And the other 50% split between 
+Microsoft 
+Google 
+Apple 
+Amazon 
+Garmin 
+Peloton 
+
+I might also keep my current positions in Tesla, AirBnB, Virgin galactic and possibly ETSY. 
+
+If it makes any difference the money I make is going to be used as a deposit for my first home and i might possibly take it out the market in the next 1-5 years. But at the same time I'm also kinda thinking early retirement. (Or spend it traveling) 
+
+I'm a marine engineering apprentice,  just finishing up my qualification in the next few weeks and should be starting to earn some decent cash with my company soon. 
+Also with the nature of the job I work on cruise ships for 3 months at a time so save alot of cash during those periods. 
+
+Any advice on my future portfolio plan from people who actually know what there doing would be very much welcome.",charlie-bit-myfinger,0,/r/investing/comments/noywnc/daily_advice_thread_all_basic_help_or_advice/h02r198/,0.023,0.911,0.066,0.9589
+26,OSTK," Yes they have two types of Overstock securities. OSTK which is available on traditional markets and OSTKO which is a digital security version:
+
+https://www.globenewswire.com/news-release/2020/06/04/2043690/0/en/Overstock-Reiterates-Key-Attributes-of-its-Digital-Voting-Series-A-1-Preferred-Stock-OSTKO.html",Savik519,2,/r/investing/comments/np9s00/private_securities_and_tzero/h040xmy/,0.0,0.733,0.267,0.743
+27,OSTK," OSTKO is a preferred stock only tradeable on tZero in addition to their exchange traded OSTK.  
+
+
+Overstock owns tZero  
+
+
+https://investors.overstock.com/news-releases/news-release-details/tzero-announces-launch-its-retail-broker-dealer-subsidiary",emc87,2,/r/investing/comments/np9s00/private_securities_and_tzero/h040ybg/,0.0,1.0,0.0,0.0
+28,BMO," Why Canadian banks? Why not jpm?
+
+It [has](https://www.google.com/search?q=nysearca:spy+compare&oq=spy&aqs=chrome..69i57j46i67i433j35i39i285j0i67l2.1459j1j9&client=ms-android-google&sourceid=chrome-mobile&ie=UTF-8&stick=H4sIAAAAAAAAAONgVuLRT9c3LDQzyjCoMDR4xOjJLfDyxz1hKYdJa05eY7Ti4grOyC93zSvJLKkU0uFig7KUuASkUDRqMEjxcaGI8Oxi4nPLzEvMS051zs8tSCxKXcQqkldZnJpYlJxoVVxQqZAMEQYACl1T8oQAAAA&ictx=1&ved=2ahUKEwiXtrW-yfTwAhUOKVkFHXJwAZEQyNoBKAF6BAgCEAk) actually outperformed the s&p for a while now.
+
+Edit: BMO has actually done quite well as well, also beating the s&p by more than jpm since 2000 or so.",hahdbdidndkdi,2,/r/investing/comments/np6uyw/investing_in_canadian_banks/h03xtd4/,0.073,0.799,0.129,0.3239
+29,CD," This is very safe. TD, Royal banks CD etf. The yields are many times higher than high dividend bonds.  The A share does not always get dividend. But Toronto Exchange allows preferred....
+
+***Dividend 15 Split Corp***. is a Canada-based mutual fund that invests in a portfolio of dividend yielding common shares, including 15 Canadian companies. The Fund offers two types of shares: Preferred Shares",Vast_Cricket,1,/r/investing/comments/np6uyw/investing_in_canadian_banks/h03vbil/,0.0,0.822,0.178,0.8778
+30,TD," This is very safe. TD, Royal banks CD etf. The yields are many times higher than high dividend bonds.  The A share does not always get dividend. But Toronto Exchange allows preferred....
+
+***Dividend 15 Split Corp***. is a Canada-based mutual fund that invests in a portfolio of dividend yielding common shares, including 15 Canadian companies. The Fund offers two types of shares: Preferred Shares",Vast_Cricket,1,/r/investing/comments/np6uyw/investing_in_canadian_banks/h03vbil/,0.0,0.822,0.178,0.8778
+31,RY, I hold TD and RY. If you’re in the US I recommend holding Canadian companies in a retirement account to avoid the excise tax you’d incur on Canadian company dividends in a taxable account.,NativeTxn7,1,/r/investing/comments/np6uyw/investing_in_canadian_banks/h045knl/,0.067,0.856,0.076,0.0772
+32,TD, I hold TD and RY. If you’re in the US I recommend holding Canadian companies in a retirement account to avoid the excise tax you’d incur on Canadian company dividends in a taxable account.,NativeTxn7,1,/r/investing/comments/np6uyw/investing_in_canadian_banks/h045knl/,0.067,0.856,0.076,0.0772
+33,PBH," I think there are many better short opportunities out there. The market expects mask production to slow eventually and this probably mostly priced in already.
+
+Many of these companies also produce other products as well and masks are only a small portion of their portfolio.
+
+This is the case with PBH. They sell tons of products. If you short PBH you’re basically betting against all their products not just masks.
+
+I don’t think there is much money to be made with this strategy. You’re probably more likely to lose money than make it.",OptionStrangler,25,/r/investing/comments/nov0u1/companies_that_make_masks_primarily/h01xbst/,0.031,0.891,0.079,0.5627
+34,FLGT, Very likely priced in already by this point. You can see how much the testing cos like QGEN and FLGT have cratered in recent months on expectations of lower test volume.,dvdmovie1,5,/r/investing/comments/nov0u1/companies_that_make_masks_primarily/h02i5e6/,0.065,0.861,0.074,0.0772
+35,QGEN, Very likely priced in already by this point. You can see how much the testing cos like QGEN and FLGT have cratered in recent months on expectations of lower test volume.,dvdmovie1,5,/r/investing/comments/nov0u1/companies_that_make_masks_primarily/h02i5e6/,0.065,0.861,0.074,0.0772
+36,KMB," You've got it backwards. The market front runs the statistics. They have already priced in mask usage is going down.
+
+I actually think this is a bad short anyway, that masks are going to see elevated use from here on out (similar to Japan).
+
+And as far as pure plays, unless you want to ever lose your shirt...don't ever short a small cap...they can easily pull a 10x bagger and sink you.
+
+As for blue chips that make masks:
+
+- KMB makes masks (although mostly toilet paper)
+
+- 3M makes the N95s among other things.
+
+I wouldn't short either, both good managed companies and trading at a pretty fair valuation.",cr0ne,1,/r/investing/comments/nov0u1/companies_that_make_masks_primarily/h03e7j6/,0.054,0.822,0.123,0.7096
+37,BYD," To the extent that there are any ""pure play"" face mask producers out there, I'd imagine it's just some guys who jumped on the opportunity early last year, bought some plastic extruding equipment, rented a warehouse and started cranking them out as fast as possible. In other words, not publicly traded companies. 
+
+Anecdotally, nearly all the masks I've purchased/been given are made by BYD, a large Chinese manufacturing conglomerate that makes everything from cars to consumer electronics. Making face masks has been a drop in the bucket for them and given what a low margin product that is, cutting back on production as the pandemic ends isn't going to contribute meaningfully to any changes in their earnings.",raouldukesaccomplice,1,/r/investing/comments/nov0u1/companies_that_make_masks_primarily/h03u72s/,0.048,0.908,0.044,0.128
+38,PBH," I can confidently say it’s already priced in. It’s now been several weeks since the CDC issued new mask guidance. Many people are now going maskless to most places.
+
+If the market hasn’t adjusted for this by now it would be extremely odd.
+
+To add to this, PBH returned -13% in 2020 while the S&P 500 returned about 16%. If masks made them a lot of money I would’ve expected to see it have big returns in 2020 similar to other stocks that benefitted from Covid. That by itself should be enough proof already that mask production doesn’t really affect PBH’s stock price.",OptionStrangler,3,/r/investing/comments/nov0u1/companies_that_make_masks_primarily/h01yqag/,0.025,0.92,0.055,0.4951
