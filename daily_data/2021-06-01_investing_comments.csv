@@ -1,0 +1,913 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,TIL, TIL GARP is a thing and there's a whole S&P index around it.,msnf,58,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h06juua/,0.0,1.0,0.0,0.0
+1,DD, Good effort and DD,Lancerat,5,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h06rs1j/,0.0,0.508,0.492,0.4404
+2,YGMZ, YGMZ,Shezan_J,1,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h07zgw4/,0.0,1.0,0.0,0.0
+3,PEG," Be careful with GARP. It is a good idea, and can result in some great buys, but generally GARP strategies are soft on fundamentals. Doing it properly requires an in-depth financial reports analysis of each firm to determine growth sustainability. Many GARP-y firms are growth firms whose growth cycle is ending, or firms with short term free-cash-flow shocks that do not justify the sustainability of their PEG ratios
+
+I wouldn't trust a passive GARP unless they had some really good systems in place",iguessjustdont,25,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h06otrz/,0.09,0.709,0.201,0.8753
+4,ADV," TLDR: Meh
+
+Philosophy: Passive value tilt, stratified flat-weighting contingent upon Fidelity International Value Factor Index (Covington Trust)
+
+  
+Advisor: FMR Co., Inc. (FMRC) (the Adviser), an affiliate of Fidelity Management & Research Company (FMR), is the fund's manager. Geode Capital Management, LLC (Geode) serves as a sub-adviser for the fund.
+
+  
+Management:
+
+  
+Notes: Patrick Waddell has been removed form senior management. Manav Verma has taken over many of the factor funds run by Geode advising and Fidelity per disclosure 497 on 2019-04-25
+
+  
+Deane Gyllenhaal (senior portfolio manager) has managed the fund since January 2018.
+
+  
+Louis Bottari (senior portfolio manager) has managed the fund since January 2018.  
+Peter Matthew (portfolio manager) has managed the fund since January 2018.  
+Robert Regan (portfolio manager) has managed the fund since January 2018.  
+Manav Verma (portfolio manager) has managed the fund since March 2018.
+
+  
+BF index MSCI ACWI Ex USA Value. Std. Index MSCI ACWA Ex USA
+
+  
+Exposure Region	Exposure (%)	Rel Std. Index  
+Americas	9.80%	100.00%  
+Europe	58.00%	134.00%  
+Asia	32.30%	69.00%  
+Std. Index:	MSCI ACWI Ex. USA USD  
+  
+Descriptive Info	Value to Std. Index  
+Beta	1.11  
+Alpha	-4.1  
+MKT/Nav Spread	0.37%  
+ADV	 $             204,000.00   
+Net AUM	$28.62MM  
+Creation Unit Size	100,000  
+Percentile Rank   (Incept)	49  
+ER	0.39%  
+  
+Fund shows substantial USD exposure for USD-based portfolios. No effective hedging identified. 
+
+  
+Lending permitted. Per NPORT-P filed on 2021-03-16 securities lending was conducted using all-cash collateral
+
+  
+Listed: NYSE ARCA
+
+  
+Portfolio weightings range from .38% to 2.2% per NPORT-P on 2021-03-16  
+Notes: Fund limits 80% of investments to those held by the “Fidelity Value Factor Index”. It does not require proportional weighting. This index is developed mid-cap and large-cap only, limiting the fund exposure to mid and large-cap funds for the majority of investment. The fund does not maintain a small-cap allocation.
+
+  
+Geode is permitted to utilize statistical sampling techniques to match investment characteristics of a variety of factors between the index and the fund. 
+
+  
+Filing 485BPOS filed 2021-02-24 discusses the proprietary weighting strategy of “Fidelity Value Factor Index”. The section goes on to explain the index’s weighting and composite scoring methodology. Composite measures: High FCF yield, low enterprise value to EBITDA, low price to tangible book value, and low price to future earnings. Size-bias is removed, and the highest composite scores are utilized. The country-weights of the index are intended to match the developed international market. Each stock group category is market-cap weighted internally, plus a group weighting adjustment is applied, then each sector is equal-weighted against the international market portfolio. 
+
+  
+Rebalancing is semi-annual in February and August
+
+  
+Opinion: 
+
+  
+The management structure warrants additional investigation, as the senior manager covers many funds, and there has been a senior-management change. Next step would be to analyze the overlap of non-senior portfolio managers to ensure at least some competent member of management treats this as a primary fund. Due to the low management fee and small capitalization this is unlikely. Additionally research must be completed as to the compensation agreements between Geode and its managers, as well as Fidelity and Geode. 
+
+  
+The underlying indexing strategy is uninspired and vulnerable to value traps. The low adherence required to the underlying index poses ethical conflict to primary managers of the fund dependent upon compensation agreements. This is compounded by the ability of Geode to allocate per their statistical sampling techniques. 
+
+  
+While their mandate permits small and mid-cap securities, a large majority of the fund is large-cap. Size tilt should be accounted for when determining any allocation. Additionally, they have deviated from the global allocation with a Euro-centric tilt against their mandate. 
+
+  
+Rebalancing periods align with that of the MSCI ACWI Ex US index, which is quarterly rebalanced. Semi-annual rebalancing will result in drift away from MSCI on the underlying fund index. 
+
+  
+Currency risk of this fund may require portfolio-level currency management upon purchase. 
+
+  
+Investability is low due to low ADV and wide spreads, among other market impact concerns. This fund may be a target for creation-unit arbitrage given the large liquid underlying securities and relatively high premium available for the underlying securities. It should be noted total fund value equals only \~11 creation units.",iguessjustdont,41,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h0751r0/,0.034,0.882,0.084,0.9849
+5,FCF," TLDR: Meh
+
+Philosophy: Passive value tilt, stratified flat-weighting contingent upon Fidelity International Value Factor Index (Covington Trust)
+
+  
+Advisor: FMR Co., Inc. (FMRC) (the Adviser), an affiliate of Fidelity Management & Research Company (FMR), is the fund's manager. Geode Capital Management, LLC (Geode) serves as a sub-adviser for the fund.
+
+  
+Management:
+
+  
+Notes: Patrick Waddell has been removed form senior management. Manav Verma has taken over many of the factor funds run by Geode advising and Fidelity per disclosure 497 on 2019-04-25
+
+  
+Deane Gyllenhaal (senior portfolio manager) has managed the fund since January 2018.
+
+  
+Louis Bottari (senior portfolio manager) has managed the fund since January 2018.  
+Peter Matthew (portfolio manager) has managed the fund since January 2018.  
+Robert Regan (portfolio manager) has managed the fund since January 2018.  
+Manav Verma (portfolio manager) has managed the fund since March 2018.
+
+  
+BF index MSCI ACWI Ex USA Value. Std. Index MSCI ACWA Ex USA
+
+  
+Exposure Region	Exposure (%)	Rel Std. Index  
+Americas	9.80%	100.00%  
+Europe	58.00%	134.00%  
+Asia	32.30%	69.00%  
+Std. Index:	MSCI ACWI Ex. USA USD  
+  
+Descriptive Info	Value to Std. Index  
+Beta	1.11  
+Alpha	-4.1  
+MKT/Nav Spread	0.37%  
+ADV	 $             204,000.00   
+Net AUM	$28.62MM  
+Creation Unit Size	100,000  
+Percentile Rank   (Incept)	49  
+ER	0.39%  
+  
+Fund shows substantial USD exposure for USD-based portfolios. No effective hedging identified. 
+
+  
+Lending permitted. Per NPORT-P filed on 2021-03-16 securities lending was conducted using all-cash collateral
+
+  
+Listed: NYSE ARCA
+
+  
+Portfolio weightings range from .38% to 2.2% per NPORT-P on 2021-03-16  
+Notes: Fund limits 80% of investments to those held by the “Fidelity Value Factor Index”. It does not require proportional weighting. This index is developed mid-cap and large-cap only, limiting the fund exposure to mid and large-cap funds for the majority of investment. The fund does not maintain a small-cap allocation.
+
+  
+Geode is permitted to utilize statistical sampling techniques to match investment characteristics of a variety of factors between the index and the fund. 
+
+  
+Filing 485BPOS filed 2021-02-24 discusses the proprietary weighting strategy of “Fidelity Value Factor Index”. The section goes on to explain the index’s weighting and composite scoring methodology. Composite measures: High FCF yield, low enterprise value to EBITDA, low price to tangible book value, and low price to future earnings. Size-bias is removed, and the highest composite scores are utilized. The country-weights of the index are intended to match the developed international market. Each stock group category is market-cap weighted internally, plus a group weighting adjustment is applied, then each sector is equal-weighted against the international market portfolio. 
+
+  
+Rebalancing is semi-annual in February and August
+
+  
+Opinion: 
+
+  
+The management structure warrants additional investigation, as the senior manager covers many funds, and there has been a senior-management change. Next step would be to analyze the overlap of non-senior portfolio managers to ensure at least some competent member of management treats this as a primary fund. Due to the low management fee and small capitalization this is unlikely. Additionally research must be completed as to the compensation agreements between Geode and its managers, as well as Fidelity and Geode. 
+
+  
+The underlying indexing strategy is uninspired and vulnerable to value traps. The low adherence required to the underlying index poses ethical conflict to primary managers of the fund dependent upon compensation agreements. This is compounded by the ability of Geode to allocate per their statistical sampling techniques. 
+
+  
+While their mandate permits small and mid-cap securities, a large majority of the fund is large-cap. Size tilt should be accounted for when determining any allocation. Additionally, they have deviated from the global allocation with a Euro-centric tilt against their mandate. 
+
+  
+Rebalancing periods align with that of the MSCI ACWI Ex US index, which is quarterly rebalanced. Semi-annual rebalancing will result in drift away from MSCI on the underlying fund index. 
+
+  
+Currency risk of this fund may require portfolio-level currency management upon purchase. 
+
+  
+Investability is low due to low ADV and wide spreads, among other market impact concerns. This fund may be a target for creation-unit arbitrage given the large liquid underlying securities and relatively high premium available for the underlying securities. It should be noted total fund value equals only \~11 creation units.",iguessjustdont,41,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h0751r0/,0.034,0.882,0.084,0.9849
+6,MSCI," TLDR: Meh
+
+Philosophy: Passive value tilt, stratified flat-weighting contingent upon Fidelity International Value Factor Index (Covington Trust)
+
+  
+Advisor: FMR Co., Inc. (FMRC) (the Adviser), an affiliate of Fidelity Management & Research Company (FMR), is the fund's manager. Geode Capital Management, LLC (Geode) serves as a sub-adviser for the fund.
+
+  
+Management:
+
+  
+Notes: Patrick Waddell has been removed form senior management. Manav Verma has taken over many of the factor funds run by Geode advising and Fidelity per disclosure 497 on 2019-04-25
+
+  
+Deane Gyllenhaal (senior portfolio manager) has managed the fund since January 2018.
+
+  
+Louis Bottari (senior portfolio manager) has managed the fund since January 2018.  
+Peter Matthew (portfolio manager) has managed the fund since January 2018.  
+Robert Regan (portfolio manager) has managed the fund since January 2018.  
+Manav Verma (portfolio manager) has managed the fund since March 2018.
+
+  
+BF index MSCI ACWI Ex USA Value. Std. Index MSCI ACWA Ex USA
+
+  
+Exposure Region	Exposure (%)	Rel Std. Index  
+Americas	9.80%	100.00%  
+Europe	58.00%	134.00%  
+Asia	32.30%	69.00%  
+Std. Index:	MSCI ACWI Ex. USA USD  
+  
+Descriptive Info	Value to Std. Index  
+Beta	1.11  
+Alpha	-4.1  
+MKT/Nav Spread	0.37%  
+ADV	 $             204,000.00   
+Net AUM	$28.62MM  
+Creation Unit Size	100,000  
+Percentile Rank   (Incept)	49  
+ER	0.39%  
+  
+Fund shows substantial USD exposure for USD-based portfolios. No effective hedging identified. 
+
+  
+Lending permitted. Per NPORT-P filed on 2021-03-16 securities lending was conducted using all-cash collateral
+
+  
+Listed: NYSE ARCA
+
+  
+Portfolio weightings range from .38% to 2.2% per NPORT-P on 2021-03-16  
+Notes: Fund limits 80% of investments to those held by the “Fidelity Value Factor Index”. It does not require proportional weighting. This index is developed mid-cap and large-cap only, limiting the fund exposure to mid and large-cap funds for the majority of investment. The fund does not maintain a small-cap allocation.
+
+  
+Geode is permitted to utilize statistical sampling techniques to match investment characteristics of a variety of factors between the index and the fund. 
+
+  
+Filing 485BPOS filed 2021-02-24 discusses the proprietary weighting strategy of “Fidelity Value Factor Index”. The section goes on to explain the index’s weighting and composite scoring methodology. Composite measures: High FCF yield, low enterprise value to EBITDA, low price to tangible book value, and low price to future earnings. Size-bias is removed, and the highest composite scores are utilized. The country-weights of the index are intended to match the developed international market. Each stock group category is market-cap weighted internally, plus a group weighting adjustment is applied, then each sector is equal-weighted against the international market portfolio. 
+
+  
+Rebalancing is semi-annual in February and August
+
+  
+Opinion: 
+
+  
+The management structure warrants additional investigation, as the senior manager covers many funds, and there has been a senior-management change. Next step would be to analyze the overlap of non-senior portfolio managers to ensure at least some competent member of management treats this as a primary fund. Due to the low management fee and small capitalization this is unlikely. Additionally research must be completed as to the compensation agreements between Geode and its managers, as well as Fidelity and Geode. 
+
+  
+The underlying indexing strategy is uninspired and vulnerable to value traps. The low adherence required to the underlying index poses ethical conflict to primary managers of the fund dependent upon compensation agreements. This is compounded by the ability of Geode to allocate per their statistical sampling techniques. 
+
+  
+While their mandate permits small and mid-cap securities, a large majority of the fund is large-cap. Size tilt should be accounted for when determining any allocation. Additionally, they have deviated from the global allocation with a Euro-centric tilt against their mandate. 
+
+  
+Rebalancing periods align with that of the MSCI ACWI Ex US index, which is quarterly rebalanced. Semi-annual rebalancing will result in drift away from MSCI on the underlying fund index. 
+
+  
+Currency risk of this fund may require portfolio-level currency management upon purchase. 
+
+  
+Investability is low due to low ADV and wide spreads, among other market impact concerns. This fund may be a target for creation-unit arbitrage given the large liquid underlying securities and relatively high premium available for the underlying securities. It should be noted total fund value equals only \~11 creation units.",iguessjustdont,41,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h0751r0/,0.034,0.882,0.084,0.9849
+7,USA," TLDR: Meh
+
+Philosophy: Passive value tilt, stratified flat-weighting contingent upon Fidelity International Value Factor Index (Covington Trust)
+
+  
+Advisor: FMR Co., Inc. (FMRC) (the Adviser), an affiliate of Fidelity Management & Research Company (FMR), is the fund's manager. Geode Capital Management, LLC (Geode) serves as a sub-adviser for the fund.
+
+  
+Management:
+
+  
+Notes: Patrick Waddell has been removed form senior management. Manav Verma has taken over many of the factor funds run by Geode advising and Fidelity per disclosure 497 on 2019-04-25
+
+  
+Deane Gyllenhaal (senior portfolio manager) has managed the fund since January 2018.
+
+  
+Louis Bottari (senior portfolio manager) has managed the fund since January 2018.  
+Peter Matthew (portfolio manager) has managed the fund since January 2018.  
+Robert Regan (portfolio manager) has managed the fund since January 2018.  
+Manav Verma (portfolio manager) has managed the fund since March 2018.
+
+  
+BF index MSCI ACWI Ex USA Value. Std. Index MSCI ACWA Ex USA
+
+  
+Exposure Region	Exposure (%)	Rel Std. Index  
+Americas	9.80%	100.00%  
+Europe	58.00%	134.00%  
+Asia	32.30%	69.00%  
+Std. Index:	MSCI ACWI Ex. USA USD  
+  
+Descriptive Info	Value to Std. Index  
+Beta	1.11  
+Alpha	-4.1  
+MKT/Nav Spread	0.37%  
+ADV	 $             204,000.00   
+Net AUM	$28.62MM  
+Creation Unit Size	100,000  
+Percentile Rank   (Incept)	49  
+ER	0.39%  
+  
+Fund shows substantial USD exposure for USD-based portfolios. No effective hedging identified. 
+
+  
+Lending permitted. Per NPORT-P filed on 2021-03-16 securities lending was conducted using all-cash collateral
+
+  
+Listed: NYSE ARCA
+
+  
+Portfolio weightings range from .38% to 2.2% per NPORT-P on 2021-03-16  
+Notes: Fund limits 80% of investments to those held by the “Fidelity Value Factor Index”. It does not require proportional weighting. This index is developed mid-cap and large-cap only, limiting the fund exposure to mid and large-cap funds for the majority of investment. The fund does not maintain a small-cap allocation.
+
+  
+Geode is permitted to utilize statistical sampling techniques to match investment characteristics of a variety of factors between the index and the fund. 
+
+  
+Filing 485BPOS filed 2021-02-24 discusses the proprietary weighting strategy of “Fidelity Value Factor Index”. The section goes on to explain the index’s weighting and composite scoring methodology. Composite measures: High FCF yield, low enterprise value to EBITDA, low price to tangible book value, and low price to future earnings. Size-bias is removed, and the highest composite scores are utilized. The country-weights of the index are intended to match the developed international market. Each stock group category is market-cap weighted internally, plus a group weighting adjustment is applied, then each sector is equal-weighted against the international market portfolio. 
+
+  
+Rebalancing is semi-annual in February and August
+
+  
+Opinion: 
+
+  
+The management structure warrants additional investigation, as the senior manager covers many funds, and there has been a senior-management change. Next step would be to analyze the overlap of non-senior portfolio managers to ensure at least some competent member of management treats this as a primary fund. Due to the low management fee and small capitalization this is unlikely. Additionally research must be completed as to the compensation agreements between Geode and its managers, as well as Fidelity and Geode. 
+
+  
+The underlying indexing strategy is uninspired and vulnerable to value traps. The low adherence required to the underlying index poses ethical conflict to primary managers of the fund dependent upon compensation agreements. This is compounded by the ability of Geode to allocate per their statistical sampling techniques. 
+
+  
+While their mandate permits small and mid-cap securities, a large majority of the fund is large-cap. Size tilt should be accounted for when determining any allocation. Additionally, they have deviated from the global allocation with a Euro-centric tilt against their mandate. 
+
+  
+Rebalancing periods align with that of the MSCI ACWI Ex US index, which is quarterly rebalanced. Semi-annual rebalancing will result in drift away from MSCI on the underlying fund index. 
+
+  
+Currency risk of this fund may require portfolio-level currency management upon purchase. 
+
+  
+Investability is low due to low ADV and wide spreads, among other market impact concerns. This fund may be a target for creation-unit arbitrage given the large liquid underlying securities and relatively high premium available for the underlying securities. It should be noted total fund value equals only \~11 creation units.",iguessjustdont,41,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h0751r0/,0.034,0.882,0.084,0.9849
+8,ANY," Ok, that's a lot of words, largely pasted from Fidelity's site.  But let's look at the possible risks you identify.  One is ""low adherence required to the underlying index""; but the tracking error for FIVA is almost the same as the tracking error of FTEC, Fidelity's single largest ETF that simply tracks the info tech sector.  While their documents have a lot of disclaimers, I'm not seeing any evidence of a problem there.
+
+You call it Euro-centric but it's less than 60% Europe.  It's only a few percent higher than VEA, which just tracks all developed markets as a passive total index.
+
+Your other criticism, about being vulnerable to ""value traps"" could be said for ANY ""value"" factor ETF unless you provide specific criticism of the methodology (which you didn't...).   I'm glad you looked up the details, though.",pmchem,16,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h07ei4i/,0.186,0.77,0.044,-0.973
+9,DD," I get your point, but SPGP's inception year was 2011 so it's not some new thing they're just trying to see if it sticks or not.  Also, your comment aligns with why I think it's VERY important to look at methodology and ""what's inside"" any given ETF -- hence why I discussed its index metrics and linked its index page / methodology in another comment.  Absolutely proper to do DD on an ETF's methods and not just look at performance, as you point out!",pmchem,2,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h076zfg/,0.0,0.951,0.049,0.6163
+10,VERY," I get your point, but SPGP's inception year was 2011 so it's not some new thing they're just trying to see if it sticks or not.  Also, your comment aligns with why I think it's VERY important to look at methodology and ""what's inside"" any given ETF -- hence why I discussed its index metrics and linked its index page / methodology in another comment.  Absolutely proper to do DD on an ETF's methods and not just look at performance, as you point out!",pmchem,2,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h076zfg/,0.0,0.951,0.049,0.6163
+11,ADV," You are correct this is not a full due-diligence report, and I think you misunderstand what I was trying to do. The purpose of this is to give a high level summary of some key features of the fund, and to determine whether it is investable from a portfolio management perspective. Based on the ADV/spreads it is not realistically investable for me, so much of the remainder of the information listed is moot for my purposes. For that reason I touch on a couple high notes so that if I were to ever come back to this fund I would have some context to start from. My full documentation is about 12 pages, but I figured I would toss some summary info up here for anyone who was interested. 
+
+The info I gathered was from Morningstar reports and (primarily) their EDGAR filings, which I reviewed all of. I did not look at the Fidelity website. I also did not copy + paste anything besides the manager/advisor names
+
+I called it euro-centric because it has 134% of the euro allocation of the market index. It isn't a positive or negative, just something to be aware of. Tracking error and prospectus limitations are different issues as one is forward looking and one is backwards looking. When doing portfolio allocation of investor funds being aware of the degree of third-party discretion is important, and since it is not investable for me at this point I did not evaluate historical tracking error. There is no ""problem"" per se at present, but the structure of the fund and loose tracking requirements indicates that before investing client money additional research would need to be done as to how management is compensated, that is all. 
+
+There are several strategies to avoiding value traps in passive investments, the most common are ""quality adjusting"", or G-scoring, or F-Scoring, among many others. [Here](http://www.independance-et-expansion.com/files/upload/fondements-theoriques/Novy-Marx%20-%20Value%20Investing%202013.pdf) and [Here](https://www.jstor.org/stable/2672906?seq=1) are a couple articles on the topic. You will note that the size dimension plays a role in the effects of quality-adjustment, which is why I addressed the portfolio size tilt in my opinion.",iguessjustdont,9,/r/investing/comments/nprdln/10_more_interesting_and_useful_etfs_with_less/h07kdcb/,0.061,0.889,0.05,-0.6173
+12,GME," ""Schemes to make money"" classic shill/troll move comparing retail to Hedge funds. You do realize HF's have fleeced TRILLIONS over the years? Since when has retail done anything ever remotely close? All retail is doing is buying stock, we don't have Algos that trade for us or teams of experts day trading with options. I think your missing the point, only now does the SEC choose to ""educate"" the retail investor because they can't have another GME/AMC situation. Has the SEC ever actually held HF's responsible for the company's they bankrupted through shorting and other means? How many legitimate companies went under because of this disgusting tactic? Comparing our ""schemes"" to that of big players is just ridiculous.",Cosmickev1086,-1,/r/investing/comments/npje95/sec_hosts_discussion_for_retail_traders_might_be/h06leyu/,0.077,0.904,0.018,-0.8105
+13,GME," Just because you say something is a fact doesnt make it one. If you want facts, the first one you should realize is that the majority of money made from the meme stock pumps was by other institutions and funds, if the SEC was somehow colluding with ""Wall Street"" (which isn't as homogenous and united as you are implying), why would they step in when they made the most money from what happened? Your evidence is circular and doesn't make any sense, and saying people aren't capable of collusion is ridiculous and a flat out lie. Not to mention anyone can get access to the information ""Wallstreet"" uses, it just takes more time than most investors here who want to just pump money into GME are willing to spend to actually research something.  Just because you disagree with something doesn't change facts and definitions.
+
+The easiest way to tell someone has no idea what they are talking about is when they refer to Wallstreet and Institutions as some united front, when in fact their are countless firms and individuals with competing ideas and investments. Maybe the SEC's goals align with some of those large players, but acting like the SEC is out to get retail investors and thinking your fighting against ""Wallstreet"" by making them money is a conspiracy theory at best.",MAUSECOP,5,/r/investing/comments/npje95/sec_hosts_discussion_for_retail_traders_might_be/h06ptig/,0.068,0.86,0.072,0.2163
+14,GME," Investing isn't a zero-sum game, just because institutions make money doesnt mean retail investors can't as well. Institutions also made far more money off of the GME and other memestock situations, both more than retail investors and more than the losses of a few hedge funds. The SEC doesn't care about a couple of funds going under, they just want to protect the overall equities market and prevent direct manipulation.",MAUSECOP,6,/r/investing/comments/npje95/sec_hosts_discussion_for_retail_traders_might_be/h06os04/,0.129,0.804,0.067,-0.6814
+15,NEW," Yeah, I remember penny stock pump and dumps before shit coins and meme stocks. THIS ISN'T NEW BEHAVIOR.",Harbinger2nd,24,/r/investing/comments/npje95/sec_hosts_discussion_for_retail_traders_might_be/h05qg5e/,0.28,0.622,0.098,-0.6249
+16,MLM, Hell no. They’re an MLM.,mejorquetu,26,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05dvj8/,0.832,0.168,0.0,-0.873
+17,ACTC," Man, the comments here are really disappointing.  They post is asking for critical feedback and the only folks bothering to respond are blindly positive and/or clearly gamblers.
+
+I am bullish overall, but here are some hesitations...
+
+. Beach Body is definitely an MLM company (no matter what other elements of their business exist) and that may always be an issue for serious investors to get around.
+
+. They simply are not Peloton. They are one of many companies following in peloton’s wake.  Many companies will be fighting for the at home fitness market in the us and abroad, so the pie will be fractured heavily.
+
+. I’m bearish on the overseas expansion, because their MLM strategy that made them successful is based on US cultural factors.  Who the f*!k can say whether they’ll be able to translate that in other markets.
+
+. Investing in SPACs before merger is a speculative gamble.  Any company that has not issued a public earnings report cannot be given benefit of the doubt.  
+
+. If BODY does as well as you think it will, then it will be a great buy at $30 next year and you can ride it to $100 or $300 or whatever.   If it fails to do what you think then it will plummet or chop for years.  There’s no reason for you to FOMO yourself into a gamble instead of watching for a good future investment.
+
+Thats my take, but what do I know? 
+
+My SPAC holdings (all small investments in warrants): GENI, HZON, BFLY, ACTC, LEV, IPOE",dddumbdumbbb,12,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05dt16/,0.112,0.783,0.106,-0.155
+18,BFLY," Man, the comments here are really disappointing.  They post is asking for critical feedback and the only folks bothering to respond are blindly positive and/or clearly gamblers.
+
+I am bullish overall, but here are some hesitations...
+
+. Beach Body is definitely an MLM company (no matter what other elements of their business exist) and that may always be an issue for serious investors to get around.
+
+. They simply are not Peloton. They are one of many companies following in peloton’s wake.  Many companies will be fighting for the at home fitness market in the us and abroad, so the pie will be fractured heavily.
+
+. I’m bearish on the overseas expansion, because their MLM strategy that made them successful is based on US cultural factors.  Who the f*!k can say whether they’ll be able to translate that in other markets.
+
+. Investing in SPACs before merger is a speculative gamble.  Any company that has not issued a public earnings report cannot be given benefit of the doubt.  
+
+. If BODY does as well as you think it will, then it will be a great buy at $30 next year and you can ride it to $100 or $300 or whatever.   If it fails to do what you think then it will plummet or chop for years.  There’s no reason for you to FOMO yourself into a gamble instead of watching for a good future investment.
+
+Thats my take, but what do I know? 
+
+My SPAC holdings (all small investments in warrants): GENI, HZON, BFLY, ACTC, LEV, IPOE",dddumbdumbbb,12,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05dt16/,0.112,0.783,0.106,-0.155
+19,GENI," Man, the comments here are really disappointing.  They post is asking for critical feedback and the only folks bothering to respond are blindly positive and/or clearly gamblers.
+
+I am bullish overall, but here are some hesitations...
+
+. Beach Body is definitely an MLM company (no matter what other elements of their business exist) and that may always be an issue for serious investors to get around.
+
+. They simply are not Peloton. They are one of many companies following in peloton’s wake.  Many companies will be fighting for the at home fitness market in the us and abroad, so the pie will be fractured heavily.
+
+. I’m bearish on the overseas expansion, because their MLM strategy that made them successful is based on US cultural factors.  Who the f*!k can say whether they’ll be able to translate that in other markets.
+
+. Investing in SPACs before merger is a speculative gamble.  Any company that has not issued a public earnings report cannot be given benefit of the doubt.  
+
+. If BODY does as well as you think it will, then it will be a great buy at $30 next year and you can ride it to $100 or $300 or whatever.   If it fails to do what you think then it will plummet or chop for years.  There’s no reason for you to FOMO yourself into a gamble instead of watching for a good future investment.
+
+Thats my take, but what do I know? 
+
+My SPAC holdings (all small investments in warrants): GENI, HZON, BFLY, ACTC, LEV, IPOE",dddumbdumbbb,12,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05dt16/,0.112,0.783,0.106,-0.155
+20,HZON," Man, the comments here are really disappointing.  They post is asking for critical feedback and the only folks bothering to respond are blindly positive and/or clearly gamblers.
+
+I am bullish overall, but here are some hesitations...
+
+. Beach Body is definitely an MLM company (no matter what other elements of their business exist) and that may always be an issue for serious investors to get around.
+
+. They simply are not Peloton. They are one of many companies following in peloton’s wake.  Many companies will be fighting for the at home fitness market in the us and abroad, so the pie will be fractured heavily.
+
+. I’m bearish on the overseas expansion, because their MLM strategy that made them successful is based on US cultural factors.  Who the f*!k can say whether they’ll be able to translate that in other markets.
+
+. Investing in SPACs before merger is a speculative gamble.  Any company that has not issued a public earnings report cannot be given benefit of the doubt.  
+
+. If BODY does as well as you think it will, then it will be a great buy at $30 next year and you can ride it to $100 or $300 or whatever.   If it fails to do what you think then it will plummet or chop for years.  There’s no reason for you to FOMO yourself into a gamble instead of watching for a good future investment.
+
+Thats my take, but what do I know? 
+
+My SPAC holdings (all small investments in warrants): GENI, HZON, BFLY, ACTC, LEV, IPOE",dddumbdumbbb,12,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05dt16/,0.112,0.783,0.106,-0.155
+21,LEV," Man, the comments here are really disappointing.  They post is asking for critical feedback and the only folks bothering to respond are blindly positive and/or clearly gamblers.
+
+I am bullish overall, but here are some hesitations...
+
+. Beach Body is definitely an MLM company (no matter what other elements of their business exist) and that may always be an issue for serious investors to get around.
+
+. They simply are not Peloton. They are one of many companies following in peloton’s wake.  Many companies will be fighting for the at home fitness market in the us and abroad, so the pie will be fractured heavily.
+
+. I’m bearish on the overseas expansion, because their MLM strategy that made them successful is based on US cultural factors.  Who the f*!k can say whether they’ll be able to translate that in other markets.
+
+. Investing in SPACs before merger is a speculative gamble.  Any company that has not issued a public earnings report cannot be given benefit of the doubt.  
+
+. If BODY does as well as you think it will, then it will be a great buy at $30 next year and you can ride it to $100 or $300 or whatever.   If it fails to do what you think then it will plummet or chop for years.  There’s no reason for you to FOMO yourself into a gamble instead of watching for a good future investment.
+
+Thats my take, but what do I know? 
+
+My SPAC holdings (all small investments in warrants): GENI, HZON, BFLY, ACTC, LEV, IPOE",dddumbdumbbb,12,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05dt16/,0.112,0.783,0.106,-0.155
+22,MLM," Man, the comments here are really disappointing.  They post is asking for critical feedback and the only folks bothering to respond are blindly positive and/or clearly gamblers.
+
+I am bullish overall, but here are some hesitations...
+
+. Beach Body is definitely an MLM company (no matter what other elements of their business exist) and that may always be an issue for serious investors to get around.
+
+. They simply are not Peloton. They are one of many companies following in peloton’s wake.  Many companies will be fighting for the at home fitness market in the us and abroad, so the pie will be fractured heavily.
+
+. I’m bearish on the overseas expansion, because their MLM strategy that made them successful is based on US cultural factors.  Who the f*!k can say whether they’ll be able to translate that in other markets.
+
+. Investing in SPACs before merger is a speculative gamble.  Any company that has not issued a public earnings report cannot be given benefit of the doubt.  
+
+. If BODY does as well as you think it will, then it will be a great buy at $30 next year and you can ride it to $100 or $300 or whatever.   If it fails to do what you think then it will plummet or chop for years.  There’s no reason for you to FOMO yourself into a gamble instead of watching for a good future investment.
+
+Thats my take, but what do I know? 
+
+My SPAC holdings (all small investments in warrants): GENI, HZON, BFLY, ACTC, LEV, IPOE",dddumbdumbbb,12,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05dt16/,0.112,0.783,0.106,-0.155
+23,FRX," Very interesting take. I think FRX has huge potential to grow. You forgot to mention that BeachBody has plans on going international. They also are releasing a whole new program called BeachBody on demand interactive later this year (BODI) which will further push their growth. I believe in both the short term and long term growth of this company, and as of now I think the price that FRX currently sits at is a lot lower than what it should be.",Ok-Combination1591,3,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h0576ng/,0.044,0.831,0.125,0.7778
+24,FRX," These coordinated pumps for FRX are getting pretty hilarious. 
+
+It's always trending on Stocktwits for no reason other than to attempt to spread awareness for a pump.
+
+Now this post has 13 awards with only 81 upvotes. 
+
+Shameless.",Chewie_Defense,2,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05m3km/,0.101,0.703,0.196,0.6486
+25,MLM," I disagree with people worried about MLM - the MLM component is direct to consumer, not consumer to consumer, and it is for their supplements only.  They dont have housewives spending their husbands military field pay to buy supplements to sell their friends, they sell directly to consumers.
+
+They own some fantastic workout properties (P90x, Insanity, Hammer and Chisel, The Work, MBF) and have contracts with top trainers who are still producing content (Autumn Calabrese, Shawn T, Meghan Davies, Amoila Cesar).  They have top of the line supplements compared to.competitors which is a differentiator.  They will compete directly with Peloton by adding bikes, and they currently manufacture equipment and proprietary add ons for their workouts, so they have experience here and the existing supply chain/logistics to pull it off.
+
+I like the company relative to Peloton, not sure about long term though.",agoodusernameno1has,1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05mgy6/,0.116,0.803,0.082,-0.6517
+26,BB," Beachbody has 2 exDisney executives. 1 was CFO the other founded Disney+ (+100MM subscriptions). BB’s founder & CEO retains 40% of BB post merger. He’s been operating it profitably excluding 2 years for +22 years. They’ve had a record breaking Q1 this year. They’re releasing BODi(BOD interactive) where they’ll have all aspects of the fitness industry live and interactive including healthy cooking. You can even be on the workout videos live if you want, and they can critique your form etc. Arnold and Lebron are investors and are participating in content creation. 99% of revenue is from the USA & Canada. They have a strategy to expand world-wide, and they already have the most subscribers of any fitness company including 400k influencers who utilize the system and are walking billboards for the company. Beachbody has been and will be Peloton for the masses. I use BB for the cardio/stretching in the mornings and lift in the evenings at a gym. This hybrid model will fit a lot of people’s schedules better than traveling and changing clothes etc to/at the gym. At-home fitness is here to stay and at a point of inflection that is projected to increase the entire industry 10X in the next few years. Beachbody will be HUGE. The only question is, “Are you getting in; or, are being left out?”",craiglightfoot,1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05orq0/,0.0,0.877,0.123,0.972
+27,HUGE," Beachbody has 2 exDisney executives. 1 was CFO the other founded Disney+ (+100MM subscriptions). BB’s founder & CEO retains 40% of BB post merger. He’s been operating it profitably excluding 2 years for +22 years. They’ve had a record breaking Q1 this year. They’re releasing BODi(BOD interactive) where they’ll have all aspects of the fitness industry live and interactive including healthy cooking. You can even be on the workout videos live if you want, and they can critique your form etc. Arnold and Lebron are investors and are participating in content creation. 99% of revenue is from the USA & Canada. They have a strategy to expand world-wide, and they already have the most subscribers of any fitness company including 400k influencers who utilize the system and are walking billboards for the company. Beachbody has been and will be Peloton for the masses. I use BB for the cardio/stretching in the mornings and lift in the evenings at a gym. This hybrid model will fit a lot of people’s schedules better than traveling and changing clothes etc to/at the gym. At-home fitness is here to stay and at a point of inflection that is projected to increase the entire industry 10X in the next few years. Beachbody will be HUGE. The only question is, “Are you getting in; or, are being left out?”",craiglightfoot,1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05orq0/,0.0,0.877,0.123,0.972
+28,USA," Beachbody has 2 exDisney executives. 1 was CFO the other founded Disney+ (+100MM subscriptions). BB’s founder & CEO retains 40% of BB post merger. He’s been operating it profitably excluding 2 years for +22 years. They’ve had a record breaking Q1 this year. They’re releasing BODi(BOD interactive) where they’ll have all aspects of the fitness industry live and interactive including healthy cooking. You can even be on the workout videos live if you want, and they can critique your form etc. Arnold and Lebron are investors and are participating in content creation. 99% of revenue is from the USA & Canada. They have a strategy to expand world-wide, and they already have the most subscribers of any fitness company including 400k influencers who utilize the system and are walking billboards for the company. Beachbody has been and will be Peloton for the masses. I use BB for the cardio/stretching in the mornings and lift in the evenings at a gym. This hybrid model will fit a lot of people’s schedules better than traveling and changing clothes etc to/at the gym. At-home fitness is here to stay and at a point of inflection that is projected to increase the entire industry 10X in the next few years. Beachbody will be HUGE. The only question is, “Are you getting in; or, are being left out?”",craiglightfoot,1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05orq0/,0.0,0.877,0.123,0.972
+29,TTM," Isn’t benchmarking $PTON’s TTM a little optimistic? I mean, they experienced a positive black swan event that pulled forward a ton of demand in their business... seems forward to use that as a baseline for a combo like this",PotoHawk,1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05lwxb/,0.039,0.751,0.21,0.7655
+30,FRX," If you look at FRX as a MLM company, and check the P/E of MLM companies, FRX trades twice above that. So be a bit careful with it, I would not be surprised if it drops after merger.
+
+I own many spacs, but this is not one of them.",mlord99,0,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h06anoq/,0.114,0.856,0.03,-0.465
+31,MLM," If you look at FRX as a MLM company, and check the P/E of MLM companies, FRX trades twice above that. So be a bit careful with it, I would not be surprised if it drops after merger.
+
+I own many spacs, but this is not one of them.",mlord99,0,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h06anoq/,0.114,0.856,0.03,-0.465
+32,MLM," And a few, extremely dedicated supporters who downvote anyone even mentioning MLM and simultaneously gilding/praising then for merely being a ""reverse funnel/referral program"". Classic reddit pump...
+
+
+
+There are lots of brands doing fitness/lifestyle and protein shakes without having MLM as a leg of their business. And for that reason I'm out.",KyivComrade,10,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h06xluo/,0.11,0.776,0.114,0.0529
+33,MLM," Their nutrition side of the business does involve a MLM component. The brands are popular and include Shakeology, Beachbody Performance, Beachbar, Ladder Pre-workout, Protein Products, etc. Customers can also buy from the company directly.
+
+Their digital subscriptions generate significant reoccurring revenue with their existing 2.6M Beachbody subscribers. They have targeted 75,000 bikes to be sold this year. Furthermore, their Openfit platform which is also an interactive workout application has over 125k subscribers and is already profitable. On an interview they mentioned both the Beachbody and Openfit subscriptions will be a accessible on the bikes.
+
+The beautiful thing is they will be able to cross market their nutritional products directly on their digital subscription platforms and customers can make purchases directly on the platforms. The convenience is a win for the customers and the additional revenue from their nutrition business is a win for the investors.",ItzCheze,9,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h058bl1/,0.02,0.858,0.122,0.942
+34,MLM," That would be an advantage. Most MLM's do well in the market: Primerica, USANA, Nuskin to name a few.  Warren Buffet bought an MLM called the Pampered Chef many years ago.  The MLM distributor base is a reliable source of customers.",KeithBucci,2,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h06gw50/,0.137,0.767,0.096,-0.4409
+35,MLM," They don't have to take the MLM overseas when they have a direct marketing brand with Openfit. They can use that since MLM's won't always work in other countries, but people seriously overlook that brand. With that said ethically MLM's aren't everyone's tea that's fine, also the fitness industry can be toxic another point off, and eventually they'll have a pull back from pandemic numbers. I still think however it could get to 20 by end of the year even with the bears because hell if Herbalife can trade at 54 I think this company can trade around that at some point and I loathe Herbalife, but I get why people do it.",kgal1298,2,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05l3qc/,0.123,0.837,0.04,-0.8994
+36,SAM," This is off-topic, but can someone explain why Peloton is priced the way it is? They have an estimated SAM of about $45 billion, which is strange enough on its own because the entire global fitness equipment market is worth less than a third of that, but they've only captured 4% of that SAM, going by their revenue. Which, obviously, is nothing to sneeze at, but doesn't seem to track with a market cap of *$33 billion*. They seem to be valued almost like Apple in relative terms, but I haven't seen anything that indicates they have that level of competitive advantage in the market. Is there something else at play here that I'm just too much of a noob to see?",SirVer51,1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h06k2j7/,0.026,0.825,0.149,0.9448
+37,PTON," Beachbody is calling themselves the PTON for the masses. So it's where i looked first. It's not exactly the same company/circumstances but it does show how much upside there is based on revenue and current valuations alone.
+
+I do think Beachbody has an edge with its nutrition business once they scale up their digital subscriptions. They will be able to market/sell their own products directly form the bike and digital platforms. Revenue generated can/should be significant.",ItzCheze,1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05oy6m/,0.033,0.939,0.029,-0.0772
+38,FRX," Yep this is true... I'm not sure what the point of shorting a stock is when it's sitting at the Net Asset Value of the cash in a trust account. Depending how you look it, it might be a positive thing if they have to buy back all those shares once FRX gets some momentum.",ItzCheze,2,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05pd8z/,0.031,0.712,0.256,0.9222
+39,MLM," MLM is only one part of company. There are quite a few institutions who've bought in and would disagree. See link:
+
+https://whalewisdom.com/stock/frx-2",ItzCheze,2,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h06rt3t/,0.232,0.768,0.0,-0.694
+40,MLM, I suggest you join one of the What the spac's hosted by the Tarica brothers every Wednesday. They will happily address your MLM fears.,Amarin88,-5,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05c5co/,0.193,0.618,0.189,-0.0343
+41,MLM," Products aren’t the only MLM aspect. The”coaching” is too. Coaching is the new MLM. It’s highly abusive and uses cult tactics to recruit and retain. I have no skin in this game, I just find MLMs and the like fascinating from a human psychology standpoint. I have a lot of empathy for it’s victims.",breezycottagecore,-1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h06jd0e/,0.241,0.664,0.095,-0.8504
+42,III," Lebron James, Martin Luther King the III, Arnold Schwarzenegger, Shaq, Tom Staggs, Kevin Mayer.. Are all supporting this company and putting their name behind it.",Amarin88,6,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05harl/,0.0,0.892,0.108,0.4404
+43,BB," LMAO I have no idea why people are downvoting this unless they think it's self promotion. The fact is whether people like it or not even Herbalife is on the exchange and trades at 52 currently. Also, I hate MLM's myself because my mom got into one and so did my brother and it's just dumb you have to be insanely good at hype marketing. Though I will give BB credit it has a better product than some MLM's like say LulaRoe ugh those leggings were awful. So I think in this instance you have to look at the product and determine if it's sustainable from the consumer end which it is regardless of the how the company runs it's day to day.",kgal1298,2,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05jhgk/,0.107,0.764,0.129,0.4648
+44,LMAO," LMAO I have no idea why people are downvoting this unless they think it's self promotion. The fact is whether people like it or not even Herbalife is on the exchange and trades at 52 currently. Also, I hate MLM's myself because my mom got into one and so did my brother and it's just dumb you have to be insanely good at hype marketing. Though I will give BB credit it has a better product than some MLM's like say LulaRoe ugh those leggings were awful. So I think in this instance you have to look at the product and determine if it's sustainable from the consumer end which it is regardless of the how the company runs it's day to day.",kgal1298,2,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05jhgk/,0.107,0.764,0.129,0.4648
+45,MLM," It's a bit of both I think.
+
+I feel like they would be turning down easy money if they didn't do it. If I was going to design a MLM and still be able to sleep at night. It would be that one.",PotassiumBob,0,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05qdca/,0.072,0.804,0.124,0.3109
+46,MLM, They also have a direct to consumer brand. People are over thinking this. It's clear they have the other brand set up for the day MLM's aren't profitable since the government highly regulates the industry now anyway so it's good they have a back up in place that allows them more marketing channels since you can't do things like influencer marketing with an MLM with established influencers in the space.,kgal1298,-1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05jom5/,0.1,0.824,0.076,-0.2193
+47,AMC, Oh damn. I'm only messing around with 5 calls right now. I really think if the merger goes well I'll look at doing some more for next year around the end of Q1. But with that said good luck. I got in at 11 and may pick up a few more shares in the next few weeks and maybe play with covered calls. But I'm waiting for now to see how my AMC play does as a YOLO.,kgal1298,3,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05n2hg/,0.021,0.727,0.253,0.9672
+48,BB," I mean some people are looking to knock it down, but I think holding for a year out maybe just post Q1 could pay off since Q1 is a strong fitness quarter. However, you could also compare to other MLM's Herbalife is trading at 54 and I'd like tot think BB is better than them at least.",kgal1298,1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05kuqz/,0.025,0.752,0.223,0.9274
+49,GNOG," That person said pump, not pump n dump.
+
+The OP had as many reddit awards as comments or upvotes when I first looked at it.  Look at ok-combination1591's comment.  It's the 4th for that account all time and two others were GNOG is heavily shorted posts.",aspergillum,6,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05ep0z/,0.0,0.89,0.11,0.6351
+50,MLM, She bought them from someone on fb to sell to other people on fb. This was 7 years ago so maybe it’s different now but this was 100% an MLM when we were involved.,ScratchAndDent,0,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h06vxfb/,0.116,0.884,0.0,-0.6369
+51,MLM," Because it has a direct channel and multiple revenue sources. People can hate the MLM side, but if you follow some of their top performers you get why they make money though I will say I can't follow some of those women for long they're ummm intense.",kgal1298,15,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05j9ve/,0.092,0.832,0.076,-0.1941
+52,MLM," Sorry, she def got duped, that doesnt sound right.  My wifes sister does it, and they dont have to buy anything.  If you want to sign up or buy it, you decide what you order and you place orders through their website.  Like the person who reps the company doesnt even interact with you for ordering.  
+
+I tried the workouts bc I got a year out of it and ended up liking their supplements too.  I dont do any of their selling though.  I am sure some approach it like an MLM cutco type thing but that hasnt been my experience at least",agoodusernameno1has,2,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h06whyl/,0.05,0.872,0.079,0.2578
+53,MLM," i can see the MLM part being less needed over time, and for their sake I hope so.",admiral_derpness,3,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h062fh6/,0.156,0.699,0.145,-0.0601
+54,MLM," Oh they have a direct marketing brand Openfit which I've used because they're heavy into influencer marketing. It's clear people didn't research the brand that heavily if they're this bearish. Most of the time it's not the MLM that's an issue it's the product. A bad product will ruin it, but most of the reviews for the Beachbody app are quite positive and if I read some people's takes right you don't even have to be active in the MLM to use the app.",kgal1298,1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05lopt/,0.049,0.783,0.168,0.9041
+55,CCIV," Oh I hear ya I waited for a bit because all the SPACs were taking off and I was skeptical about all of them. I also have some CCIV, but I'm cash averaging so it doesn't hurt as bad. I really want to build out some long term plays after I close out my hype stocks and other investments.",kgal1298,2,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05njwq/,0.027,0.772,0.201,0.8903
+56,CCIV," I got 100 shares of CCIV at $17.50 a share, I should have sold when it was at $60 lol but I’ve just been selling covered calls",hippiepig,3,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h05qcwi/,0.0,0.805,0.195,0.4767
+57,CCIV, Oh nice. I sold Plug at the top but I’m in the middle with CCIV but I think Lucid is a good play long term so I’m not bothered.,kgal1298,1,/r/investing/comments/npg51m/frx_beachbody_myx_fitness_merger_revenue_upside/h0616ev/,0.0,0.616,0.384,0.9019
+58,DD," >How it starts: Pages of DD on reddit
+
+>How it ends: Redditor takes physical delivery of $500,000 in physical commodity X
+
+On the bright side, OP can make uranium yellow/green glass/ceramic works that glow in the dark even if the worse case comes to fruition.",zxc123zxc123,12,/r/investing/comments/npxkx3/assessment_of_the_uranium_market_and_future/h07o3um/,0.065,0.875,0.06,-0.0516
+59,UUUU, UUUU has been good for me.  Up 11% since I bought.,DatelessGuy,0,/r/investing/comments/npxkx3/assessment_of_the_uranium_market_and_future/h08abaz/,0.0,0.756,0.244,0.4404
+60,DNN, I was in UUUU and DNN but decided to just dump it all into URA,MartyMcHigh024,1,/r/investing/comments/npxkx3/assessment_of_the_uranium_market_and_future/h07yu3g/,0.207,0.793,0.0,-0.5267
+61,UUUU, I was in UUUU and DNN but decided to just dump it all into URA,MartyMcHigh024,1,/r/investing/comments/npxkx3/assessment_of_the_uranium_market_and_future/h07yu3g/,0.207,0.793,0.0,-0.5267
+62,UUUU,  UUUU is up 10.63% today.,DatelessGuy,0,/r/investing/comments/npxkx3/assessment_of_the_uranium_market_and_future/h08fcn8/,0.0,1.0,0.0,0.0
+63,AG, People claim AU or AG mine or mine streaming stocks are going down. Buying bitcoins is the way to go. I do not see why they are not a good hedge yet.,Vast_Cricket,2,/r/investing/comments/nppy9f/the_us_mints_may_gold_and_silver_sales_figures/h079iiw/,0.077,0.923,0.0,-0.3412
+64,AU, People claim AU or AG mine or mine streaming stocks are going down. Buying bitcoins is the way to go. I do not see why they are not a good hedge yet.,Vast_Cricket,2,/r/investing/comments/nppy9f/the_us_mints_may_gold_and_silver_sales_figures/h079iiw/,0.077,0.923,0.0,-0.3412
+65,FANG," I think squarespace's primary customer base is small businesses (or even sole proprietors) looking to make something quick online. I wonder how big this sort of market really is though - they also have huge competition from places like https://shop.app/ which seems to be specifically geared towards small businesses looking to make an online/mobile presence. 
+
+As for things like personal blogs, i highly doubt someone would pay the premium price of squarespace, when you can just host it on github for free. 
+
+Overall, i think definitely bumpy business ahead, and it's risky to invest in - but without the huge upside like the big FANG companies (i really don't see squarespace being in the same league as the FANGs).",Chii,15,/r/investing/comments/npk9s3/what_does_everyone_think_above_the_squarespace/h05k800/,0.037,0.838,0.125,0.8706
+66,FANG," Good input. I don't think something of FANG magnitude is definitely unrealistic. I'm more or less wondering if this could be a 20,50 billion MC company.",Revolutionary-Cry-38,2,/r/investing/comments/npk9s3/what_does_everyone_think_above_the_squarespace/h05l84w/,0.0,0.797,0.203,0.6808
+67,MC," Good input. I don't think something of FANG magnitude is definitely unrealistic. I'm more or less wondering if this could be a 20,50 billion MC company.",Revolutionary-Cry-38,2,/r/investing/comments/npk9s3/what_does_everyone_think_above_the_squarespace/h05l84w/,0.0,0.797,0.203,0.6808
+68,IT," > mid size companies (200 employees) 
+
+200 is basically a small business. Midsize is when there's an IT department that takes care of computing needs imho.",Chii,8,/r/investing/comments/npk9s3/what_does_everyone_think_above_the_squarespace/h068o5a/,0.0,0.878,0.122,0.4939
+69,AMC, should've known not to buy puts on AMC....,dghmuiytd,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06z9bm/,0.0,1.0,0.0,0.0
+70,AMT," Gurthang's Gainers  
+  
+\+0.59% from 5/28/21  
+  
+\+46.18% Lifetime  
+  
+I am long on O, STAG, BND, VIG, VYM, AMT, CCI, MSFT, IRM, QCOM, ESTC, ET, LAND, CRLBF, PW  
+  
+Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. Compound interest is the most powerful force in the universe. Compound interest is the greatest mathematical discovery of all time.",Gurthang99,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06clvr/,0.0,0.792,0.208,0.9459
+71,CCI," Gurthang's Gainers  
+  
+\+0.59% from 5/28/21  
+  
+\+46.18% Lifetime  
+  
+I am long on O, STAG, BND, VIG, VYM, AMT, CCI, MSFT, IRM, QCOM, ESTC, ET, LAND, CRLBF, PW  
+  
+Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. Compound interest is the most powerful force in the universe. Compound interest is the greatest mathematical discovery of all time.",Gurthang99,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06clvr/,0.0,0.792,0.208,0.9459
+72,ESTC," Gurthang's Gainers  
+  
+\+0.59% from 5/28/21  
+  
+\+46.18% Lifetime  
+  
+I am long on O, STAG, BND, VIG, VYM, AMT, CCI, MSFT, IRM, QCOM, ESTC, ET, LAND, CRLBF, PW  
+  
+Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. Compound interest is the most powerful force in the universe. Compound interest is the greatest mathematical discovery of all time.",Gurthang99,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06clvr/,0.0,0.792,0.208,0.9459
+73,ET," Gurthang's Gainers  
+  
+\+0.59% from 5/28/21  
+  
+\+46.18% Lifetime  
+  
+I am long on O, STAG, BND, VIG, VYM, AMT, CCI, MSFT, IRM, QCOM, ESTC, ET, LAND, CRLBF, PW  
+  
+Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. Compound interest is the most powerful force in the universe. Compound interest is the greatest mathematical discovery of all time.",Gurthang99,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06clvr/,0.0,0.792,0.208,0.9459
+74,IRM," Gurthang's Gainers  
+  
+\+0.59% from 5/28/21  
+  
+\+46.18% Lifetime  
+  
+I am long on O, STAG, BND, VIG, VYM, AMT, CCI, MSFT, IRM, QCOM, ESTC, ET, LAND, CRLBF, PW  
+  
+Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. Compound interest is the most powerful force in the universe. Compound interest is the greatest mathematical discovery of all time.",Gurthang99,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06clvr/,0.0,0.792,0.208,0.9459
+75,LAND," Gurthang's Gainers  
+  
+\+0.59% from 5/28/21  
+  
+\+46.18% Lifetime  
+  
+I am long on O, STAG, BND, VIG, VYM, AMT, CCI, MSFT, IRM, QCOM, ESTC, ET, LAND, CRLBF, PW  
+  
+Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. Compound interest is the most powerful force in the universe. Compound interest is the greatest mathematical discovery of all time.",Gurthang99,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06clvr/,0.0,0.792,0.208,0.9459
+76,MSFT," Gurthang's Gainers  
+  
+\+0.59% from 5/28/21  
+  
+\+46.18% Lifetime  
+  
+I am long on O, STAG, BND, VIG, VYM, AMT, CCI, MSFT, IRM, QCOM, ESTC, ET, LAND, CRLBF, PW  
+  
+Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. Compound interest is the most powerful force in the universe. Compound interest is the greatest mathematical discovery of all time.",Gurthang99,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06clvr/,0.0,0.792,0.208,0.9459
+77,PW," Gurthang's Gainers  
+  
+\+0.59% from 5/28/21  
+  
+\+46.18% Lifetime  
+  
+I am long on O, STAG, BND, VIG, VYM, AMT, CCI, MSFT, IRM, QCOM, ESTC, ET, LAND, CRLBF, PW  
+  
+Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. Compound interest is the most powerful force in the universe. Compound interest is the greatest mathematical discovery of all time.",Gurthang99,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06clvr/,0.0,0.792,0.208,0.9459
+78,QCOM," Gurthang's Gainers  
+  
+\+0.59% from 5/28/21  
+  
+\+46.18% Lifetime  
+  
+I am long on O, STAG, BND, VIG, VYM, AMT, CCI, MSFT, IRM, QCOM, ESTC, ET, LAND, CRLBF, PW  
+  
+Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. Compound interest is the most powerful force in the universe. Compound interest is the greatest mathematical discovery of all time.",Gurthang99,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06clvr/,0.0,0.792,0.208,0.9459
+79,STAG," Gurthang's Gainers  
+  
+\+0.59% from 5/28/21  
+  
+\+46.18% Lifetime  
+  
+I am long on O, STAG, BND, VIG, VYM, AMT, CCI, MSFT, IRM, QCOM, ESTC, ET, LAND, CRLBF, PW  
+  
+Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. Compound interest is the most powerful force in the universe. Compound interest is the greatest mathematical discovery of all time.",Gurthang99,7,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06clvr/,0.0,0.792,0.208,0.9459
+80,BB, Bug green day incoming? Hoping I can transfer my BB bags at 13,Delfitus,4,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06abnd/,0.0,0.797,0.203,0.4215
+81,BB, Doubled down on BB in pre-market.  Let's see what happens,GucciGut7861,3,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06u4ub/,0.0,1.0,0.0,0.0
+82,EOD, Is this another bull trap? Futures Green...EOD Red....some rug pull,Growthing742,3,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h070hhd/,0.204,0.796,0.0,-0.3182
+83,AMC," I’m new to investing as of April 4, 2021 but I’ve learned a good bit in that time period. I’ve made about $890 in profits so far from buying 1400 dogecoin at .07 and selling at .40 to just now selling 20 shares of AMC I bought at $10 and selling at $32. I’ve learned a lot from zero between you guys, r/WallStreetBets, and r/dogecoin. I know it’s not much but I think I’m doing pretty decent for a guy who started with a $300 initial investment. I say thanks to my wife for pushing me to make a profit and I thank you all for posting the do’s and dont’s (poor bag holders and greater fools of a certain cryptocurrency) of investing.",Longest_Inch,1,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h082gah/,0.031,0.739,0.229,0.9806
+84,AMC," Lol WTF? So I reached out to my FA and PM and wanted to discuss dabbing in some GME and AMC and he wouldnt recommend buying the stock or calls but wanted me to consider selling naked calls and/or shorting it. I asked him if hes bearish what about buying puts, he wouldnt advise that either. He was adamant about selling naked calls and shorting on margin. This is a first.",Growthing742,0,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h085adn/,0.06,0.894,0.045,-0.2675
+85,GME," Lol WTF? So I reached out to my FA and PM and wanted to discuss dabbing in some GME and AMC and he wouldnt recommend buying the stock or calls but wanted me to consider selling naked calls and/or shorting it. I asked him if hes bearish what about buying puts, he wouldnt advise that either. He was adamant about selling naked calls and shorting on margin. This is a first.",Growthing742,0,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h085adn/,0.06,0.894,0.045,-0.2675
+86,PM," Lol WTF? So I reached out to my FA and PM and wanted to discuss dabbing in some GME and AMC and he wouldnt recommend buying the stock or calls but wanted me to consider selling naked calls and/or shorting it. I asked him if hes bearish what about buying puts, he wouldnt advise that either. He was adamant about selling naked calls and shorting on margin. This is a first.",Growthing742,0,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h085adn/,0.06,0.894,0.045,-0.2675
+87,AMC, BB has some of the weakest hands out there. Whenever it goes up x amount it drops by the same amount just a day later or even on the same day. Back in Feb 23 when GME and AMC started recovering BB did too. However BB dropped immediately after while the other 2 kept going higher and higher. Last Friday it was up 20% then it dropped 19% just a few hours after,Thedhcpddosgod,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06dur1/,0.046,0.954,0.0,-0.5106
+88,BB, BB has some of the weakest hands out there. Whenever it goes up x amount it drops by the same amount just a day later or even on the same day. Back in Feb 23 when GME and AMC started recovering BB did too. However BB dropped immediately after while the other 2 kept going higher and higher. Last Friday it was up 20% then it dropped 19% just a few hours after,Thedhcpddosgod,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06dur1/,0.046,0.954,0.0,-0.5106
+89,GME, BB has some of the weakest hands out there. Whenever it goes up x amount it drops by the same amount just a day later or even on the same day. Back in Feb 23 when GME and AMC started recovering BB did too. However BB dropped immediately after while the other 2 kept going higher and higher. Last Friday it was up 20% then it dropped 19% just a few hours after,Thedhcpddosgod,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06dur1/,0.046,0.954,0.0,-0.5106
+90,AMC," If you buy/sell ATM august calls on AMC, it would need to rise 40% before you break even. And 30% for GME.",kiwimancy,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h087bl7/,0.0,1.0,0.0,0.0
+91,GME," If you buy/sell ATM august calls on AMC, it would need to rise 40% before you break even. And 30% for GME.",kiwimancy,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h087bl7/,0.0,1.0,0.0,0.0
+92,AMC," Well honestly, I think he's on the right track. Buying options (calls or puts) when implied volatility is this high is not a good play usually. It's likley that with AMC and GME, you'd actually see the options lose value even if the stock moves in the direction you want when volatility crushes. Selling short premium is a better way but in this case, it has much higher risk. That said, the high premium received reflects that increased risk. Shorting the stock doesn't get you premium but it does give you unlimited time to be right. Short the stock at 35, watch AMC shoot up to 100 and given enough time, it'll probably be back below 35. His advice is pretty solid.",bazonkers,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h08gvqc/,0.113,0.761,0.126,0.1972
+93,GME," Well honestly, I think he's on the right track. Buying options (calls or puts) when implied volatility is this high is not a good play usually. It's likley that with AMC and GME, you'd actually see the options lose value even if the stock moves in the direction you want when volatility crushes. Selling short premium is a better way but in this case, it has much higher risk. That said, the high premium received reflects that increased risk. Shorting the stock doesn't get you premium but it does give you unlimited time to be right. Short the stock at 35, watch AMC shoot up to 100 and given enough time, it'll probably be back below 35. His advice is pretty solid.",bazonkers,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h08gvqc/,0.113,0.761,0.126,0.1972
+94,NAV," They don't state an effective duration on the website or fact sheet. The market price seems to trade at a huge spread away from NAV (last closed at 48.89 vs 47.33 NAV, and no IIV is posted that I can see) so looking at the price doesn't give a great idea. They even had to restate NAV on may 12 by 2.55% for some reason... I can't find an NAV chart yet. I don't know how to estimate the duration from the holdings.  
+
+So basically the most crude method is comparing the unreliable market price for a handful of days to similar funds like TYO and TMV. Based on that, it seems to maybe be somewhere between TYO (-23.73 yrs) and TMV (-56.61 yrs), so something like -40yrs, and it would move about 10% if yields on 20+ year tbonds rose 25bps. That would not necessarily happen if the Fed raises FFR by 25bps, though I think at this point, the market does not expect such a raise (only 7% chance by december according to FFR futures), so I would expect that if such a move did happen, it would also have a similar effect on long bond yields. It also doesn't take convexity into account but I expect that to be a smaller error compared to the other two.   
+
+I would wait a couple weeks to see if the price starts tracking NAV more closely or for an NAV chart to get a better estimate. Mine has a pretty large margin of error.",kiwimancy,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h07mgqz/,0.059,0.883,0.058,-0.0825
+95,AMC," you can, but please take a look at AMC/GME for a good example of what happens to people when they short overvalued stocks in this market",dbgtboi,3,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h07ijti/,0.0,0.764,0.236,0.7783
+96,ATH," It's 500+ points away from that last intraday ATH, so that's not that likely (it might ""trade above its last record close"" in a few minutes though).
+
+I know this is from a couple hours ago, but it still wasn't that likely then. There's an outside shot it has a record close today though (but I doubt it, it probably jumps over 300 points and then settles lower as that is normal for it, so that will be tough).",95Daphne,1,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h06vw9k/,0.078,0.922,0.0,-0.7227
+97,AMZN," Shortselling: you borrow shares from your broker to sell at the current market price with the promise of returning those shares at a later date, all the while paying your broker interest. If your shorted position goes down, great, but if not, you are screwed.
+
+You need to open a margin account with your broker and then tell them which stocks and ETFs you want to short.
+
+But be careful: you are limiting your upside while being exposed to infinite downsides.....just ask how well the GME shortsellers did 4 months ago. A stock can only go down 100% but can go up 200, 500 even 10,000% (AAPL, AMZN, TSLA etc).",BussySlayer69,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h07kdro/,0.012,0.826,0.162,0.9245
+98,GME," Shortselling: you borrow shares from your broker to sell at the current market price with the promise of returning those shares at a later date, all the while paying your broker interest. If your shorted position goes down, great, but if not, you are screwed.
+
+You need to open a margin account with your broker and then tell them which stocks and ETFs you want to short.
+
+But be careful: you are limiting your upside while being exposed to infinite downsides.....just ask how well the GME shortsellers did 4 months ago. A stock can only go down 100% but can go up 200, 500 even 10,000% (AAPL, AMZN, TSLA etc).",BussySlayer69,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h07kdro/,0.012,0.826,0.162,0.9245
+99,TSLA," Shortselling: you borrow shares from your broker to sell at the current market price with the promise of returning those shares at a later date, all the while paying your broker interest. If your shorted position goes down, great, but if not, you are screwed.
+
+You need to open a margin account with your broker and then tell them which stocks and ETFs you want to short.
+
+But be careful: you are limiting your upside while being exposed to infinite downsides.....just ask how well the GME shortsellers did 4 months ago. A stock can only go down 100% but can go up 200, 500 even 10,000% (AAPL, AMZN, TSLA etc).",BussySlayer69,2,/r/investing/comments/nppldq/daily_general_discussion_and_spitballin_thread/h07kdro/,0.012,0.826,0.162,0.9245
+100,AMD," I'll offer a counter argument. 
+
+AMD has been doing very well with its ryzen chipsets and graphics card lineups, taking full advantage of the difficulties that nvidia customers are having. 
+
+Financials, 
+
+INTC 21' forecast revenue growth -7.8% and 22' 1.6%
+
+Completely anemic growth probably worst in sector I'd have to compare a few more. 
+
+AMD 21' forecast revenue growth 50.3% and 22' 15.3% 
+
+Much better than intel. 
+
+EPS forecasts for intel have it at 4.0 and 4.25 giving -19% fy1 and 6.3% fy2. Not great. 
+
+EPS forecasts for AMD at 1.9 and 2.37 giving -7.8% fy1 and 24.7% fy2 respectively. 
+
+Gross margins are running at 43% and 52% on average so not much in it there, 
+
+3 year median fy0 to fy2 net income for intel is -1.21% when AMD is 21.5% posing that amd is actually going to out pace intel significantly. 
+
+INTC Street price target 64.87 - 14.15% upside.
+AMD Street price target 104.34 - 29% upside. 
+
+
+Overall i think the revenue growth needs to come up quite a lot for it to be an allocation, sometimes a cheap P/E leaves you with a dead in the water stoxk if the company can't follow through on its earnings",1spamed,29,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h07t6oq/,0.089,0.798,0.113,0.3397
+101,INTC," I'll offer a counter argument. 
+
+AMD has been doing very well with its ryzen chipsets and graphics card lineups, taking full advantage of the difficulties that nvidia customers are having. 
+
+Financials, 
+
+INTC 21' forecast revenue growth -7.8% and 22' 1.6%
+
+Completely anemic growth probably worst in sector I'd have to compare a few more. 
+
+AMD 21' forecast revenue growth 50.3% and 22' 15.3% 
+
+Much better than intel. 
+
+EPS forecasts for intel have it at 4.0 and 4.25 giving -19% fy1 and 6.3% fy2. Not great. 
+
+EPS forecasts for AMD at 1.9 and 2.37 giving -7.8% fy1 and 24.7% fy2 respectively. 
+
+Gross margins are running at 43% and 52% on average so not much in it there, 
+
+3 year median fy0 to fy2 net income for intel is -1.21% when AMD is 21.5% posing that amd is actually going to out pace intel significantly. 
+
+INTC Street price target 64.87 - 14.15% upside.
+AMD Street price target 104.34 - 29% upside. 
+
+
+Overall i think the revenue growth needs to come up quite a lot for it to be an allocation, sometimes a cheap P/E leaves you with a dead in the water stoxk if the company can't follow through on its earnings",1spamed,29,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h07t6oq/,0.089,0.798,0.113,0.3397
+102,AMD," Intel is a fab-ful manufacturer in an industry that has largely moved to fabless. As a result, fab specialists like TSMC, GF, and Samsung have leapfrogged intel (because they can focus on building better processes and can always sell capacity for those processes).
+
+Semiconductors is a highly competitive industry, where a slight competitive advantage rapidly turns into market leadership. AMD is the current market leader in CPU and server offerings, while NVIDIA, ARM, and homegrown SoCs like Apple M1 are encroaching on Intel's other LoBs. This is gradually eroding Intel's enterprise agreements, which are a major source of revenue.
+
+Intel's financials are excellent, but that has come at the cost of R&D progress. We are seeing the results of that now. Intel realizes this, and has made significant changes in management. They're even trying to sell fab capacity to third parties. This is good - but it remains to be seen if Intel can execute on its new strategy fast enough to take back market leadership.
+
+re: chip shortage: ending the chip shortage brings a new problem, which is that the marginal cost of wafer production is very small, meaning fabs are incentivized to run at full capacity, all of the time. This means that, with all these different players expanding fab capacity, we might over-correct into a supply glut, bringing down the price of chips. Furthermore, in a supply glut scenario, I suspect fabless manufacturers would prefer to work with foundries not owned by a potential competitor, which poses a risk to Intel's goal of becoming a fab for third parties. It's not as simple as ""shortage ends -> revenue up.""
+
+I personally think INTC *is* undervalued, and I hold INTC - but I think it's far from a simple or risk-free investment.",Centigonal,32,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h07sduy/,0.053,0.805,0.142,0.9756
+103,GF," Intel is a fab-ful manufacturer in an industry that has largely moved to fabless. As a result, fab specialists like TSMC, GF, and Samsung have leapfrogged intel (because they can focus on building better processes and can always sell capacity for those processes).
+
+Semiconductors is a highly competitive industry, where a slight competitive advantage rapidly turns into market leadership. AMD is the current market leader in CPU and server offerings, while NVIDIA, ARM, and homegrown SoCs like Apple M1 are encroaching on Intel's other LoBs. This is gradually eroding Intel's enterprise agreements, which are a major source of revenue.
+
+Intel's financials are excellent, but that has come at the cost of R&D progress. We are seeing the results of that now. Intel realizes this, and has made significant changes in management. They're even trying to sell fab capacity to third parties. This is good - but it remains to be seen if Intel can execute on its new strategy fast enough to take back market leadership.
+
+re: chip shortage: ending the chip shortage brings a new problem, which is that the marginal cost of wafer production is very small, meaning fabs are incentivized to run at full capacity, all of the time. This means that, with all these different players expanding fab capacity, we might over-correct into a supply glut, bringing down the price of chips. Furthermore, in a supply glut scenario, I suspect fabless manufacturers would prefer to work with foundries not owned by a potential competitor, which poses a risk to Intel's goal of becoming a fab for third parties. It's not as simple as ""shortage ends -> revenue up.""
+
+I personally think INTC *is* undervalued, and I hold INTC - but I think it's far from a simple or risk-free investment.",Centigonal,32,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h07sduy/,0.053,0.805,0.142,0.9756
+104,INTC," Intel is a fab-ful manufacturer in an industry that has largely moved to fabless. As a result, fab specialists like TSMC, GF, and Samsung have leapfrogged intel (because they can focus on building better processes and can always sell capacity for those processes).
+
+Semiconductors is a highly competitive industry, where a slight competitive advantage rapidly turns into market leadership. AMD is the current market leader in CPU and server offerings, while NVIDIA, ARM, and homegrown SoCs like Apple M1 are encroaching on Intel's other LoBs. This is gradually eroding Intel's enterprise agreements, which are a major source of revenue.
+
+Intel's financials are excellent, but that has come at the cost of R&D progress. We are seeing the results of that now. Intel realizes this, and has made significant changes in management. They're even trying to sell fab capacity to third parties. This is good - but it remains to be seen if Intel can execute on its new strategy fast enough to take back market leadership.
+
+re: chip shortage: ending the chip shortage brings a new problem, which is that the marginal cost of wafer production is very small, meaning fabs are incentivized to run at full capacity, all of the time. This means that, with all these different players expanding fab capacity, we might over-correct into a supply glut, bringing down the price of chips. Furthermore, in a supply glut scenario, I suspect fabless manufacturers would prefer to work with foundries not owned by a potential competitor, which poses a risk to Intel's goal of becoming a fab for third parties. It's not as simple as ""shortage ends -> revenue up.""
+
+I personally think INTC *is* undervalued, and I hold INTC - but I think it's far from a simple or risk-free investment.",Centigonal,32,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h07sduy/,0.053,0.805,0.142,0.9756
+105,AMD," > As chip production begins to pick back up, Intel’s stock should begin to go up as well.    
+
+Chip production never significantly dropped, so there is no recovery.   
+
+The ""chip shortage"" is more accurately: A chip shortage in *certain sectors* who cancelled their chip orders/slots, which were happily picked up by others expecting a surge (like consumer electronics). Some of these sectors, like cars, who were expecting decreased consumer demand instead witnesses unusually high demand, and they were unable to regain their slots. 
+
+Also building a chip plant takes at bare minimum five years and that is assuming the wait list for chip manufacturing equipment isn't already years (which, spoilers: it is). Intel's biggest asset is that they're a US company, and there's national security interest in on-shoring. So I expect the USG to bail them out by funding a major US chip production facility within the USA for mostly USG/DoD consumption. In the meantime AMD/TSM will continue to eat Intel's lunch, and their market share (which is a lagging indicator) will continue to shrink.   
+
+While I'm bullish on Intel over tens of years for the reason above, I'm bearish right now as I don't believe we've hit the bottom. P/E may actually get worse if earnings sink as Intel tries to compete with AMD's superior products in the enterprise/data-center space (i.e. deep discounts).    
+
+So I may buy Intel but not at $57, maybe at $45~.",TimeRemove,15,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h07thxh/,0.052,0.885,0.063,0.5526
+106,USA," > As chip production begins to pick back up, Intel’s stock should begin to go up as well.    
+
+Chip production never significantly dropped, so there is no recovery.   
+
+The ""chip shortage"" is more accurately: A chip shortage in *certain sectors* who cancelled their chip orders/slots, which were happily picked up by others expecting a surge (like consumer electronics). Some of these sectors, like cars, who were expecting decreased consumer demand instead witnesses unusually high demand, and they were unable to regain their slots. 
+
+Also building a chip plant takes at bare minimum five years and that is assuming the wait list for chip manufacturing equipment isn't already years (which, spoilers: it is). Intel's biggest asset is that they're a US company, and there's national security interest in on-shoring. So I expect the USG to bail them out by funding a major US chip production facility within the USA for mostly USG/DoD consumption. In the meantime AMD/TSM will continue to eat Intel's lunch, and their market share (which is a lagging indicator) will continue to shrink.   
+
+While I'm bullish on Intel over tens of years for the reason above, I'm bearish right now as I don't believe we've hit the bottom. P/E may actually get worse if earnings sink as Intel tries to compete with AMD's superior products in the enterprise/data-center space (i.e. deep discounts).    
+
+So I may buy Intel but not at $57, maybe at $45~.",TimeRemove,15,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h07thxh/,0.052,0.885,0.063,0.5526
+107,AMD," Intel have some problem and I don't think they have enough resources to fight it all.
+
+1. Intel's IDM 2.0 - compete with TSMC but lock TSMC's ecosystem and customers trust. you needs customer's trust to win their business. TSMC have over 50% market share and a very healthy ecosystem. AMD and Apple are core customers of TSMC. trust is going to be a big issues for Intel. TSMC have even higher market cap than Intel with bigger capex spending. Its going to be hard for Intel to fight in this space
+
+2. Chip design - Intel is clearly behind AMD and Apple on price/performance. Apple ditching Intel is showing other PC makers/vendors that you don't need Intel's chip. the FACT to the matter is, you can design your own chip that make your product stand out than using common chip like Intel's. Intel going to burn money on Chip design to be attractive enough for other company like Google, Microsoft..etc. to ditch designing its own chip.
+
+3. Server/Client - Intel is losing on both client (consumers) and server. AMD is killing it on both client and server. Apple is shattering Intel Inside on consumer side. Microsoft is ditching Intel as well and working with Qualcomm on Windows for ARM. AWS is using its own chip for their cloud offering.
+
+Intel going to spend a lot of money on upgrading its fab and R&D on fab process and secure equipment. [Will Intel have enough EUV for 7nm?](https://semiwiki.com/forum/index.php?threads/will-intel-have-enough-euv-for-7nm.14191/).
+
+I'm hoping the new engineer CEO can turn Intel around but it will take time like AMD. Its current stock price is still too high for me.",soAsian,2,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h08c6xa/,0.056,0.754,0.19,0.9929
+108,FACT," Intel have some problem and I don't think they have enough resources to fight it all.
+
+1. Intel's IDM 2.0 - compete with TSMC but lock TSMC's ecosystem and customers trust. you needs customer's trust to win their business. TSMC have over 50% market share and a very healthy ecosystem. AMD and Apple are core customers of TSMC. trust is going to be a big issues for Intel. TSMC have even higher market cap than Intel with bigger capex spending. Its going to be hard for Intel to fight in this space
+
+2. Chip design - Intel is clearly behind AMD and Apple on price/performance. Apple ditching Intel is showing other PC makers/vendors that you don't need Intel's chip. the FACT to the matter is, you can design your own chip that make your product stand out than using common chip like Intel's. Intel going to burn money on Chip design to be attractive enough for other company like Google, Microsoft..etc. to ditch designing its own chip.
+
+3. Server/Client - Intel is losing on both client (consumers) and server. AMD is killing it on both client and server. Apple is shattering Intel Inside on consumer side. Microsoft is ditching Intel as well and working with Qualcomm on Windows for ARM. AWS is using its own chip for their cloud offering.
+
+Intel going to spend a lot of money on upgrading its fab and R&D on fab process and secure equipment. [Will Intel have enough EUV for 7nm?](https://semiwiki.com/forum/index.php?threads/will-intel-have-enough-euv-for-7nm.14191/).
+
+I'm hoping the new engineer CEO can turn Intel around but it will take time like AMD. Its current stock price is still too high for me.",soAsian,2,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h08c6xa/,0.056,0.754,0.19,0.9929
+109,AMD," Their products are falling behind AMD and they are losing market share. The danger for them is that once the semiconductor shortage subsides, they may be stuck trying to stay afloat with products that don't compete with AMD, and forced to reduce margins to compete.",skilliard7,2,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h07veh4/,0.266,0.693,0.04,-0.886
+110,IBM," Intel has gone through periods where other manufacturers beat them in performance. I remember the days of the Pentium 3 and 4 that were far behind what IBM/Motorola were producing, but Intel eventually figured it out and made a comeback with the Core Duo. Unless they go the way of IBM, I think they will find their way, but I would not want to buy the stock at this time until a turnaround is more clear.",atdharris,1,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h08nbvy/,0.018,0.928,0.053,0.5433
+111,AMD," I don't think I can counter, you have really good points. I do think there may be a chance that Intel could come back in a few years, but they may have to switch some of their fundamentals and main lineups in order to have more growth. AMD is doing a lot better at the moment, and it would take a lot of time and money for Intel to compete at AMD's level.",anuder1,4,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h080rmj/,0.0,0.846,0.154,0.883
+112,AMD, This. His AMD valuation didn’t forecast future growth well. Everyone had their own method for valuing a stock tho,Stonks1337,1,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h08ofh1/,0.0,0.679,0.321,0.7269
+113,AMD," I think there is one thing you aren't pricing in, AMD is a hyper-growth stock. What happens if we get a recession or a bear market, AMD will bleed while Intel could be considered a much safer stock. Sometimes it is worth to offer a bigger gain in return for better risk protection. I personally love both and believe AMD will have an amazing year!",SonicOnMeth,1,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h08rggy/,0.066,0.674,0.26,0.937
+114,GF," >As a result, fab specialists like TSMC, GF, and Samsung have leapfrogged intel
+
+It is a bit funny listing Samsung in there as though they are not a massive company. You may say that the arms of Samsung are very separate but why can't intel replicate that model between their fabs and the designers. Especially as they are looking to rent out capacity.",cass1o,1,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h08i4m3/,0.0,0.909,0.091,0.5719
+115,AMD," I'm not so sure intel will continue to lose market share. Sure, it's true that they have worse manufacturing, worse designs, worse performance, and less competitive pricing, but as we've seen time and again the value of a product is not always correlated with the performance of the company. Intel could make backroom deals to push inferior products with oems/retailers, and less savvy consumers will eat that right up - they've show they don't have the ethical objections to this kind of strategy as they've already done this in the past. Plus as you've mentioned there is the whole government aspect to consider, and with the continued brazen corruption we've seen from conservatives I wouldn't even throw out the possibility Intel just straight up bribes the next Republican president to outright sanction AMD.",mewalkyne,1,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h08b5g0/,0.116,0.803,0.081,-0.7216
+116,AMD," After reading everyone's responses, I agree with your statement where you said that Intel's stock price is too high. Intel is in a tough situation at the moment that will require great amounts of time and resources to climb out of. I really hope that Intel's new CEO may be able to make all the difference, similar to how Lisa Su turned AMD completely around. But for now, I will be staying out of Intel.",anuder1,1,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h08ei1k/,0.017,0.898,0.086,0.6306
+117,AMD," I think OP needs to quantify his thought, for instance, how much contribution each segment then analyze it one by one. Thus we can answer the question like - how much being outpaced by AMD in CPU business affect Intel overall earning? How much its market cap (price) and Does it offer a bargain given the that risk (being sluggish in chip business)?",SatriaDigja,1,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h08kut9/,0.079,0.855,0.066,-0.2168
+118,AMD," I always like getting counter arguments from my colleagues, makes me really think about the thesis on a stock, so I like to do the same haha. They have a lot going on with server and cloud computing, i haven't check the 10k for the updated segments in a while but they have a materially different business model under the hood to AMD, i mean cloud storage and data servers will only increase in demand so maybe there is a reason to keep an eye on that portion over the coming year or two and see if any significant catalysts emerge!",1spamed,7,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h085uqm/,0.036,0.854,0.11,0.7463
+119,AMD," I think that Apple switching to their own chip architecture is a blow to both Intel and AMD, as both have shown to be unable to compete at the moment.",anuder1,3,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h07yo2t/,0.0,1.0,0.0,0.0
+120,ASML," Intel's 10nm as originally conceived was supposed to be, but we haven't seen revised density numbers for their ""Superfin"" 10nm and indications are yields remain poor given their failure to launch 10nm desktop parts or server parts in real volume.
+
+Let's grant for argument's sake both that they remain comparable and that I'm full of crap on the yield stuff. 
+
+TSMC has been in volume production on 5nm for awhile now and are doing risk production for 3nm later this year (volume production in 2022) and Intel doesn't have the EUV machines or orders with ASML to provide any significant capacity at their 7nm node even if they don't have to delay it again past 2023 (which I regard as likely given their inexperience with EUV litho and design).
+
+Realistically Intel is at least 2 nodes behind TSMC and at least 1 node behind Samsung.",Runningflame570,0,/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h088zxe/,0.093,0.857,0.05,-0.8297
+121,USA," thank you, this was really useful! I see that valuations for Europe stocks and USA stocks are in the same line, now.",AdamovicM,2,/r/investing/comments/nprrzw/what_is_the_reasonable_equity_risk_premium_for_us/h07ly2z/,0.0,0.76,0.24,0.7171
+122,SP," I am looking into investing in an SP500 index fund so I’ve been researching various views on them and I came across Burry’s view on how he thinks there is an index fund bubble at the moment. What I don’t understand is say I buy into a Vanguard SP500 ETF, am I buying a small part of those 500 companies, or am I literally just buying a made up tracker stock that is made to model those companies movements?
+As if I am buying a proportionate part of the 500 stocks , how is it an index fund bubble? Surely it would just be a stock market bubble?
+So I guess my questions are
+1) If I were to buy a Vanguard SP 500 ETF, am I getting shares in of each of those 500 companies proportionate to their size in the SP500? Or am I just buying an SP500 tracker and have no shares in any of the companies?
+
+I’m just trying to understand as how can you have an index fund bubble but not a stock market bubble if index funds like the SP500 let you buy proportionate shares in each of those 500 companies
+
+Would really appreciate if anyone can help explain this, hope it makes sense",Swifttttty,4,/r/investing/comments/nppkph/daily_advice_thread_all_basic_help_or_advice/h06hfo0/,0.008,0.879,0.114,0.968
+123,DOW," I want to start investing, snce I got a job. I plan to put half of what I earn into investments, and I am 17 years old. 
+I just started learning about investing today, and I am confused about the different indexes. S&P 500, Nasdaq, and DOW all just track the biggest companies' stocks in America right? So what is the point in choosing one over the other to invest in if they all just track the stocks?
+
+Also, what is the difference between index ETF and mutual funds? Aren't they both just a bunch of bonds and stocks etc pooled together with you money allocated among those investments? I am confused by what the difference is between these two.
+
+Sorry I feel like these are very basic questions, but I jsut don't understand them. From what I have read from the Boglehead's guide to investing book so far, I think that investing in an index ETF and constantly adding more money from my job s the best option right now.",Ecstatic-Awareness-3,1,/r/investing/comments/nppkph/daily_advice_thread_all_basic_help_or_advice/h07a9jm/,0.027,0.914,0.059,0.8025
+124,ACTC, I got a tender offer for a few shares of ACTC that I own for $10 per share. They're currently trading just over $18. Why would anyone take this offer? What am I missing?,LeftMicrosoftEarly,1,/r/investing/comments/nppkph/daily_advice_thread_all_basic_help_or_advice/h07rnun/,0.067,0.789,0.144,0.3736
+125,MIT," Hi, i'm interested in investing some money i have ($5000 ish) and i plan to keep saving money, but i don't know the first thing about investments, i don't even know where to begin. Do you guys have some free online courses in finances that i can take? or any advices on how to learn  how to invest? I'm currently enrolled in an online micro economics course on MIT, idk if that was the right idea.
+
+I'm from Mexico i have no debts, i don't need this money for anything right now. I'm willing to risk it, but not too much if that makes any sense.",2pado,1,/r/investing/comments/nppkph/daily_advice_thread_all_basic_help_or_advice/h08pfr7/,0.069,0.873,0.058,0.1556
+126,BMBL," The only thing I can think of that's comparable is online dating companies.  MTCH has pretty much been the only play, but I took a small position in BMBL recently(it was like trying to catch a falling knife). haha",Spactickle,2,/r/investing/comments/nppkph/daily_advice_thread_all_basic_help_or_advice/h06r2pb/,0.044,0.698,0.257,0.8462
+127,MTCH," The only thing I can think of that's comparable is online dating companies.  MTCH has pretty much been the only play, but I took a small position in BMBL recently(it was like trying to catch a falling knife). haha",Spactickle,2,/r/investing/comments/nppkph/daily_advice_thread_all_basic_help_or_advice/h06r2pb/,0.044,0.698,0.257,0.8462
+128,USA," VOO is only invested in USA companies listed on the S&P500. There is nothing ""bad"" about it per se, only that VTI and VXUS would cover the broader market so you don't miss out on price appreciations happening outside the 500 companies.
+
+Generally I would say leave your investments in VOO alone and invest new money elsewhere (if you want to), that is my strategy anyway.",forty_pints,1,/r/investing/comments/nppkph/daily_advice_thread_all_basic_help_or_advice/h07ldm6/,0.046,0.871,0.083,0.3628
+129,STAG," Buying an index (ETF) is to invest in companies according the prospectus of the ETF.  Read it and understand it before investing.
+
+There are fees associated with the management of the ETF.  Vanguard's ETFs are different than Schwab's ETFs.
+
+This is a way to diversify a portfolio.  Having said that, you might also want to invest in stocks that pay dividends.  Typically, ETFs have skimpy dividends.
+
+Consider O and STAG, two monthly paying dividend kings that always raise their quarterly rates.  If you buys these stocks, you should DRiP it (Dividend Reinvestment Plan).
+
+Compound interest is the most powerful force in the universe.",Gurthang99,2,/r/investing/comments/nppkph/daily_advice_thread_all_basic_help_or_advice/h06ja5k/,0.013,0.916,0.071,0.7178
+130,SP," >If I were to buy a Vanguard SP 500 ETF, am I getting shares in of each of those 500 companies proportionate to their size in the SP500? Or am I just buying an SP500 tracker and have no shares in any of the companies?
+
+This may be a bit confusing , the ETF itself is a basket of stocks, the ETF will actually hold all the stocks. You buy the ETF, now as an owner of the ETF you also have an ownership of the underlying shares the ETF holds
+
+So no you will not get some fraction of all 505 stocks that make up the index, you will buy the ETF, thus owning part of the ETF that actually holds all the stocks of the 505 companies",SirGlass,1,/r/investing/comments/nppkph/daily_advice_thread_all_basic_help_or_advice/h0707yc/,0.049,0.897,0.054,0.168
+131,AP," >so it’s not likely to just fall in value if the market doesn’t?
+
+Correct and if you want to get the details look up what an Authorized Participant does. They are usually a big bank and they can do something special; The for example could buy up a bunch of shares of the ETF (usually takes several million) then they could actually redeem those ETF shares for the actual underlying stock
+
+Or they can do the opposite they could buy all 505 stocks that make up the ETF in the correct weight and then Trade them in for ETF shares this is how the ETF stays in line with the underlying assets or very close.
+
+So lets say there is a weird case where the S&P500 is flat or even slightly up, however for an specific ETF (VOO) everyone is selling for some weird reason . With good old supply and demand this would push the price of VOO down, however at some point VOO will trade at a discount. At this point one of those AP can step in and they will start buying shares of VOO, because if they get it at a slight discount they can redeem the shares for the actual underlying stock and make a quick almost risk free profit doing the arbitrage
+
+However because there are a bunch of competing APs doing this the discount or premium on very popular ETFs stays very small like 0.05%",SirGlass,2,/r/investing/comments/nppkph/daily_advice_thread_all_basic_help_or_advice/h07hxpg/,0.026,0.843,0.131,0.9745
+132,TK," It’s all about shopping around to find the best deal. Sometimes a 6 month contract can be 1/2 the cost of a 8 month contract at the same strike price. If you expect the underlying revenue to hit the strike price less then 6 months in, the extra 2 months may not provide a better return after factoring in the change in premium. Nat gas Stocks that don’t pay dividends and are under 1 billion market cap are a good place to look. BTE, TK and BIR all fit the bill. I might suggest combining this strategy with covered call writing of TOU, a divided paying low vol gas play. Cash secured puts written against TOU or other well hedged nat gas stocks can offset Negative theta in this case.",Cleangreenprofit,1,/r/investing/comments/nppdki/fat_tail_distributions_and_hunting_dirty_beta/h084a1z/,0.092,0.784,0.123,0.7347
+133,NAV, Even if jets were to go back to its precovid level it was only priced around $31.50.  At the NAV of $27 right now it doesn’t seem to me like there is much upside left.,erfarr,3,/r/investing/comments/npoxro/any_reason_why_not_to_consider_jets/h07wlje/,0.0,0.932,0.068,0.3612
+134,AAL," The enterprise value (equity and debt).of many of these companies is already above pre-COVID levels e.g. chart of AAL [here](https://i.imgur.com/Y9WmV67.jpg). Then bear in mind that corporate travel (arguably the most lucrative customer type) is permanently impaired at least to some extent with changing working habits and these businesses are generally bad investments anyway (capital intensive, non ESG friendly etc.).",Polymatheia,1,/r/investing/comments/npoxro/any_reason_why_not_to_consider_jets/h089app/,0.054,0.86,0.086,0.2732
+135,AG," They have a better business model in my opinion. Payments upfront and receiving cash flows from that versus leasing and operating planes as an airline.
+
+The cash flows are more reliable, debt for the construction costs decrease with inflation, they have a geographical moat, how wide it reaches can depend on market position and competition though.
+
+Last year they were very cheap and while they made a lot of losses, the industry is growing by ~3.5% over the next 2-3 decades and some of them are quite profitable.
+
+I personally got into Fraport AG because they have a strong position in the market (imo), have the local government as stakeholders which would have saved them in case corona got too bad and they were cheap in my valuation for them. Right now they are not cheap anymore but there might still be opportunities put there.",ValueInvestor0815,4,/r/investing/comments/npoxro/any_reason_why_not_to_consider_jets/h06ec3w/,0.04,0.867,0.093,0.7147
+136,MLP," Disappointing returns, mediocre management (or worse in the MLP space, which has seen quite a few instances of terrible corporate governance over the years: https://sl-advisors.com/mlp-humor-a-target-rich-environment) and a lot of money moving towards ESG, among other issues. After many years of underperformance, energy (and a lot of boomer stocks in general) have had a good year and it very well may continue.
+
+Conoco's CEO in 2019: “The industry faces a flight of sponsorship by investors,” Lance said during the presentation. There’s a “struggle for relevance unless the industry can create value on sustained basis.” (https://www.bloomberg.com/news/articles/2019-11-19/conocophillips-plans-30-billion-share-buyback-over-next-decade)",dvdmovie1,2,/r/investing/comments/nq0ylj/vde_negative_return_for_ten_years_thoughts/h08848n/,0.093,0.79,0.117,0.1263
+137,TV," TV market is pretty saturated so margins are thin. Most people use/upgrade their phones and computers a lot more often than televisions. Also it’s typical to just have one nice tv for a household, as opposed to other electronic devices where people buy several. The growth and excitement just isn’t really there.",Crazy-Inspection-778,7,/r/investing/comments/nq25ot/is_there_any_good_reason_why_no_one_is_buying_vzio/h0882oo/,0.0,0.796,0.204,0.8957
+138,TV," (*knocks on wood*)
+
+I bought a non-smart Vizio 1080p television almost 11 years ago now. There are two dead pixels, but otherwise it's trucking strong.
+
+Every other one I've seen since looks (and is) cheaper, in a material sense. Sure, they've got the market cornered now, but I will ride out this non-smart TV and then *maybe* buy another from them, but I don't expect a quality product anymore, and certainly not in my price range.
+
+I'll just get a Roku stick and plug it into whatever TV I want. Having the wifi and such built into the television itself is another point for failure and it's too many variables.
+
+I disagree with the entire business model at this point",smr5000,2,/r/investing/comments/nq25ot/is_there_any_good_reason_why_no_one_is_buying_vzio/h08fy60/,0.103,0.804,0.093,-0.296
+139,TV," I would be more interested in other budget brands like TCL that have demonstrated fast growth and an ability to generate wild profits. As others have pointed out TV sales are extremely low margins, so just selling a lot of TVs is not enough.",hfutrell,2,/r/investing/comments/nq25ot/is_there_any_good_reason_why_no_one_is_buying_vzio/h08orzl/,0.046,0.697,0.257,0.872
+140,TV," > People are tired of the spy shit
+
+Vizio is not unique selling your data. Every major TV brand does this, sadly. If anything trends have demonstrated that the majority of consumers are either totally unaware of this or they do not care.",hfutrell,0,/r/investing/comments/nq25ot/is_there_any_good_reason_why_no_one_is_buying_vzio/h08oymr/,0.281,0.719,0.0,-0.9256
+141,TV," While I agree with your sentiment I would argue customers *do care where it counts*. We can't fight the spying evil mega corps by buying a dumb TV because no such option exists, we fight for our rights by electing *politicians* to fight for us. Thanks to the EU we got laws like GDRP, we got no ads on our Xiaomi phones...we get a very different experience. Not buy buying cheap, but by voting where it counts.",KyivComrade,1,/r/investing/comments/nq25ot/is_there_any_good_reason_why_no_one_is_buying_vzio/h08pnd8/,0.117,0.734,0.148,0.1471
+142,CWH," This is hard to answer tbh. It largely depends on the stage of the company. In general,company managements with high ownership % have the best interests of shareholders and usually perform better. However, huge corporations not run by founder owners rarely have mgts with a high percentage of stocks and if they do you have to question how much the CEO is being compensated.
+
+I use this metric more for when I'm looking at small caps vs. relatively new public companies. For example, CWH (>50%) and RKT(> 90%) both have great mgt ownership. Berkshire is typically what comes to mind for huge corporations with great mgt ownership, but of course Buffet built it from the ground up.",homeless_alchemist,4,/r/investing/comments/npuxd4/what_is_an_example_of_good_share_ownership_by/h072dp4/,0.01,0.871,0.119,0.882
+143,PLUG," I agree - high ownership preferred so their interest are aligned with the shareholders. 
+
+Conversely, if I see a company like PLUG with low insider ownership and frequent selling by upper management - I avoid.",stickman07738,2,/r/investing/comments/npuxd4/what_is_an_example_of_good_share_ownership_by/h07m3d7/,0.118,0.656,0.226,0.6096
+144,IMO," >In theory it is better for DCA (let's say more precise) and for returns. If an investments pays out annually versus weekly, it can have a small impact on total returns because you can invest the payouts earlier. Realistically the impact is very small though.
+
+That's assuming they're paying out dividends as they come in, as opposed to holding onto cash to make their payouts more even and consistent. Realistically the way most of these funds achieve consistent regular payouts is holding onto enough cash that they can make dividend smoother.
+
+IMO the higher expense ratio you pay for ETFs that pay monthly/weekly is almost never worth it.",skilliard7,3,/r/investing/comments/npw0fg/do_weekly_distribution_etfs_are_better_for/h07x3ty/,0.038,0.936,0.026,0.1809
+145,NAV," Of course, the additional fees play a bigger role than the actual upside for returns.
+
+But a fund that pays annually and one that pays weekly, both let's say $5 for $100 NAV, the weely one returns 5.12% p.a. (with the time value/fully reinvested) while the annual one returns exactly 5%. The difference between weekly and monthly is very tiny though.",ValueInvestor0815,1,/r/investing/comments/npw0fg/do_weekly_distribution_etfs_are_better_for/h07xu0z/,0.0,0.972,0.028,0.1779
