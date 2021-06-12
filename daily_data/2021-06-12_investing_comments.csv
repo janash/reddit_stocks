@@ -1,0 +1,716 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,RH, RH does. Pretty sure you can make buys recurring.,TimeTravelingChris,14,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1icsz0/,0.0,0.56,0.44,0.6705
+1,AAPL," If you’re buying a liquid ticket like SPY or AAPL, then it’s fine. It’s less ideal than controlling it yourself and making sure you’re not buying at the 9:31am uptick but it works. 
+
+If you want to buy an actual equity that is more illiquid then it’s a pretty terrible idea. You end up buying at the listed sell price which can be a full percent or more different sometimes, and that will kill your long term returns.",PersonalBrowser,4,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1ia8n5/,0.118,0.742,0.14,-0.476
+2,AMZN, I built a bot using Alpaca that buys stocks every day. It offers fractional shares so I'm doing things like buying $2 of AMZN a day. I'm happy to share the source code with anyone who wants it.,CatsCrdl,2,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1ibk0f/,0.0,0.745,0.255,0.8625
+3,API, If you're comfortable with programming you can always make your own with your brokers API or use a partner app with your broker.,Thatsnotashower,2,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1ikouj/,0.0,0.864,0.136,0.5106
+4,TD," I'm not entirely sure if this is what you mean, but TD Ameritrade allowed me to buy Toyota motors stock.",hosleyb,1,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1ir8p9/,0.077,0.923,0.0,-0.1505
+5,API," If you're good with coding you can just make an algorithm on www.quantconnect.com that invests or rebalances your portfolio when new cash comes in. They connect to IBKR's API so you can use interactive brokers.
+
+I believe the API requires a pro account which will have trading commissions, etc.",Adderalin,1,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1j81di/,0.0,0.941,0.059,0.4404
+6,API, I recently started using API keys to track my purchases in the crypto exchanges. The concept seems really cool. I would love to be able to use API with my traditional broker to trade off of specific indicators,01Cloud01,1,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1ivfhl/,0.0,0.828,0.172,0.7939
+7,OC," I can vouch for Stash. It allows weekly investing in specific stocks IIRC or the various ETFs available. Like OC said selection is sometimes limited but I’ve used Stash for 5+ years and they offer so much more than they used to. In all honesty, one of my favorite investing brokerages/apps if your mission is “set it and forget it”. If you want my referral link shoot me a PM , gets you $5 of investing money or something (as well as myself!). Either way though, I would recommend it.",ESPNnut,4,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1i13hl/,0.068,0.758,0.174,0.8955
+8,PM," I can vouch for Stash. It allows weekly investing in specific stocks IIRC or the various ETFs available. Like OC said selection is sometimes limited but I’ve used Stash for 5+ years and they offer so much more than they used to. In all honesty, one of my favorite investing brokerages/apps if your mission is “set it and forget it”. If you want my referral link shoot me a PM , gets you $5 of investing money or something (as well as myself!). Either way though, I would recommend it.",ESPNnut,4,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1i13hl/,0.068,0.758,0.174,0.8955
+9,AAPL," It's not automatic, but Schwab does have ""Schwab slices"" on S&P500 companies, so you can just put in a specific dollar amount and get that amount of the company, in fractional shares.
+
+It also allows you to define your slices, so you can say I want a pie with % of AAPL, % of GOOG, % of AMZN, then you just throw $100 at it and it chops it up and buys all the fractional shares for you.
+
+https://www.schwab.com/fractional-shares-stock-slices",blorg,3,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1iz6vf/,0.0,0.909,0.091,0.7227
+10,AMZN," It's not automatic, but Schwab does have ""Schwab slices"" on S&P500 companies, so you can just put in a specific dollar amount and get that amount of the company, in fractional shares.
+
+It also allows you to define your slices, so you can say I want a pie with % of AAPL, % of GOOG, % of AMZN, then you just throw $100 at it and it chops it up and buys all the fractional shares for you.
+
+https://www.schwab.com/fractional-shares-stock-slices",blorg,3,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1iz6vf/,0.0,0.909,0.091,0.7227
+11,GOOG," It's not automatic, but Schwab does have ""Schwab slices"" on S&P500 companies, so you can just put in a specific dollar amount and get that amount of the company, in fractional shares.
+
+It also allows you to define your slices, so you can say I want a pie with % of AAPL, % of GOOG, % of AMZN, then you just throw $100 at it and it chops it up and buys all the fractional shares for you.
+
+https://www.schwab.com/fractional-shares-stock-slices",blorg,3,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1iz6vf/,0.0,0.909,0.091,0.7227
+12,API, Yea I just started to also. I'm in Canada so I don't know if your broker allows trading through their API but I know interactive brokers does.,Thatsnotashower,1,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1j29em/,0.0,1.0,0.0,0.0
+13,RH, Especially when all the alternatives before RH were charging $7 a trade.,Piyh,5,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1iqu3y/,0.0,1.0,0.0,0.0
+14,MSFT, I get what youre saying my man and you're right. Like I said not trying to defend them. At the end of the day tho if they feel like shorting JETS and MSFT for 50 bucks every week tho more power to them I'm definitely not losing any sleep over it,akdbaker816,3,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1iwli5/,0.0,0.82,0.18,0.8353
+15,RH," This is not technically true, though the exceptions do seem pretty rare. Yesterday I submitted an order to BTC a call for $7.00 and RH filled it at $6.89. I did however have to look through about 20+ options trades from yesterday to find that one.",strumthebuilding,1,/r/investing/comments/nxxzz1/brokerage_firms_that_offer_auto_stock_buying_for/h1j1u8i/,0.05,0.881,0.069,0.2187
+16,TD, Ally and TD,Dmanthegreat007,5,/r/investing/comments/ny07rz/which_is_the_best_android_financial_app_that/h1icn0z/,0.0,1.0,0.0,0.0
+17,MSP, Same. I auditioned a whole bunch of Android portfolio apps a little over a year ago and MSP was far and away the best for the way I navigate. Developer has been doing good updates on a reasonable schedule.,TryptophanLightdango,1,/r/investing/comments/ny07rz/which_is_the_best_android_financial_app_that/h1jzw2j/,0.0,0.814,0.186,0.7964
+18,DD," This appears to be a DD submission. Please note that we expect such posts to meet a higher standard of analysis. Please check that you have met the guidelines for DD posts [listed here](https://www.reddit.com/r/investing/wiki/index/rules#wiki_due_diligence_guidelines). In short, it must include financials, a legitimate examination of risks to the company, and you must be prepared to respond to comments. These rules are intended to distinguish sincere contributions from spam and to foster a higher quality of discussion. Thank you.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",AutoModerator,1,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1j932w/,0.043,0.826,0.131,0.8126
+19,IT," I know a guy that worked for them a few years ago.  He was a sr. guy in their IT org.  
+
+The stuff they do (did) is pretty interesting.   I haven't paid any attention to them in a long time but what they used to do is look for late night really cheap TV spots to run their infomercials to snag night owls willing to plunk down money for the DVDs (and the add on stuff like nutritional stuff and exercise equipment).   
+
+When you think about it, they create the content and certainly pay their people, but their costs probably aren't that high for the DVDs.   Streaming will be an ongoing revenue stream from people who sign up but don't use or cancel.",unclefire,27,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jjkio/,0.013,0.868,0.119,0.9092
+20,TV," I know a guy that worked for them a few years ago.  He was a sr. guy in their IT org.  
+
+The stuff they do (did) is pretty interesting.   I haven't paid any attention to them in a long time but what they used to do is look for late night really cheap TV spots to run their infomercials to snag night owls willing to plunk down money for the DVDs (and the add on stuff like nutritional stuff and exercise equipment).   
+
+When you think about it, they create the content and certainly pay their people, but their costs probably aren't that high for the DVDs.   Streaming will be an ongoing revenue stream from people who sign up but don't use or cancel.",unclefire,27,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jjkio/,0.013,0.868,0.119,0.9092
+21,DD, The only worrying things are the attitude to the mlm I’ve seen online and the revenue estimates going forward could be seen as far fetched especially if most people go back to the gym. I hold a position thought until probably 2022. Thanks for this DD it should be shared around,fmc2555,13,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jg925/,0.087,0.817,0.096,0.128
+22,FRX," How does it work for people who currently own shares and options for FRX, post merger?  I understand the FRX shares will convert to BODY shares at some point but what will happen to my FRX call options?",dpigott24,11,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jbfso/,0.0,0.868,0.132,0.4871
+23,FRX," This is a great synopsis of the company, nice work! I bought in to FRX as soon as it started trading because I believed in the management and strategic advisors (all of them, not just Shaq). I was not disappointed with the news of the Myx, BeachBody and Openfit merger. I truly believe connected fitness and fitness as a streaming service are two areas for monstrous growth. Across all my accounts I think I’m in for about 11,000 warrants and about 3,000 units (and a few options here and there).",jpoms13,6,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jfz3y/,0.0,0.794,0.206,0.9548
+24,MLM," Beach Body isn't accused.  They are a pyramid scheme, MLM, whatever.  Hopefully they fail.",pugcoon,4,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jq5mf/,0.328,0.445,0.227,-0.4669
+25,DD," Beautiful DD 
+LETS VISIT PLUTO",Bipolar_investor,2,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jmoxg/,0.0,0.506,0.494,0.5994
+26,MLM," Most people are sleeping on this merger and once they realize it’s not a true MLM and BODY has huge growth potential it will blow up. A company that has been profitable for 22 years off workout DVDs and made 1 billion last year with 400M to spend from the merger is only getting started. 
+
+People will continue to work out at home in addition to going back to the gym. Their new live interactive BODi workouts coming out in August or September will even further drive up the share price. People have accepted that they don’t need to got to work anymore with Zoom and Teams and can do it all at home. Soon they will accept that they don’t need to be at a gym anymore to get the same results and experience. 
+
+I see this as not only a competitor to Peloton but something much more in the coming years with their original fitness content they produce and a more affordable MYX bike. 
+
+Put that together with a great CEO and key investors and management team such as Kevin Mayer, who was CEO of TikToK and helped build Disney+, Hulu, and ESPN+. I think you have a 10 bagger in less than a year. 
+
+Get in before you miss liftoff. 
+
+Positions: 251 October 15 Call Options",Dense_Opening_420,1,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1k2bgo/,0.016,0.879,0.105,0.9503
+27,BB," they don't sell treadmills. and bike revenue is a small % of total revenue for now. vast majority comes from BB. also MYX has only been around since 2017, not sure if you're referring to a different company?",Traditional-Studio-5,6,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jsh6o/,0.055,0.945,0.0,-0.2411
+28,BB, all of the connected fitness bikes have monthly subscriptions. MYX being the lowest sub price at $30/month. but that's the beauty of this 3 way merger. So many options to choose from between BB/MYX/OpenFit. OpenFit also has a partnership with LA Fitness that all of their gym members can access OpenFit for $5/month,Traditional-Studio-5,6,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jllpn/,0.031,0.808,0.162,0.8225
+29,PTON, think of this as PTON for the average person - i don't want to drop that kinda cash on a peloton either,Spaghetti_or_not,1,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jxt1t/,0.061,0.848,0.091,0.1511
+30,MLM," that's not their business model. The business is a fitness streaming subscription service. my wife does the workouts every day, has been a customer for years and participates in zero MLM stuff.",Spaghetti_or_not,3,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jxagj/,0.094,0.843,0.063,-0.2577
+31,MLM," I did some of their programs like p90x. I have their app and it's pretty awesome. It's an amazing deal actually. Like a totally customizable personal trainer.
+
+Shakeology is bullshit and I'm glad you covered the MLM aspect. It's not a scam, but it's also not Pampered Chef (which is the only truly legit MLM I know of). Frankly I wish they drop this aspect of the business.
+
+Thanks for this DD!",fioreman,6,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jrb17/,0.127,0.582,0.292,0.9149
+32,BB," > In fact, employees and coaches are not allowed to have products on hand (shakeology) which is typical of a true MLM.
+
+that is by far not the most typical trait of an MLM. it is the recruiting and commissions through your downline that makes it an MLM. not to mention that the hundreds of thousands of coaches they have are NON SALARIED. they earn only from commissions through their recruitments and through direct sales. not having to carry actual stock has nothing to do with it being an MLM or not.
+
+>While it is true that BB coaches are incentivized to bring on other coaches and sell Shakeology, it is not mandatory. 
+
+if by ""incentivized"" you mean ""predatory tactics to ramp up recruitments at any cost"", and by ""not mandatory"" you mean ""absolutely mandatory"". then sure.
+
+here's an ama from an ex coach, with many others chiming in with their personal experiences.
+
+https://old.reddit.com/r/antiMLM/comments/7xb2pr/former_beachbody_coach_here_lets_do_a_little_ama/
+
+here's a recent investigation into and a breakdown of their MLM business model:
+
+https://seekingalpha.com/article/4422762-the-beachbody-company-strong-brand-but-mlm-model-raises-concerns",maz-o,13,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jpdaf/,0.099,0.838,0.062,-0.6952
+33,MLM," > In fact, employees and coaches are not allowed to have products on hand (shakeology) which is typical of a true MLM.
+
+that is by far not the most typical trait of an MLM. it is the recruiting and commissions through your downline that makes it an MLM. not to mention that the hundreds of thousands of coaches they have are NON SALARIED. they earn only from commissions through their recruitments and through direct sales. not having to carry actual stock has nothing to do with it being an MLM or not.
+
+>While it is true that BB coaches are incentivized to bring on other coaches and sell Shakeology, it is not mandatory. 
+
+if by ""incentivized"" you mean ""predatory tactics to ramp up recruitments at any cost"", and by ""not mandatory"" you mean ""absolutely mandatory"". then sure.
+
+here's an ama from an ex coach, with many others chiming in with their personal experiences.
+
+https://old.reddit.com/r/antiMLM/comments/7xb2pr/former_beachbody_coach_here_lets_do_a_little_ama/
+
+here's a recent investigation into and a breakdown of their MLM business model:
+
+https://seekingalpha.com/article/4422762-the-beachbody-company-strong-brand-but-mlm-model-raises-concerns",maz-o,13,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jpdaf/,0.099,0.838,0.062,-0.6952
+34,MLM, You must be deep in the MLM.,pugcoon,0,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jxvpo/,0.343,0.657,0.0,-0.4824
+35,MLM," I understand that, my mother used to be a ""coach"" for this company.  If they cut out their MLM bullshit all together I'd be all for it.",pugcoon,1,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1k18qt/,0.291,0.709,0.0,-0.8415
+36,DD," For sure- just giving my real time experience on the matter. Def gonna keep an eye on it, appreciate the DD",countingtheties,2,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jxyfh/,0.0,0.667,0.333,0.7579
+37,MLM," Pampered chef is such a weird MLM. Most of their products do the thing where they create their own issue to sell themselves, but they are also really high quality. Their mlm structure is shitty but products are good. Their stoneware is amazing if expensive p",Knuckledraggr,7,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jv6ep/,0.193,0.627,0.18,0.0473
+38,ACN," ACN is quasi legit, they do actually deliver services to end users.",daniellederek,1,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1k1hss/,0.0,1.0,0.0,0.0
+39,ANY," It's not mandatory. I asked BB coaches myself. Of course you won't be a high earner in the company, but the fact remains. Maybe I'm insensitive, but I don't see any of these practices to be unethical. If some coaches use predatory tactics, that's an individual decision and can't be attributed to the business model, imo. It's obvious that the company does not encourage unethical behavior. Just like the woman in the post you linked, maybe she was encouraged to sign up for all the extra things, but was she forced? Gun to her head? Or did she make a conscious decision?
+
+The leadership of the SPAC team FRX did their DD on the company and this aspect of the business before agreeing to take them public and saw no issues.
+
+We live in a time where information is more readily available than ever. People should be well aware of what they're getting into, how much profit they can potentially make in any given job, etc. Personal responsibility.  Many sales jobs are incentivized in this same way.
+
+You can sign up for/buy ANY of the services between BB/MYX/OpenFit without going through a coach, or becoming one.
+
+I digress. Not here to convince you to invest. Just throwing out info on a soon to be publicly traded company.",Traditional-Studio-5,0,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jsav5/,0.119,0.814,0.067,-0.9074
+40,BB," It's not mandatory. I asked BB coaches myself. Of course you won't be a high earner in the company, but the fact remains. Maybe I'm insensitive, but I don't see any of these practices to be unethical. If some coaches use predatory tactics, that's an individual decision and can't be attributed to the business model, imo. It's obvious that the company does not encourage unethical behavior. Just like the woman in the post you linked, maybe she was encouraged to sign up for all the extra things, but was she forced? Gun to her head? Or did she make a conscious decision?
+
+The leadership of the SPAC team FRX did their DD on the company and this aspect of the business before agreeing to take them public and saw no issues.
+
+We live in a time where information is more readily available than ever. People should be well aware of what they're getting into, how much profit they can potentially make in any given job, etc. Personal responsibility.  Many sales jobs are incentivized in this same way.
+
+You can sign up for/buy ANY of the services between BB/MYX/OpenFit without going through a coach, or becoming one.
+
+I digress. Not here to convince you to invest. Just throwing out info on a soon to be publicly traded company.",Traditional-Studio-5,0,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jsav5/,0.119,0.814,0.067,-0.9074
+41,DD," It's not mandatory. I asked BB coaches myself. Of course you won't be a high earner in the company, but the fact remains. Maybe I'm insensitive, but I don't see any of these practices to be unethical. If some coaches use predatory tactics, that's an individual decision and can't be attributed to the business model, imo. It's obvious that the company does not encourage unethical behavior. Just like the woman in the post you linked, maybe she was encouraged to sign up for all the extra things, but was she forced? Gun to her head? Or did she make a conscious decision?
+
+The leadership of the SPAC team FRX did their DD on the company and this aspect of the business before agreeing to take them public and saw no issues.
+
+We live in a time where information is more readily available than ever. People should be well aware of what they're getting into, how much profit they can potentially make in any given job, etc. Personal responsibility.  Many sales jobs are incentivized in this same way.
+
+You can sign up for/buy ANY of the services between BB/MYX/OpenFit without going through a coach, or becoming one.
+
+I digress. Not here to convince you to invest. Just throwing out info on a soon to be publicly traded company.",Traditional-Studio-5,0,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jsav5/,0.119,0.814,0.067,-0.9074
+42,FRX," It's not mandatory. I asked BB coaches myself. Of course you won't be a high earner in the company, but the fact remains. Maybe I'm insensitive, but I don't see any of these practices to be unethical. If some coaches use predatory tactics, that's an individual decision and can't be attributed to the business model, imo. It's obvious that the company does not encourage unethical behavior. Just like the woman in the post you linked, maybe she was encouraged to sign up for all the extra things, but was she forced? Gun to her head? Or did she make a conscious decision?
+
+The leadership of the SPAC team FRX did their DD on the company and this aspect of the business before agreeing to take them public and saw no issues.
+
+We live in a time where information is more readily available than ever. People should be well aware of what they're getting into, how much profit they can potentially make in any given job, etc. Personal responsibility.  Many sales jobs are incentivized in this same way.
+
+You can sign up for/buy ANY of the services between BB/MYX/OpenFit without going through a coach, or becoming one.
+
+I digress. Not here to convince you to invest. Just throwing out info on a soon to be publicly traded company.",Traditional-Studio-5,0,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jsav5/,0.119,0.814,0.067,-0.9074
+43,MLM," Guess all the people and families being exploited in their MLM are just expendable.  Real employees work in many shitty businesses.
+
+Blink twice if you need help.",pugcoon,0,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jyu6y/,0.275,0.649,0.076,-0.7925
+44,MLM, Lol OK.  Pyramid scheme -> MLM -> Affiliate marketing.   What's next?,pugcoon,0,/r/investing/comments/nybp86/body_shaq_attack_beachbody_dd/h1jztix/,0.186,0.474,0.34,0.3818
+45,CAN," Financial advisor here. ~~No K-1s if you hold them in an IRA~~ (see edit for clarity - leaving for posterity). But part of the benefit of utilizing an MLP is for taxes, and that's null with an IRA. Essentially, don't use them if you don't know what you're doing and don't have a good CPA (who you speak with ahead of time). If all you're looking for are returns and yield, there are far simpler instruments out there. And no, this isn't advice, just high level education.
+
+Edit: As mentioned by other commenters, I want to correct myself to note that you CAN receive a K-1 from an IRA, in specific circumstances. But once again, it's somewhat pointless to do so due to the overlapping tax benefit issue, so I never actually have any clients who receive one. That said, I wanted to amend this to avoid providing bad information. Thanks to the other posters who caught this.",Stahrk,13,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1j9lse/,0.078,0.833,0.088,0.1756
+46,CPA," Financial advisor here. ~~No K-1s if you hold them in an IRA~~ (see edit for clarity - leaving for posterity). But part of the benefit of utilizing an MLP is for taxes, and that's null with an IRA. Essentially, don't use them if you don't know what you're doing and don't have a good CPA (who you speak with ahead of time). If all you're looking for are returns and yield, there are far simpler instruments out there. And no, this isn't advice, just high level education.
+
+Edit: As mentioned by other commenters, I want to correct myself to note that you CAN receive a K-1 from an IRA, in specific circumstances. But once again, it's somewhat pointless to do so due to the overlapping tax benefit issue, so I never actually have any clients who receive one. That said, I wanted to amend this to avoid providing bad information. Thanks to the other posters who caught this.",Stahrk,13,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1j9lse/,0.078,0.833,0.088,0.1756
+47,MLP," Financial advisor here. ~~No K-1s if you hold them in an IRA~~ (see edit for clarity - leaving for posterity). But part of the benefit of utilizing an MLP is for taxes, and that's null with an IRA. Essentially, don't use them if you don't know what you're doing and don't have a good CPA (who you speak with ahead of time). If all you're looking for are returns and yield, there are far simpler instruments out there. And no, this isn't advice, just high level education.
+
+Edit: As mentioned by other commenters, I want to correct myself to note that you CAN receive a K-1 from an IRA, in specific circumstances. But once again, it's somewhat pointless to do so due to the overlapping tax benefit issue, so I never actually have any clients who receive one. That said, I wanted to amend this to avoid providing bad information. Thanks to the other posters who caught this.",Stahrk,13,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1j9lse/,0.078,0.833,0.088,0.1756
+48,MLP," From my understanding that is correct ; if holding an MLP inside an IRA you really do not need to report or file anything unless the UBI is over 1k.
+
+However most people agree holing an MLP inside an IRA is kind of useless because there really is no advantage and if you get over 1k in UBI you still pay taxes; also I believe there are some tax write offs in some cases you wouldn't be able to take advantage of being in an IRA",SirGlass,6,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1imqvi/,0.076,0.845,0.079,0.086
+49,MLP," This is not correct. MLP in an IRA will issue a k-1. It is the custodians responsibility to file the 990-t if over $1,000 in UBI is reported.",ChaseSinged,3,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jjavc/,0.0,1.0,0.0,0.0
+50,MLP," The suggestion over on r/dividends was that one could use MLP/CEFs as part of an IRA for the sweet juicy cash they throw off. If one is looking at an IRA for income vs growth, the additional cash/dividend/distribution would be very nice as part of a portfolio.",babarock,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1ipfcq/,0.0,0.832,0.168,0.8268
+51,AAPL," I get your point - chasing a high dividend yield to the exclusion of everything else would tend to go against the concept of a diversified portfolio. 
+
+I prefer to hold companies that are growing and hopefully spin off some $ at the same time. I've enjoyed my JnJ, MCD, O, and ABBV both for their growth and dividends. I also like my AAPL, NVDA, MSFT, SHW, and ALB for the higher growth. 
+
+As I get closer to RMD days, if I can get growth and enough dividend to pay the distribution without having to sell anything, that strikes me as a good thing but no I'm not going to put the whole thing into MLPs, CEFs, REITS, and QYLDs. 
+
+I've heard it referred to as taking the eggs daily but waiting to kill the chicken for Sunday dinner with the pastor. Having a pool of dividend $ also, I think, gives me more choice of when and if I sell some holdings. Once you kill the chicken, no more eggs or chicken and eventually the coop is empty. 
+
+For some people, they want to slide into the grave going wow what a ride and the balance is $0. I want to do the first part but leave a nice $ to daughter and a couple of charities.",babarock,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jek4d/,0.127,0.744,0.129,-0.5574
+52,ABBV," I get your point - chasing a high dividend yield to the exclusion of everything else would tend to go against the concept of a diversified portfolio. 
+
+I prefer to hold companies that are growing and hopefully spin off some $ at the same time. I've enjoyed my JnJ, MCD, O, and ABBV both for their growth and dividends. I also like my AAPL, NVDA, MSFT, SHW, and ALB for the higher growth. 
+
+As I get closer to RMD days, if I can get growth and enough dividend to pay the distribution without having to sell anything, that strikes me as a good thing but no I'm not going to put the whole thing into MLPs, CEFs, REITS, and QYLDs. 
+
+I've heard it referred to as taking the eggs daily but waiting to kill the chicken for Sunday dinner with the pastor. Having a pool of dividend $ also, I think, gives me more choice of when and if I sell some holdings. Once you kill the chicken, no more eggs or chicken and eventually the coop is empty. 
+
+For some people, they want to slide into the grave going wow what a ride and the balance is $0. I want to do the first part but leave a nice $ to daughter and a couple of charities.",babarock,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jek4d/,0.127,0.744,0.129,-0.5574
+53,ALB," I get your point - chasing a high dividend yield to the exclusion of everything else would tend to go against the concept of a diversified portfolio. 
+
+I prefer to hold companies that are growing and hopefully spin off some $ at the same time. I've enjoyed my JnJ, MCD, O, and ABBV both for their growth and dividends. I also like my AAPL, NVDA, MSFT, SHW, and ALB for the higher growth. 
+
+As I get closer to RMD days, if I can get growth and enough dividend to pay the distribution without having to sell anything, that strikes me as a good thing but no I'm not going to put the whole thing into MLPs, CEFs, REITS, and QYLDs. 
+
+I've heard it referred to as taking the eggs daily but waiting to kill the chicken for Sunday dinner with the pastor. Having a pool of dividend $ also, I think, gives me more choice of when and if I sell some holdings. Once you kill the chicken, no more eggs or chicken and eventually the coop is empty. 
+
+For some people, they want to slide into the grave going wow what a ride and the balance is $0. I want to do the first part but leave a nice $ to daughter and a couple of charities.",babarock,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jek4d/,0.127,0.744,0.129,-0.5574
+54,MCD," I get your point - chasing a high dividend yield to the exclusion of everything else would tend to go against the concept of a diversified portfolio. 
+
+I prefer to hold companies that are growing and hopefully spin off some $ at the same time. I've enjoyed my JnJ, MCD, O, and ABBV both for their growth and dividends. I also like my AAPL, NVDA, MSFT, SHW, and ALB for the higher growth. 
+
+As I get closer to RMD days, if I can get growth and enough dividend to pay the distribution without having to sell anything, that strikes me as a good thing but no I'm not going to put the whole thing into MLPs, CEFs, REITS, and QYLDs. 
+
+I've heard it referred to as taking the eggs daily but waiting to kill the chicken for Sunday dinner with the pastor. Having a pool of dividend $ also, I think, gives me more choice of when and if I sell some holdings. Once you kill the chicken, no more eggs or chicken and eventually the coop is empty. 
+
+For some people, they want to slide into the grave going wow what a ride and the balance is $0. I want to do the first part but leave a nice $ to daughter and a couple of charities.",babarock,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jek4d/,0.127,0.744,0.129,-0.5574
+55,MSFT," I get your point - chasing a high dividend yield to the exclusion of everything else would tend to go against the concept of a diversified portfolio. 
+
+I prefer to hold companies that are growing and hopefully spin off some $ at the same time. I've enjoyed my JnJ, MCD, O, and ABBV both for their growth and dividends. I also like my AAPL, NVDA, MSFT, SHW, and ALB for the higher growth. 
+
+As I get closer to RMD days, if I can get growth and enough dividend to pay the distribution without having to sell anything, that strikes me as a good thing but no I'm not going to put the whole thing into MLPs, CEFs, REITS, and QYLDs. 
+
+I've heard it referred to as taking the eggs daily but waiting to kill the chicken for Sunday dinner with the pastor. Having a pool of dividend $ also, I think, gives me more choice of when and if I sell some holdings. Once you kill the chicken, no more eggs or chicken and eventually the coop is empty. 
+
+For some people, they want to slide into the grave going wow what a ride and the balance is $0. I want to do the first part but leave a nice $ to daughter and a couple of charities.",babarock,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jek4d/,0.127,0.744,0.129,-0.5574
+56,NVDA," I get your point - chasing a high dividend yield to the exclusion of everything else would tend to go against the concept of a diversified portfolio. 
+
+I prefer to hold companies that are growing and hopefully spin off some $ at the same time. I've enjoyed my JnJ, MCD, O, and ABBV both for their growth and dividends. I also like my AAPL, NVDA, MSFT, SHW, and ALB for the higher growth. 
+
+As I get closer to RMD days, if I can get growth and enough dividend to pay the distribution without having to sell anything, that strikes me as a good thing but no I'm not going to put the whole thing into MLPs, CEFs, REITS, and QYLDs. 
+
+I've heard it referred to as taking the eggs daily but waiting to kill the chicken for Sunday dinner with the pastor. Having a pool of dividend $ also, I think, gives me more choice of when and if I sell some holdings. Once you kill the chicken, no more eggs or chicken and eventually the coop is empty. 
+
+For some people, they want to slide into the grave going wow what a ride and the balance is $0. I want to do the first part but leave a nice $ to daughter and a couple of charities.",babarock,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jek4d/,0.127,0.744,0.129,-0.5574
+57,RMD," I get your point - chasing a high dividend yield to the exclusion of everything else would tend to go against the concept of a diversified portfolio. 
+
+I prefer to hold companies that are growing and hopefully spin off some $ at the same time. I've enjoyed my JnJ, MCD, O, and ABBV both for their growth and dividends. I also like my AAPL, NVDA, MSFT, SHW, and ALB for the higher growth. 
+
+As I get closer to RMD days, if I can get growth and enough dividend to pay the distribution without having to sell anything, that strikes me as a good thing but no I'm not going to put the whole thing into MLPs, CEFs, REITS, and QYLDs. 
+
+I've heard it referred to as taking the eggs daily but waiting to kill the chicken for Sunday dinner with the pastor. Having a pool of dividend $ also, I think, gives me more choice of when and if I sell some holdings. Once you kill the chicken, no more eggs or chicken and eventually the coop is empty. 
+
+For some people, they want to slide into the grave going wow what a ride and the balance is $0. I want to do the first part but leave a nice $ to daughter and a couple of charities.",babarock,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jek4d/,0.127,0.744,0.129,-0.5574
+58,SHW," I get your point - chasing a high dividend yield to the exclusion of everything else would tend to go against the concept of a diversified portfolio. 
+
+I prefer to hold companies that are growing and hopefully spin off some $ at the same time. I've enjoyed my JnJ, MCD, O, and ABBV both for their growth and dividends. I also like my AAPL, NVDA, MSFT, SHW, and ALB for the higher growth. 
+
+As I get closer to RMD days, if I can get growth and enough dividend to pay the distribution without having to sell anything, that strikes me as a good thing but no I'm not going to put the whole thing into MLPs, CEFs, REITS, and QYLDs. 
+
+I've heard it referred to as taking the eggs daily but waiting to kill the chicken for Sunday dinner with the pastor. Having a pool of dividend $ also, I think, gives me more choice of when and if I sell some holdings. Once you kill the chicken, no more eggs or chicken and eventually the coop is empty. 
+
+For some people, they want to slide into the grave going wow what a ride and the balance is $0. I want to do the first part but leave a nice $ to daughter and a couple of charities.",babarock,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jek4d/,0.127,0.744,0.129,-0.5574
+59,KOS," > Also many high yield investments do not have great total returns.
+
+Will warn of this too. Be suspicious and cautious of high yield investments. Never invest for the dividend rather than the underlying investment itself. No such thing as a free lunch. Many ultra high yield/dividend investments run the risk of declining operations, shareholder equity, and/or dividend.
+
+It could be something like OXSQ/OXLC which see equity decline, KOS which shows revenue ""growth"" but isn't reflected in stock price, or even big blue chip dividend aristocrats like T can have management who overpay their incompetent selves at shareholder expense while racking up debt on poor business decisions that don't stop them from getting disrupted by upcoming companies leading to not only lack of equity growth but also the destruction operating cashflow along with shareholder value which eventually leads to the cutting of dividends. Reminder that these are not Ponzi schemes but real and legitimate businesses. That doesn't mean they can't behave in a way where they produce similar results for investors.",zxc123zxc123,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jl2wb/,0.142,0.763,0.094,-0.8112
+60,OXSQ," > Also many high yield investments do not have great total returns.
+
+Will warn of this too. Be suspicious and cautious of high yield investments. Never invest for the dividend rather than the underlying investment itself. No such thing as a free lunch. Many ultra high yield/dividend investments run the risk of declining operations, shareholder equity, and/or dividend.
+
+It could be something like OXSQ/OXLC which see equity decline, KOS which shows revenue ""growth"" but isn't reflected in stock price, or even big blue chip dividend aristocrats like T can have management who overpay their incompetent selves at shareholder expense while racking up debt on poor business decisions that don't stop them from getting disrupted by upcoming companies leading to not only lack of equity growth but also the destruction operating cashflow along with shareholder value which eventually leads to the cutting of dividends. Reminder that these are not Ponzi schemes but real and legitimate businesses. That doesn't mean they can't behave in a way where they produce similar results for investors.",zxc123zxc123,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jl2wb/,0.142,0.763,0.094,-0.8112
+61,CPA," This is why we're constantly referring clients to their accountants. Yin/yang relationship where I hold some of the financial licenses, and they hold the others. Once you end up in a high net worth situation, you really ought to have both professionals. I can spot the MLP inefficiency and tell you not to hold it there, but have to point you at your CPA to optimize it elsewhere.",Stahrk,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jnwat/,0.0,0.916,0.084,0.6956
+62,MLP," This is why we're constantly referring clients to their accountants. Yin/yang relationship where I hold some of the financial licenses, and they hold the others. Once you end up in a high net worth situation, you really ought to have both professionals. I can spot the MLP inefficiency and tell you not to hold it there, but have to point you at your CPA to optimize it elsewhere.",Stahrk,1,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jnwat/,0.0,0.916,0.084,0.6956
+63,EDIT," Every time a company pays a dividend it draws down its value. Even in a sideways or down market; assuming the company doesn't drop a dividend what happens a lot in recessions
+
+EDIT here is a visualization of BRK.b an stock that pays no dividend. If you had 2 million in 1990 you could sell 5% every year for 31 years and still have more than what you started with. This covers 31 years of bull, bear and sideways markets.
+
+[https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1990&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=2000000&annualOperation=3&annualAdjustment=100000&inflationAdjusted=true&annualPercentage=5.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=BRK.B&allocation1\_1=100](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1990&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=2000000&annualOperation=3&annualAdjustment=100000&inflationAdjusted=true&annualPercentage=5.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=BRK.B&allocation1_1=100)",SirGlass,3,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jhxpz/,0.028,0.913,0.059,0.3343
+64,CPA, You sound like one of the few good advisors out there. So many are afraid to tell their clients they need to speak to a CPA.,ChaseSinged,2,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1jo5re/,0.0,0.81,0.19,0.6597
+65,IRS," That's kind of you. I have a fiduciary obligation and know where my expertise ends and another professional's begins. The tough part is convincing certain clients that they need to pay the accountant. Only takes one year of getting the IRS up your ass to change that, however, lol.",Stahrk,3,/r/investing/comments/ny6zn7/taxes_for_mlps_and_cefs_inside_ira/h1joeci/,0.116,0.745,0.138,0.296
+66,ABNB," Will add a bit on my own opinion on this outside of OP.
+
+* While Hong Kong based companies are a bit safer than mainland ones. Risk is still higher than those in the US by comparison. 
+
+* Probably the most interesting thing is their investments in startups or early stage companies. [A few listed in the summary prospectus.](https://www.sec.gov/Archives/edgar/data/0001809691/000119312521184382/d943653df1a.htm#rom943653_1)
+
+* They have names of companies they work/invest with PolicyPal, DayDayCook, WeDoctor, and Appier. However I don't know any of these companies myself. WeDoctor probably most net-visible as it has investment from Tencent and is going for IPO? Some of the other ones are early stage or doing initial coin offerings to get funding. 
+
+* It's parent HKIB doesn't seem to have performed well. Normally, it's not that uncommon for a smaller or less covered stock to stagnate or even decline, but it is a lot more suspicious when it is during one of the greatest bull markets we've seen.
+
+* Registered via Cayman Islands. Class A shares are offered and will have 1/20th of the voting power of Class B shares. Some might say that's b.s. but I say that's pretty standard for Chinese stocks.
+
+* Will add that their naming scheme doesn't add confidence AMTD=TDAmeritrade? HKIB = Hong Kong Institute of Bankers? Also HK Interactive brokers? Ticker HKD = Hong Kong Dollar? Sadly I did not see proprietary name-generating AI.
+
+* IBKR normally doesn't offer IPOs from my experience and discussions with others. Naturally I am doubtful of the offerings from ANY broker to the small guys. IMO they save the winners like ABNB for big clients and throw the poor scraps to the small guys. But that could just be my personal bias.
+
+* One note: ""Recently, we have invested in movie productions via digital formats. “Shock Wave 2” (拆弹专家2), a movie invested by us and co-produced by Universe Entertainment and Alibaba Picture in 2020, has grossed over RMB1.3 billion of box office as of February 10, 2021. We also invested in ***“The White Storm 3” (扫毒3)*** and “Redemption” (咎赎)."" Never watched any of those nor do I know it fared box office wise, but the storm franchise has some [big name stars](https://www.sohu.com/a/327449508_99900873). p.s. Those names might rise some eyebrows if Fox entertainment released them stateside.",zxc123zxc123,0,/r/investing/comments/nxrqpa/ibkr_finally_offers_an_equity_ipo_amtd_digital/h1geuhy/,0.057,0.831,0.112,0.9761
+67,AI," Will add a bit on my own opinion on this outside of OP.
+
+* While Hong Kong based companies are a bit safer than mainland ones. Risk is still higher than those in the US by comparison. 
+
+* Probably the most interesting thing is their investments in startups or early stage companies. [A few listed in the summary prospectus.](https://www.sec.gov/Archives/edgar/data/0001809691/000119312521184382/d943653df1a.htm#rom943653_1)
+
+* They have names of companies they work/invest with PolicyPal, DayDayCook, WeDoctor, and Appier. However I don't know any of these companies myself. WeDoctor probably most net-visible as it has investment from Tencent and is going for IPO? Some of the other ones are early stage or doing initial coin offerings to get funding. 
+
+* It's parent HKIB doesn't seem to have performed well. Normally, it's not that uncommon for a smaller or less covered stock to stagnate or even decline, but it is a lot more suspicious when it is during one of the greatest bull markets we've seen.
+
+* Registered via Cayman Islands. Class A shares are offered and will have 1/20th of the voting power of Class B shares. Some might say that's b.s. but I say that's pretty standard for Chinese stocks.
+
+* Will add that their naming scheme doesn't add confidence AMTD=TDAmeritrade? HKIB = Hong Kong Institute of Bankers? Also HK Interactive brokers? Ticker HKD = Hong Kong Dollar? Sadly I did not see proprietary name-generating AI.
+
+* IBKR normally doesn't offer IPOs from my experience and discussions with others. Naturally I am doubtful of the offerings from ANY broker to the small guys. IMO they save the winners like ABNB for big clients and throw the poor scraps to the small guys. But that could just be my personal bias.
+
+* One note: ""Recently, we have invested in movie productions via digital formats. “Shock Wave 2” (拆弹专家2), a movie invested by us and co-produced by Universe Entertainment and Alibaba Picture in 2020, has grossed over RMB1.3 billion of box office as of February 10, 2021. We also invested in ***“The White Storm 3” (扫毒3)*** and “Redemption” (咎赎)."" Never watched any of those nor do I know it fared box office wise, but the storm franchise has some [big name stars](https://www.sohu.com/a/327449508_99900873). p.s. Those names might rise some eyebrows if Fox entertainment released them stateside.",zxc123zxc123,0,/r/investing/comments/nxrqpa/ibkr_finally_offers_an_equity_ipo_amtd_digital/h1geuhy/,0.057,0.831,0.112,0.9761
+68,ANY," Will add a bit on my own opinion on this outside of OP.
+
+* While Hong Kong based companies are a bit safer than mainland ones. Risk is still higher than those in the US by comparison. 
+
+* Probably the most interesting thing is their investments in startups or early stage companies. [A few listed in the summary prospectus.](https://www.sec.gov/Archives/edgar/data/0001809691/000119312521184382/d943653df1a.htm#rom943653_1)
+
+* They have names of companies they work/invest with PolicyPal, DayDayCook, WeDoctor, and Appier. However I don't know any of these companies myself. WeDoctor probably most net-visible as it has investment from Tencent and is going for IPO? Some of the other ones are early stage or doing initial coin offerings to get funding. 
+
+* It's parent HKIB doesn't seem to have performed well. Normally, it's not that uncommon for a smaller or less covered stock to stagnate or even decline, but it is a lot more suspicious when it is during one of the greatest bull markets we've seen.
+
+* Registered via Cayman Islands. Class A shares are offered and will have 1/20th of the voting power of Class B shares. Some might say that's b.s. but I say that's pretty standard for Chinese stocks.
+
+* Will add that their naming scheme doesn't add confidence AMTD=TDAmeritrade? HKIB = Hong Kong Institute of Bankers? Also HK Interactive brokers? Ticker HKD = Hong Kong Dollar? Sadly I did not see proprietary name-generating AI.
+
+* IBKR normally doesn't offer IPOs from my experience and discussions with others. Naturally I am doubtful of the offerings from ANY broker to the small guys. IMO they save the winners like ABNB for big clients and throw the poor scraps to the small guys. But that could just be my personal bias.
+
+* One note: ""Recently, we have invested in movie productions via digital formats. “Shock Wave 2” (拆弹专家2), a movie invested by us and co-produced by Universe Entertainment and Alibaba Picture in 2020, has grossed over RMB1.3 billion of box office as of February 10, 2021. We also invested in ***“The White Storm 3” (扫毒3)*** and “Redemption” (咎赎)."" Never watched any of those nor do I know it fared box office wise, but the storm franchise has some [big name stars](https://www.sohu.com/a/327449508_99900873). p.s. Those names might rise some eyebrows if Fox entertainment released them stateside.",zxc123zxc123,0,/r/investing/comments/nxrqpa/ibkr_finally_offers_an_equity_ipo_amtd_digital/h1geuhy/,0.057,0.831,0.112,0.9761
+69,HKIB," Will add a bit on my own opinion on this outside of OP.
+
+* While Hong Kong based companies are a bit safer than mainland ones. Risk is still higher than those in the US by comparison. 
+
+* Probably the most interesting thing is their investments in startups or early stage companies. [A few listed in the summary prospectus.](https://www.sec.gov/Archives/edgar/data/0001809691/000119312521184382/d943653df1a.htm#rom943653_1)
+
+* They have names of companies they work/invest with PolicyPal, DayDayCook, WeDoctor, and Appier. However I don't know any of these companies myself. WeDoctor probably most net-visible as it has investment from Tencent and is going for IPO? Some of the other ones are early stage or doing initial coin offerings to get funding. 
+
+* It's parent HKIB doesn't seem to have performed well. Normally, it's not that uncommon for a smaller or less covered stock to stagnate or even decline, but it is a lot more suspicious when it is during one of the greatest bull markets we've seen.
+
+* Registered via Cayman Islands. Class A shares are offered and will have 1/20th of the voting power of Class B shares. Some might say that's b.s. but I say that's pretty standard for Chinese stocks.
+
+* Will add that their naming scheme doesn't add confidence AMTD=TDAmeritrade? HKIB = Hong Kong Institute of Bankers? Also HK Interactive brokers? Ticker HKD = Hong Kong Dollar? Sadly I did not see proprietary name-generating AI.
+
+* IBKR normally doesn't offer IPOs from my experience and discussions with others. Naturally I am doubtful of the offerings from ANY broker to the small guys. IMO they save the winners like ABNB for big clients and throw the poor scraps to the small guys. But that could just be my personal bias.
+
+* One note: ""Recently, we have invested in movie productions via digital formats. “Shock Wave 2” (拆弹专家2), a movie invested by us and co-produced by Universe Entertainment and Alibaba Picture in 2020, has grossed over RMB1.3 billion of box office as of February 10, 2021. We also invested in ***“The White Storm 3” (扫毒3)*** and “Redemption” (咎赎)."" Never watched any of those nor do I know it fared box office wise, but the storm franchise has some [big name stars](https://www.sohu.com/a/327449508_99900873). p.s. Those names might rise some eyebrows if Fox entertainment released them stateside.",zxc123zxc123,0,/r/investing/comments/nxrqpa/ibkr_finally_offers_an_equity_ipo_amtd_digital/h1geuhy/,0.057,0.831,0.112,0.9761
+70,IBKR," Will add a bit on my own opinion on this outside of OP.
+
+* While Hong Kong based companies are a bit safer than mainland ones. Risk is still higher than those in the US by comparison. 
+
+* Probably the most interesting thing is their investments in startups or early stage companies. [A few listed in the summary prospectus.](https://www.sec.gov/Archives/edgar/data/0001809691/000119312521184382/d943653df1a.htm#rom943653_1)
+
+* They have names of companies they work/invest with PolicyPal, DayDayCook, WeDoctor, and Appier. However I don't know any of these companies myself. WeDoctor probably most net-visible as it has investment from Tencent and is going for IPO? Some of the other ones are early stage or doing initial coin offerings to get funding. 
+
+* It's parent HKIB doesn't seem to have performed well. Normally, it's not that uncommon for a smaller or less covered stock to stagnate or even decline, but it is a lot more suspicious when it is during one of the greatest bull markets we've seen.
+
+* Registered via Cayman Islands. Class A shares are offered and will have 1/20th of the voting power of Class B shares. Some might say that's b.s. but I say that's pretty standard for Chinese stocks.
+
+* Will add that their naming scheme doesn't add confidence AMTD=TDAmeritrade? HKIB = Hong Kong Institute of Bankers? Also HK Interactive brokers? Ticker HKD = Hong Kong Dollar? Sadly I did not see proprietary name-generating AI.
+
+* IBKR normally doesn't offer IPOs from my experience and discussions with others. Naturally I am doubtful of the offerings from ANY broker to the small guys. IMO they save the winners like ABNB for big clients and throw the poor scraps to the small guys. But that could just be my personal bias.
+
+* One note: ""Recently, we have invested in movie productions via digital formats. “Shock Wave 2” (拆弹专家2), a movie invested by us and co-produced by Universe Entertainment and Alibaba Picture in 2020, has grossed over RMB1.3 billion of box office as of February 10, 2021. We also invested in ***“The White Storm 3” (扫毒3)*** and “Redemption” (咎赎)."" Never watched any of those nor do I know it fared box office wise, but the storm franchise has some [big name stars](https://www.sohu.com/a/327449508_99900873). p.s. Those names might rise some eyebrows if Fox entertainment released them stateside.",zxc123zxc123,0,/r/investing/comments/nxrqpa/ibkr_finally_offers_an_equity_ipo_amtd_digital/h1geuhy/,0.057,0.831,0.112,0.9761
+71,IMO," Will add a bit on my own opinion on this outside of OP.
+
+* While Hong Kong based companies are a bit safer than mainland ones. Risk is still higher than those in the US by comparison. 
+
+* Probably the most interesting thing is their investments in startups or early stage companies. [A few listed in the summary prospectus.](https://www.sec.gov/Archives/edgar/data/0001809691/000119312521184382/d943653df1a.htm#rom943653_1)
+
+* They have names of companies they work/invest with PolicyPal, DayDayCook, WeDoctor, and Appier. However I don't know any of these companies myself. WeDoctor probably most net-visible as it has investment from Tencent and is going for IPO? Some of the other ones are early stage or doing initial coin offerings to get funding. 
+
+* It's parent HKIB doesn't seem to have performed well. Normally, it's not that uncommon for a smaller or less covered stock to stagnate or even decline, but it is a lot more suspicious when it is during one of the greatest bull markets we've seen.
+
+* Registered via Cayman Islands. Class A shares are offered and will have 1/20th of the voting power of Class B shares. Some might say that's b.s. but I say that's pretty standard for Chinese stocks.
+
+* Will add that their naming scheme doesn't add confidence AMTD=TDAmeritrade? HKIB = Hong Kong Institute of Bankers? Also HK Interactive brokers? Ticker HKD = Hong Kong Dollar? Sadly I did not see proprietary name-generating AI.
+
+* IBKR normally doesn't offer IPOs from my experience and discussions with others. Naturally I am doubtful of the offerings from ANY broker to the small guys. IMO they save the winners like ABNB for big clients and throw the poor scraps to the small guys. But that could just be my personal bias.
+
+* One note: ""Recently, we have invested in movie productions via digital formats. “Shock Wave 2” (拆弹专家2), a movie invested by us and co-produced by Universe Entertainment and Alibaba Picture in 2020, has grossed over RMB1.3 billion of box office as of February 10, 2021. We also invested in ***“The White Storm 3” (扫毒3)*** and “Redemption” (咎赎)."" Never watched any of those nor do I know it fared box office wise, but the storm franchise has some [big name stars](https://www.sohu.com/a/327449508_99900873). p.s. Those names might rise some eyebrows if Fox entertainment released them stateside.",zxc123zxc123,0,/r/investing/comments/nxrqpa/ibkr_finally_offers_an_equity_ipo_amtd_digital/h1geuhy/,0.057,0.831,0.112,0.9761
+72,IBKR," I'm from Hong Kong and IBKR has offered HK-listed IPOs for a long time. The IPO playing field is quite level here, most bank accounts and brokerages let ordinary people subscribe to any HK IPO from no-name firms to big ones like Alibaba or Budweiser.  
+  
+But I've never seen a US listing and I can't see this so maybe this is a new thing.",asiancsdude,2,/r/investing/comments/nxrqpa/ibkr_finally_offers_an_equity_ipo_amtd_digital/h1isf9i/,0.0,0.948,0.052,0.2846
+73,IBKR," >brokerages let ordinary people subscribe to any HK IPO from no-name firms to big ones like Alibaba or Budweiser
+
+That's pretty awesome. From my experience on the US side, I never see top tier offers. I bought my shares of Alibaba on the open market a few days after IPO. Last year, I had multiple brokers and only got a 1 offering the first 9 months of the year. It was for a pretty bad company too. 
+
+IBKR hadn't offered me any HK listed IPOs even though I am subscribed to both US & HK ipos. This is the first time they have offered me any IPO. Maybe they separate or put additional restrictions by country?
+
+On a different tangent. Do you recognize any of the company's digital investments? I don't know any of those companies, but if they had some more recognizable name like ZA bank or Mox then it would improve confidence in their ability to invest in companies. They mentioned Airstar bank which is a join venture between Xiaomi and AMTD Intl (the parent company). That is a name and is 1 of only 8 online banking licenses given by the government. Problem is AMTD Intl only owns a 10% stake in that and it hasn't even been reflected in their own stock prices. They seem to be pushing that AMTD Digtl's other investments can be integrated with it to provide an support or top-down Fin servicing like SoFi/Ally are trying to do stateside.",zxc123zxc123,1,/r/investing/comments/nxrqpa/ibkr_finally_offers_an_equity_ipo_amtd_digital/h1j8vlr/,0.028,0.838,0.135,0.9787
+74,UK," If you are non resident in the UK for tax purposes but have used a UK based platform to trade, do you still have to pay CGT on profit above the 12k? TIA",Up-the_orient1979,-1,/r/investing/comments/nxyjyj/stock_market_taxation_in_the_uk/h1i84nc/,0.04,0.725,0.235,0.8689
+75,DD," You should be wary of giving friends and/or family advice. Telling them your style is one thing, but advising them on specific investments puts you at risk of losing people if things go tits up. The best you can do for your buddy is to link them to the tools to do his/her own DD, and let them do their thing.
+
+That being said, I’ve never understood how these type of ETFs could ever be good performers. As another has mentioned, the definition is loose and flexible depending on context. 
+
+Save the expenses and invest in individual companies if you like how they give back to society. If you’re looking at an ETF to realize gains on and are interested in the world market: VT.",cryptohick,14,/r/investing/comments/ny0i4n/new_esg_vanguard_etf_as_single_investment/h1hrxhh/,0.074,0.731,0.195,0.9618
+76,WISH," I’m new to the world of investing. I have a 401k and IRA that is handled by an advisor for me, but this is the first time I’m looking at buying stocks myself. I’m 42 years old and have a family of six. I live in the United States. I make approx 90-100k a year, which doesn’t leave much to play with in the end (sad isn’t it). My goal is to make money for my retirement in the next 15-20 yrs, and also have money to help my kids if needed. I can handle some risks. I understand you gotta take risks to make big returns sometimes. But I like security. So maybe I’m like 40/60 risk/security. I currently am on Robinhood. I’ve spent about $1300 over the past couple months. I spent about $100 on each company I’ve invested in. Figured that was a good start and would diversify my holdings. And make it easier to see profit/loss. I have holdings in Fuelcell, Ford, Roblox, Virgin Galactic, Mind Medicine, Seelos, Senseonics, Tonix, Northern Oil and Gas, BlackBerry, WISH, UWM and PayPal. I’ve also invested about $800 in crypto. 
+I’m wondering if my diversity is good?  Which platform do you think is most user-friendly?  Robinhood is pretty easy to navigate. Any up and coming stocks you recommend?  Just looking for general beginner advice. Thank you for your time and input!",Pro_noobious,2,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1yfd/,0.025,0.776,0.199,0.9935
+77,AMC," How to think next Friday June 18th  swing trade AMC with 400k+ call options ITM?
+
+Now the price is around $ 50. I sold a few thousand shares at $ 49.9. If hedge funds do not manipulate the price below $ 40 next week, more than 400k options will go through. It will mean a gamma squeeze. So, then they have to bring the price down below $ 40. Does that mean that I can then in all probability buy back the shares I sold for $ 49? And then go pretty much plus. So either they do not get the price down and then it flies up when 40 million shares may need to be bought, or the price is below $ 40 and I can then go with about 8-10 dollars profit on the shares sold. Is it completely crazy I think or is it an interesting plan?",According_Word_9832,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1i4746/,0.018,0.861,0.121,0.9253
+78,PLTR," Hi basic investing advice here:
+
+I’m invested in a few tech stocks (and a couple meme stocks) like unity and PLTR which peaked back in November 2020 and are just starting to rise again.
+
+Do I buy any dips decreasing my portfolio’s diversity but possibly increasing the return, or do I buy other stocks increasing my safety but possibly decreasing the return later on?
+
+What stocks should I look for besides tech stocks?
+
+I am financially stable for the foreseeable future and want to increase my capital more than holding it in a bank can.",Fonix1666,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1iclxa/,0.0,0.864,0.136,0.9003
+79,STAG," Any opinions on STAG, YAR.OL and DBA? Not serious money, just playing around with some spare money",MadChild2033,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1ioe9s/,0.0,0.832,0.168,0.2551
+80,ABBV," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+81,CRM," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+82,CRT," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+83,DAL," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+84,HUBS," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+85,NG," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+86,NVDA," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+87,PDI," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+88,TSP," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+89,TWO," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+90,WBA," 20 years old, Portfolio review
+
+I wanted to get opinions from strangers on the internet about my holdings. I am 20 years old and currently attending university. Additionally I am an E4 in the NG and employed part time at a grocery chain earning $15 hourly. I live at home still but plan to move back up to university next year.
+
+RETIREMENT: I deployed with my National Guard unit and put a bit of money towards my TSP. The TSP is nice because of the contribution matching and the fact that I never notice the missing money. Last I checked I have about 11k of value inside it with $900(?) from employer contributions. I’m back on drill status and putting 60% of my drill paychecks toward it. This is approximately $200 monthly with more from Annual training. In addition to this I started a ROTH IRA in 2020 while deployed and have $4,200 inside that. I have to put another $5k in it for FY2021 to max it out, which is top priority now.
+
+PORTFOLIO: Current value: 34.5k, 2.8k in unrealized gains. Pays 2.4k annually in dividends. I realize this is close to “yield chasing” and that I should aim to focus more on value. A year ago I had approximately 15k invested in F which wasn’t the smartest decision but I sold at 50% gains which net me a lot more money. I still hold about 1.5k in F. Larger positions I hold are T, ABBV, CRT, TWO, WBA, GSDB, DAL, NVDA, HUBS, CRM, These make up 15k. ETFs/Funds I hold are QYLD, RYLD, PDI, VNQ, and SWYJX. These make up 18.5k.
+
+As far as my goals go I would like to hit 50k in net assets in my Schwab account. To do this I need to save another 10k. I am aiming to hit it by 2022 which is ambitious I know. It’s mostly a test to see how extreme I can get with saving and selling off stuff to downsize. If the market goes red of course it’s not going to be possible. If I can get close to 50k I am satisfied. I need to max out my ROTH IRA for the year and focus on more quality value stocks inside my portfolio. I realize that I am well “ahead” of my peers financially for this I have my deployment money, part time job, and some gift money to thank.",wannabemustang,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j1a6b/,0.0,0.855,0.145,0.9957
+91,IRS," I’m pretty new to investing in stocks. Started about 6 months ago with $10000 and bought Nio, Microsoft, Apple, DraftKings, Activision/Blizzard, ICLN, and Plug Power. I have a 401k through work and put about $500 a month in a Roth IRS. I have about 20k Sitting around trying to decide on what to invest in. 
+Should I dump it in the stocks I already have? Or should I invest it in Other options? Looking for some good advice. Thanks!!",sarduu,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1jboyp/,0.033,0.84,0.127,0.8097
+92,IT," Any advice for around 25k from a 401k that is sitting in a Roth IRA but not invested in anything specific right now? I am 35 years old single, car is paid for around 9k in stupid cc debt which I’m working to pay down. Only other debt is the mortgage which is around 70k remaining. Currently employed in IT job making 75k annually. Goal would be for retirement savings, high risk tolerance and  time horizon. Thanks",Jmyjones,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1jvmzp/,0.172,0.753,0.075,-0.8271
+93,PNW," I asked this yesterday but very late in the day…
+
+36yo
+PNW
+400-500k
+I’d like to retire by 60 if not sooner
+Risk tolerance moderate
+150k in student loans at 3.5%
+
+
+I’m a decently high wage earner (400-500k) but due to my profession didn’t finish training till in my 30s. I have roughly 100k in a 403b from my prior job, 400k in cash (had intended to buy a house but can’t find anything for a price we’re interested in right now and decided to see if the market cools off). I have 150k in student loans at roughly 3.5%. I’m going to transfer the 403b into an IRA and would like to invest around 300k of my cash into safer investments (leaning towards index funds). If you were in my position what would you do with these funds?",randomthr0waway1987,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1jz8zo/,0.016,0.873,0.111,0.9279
+94,DD," Not really sure if this is the proper place to ask, but has there been any serious DD into the bear case for GME? Can't find anything other than echo chamber confirmation bias about how it's going to $10 million a share, which it obviously isn't. Just curious if anyone has come to a different conclusion than the true believers, for my own curiosity/benefit.",napleonblwnaprt,-1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j0x4r/,0.102,0.805,0.093,0.3437
+95,PLTR," Buying individual stocks is a good way to learn about trading and the market, but it’s generally a poor way to build a diversified long term portfolio. You may want to consider looking into some ETFs which will give you much better diversification and more stability. You can always buy a total market ETF like VTI, or spread it around a couple if you want to invest heavier in certain areas (tech, small cap, large cap, international, etc).
+
+If you’re sticking with individual stocks then I would recommend buying something else as opposed to doubling down. If you can buy the dip in U/PLTR then you can buy the dip in other companies. The great thing about diversifying is that it doesn’t decrease your expected returns, it just decreases your risk.",Languid_lizard,3,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1idwid/,0.047,0.791,0.162,0.9403
+96,RH," Sorry but I would get a better brokerage than RH. Fidelity , vangaurd, Schwab are all good choice
+
+Also look into funding tax advataged accounts (ROth IRA, 401k) before saving in a taxable account",SirGlass,3,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1io3wm/,0.032,0.753,0.215,0.8201
+97,HR," Well if the stock is restricted you cannot sell it or probably cannot transfer it either
+
+However lets say its not restricted ; unless you are an insider you can trade stock just like anyone else. Just because you work for the company doesn't mean you are an insider usually higher ups are and people that work in their accounting departments that have access to non-public financial data. You probably would know if you are an insider but you may want to check with HR just to be sure; also some companies have their own internal policies in rare cases.
+
+However you probably do not have your price of options right, if the stock is at $20 and a put with a $30 strike should have a premium of over 1k as that is the intrinsic value. Sometimes options with big bid/ask spreads do not display at the price you can actually buy them, look at the bid/ask and I would assume the price is over 1k .",SirGlass,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1inw69/,0.031,0.905,0.063,0.6652
+98,TXN," Depending on when you purchased it and how much gains you have - are you up 15+%? If so I would keep it and with new cash here and there start buying mutual fund. 
+
+If you sell with decent gains - you will get hit with a higher tax bill you might not be expecting. Plus TXN might be on a growth trajectory.",Leadershiptothemoon,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1jf0w8/,0.0,0.881,0.119,0.7506
+99,SGEN, Not mRNA but my fave biotech is SGEN. Most stable,Gr000vy,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1jr4ht/,0.0,0.53,0.47,0.7958
+100,DD," Not serous DD as I haven't looked into the company however I would say a big threat is there is a good possibility the next generation of gaming machines will not have a media drive (blueray/dvd) and all games will be delivered via the internet.
+
+Also gaming companies may even find a way to let users sell their licensing to other users (and take a cut) meaning even the used gaming market will be done online removing the need for a physical store.
+
+Also if game stop wants to move to the online world there already is competition ; or vendor lock in from the companies who make the games consuls themselves . Meaning if xbox goes all digital you won't be purchasing digital games from gamestop you will be purchasing them through a microsoft store, same with sony same with nintendo
+
+On the PC front there is already established digital gaming markets (steam, microsoft store, ) and gamestop is late to the party on the online word for PC games",SirGlass,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1j589e/,0.034,0.933,0.034,0.0
+101,GME," A few things come to mind, there will be no short squeeze imo and most people are holding shares because of that they are gonna get bored as more and more people are realizing this isn't going to $20 million a share as r/superconspiracy has been saying for 6 months (squeeze already happened when it went from $4 to $483, and then again from $40 to $350, and then recently $140 to $330 but I think that one was just riding the wave not an actually squeeze), voter count was a disappointment, NFL blockchain technology has still yet to prove itself and even if it does Sony and another Major player can tell them to f off, people outside of r/SuperShit don't like Gamestop in fact they hate it and hold a stigma against it, in fact even if GME rebrands well I believe people will still not buy out of spite because of their reputation for being shit, ripping people off, bad customer service, bad employee treatment, it will be hard to change people's image of them. Most people are satisfied just buying games digitally from Stream or the game website themselves. At the end of the day that sub is absolutely shit",flareokay,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1jqybh/,0.176,0.781,0.043,-0.9871
+102,AMC," I applaud your examination of option open interest for the specific next expiration date.  
+
+As usual, most of the option holders will look to unwind their positions next week prior to expiration.  There are currently multiple open interest concentrations, on both the call and put side, and they are spread all over the place (many strikes).  I am not sure that one trading group will be able to steer with that much attention and price exposure. Next week should be interesting (volatile).  
+
+I would recommend you consider setting some limit orders this weekend to unwind your position.  Good luck.  
+
+Disclosure - I have AMC exposure with max profit above strike 25 for next week.",Sheeple0123,1,/r/investing/comments/ny2h96/daily_advice_thread_all_basic_help_or_advice/h1ij6ys/,0.028,0.789,0.183,0.9614
+103,AAPL, Got sick of trying to save for a house so most of my housing fund is in AAPL stock. Gonna keep buying more.,bodiddlysquat26,5,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1immqd/,0.125,0.755,0.121,-0.0258
+104,PLTR, Anybody else running for the door on PLTR after realizing how much CEO is making?,StophJS,4,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1j5isz/,0.0,1.0,0.0,0.0
+105,RMBS," Anyone have a decent guide on REITs?
+
+I started investing in them for dividends and decent growth. I’m aware that there are a lot of different real estate investments, securities, debt, and what not.
+
+When I read what a the company invests in and owns, there’s the RMBS, CMBS, agency backed, and whole lot of things. Anything specific I should be looking for in that?
+
+I’ve also been staying away from retail store and office type REITs, based on the amount of retail store closures and work from home? Disagree or agree with that?",xvalid2,3,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1irn23/,0.053,0.85,0.097,0.504
+106,CHPT," Any thoughts on CHPT? I want to build a position but my target entry of $20 might not be realistic any longer. I was stop lossed out at $23 a few weeks ago and while it was still a profit, I've had serious FOMO since then.
+
+I own an EV and use CHPT chargers. I like the infrastructure and the tech they use. I also think there is lots of value in being the largest charging network as we see non-TSLA car companies move into EV. I'm bullish generally, but splitting hairs on entry price.
+
+Thoughts?",extrinsicvalue,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1ib44y/,0.043,0.837,0.12,0.8156
+107,DD," https://www.reddit.com/r/HMBL/comments/mv5rtj/the_good_the_bad_and_the_ugly_app_launch_series_1/
+
+Great DD on a great startup",YakiKaddafi,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1ic6hf/,0.0,0.328,0.672,0.8481
+108,PLYA, is PLYA a good play post covid? with ppl traveling and all that,LadyTargaryen12,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1itit5/,0.0,0.654,0.346,0.6486
+109,BLCT," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+110,DOYU," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+111,HUYA," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+112,IFBD," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+113,JKS," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+114,JWEL," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+115,MKD," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+116,MOMO," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+117,PICC," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+118,WIMI," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+119,ZEPP," I honestly believe there are many undervalued small to midcap innovative Chinese tech companies that could easily be valued at over 25 billion USD and I wouldn't be surprised. There's the country risk that everyone talks about, but that's the whole reason Chinese companies are undervalued in the first place. High risk very high reward. Companies like HUYA, WIMI, ZEPP, DOYU, JKS, JWEL, IFBD, MOMO, BLCT, MKD, etc. A ton of cheap innovation with high gains potential. I'm also partial toward certain OTC Chinese companies such as Graphex, Wuling Motors, China Everbright Environment, PICC Property and Casualty, Lenovo, Sinopharm, China Resources Power, Fosun International, Zoomlion Heavy Industry, Beijing Enterprises Water Group, JNBY Design, First Tractor Company, etc. Just so much value in my honest opinion.",mk199222,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1izpp6/,0.067,0.711,0.222,0.9729
+120,GM," CNN already hyping up GM shareholder meeting on 6/14. Technicals point to a cup and handle breakout over the next four weeks. 
+
+With this being a year where The CEO will face questions over the dividend reinstatement, she will quickly pivot the conversation to reinvesting free cash flow into EV and crushing Tesla and Ford. While Ford is well positioned, GM has the edge as there’s far more ability to invest without new debt or shareholder dilution. 
+
+https://www.cnn.com/2021/06/12/business/gm-shareholders-conversion-to-evs/index.html",mhutch131,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1j8e6s/,0.03,0.849,0.121,0.7652
+121,SA," Vallourec SA (VLOWY) heavy short -1d oversold - is one of the several great candidates that made it through the screen. While there are numerous reasons why this stock is a great choice, here are the most vital ones:
+Investors' growing interest in a stock is reflected in its recent price increase. A price change of 12.6% over the past four weeks positions the stock of this company well in this regard.
+While any stock can see a spike in price for a short period, it takes a real momentum player to deliver positive returns for a longer time frame. VLOWY meets this criterion too, as the stock gained 12.5% over the past 12 weeks.
+
+What is your thoughts?",cako1302,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1jmchd/,0.0,0.797,0.203,0.975
+122,ATH," CBOE SKEW is at an all time high of 159.28.  This means the premium difference between at the money calls and puts on SPX is -5.928% if I understand correctly. [https://www.cboe.com/us/indices/dashboard/skew/](https://www.cboe.com/us/indices/dashboard/skew/)
+
+I can't find any reporting about this ATH SKEW, which is predicting an increased chance of a tail risk black swan event.  Is this not a big deal?",maxoutentropy,1,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1jtbtx/,0.036,0.893,0.07,0.25
+123,AMC," How to think next Friday June 18th  swing trade AMC with 400k+ call options ITM?
+
+Now the price is around $ 50. I sold a few thousand shares at $ 49.9. If hedge funds do not manipulate the price below $ 40 next week, more than 400k options will go through. It will mean a gamma squeeze. So, then they have to bring the price down below $ 40. Does that mean that I can then in all probability buy back the shares I sold for $ 49? And then go pretty much plus. So either they do not get the price down and then it flies up when 40 million shares may need to be bought, or the price is below $ 40 and I can then go with about 8-10 dollars profit on the shares sold. Is it completely crazy I think or is it an interesting plan?",According_Word_9832,-1,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1i46bv/,0.018,0.861,0.121,0.9253
+124,TD," Some thoughts:
+
+I use E*TRADE and have for years. No real problems and the customer service is amazing if you have questions/concerns. I’ve heard great things about TD Ameritrade but haven’t personally used. I also use Robinhood for my crazy speculative/small amount of crypto. Honestly don’t like that platform other than how easy they make it to purchase options.
+
+Sectors to think about: cannabis and sports betting are inevitable in my opinion. Clean energy or more so companies that can actually figure out social responsibility(ESG) within investing. My guess is $100 spread within Amazon or apple(since you used those) would return a better value over time than finding that gem of a $1 stock. Hope it helps and good luck! 
+
+Hard to find a $1 stock that’s reputable and something you can believe in long term. Companies like Apple and Amazon probably not going anywhere any time soon.",Black-Jimbo,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1jxrye/,0.045,0.672,0.284,0.9927
+125,GME," I stick to traditional brokerages but if you want to trade less than $10,000 blocks then those don't make much sense.
+
+Any of the ones you listed are fine. They are all cookie cutters in my view. And Robin Hood is viewed as an enemy to the little guy because of what happened with GME trading.",DarthTrader357,1,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1j9pkt/,0.109,0.831,0.059,-0.6192
+126,ICE," Not to nitpick, but a sector cannot rise unnoticed...even by most people.  
+Many people have been discussing this sector for a while now due to the migration of ICE to EV and the components needed for batteries.",vintage_screw,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1ippqt/,0.0,1.0,0.0,0.0
+127,ABNB, Buying more ABNB. It's well off its high and the travel boom is just starting,CrisprCas-9,2,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1ixqr2/,0.0,0.856,0.144,0.3321
+128,AMC," If you believe AMC is worth $40+ I would repurchase at your target.
+
+Personally I don't think it's worth that much and I'm betting it goes lower. However I was beat this week on my bear credit spreads thanks to the 15% pop on Friday. Lesson learned on my end: always buy more time when betting on direction on meme stocks.",extrinsicvalue,3,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1iaq5d/,0.034,0.822,0.144,0.7269
+129,AMC," You may have been better off using iron condors instead with a stock like AMC. Selling spreads does seem like the right thing to do. I'm liking deep otm naked puts myself. 
+
+I'm curious if you explored buying strangles instead? I was kinda thinking about it on a stock like AMC but it's not a strategy that I've used before.",greytoc,1,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1ixw62/,0.0,0.824,0.176,0.7717
+130,MO," But investor day is 6/14? I think I'm committed to my MO dividend capture until 6/15.
+
+I will definitely keep an eye on it. Just asking so as to get my head in a ""predictive"" mode.
+
+Will add shareholder meetings to the list of earnings and dividend news to watch for",DarthTrader357,1,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1ja1sq/,0.0,0.881,0.119,0.7351
+131,IR, Nice. You can also stream it live. Just go to their IR page. Good luck sir!,mhutch131,1,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1jbnzz/,0.0,0.591,0.409,0.8398
+132,MO," Sorry about going off-topic - but what strategy are you employing to capture the MO dividend. 
+
+For MO,  I tried my usual itm cc's 2 weeks prior but I didn't get any fills on my orders. Are you using a covered put strategy instead?",greytoc,1,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1jdpai/,0.029,0.971,0.0,-0.0387
+133,MO," I'm just going to take the dividend. While I know what you mean by covered calls and puts...I have no experience with them.
+
+I'm literally just dumping a warchest into MO common stock for the payout and going to sell (hopefully) at a small upside too...since I don't mind holding MO I'm not too concerned about a possible downside but I'd like to sell out with at least 1% the value of the dividend remaining.
+
+I'd like to sell out with upside so I can just take my initial warchest and leave the remainder as accumulation",DarthTrader357,1,/r/investing/comments/ny2hx1/daily_general_discussion_and_spitballin_thread/h1je3s3/,0.061,0.841,0.097,0.7615
+134,BNY," 1. El Salvador makes BTC legal tender and is exploring ways to sustainably mine BTC 
+2. BNY Mellon will hold, transfer, and issue BTC and other crypto on behalf of clients
+3. Fidelity, Square, and Coinbase Launch Crypto Trade Group (aka Lobbying)
+4. Ray Dalio and Stan Druckenmiller own BTC. Ray admits bonds are unattractive vs BTC
+5. Square buys $170M BTC
+6. PayPal launches crypto trading, checkout, and is working on withdrawals
+7. Crypto custody firm NYDIG says BTC is coming to hundreds of US banks this year
+8. Insurance giant Mass Mutual buys $100M BTC
+9. Interactive brokers to offer crypto trading by the end of the summer 
+10. Visa moves to allow payment settlements using crypto. Will enable USDC to settle transactions on its payment network
+11. Point72, Matrix, and Millenium who together make up tens of billions in hedge fund assets plan to get into crypto and are setting up DEFI desks 
+12. ECB warns governments that opt out of introducing CBDCs may face threats to their financial systems and monetary policy
+13. Investment banks (JP Morgan, Goldman, etc.) predict Bitcoin will hit $100k+
+14. Goldman launches crypto trading and declares it an asset class 
+15. Microstrategy has raised almost $5bn used exclusively to purchase and hold bitcoin
+
+Do you feel there will be more or less money in crypto a year from now?",notapersonaltrainer,8,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1j6ikd/,0.03,0.928,0.042,0.1779
+135,ATNI," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+136,BBGI," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+137,CMLS," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+138,CNSL," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+139,EBIX," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+140,FSTR," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+141,GHM," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+142,GIFI," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+143,JAKK," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+144,LFVN," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+145,PKE," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+146,RMTI," I think the room left for growth doesn't really justify the risk. There are better areas for investment growth. I honestly believe small to midcap American and Canadian companies with innovation potential are going to see astronomical gains because of the combination of infrastructure spending and speculative investing. Money is going to be racing into these companies before it's too late. Companies such as Asensus Surgical (ASXC), Enthusiast Gaming (EGLX), AcuityAds (ATY), Flexible Solutions (FSI), Kelso (KIQ), Capstone Green Energy (CGRN), Ceco Environmental (CECE), Meatech (MITC), UR Energy (URG), Agrify (AGFY), Vision Marine (VMAR), CNSL, CMLS, EBIX, Liquid Media (YVR), PKE, RMTI, FSTR, Genie Energy (GNE), GHM, GIFI, JAKK, LFVN, Aemetis (AMTX), ATNI, Audacy (AUD) and BBGI could likely fly over the next few years.",mk199222,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jo1p7/,0.017,0.759,0.224,0.9737
+147,MIT, Just remember.. the really really smart investors. The MIT and Harvard PHd types are salivating at young buck speculative newbies putting their money into the market.,MortgageWizard,2,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1hjotb/,0.0,0.837,0.163,0.5678
+148,IMO," My concern isn’t whether or not they’ll be relevant in the future, but *which ones* will be. Despite the enthusiasm, we’re still in a phase of learning how the space works, how vulnerable it is, etc. With each challenge, there is a possibility that a new variant becomes the new solution. This creates a landscape in which the value of any of them can irreversibly tank abruptly with the arrival of a revelatory piece of information or better option. 
+
+IMO, the best way to gain exposure to the space is through the brokers. No matter which coin is running or crashing, the broker profits.",BetweenCoffeeNSleep,-1,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1hsamm/,0.066,0.698,0.236,0.9688
+149,ETH," At least get 1-2 BTC, 32+ ETH, then you will be top 10% by net worth in 10 years.",Squezeplay,1,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jsecf/,0.0,0.821,0.179,0.4019
+150,RE," I gotta say smart money is if you buy in now by the end of 2021 we might not see btc’s ATHs (64/62k?), but we’ll definitely see around 50k give or take would be a fairly safe assumption.
+
+FWIW I’m a long term/ETF guy, not a alt/shitcoin pump and dump guy. I’m big on RE and have been for the past several years as well. I also hold a lot of APPL.  
+
+I’m not gonna sit here and say there isn’t money to be made in crypto though, it’s more of a % of portfolio play on highest risk investments. The black and white takes of crypto on this subreddit are pretty shit if I’m being honest.",fade_reddit,4,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jf0dd/,0.082,0.74,0.178,0.9153
+151,IMO, I bought and lost about 20-30%... I continue to bring my average down. I think Crypto will exploder again and then will sell or hold... But right now is a great time to be buying... IMO.,raviman8,3,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1jf95c/,0.044,0.804,0.151,0.7184
+152,ETH," So you're against ETH because it has no real use case?
+
+MY FKING GOD! The ignorance on here is painful.
+
+p.s. Dude, please do yourself a favor read up on ETH and DeFi. Thank me later!",throw_away_4269,1,/r/investing/comments/nxyqf2/thoughts_on_investing_in_crypto_now_611/h1j8mad/,0.163,0.602,0.235,0.5134
+153,CPA," They are correct that he doesn’t pay tax till he sells the stock.  The way in which they are wrong is that his creation has created more tax revenue for cities, states, payroll taxes, and investment taxes ( everyone buying and selling Amazon stock) than almost any human alive.  His contribution to the tax base is larger than almost any human on the planet. 
+
+The amount of tax revenue he has generated for the world is incalculable.  
+
+If you vote to allow taxing unrecognized investment gains… you will create the e largest tax increase on the middle class in history.  Imagine paying tax on the value of your home each year based on what it’s worth?  Imagine starting a farm and as the price of land goes up paying taxes on that increase without any money to do so… the ideas they want to use to tax gains that aren’t realized will destroy every small business in America.  Just to get a valuation of your business costs about 10-15k if you hire a CPA.  When it’s required that you go and get an appraisal for your home each year snd then claim that gain… what do you think will happen to the cost of appraisals when the law requires you to get one? 
+
+The whole idea being presented is financial illiteracy and it’s so poorly thought out it’s amazing.",BoochieShibbs,4,/r/investing/comments/nycgqt/why_does_npr_claim_stock_grants_arent_taxed/h1jm6g2/,0.044,0.839,0.117,0.9185
+154,IRS," Didn't anyone tell you about the 83(b) election that you have to mail to the IRS within 30 days of the RSU grant? Then you pay income tax on the value of the RSUs at the time of the grant, but in the future you don't pay taxes on the gains until you actually sell them!",Empirical_Spirit,2,/r/investing/comments/nycgqt/why_does_npr_claim_stock_grants_arent_taxed/h1jgf14/,0.046,0.814,0.14,0.6996
+155,JD," Have you ever looked at the holdings for $arkx. Some of the top 10 holdings include Amazon, [JD.com](https://JD.com), Komatsu. These aren't bad holdings per se. But as you said - there really arent' a lot of space related companies. So - for now, the definition of space-related is gonna be pretty broad.",greytoc,12,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1hbd90/,0.0,0.834,0.166,0.7891
+156,AAPL," >However when I look into the details of the option I see very little volume. Should I be worried about this?
+
+Yes, it's better to trade options with high liquidity (e.g. ARKK instead of ARKX, although I understand here you are going for Space) and a low volume/liquidity option basically means you may not get what the option is ""worth"" when you're trying to sell it, because there's few buyers out there.  Your $20 LEAPs are $3.40 per contract, lets say you bought it and it went up to $5/contract, well since there are so few buyers and sellers you may struggle to find a buyer to pay $5 and need to drop your price. 
+
+>Also, if my assumption is correct and the stock sees massive gains would I be stuck holding an option so I.T.M that I cant sell it? 
+
+I don't know what you mean here; the deeper ITM the option, the more valuable it is, the more people are willing to pay.
+
+
+>should I roll them every 6 months or so?
+
+
+I think people do this but there is no right answer. Some people let their LEAPs expire worthless, others will roll 4-6 weeks out (when theta decay starts to become a large factor), some will close out the LEAP when it's up a certain percentage. Depends on you and your goals. 
+
+
+
+I gotta say, if you're making a bet on Space tech, I'm not even sure LEAPs are the way to go, they are way too short term for Space. You might be better off just buying UFO or ARKX and sitting on the shares 30 years, and then learning trading LEAPs on SPY or AAPL or whatever",oarabbus,7,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1h78sw/,0.081,0.855,0.064,-0.4379
+157,LEAP," >However when I look into the details of the option I see very little volume. Should I be worried about this?
+
+Yes, it's better to trade options with high liquidity (e.g. ARKK instead of ARKX, although I understand here you are going for Space) and a low volume/liquidity option basically means you may not get what the option is ""worth"" when you're trying to sell it, because there's few buyers out there.  Your $20 LEAPs are $3.40 per contract, lets say you bought it and it went up to $5/contract, well since there are so few buyers and sellers you may struggle to find a buyer to pay $5 and need to drop your price. 
+
+>Also, if my assumption is correct and the stock sees massive gains would I be stuck holding an option so I.T.M that I cant sell it? 
+
+I don't know what you mean here; the deeper ITM the option, the more valuable it is, the more people are willing to pay.
+
+
+>should I roll them every 6 months or so?
+
+
+I think people do this but there is no right answer. Some people let their LEAPs expire worthless, others will roll 4-6 weeks out (when theta decay starts to become a large factor), some will close out the LEAP when it's up a certain percentage. Depends on you and your goals. 
+
+
+
+I gotta say, if you're making a bet on Space tech, I'm not even sure LEAPs are the way to go, they are way too short term for Space. You might be better off just buying UFO or ARKX and sitting on the shares 30 years, and then learning trading LEAPs on SPY or AAPL or whatever",oarabbus,7,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1h78sw/,0.081,0.855,0.064,-0.4379
+158,BFLY," If you’re interested in getting into true space plays, there’s a couple upcoming mergers: one is SpaceX’s most serious competitor, the other has Gates pushing money at it.
+
+With the mergers you can purchase shares, warrants, or a combination of the two. Warrants act similar to LEAPS in that you are taking on greater risk/reward but have plenty of time to exercise or sell if it plays out.
+
+Be very familiar with the risks though! Both with the mergers (like the strike price your warrant becomes profitable at) and the industry - profitable space companies might be years away.
+
+Having good returns off warrants in the past (lucked out and timed BFLY really well), and being bullish on the underlying, I have a good stake in one of those mentioned above",cryptohick,3,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1hsy6y/,0.039,0.777,0.184,0.9643
+159,SFTW, Rocket lab and Black Sky are supposed to go public soon - VACQ (becomes RKLB after the merge) and SFTW (becomes BKSY after the merge),pbr_treatgang,3,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1ieapi/,0.0,1.0,0.0,0.0
+160,VACQ, Rocket lab and Black Sky are supposed to go public soon - VACQ (becomes RKLB after the merge) and SFTW (becomes BKSY after the merge),pbr_treatgang,3,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1ieapi/,0.0,1.0,0.0,0.0
+161,AI," The space industry is literally decades away from becoming anything substantial. Investing into this ""theme"" is not like investing into AI or Cybersecurity, because there are simply not enough companies around",Sarge12312,1,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1hbur8/,0.064,0.881,0.055,-0.0798
+162,IMO, So the best time to find good entries IMO.,BlasterBilly,2,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1iqj8w/,0.0,0.487,0.513,0.8115
+163,HOL," Many of the smaller actual space related companies will be going public thru SPAC deals. Try HOL (Astra), SRAC (Momentus), VACQ (Rocket lab) -not trading advice",BlasterBilly,3,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1iq0eo/,0.0,1.0,0.0,0.0
+164,SRAC," Many of the smaller actual space related companies will be going public thru SPAC deals. Try HOL (Astra), SRAC (Momentus), VACQ (Rocket lab) -not trading advice",BlasterBilly,3,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1iq0eo/,0.0,1.0,0.0,0.0
+165,VACQ," Many of the smaller actual space related companies will be going public thru SPAC deals. Try HOL (Astra), SRAC (Momentus), VACQ (Rocket lab) -not trading advice",BlasterBilly,3,/r/investing/comments/nxwaw5/space_industry_leap_arkx/h1iq0eo/,0.0,1.0,0.0,0.0
+166,FL, I’m in FL so I’ll see if it’s tax deductible.,dafoosball13,1,/r/investing/comments/ny7ct0/securitiesbacked_purpose_loan_used_for_investing/h1jzd2y/,0.0,1.0,0.0,0.0
+167,IRS," FIFO for tax purposes. If you can, open an IRA account of your choice and trade with no tax implications or yearly reporting to the IRS on each transaction. I wish someone had clarified that to me a long time ago.",mcdtastingmenu,9,/r/investing/comments/ny13y3/which_one_is_better_lifo_or_fifo/h1i69ec/,0.053,0.883,0.064,0.128
+168,UONE, Thought UONE v UONEK?,ParadoxPath,1,/r/investing/comments/ny3dae/uone_2_big_catalysts_next_week_to_more_than/h1i7t9m/,0.0,1.0,0.0,0.0
+169,WKHS, Also: WKHS,Creepy_Surround_6265,-1,/r/investing/comments/ny3dae/uone_2_big_catalysts_next_week_to_more_than/h1jcy5f/,0.0,1.0,0.0,0.0
+170,UONE, UONE tends to have done better in the past. People also like voting rights.,hjah300,1,/r/investing/comments/ny3dae/uone_2_big_catalysts_next_week_to_more_than/h1i9ola/,0.0,0.69,0.31,0.6597
