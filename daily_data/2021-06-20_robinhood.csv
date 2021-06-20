@@ -1,0 +1,3 @@
+ticker,score,neg,neu,pos,compound,mentions
+BB,5.75,0.0,0.73825,0.26175,0.261175,4.0
+CCL,1.0,0.0,1.0,0.0,0.0,1.0
