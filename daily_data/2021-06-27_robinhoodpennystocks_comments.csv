@@ -1,0 +1,32 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,EVER, I would never EVER do this! WTF?!,Tetheredspine,10,/r/RobinHoodPennyStocks/comments/o91a5e/an_app_that_lets_you_share_your_stock_portfolio/h38jope/,0.0,1.0,0.0,0.0
+1,API," The Robinhood API requires authentication with credentials, and an MFA code if you have 2 factor enabled. This is usually taken care of by these apps on the ""connect/ login to your account to start"" portion. It then grants a temporary auth token with a specific expiration date until you have to login again.
+
+The scope of the permissions would be defined by the app (which should show up in ToS or elsewhere), but it's by no means ""giving away the keys to the castle"". The scopes are fairly granular, so most likely this would get read only access to holdings and order history. 
+
+Hope that's some reassurance with how these apps work, I've not yet checked this one out. Obviously be careful with who you trust but again, access isn't a binary all or nothing, it's scoped to specific needs of an app. Of course, it really does come down to the dev, so DD anything you're going to link to your account.",UBahn1,2,/r/RobinHoodPennyStocks/comments/o91a5e/an_app_that_lets_you_share_your_stock_portfolio/h38y0dn/,0.016,0.869,0.115,0.946
+2,DD," The Robinhood API requires authentication with credentials, and an MFA code if you have 2 factor enabled. This is usually taken care of by these apps on the ""connect/ login to your account to start"" portion. It then grants a temporary auth token with a specific expiration date until you have to login again.
+
+The scope of the permissions would be defined by the app (which should show up in ToS or elsewhere), but it's by no means ""giving away the keys to the castle"". The scopes are fairly granular, so most likely this would get read only access to holdings and order history. 
+
+Hope that's some reassurance with how these apps work, I've not yet checked this one out. Obviously be careful with who you trust but again, access isn't a binary all or nothing, it's scoped to specific needs of an app. Of course, it really does come down to the dev, so DD anything you're going to link to your account.",UBahn1,2,/r/RobinHoodPennyStocks/comments/o91a5e/an_app_that_lets_you_share_your_stock_portfolio/h38y0dn/,0.016,0.869,0.115,0.946
+3,MFA," The Robinhood API requires authentication with credentials, and an MFA code if you have 2 factor enabled. This is usually taken care of by these apps on the ""connect/ login to your account to start"" portion. It then grants a temporary auth token with a specific expiration date until you have to login again.
+
+The scope of the permissions would be defined by the app (which should show up in ToS or elsewhere), but it's by no means ""giving away the keys to the castle"". The scopes are fairly granular, so most likely this would get read only access to holdings and order history. 
+
+Hope that's some reassurance with how these apps work, I've not yet checked this one out. Obviously be careful with who you trust but again, access isn't a binary all or nothing, it's scoped to specific needs of an app. Of course, it really does come down to the dev, so DD anything you're going to link to your account.",UBahn1,2,/r/RobinHoodPennyStocks/comments/o91a5e/an_app_that_lets_you_share_your_stock_portfolio/h38y0dn/,0.016,0.869,0.115,0.946
+4,API," Robinhood does have an API, but it would let you have full account access programmatically. I'm not too sure how safety (in terms of buy/sell protection) would be implemented, if at all.
+  
+Imagine if this app had 50,000 accounts connected and ran a function in 3 months to mass-sell or mass-buy a specific stock all at the same time. Probably wouldn't be that neat to affected users, but would be interesting to see the fallout.",Soupdeloup,3,/r/RobinHoodPennyStocks/comments/o91a5e/an_app_that_lets_you_share_your_stock_portfolio/h38s7m1/,0.092,0.819,0.089,0.1747
+5,GME, I also hate it when I talk about stocks with friends that started and they only know of GME. I recommend Reddit to them and say there’s good stuff here and they say some stupid things like “oh you use Reddit?” like its only for GME…,usernamesare-_-hard,1,/r/RobinHoodPennyStocks/comments/o8t5kc/fewer_americans_own_stocks_now_than_two_decades/h38nqtp/,0.125,0.636,0.239,0.6597
+6,AQST," Ok so I looked into AQST. Looks like their drug Libervant, an oral method of diazepam for epileptic seizures, was submitted and was initially rejected. They were given advice for resubmission, and the company claims they solved all the problems initially pointed out. The resub date for the nda is June 24th. 
+
+It is likely to be approved this time around, which is why there are buy ratings and a median pt of 13$. 
+
+Typically review takes 6-10 months, so within 12 months the pt makes sense. 
+
+As for me, I’m going to wait for an opening preferably in the 3$ range during the dry spell and then wait for it to blow up. Deciding between leaps or shares",John_Wayfarer,2,/r/RobinHoodPennyStocks/comments/o8m27x/daily_discussion_thread/h38q07w/,0.047,0.861,0.092,0.5859
+7,AEI, AEI looks to take off soon😎🏹🏹,acguy61,1,/r/RobinHoodPennyStocks/comments/o8m27x/daily_discussion_thread/h38s2tk/,0.0,1.0,0.0,0.0
+8,AMC, Sold all SNDL for AMC,Radmadcoolcat,5,/r/RobinHoodPennyStocks/comments/o92fpg/get_in_before_they_do/h38is0t/,0.0,1.0,0.0,0.0
+9,SNDL, Sold all SNDL for AMC,Radmadcoolcat,5,/r/RobinHoodPennyStocks/comments/o92fpg/get_in_before_they_do/h38is0t/,0.0,1.0,0.0,0.0
+10,SNDL, I just hope we moon soon so i can comeback and buy more SNDL before the rocket blasts off,Radmadcoolcat,2,/r/RobinHoodPennyStocks/comments/o92fpg/get_in_before_they_do/h38mkcg/,0.0,0.847,0.153,0.4404

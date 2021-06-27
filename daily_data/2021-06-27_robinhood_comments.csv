@@ -1,0 +1,12 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,DTE," If you purchase a call contract, the value of that contract will go up if the price of the underlying goes up and theta isn’t eating too much of the value yet. The call doesn’t have to go in the money for you to profit. 
+
+It sounds like you’re pretty new to options, so I recommend plugging your contract into optionsprofitcalculator.com to get a better idea of potential profit/loss at specific prices and at specific times. 
+
+Theta decay increases drastically towards expiration. it may be best to sell while you’re ahead because theta is already eating that call rapidly at 14 DTE.  I personally never keep options closer than 21DTE as a rule.
+
+Edit:
+I believe breakeven is if you were to exercise.  It’s generally calculated as stock price + the premium paid, so if the call strike is 50 and you paid 5.00 for the contract, breakeven is stock price of $55.",jedwarda,71,/r/RobinHood/comments/o8njk0/does_breakeven_point_matter_for_options/h36dac6/,0.026,0.83,0.145,0.9614
+1,UI," https://app.waffles.finance/
+
+This is a much better calculator in my opinion. The UI/UX is much more friendly, and overall the information is more digestible. Especially for beginners.",HuskyInfantry,6,/r/RobinHood/comments/o8njk0/does_breakeven_point_matter_for_options/h37tzpf/,0.0,0.782,0.218,0.7501
