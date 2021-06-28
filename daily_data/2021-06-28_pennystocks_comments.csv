@@ -1,0 +1,722 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,DD," Look at markets rather than stocks. Then try to find companies inside that market and do DD on them. Check for news, roadmaps etc. pp. and try to find their fair share price. If its undervalued and you can see catalysts come up (events, things they work on, new hires, more revenue, ...) than invest in it.",dkbbroker,218,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3apctu/,0.0,0.924,0.076,0.5423
+1,CVM," I am a data scientist / algo trader who has been trying to solve this for 3 years. The short answer is, IT'S PRETTY DAMN HARD. But it's not impossible, which is the good thing here. I'll talk about one thing here and will leave the rest for some blog post.
+
+Options flow is a great tool to use if you can learn to use it well. If you know anything about any online options flow service, you'll see that they claim all flow works, but those are cherry picked signals that they are sharing on their services. If you backtest them all, you'll see that the accuracy is less than 50%. I can guarantee it.
+
+However, within options flow, something interesting happens with a few tickers everyday. That's called massive repeat flow. In short, sometimes, smart money is extremely confident of a move that they buy out of the money calls with a very large amount of money. If that's the case, and there's no other flow on the opposite side i.e if a stock is at 20 and smart money is buying 5 million dollars worth of 30 strike calls with no puts in the flow, that's A STRONG SIGNAL. In my three years of experience, this has been one of the strongest signals. You have to find repeat and dominant flow, everything else is most of the times just noise.
+
+When you see massive repeat flow with far out of the money calls, that's a signal that something big might happen. One very recent example would be CVM 40 calls that came in on June 25th for 40 strike. Stock price was only at 25. Today, pre-market, CVM is up 8%. There you go. [https://i.gyazo.com/0ed91a21f78192030989f21a221ea6d7.png](https://i.gyazo.com/0ed91a21f78192030989f21a221ea6d7.png)
+
+This is also a quick tutorial for anyone who's getting into options flow to find trade ideas. Hope this will help everyone. Don't look for any flow, look for massive repeat flow.
+
+Finally, a disclaimer and a shameless plug. I have a twitter page where I share repeat flow plays every day for free. If you want to get some ideas, give us a follow at @ ***Tradytics*** on twitter. You'll find tons of ideas and also get a sense of how we go about finding repeat flow.
+
+Happy to answer any questions regarding this.",hydershykh,90,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3azu4p/,0.041,0.786,0.173,0.9959
+2,MSM," study everything. Technicals. Charts. Support levels. Volume spikes. Short interest. Executive teams. Rumors. Customer sentiment. Employee morale. Insider trading. MSM manipulation. Comparable market caps. ER reports. Upgrade reports. SEC filings. Meme potential. watch and study every facet about a company, and do so quickly.   Credit sir Jack a lot",cchackal,85,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3avhpz/,0.041,0.8,0.16,0.749
+3,DD," >Is there a website
+
+No.
+
+>scan reddit?
+
+Also no. Scanning reddit is a way to pique your curiosity about a company, not a way to make a decision... the people making money on reddit stocks are much more likely to be writing DD than reading it.
+
+The answer to your question is to do a shit ton of real research on market trends, societal trends, the companies themselves, and also get lucky.",Aaron_Hamm,27,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3asud6/,0.137,0.825,0.038,-0.743
+4,CTXR," I claim no great expertise, but I try to look at things I know and predict which companies have potential. I am in healthcare so I look for companies working on patents for drugs or products that have a huge potential for massive marketability. Think of the COVID vaccine as an example. Moderna (MRNA) is up nearly 10x its pre pandemic value.
+
+Currently I like CTXR because they have a product in phase 3 testing that meets a significant need in healthcare. That said, if this product (Mino-lok) doesn’t gain approval, the companies stock value will plummet. They claim they have 4 products in the pipeline, but only one has much potential, and 2 seems like complete garbage. This company is likely to shoot up 3-4x or drop to nothing. This is the risk to run looking at penny stocks.",hermanstyle21,5,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b1rup/,0.065,0.746,0.189,0.9645
+5,UAMY," Don’t buy stocks that have gone up 100% in 3 months, don’t buy the stocks that are already on social media except if they have yet to run. 
+
+All the other answers are correct: insider buying, due diligence on a market and a company (look at their company presentation and news, fundamentals, if they have cash…)
+
+Avoid FOMO as that’s where you end up losing the most money (TRCH, UAMY for me)",bbe_09,8,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3awesj/,0.067,0.933,0.0,-0.5859
+6,CARV," I look for big buys (net inflow) on multiple days without the price moving substantially. For example, about a month ago CARV was trading in a range yet there were huge buys daily for over a week. It was clear that big money was accumulating shares. The price then ran up 200% over the next month. 
+
+Webull level 2 has a feature to see large buys, most trading platforms do",1Angry_Banana,2,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b7pjr/,0.0,0.896,0.104,0.7269
+7,DD, Easiest way to answer this. Find high value stable stocks. When all stocks in that category do poorly (tech over the last three months is a good example) buy on the start of the rebound. This is always a sure thing if you buy stable large name stocks. It isn’t going to make you rich but it will give you gains to gamble on risky stocks and have more cash to do so. Most of this is finding a diamond in the rough through DD and then holding long enough for everyone else to see it.,inoen0thing,2,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bo74c/,0.021,0.797,0.182,0.9136
+8,MSM," Buy any stock. Buy a MSM outlet. Publish positive news. Slowly sell as price increases. Buy a short position. Publish FUD about stock. Slowly cover is price dips. If you get caught for market manipulation, pay the SEC a nominal fee. Rinse repeat over and over. Make billions. Worked for the big players for decades. Why not you!",T_2_the_D,2,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bxrzt/,0.11,0.832,0.059,-0.2789
+9,DD," Look for mentions that are increasing, Look for volume increasing, Do some DD on the tickers to see if they have a story that would justify a run.
+
+A lot of people play OTC custodianships for fast wins. A good example of this is HPIL was a dark company that went through custodianship and was awarded. Went from no volume to some on the hype of the company being live again. The company was awarded and transferred to new ownership and gained more volume. Now the company is pushing their plan and releasing lots of news so volume is now over 1B a day. It is very volatile at the moment but has huge potential for a win.
+
+These are what is getting peoples attention.
+
+Proven management - Stephen Brown (CEO has taken companies to Nasdaq before)
+
+A plan - Lots of plans currently, is hitting all the hot topics so might be too much but we will see.
+
+Cheap Entry - trading under 1 cent but was .0002 in the last 6 months. (Looks like it ran but has lots of room to go.)
+
+Open Communication - Lots of tweets and news releases from the company. Working on several fronts to increase value.
+
+&#x200B;
+
+$PRMO has similar potential, just awarded custodianship to Small Cap Compliance. Now we wait and see what company acquires the shell and what they do with it. It will run on hype and each step towards becoming a new company and getting compliant. (This one will likely not get current before the deadline but could run hard once it is all done. Catch it is could be 3 months or over a year. High risk, potential high reward.)
+
+&#x200B;
+
+There are lots of other ways as well such as knowing what catalysts are expected. This is very important for biotech and Teledoc plays. With your DD you should be able to see what is coming and buy in for the runs. RQHTF is a good example. Your DD should show it is at the point of becoming profitable with a massive backlog of orders expected to come online over the next 2 years. It is a take over target and a sector disrupter.
+
+Do lots of research. it will serve you well. Especially in Penny Stocks.
+
+Websites, Twitter, Stocktwits, Any Screener site to identify volume change. I generally find symbols mentioned here and then search them out and dig deeper.",ToastTurtle,2,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3c7jds/,0.014,0.865,0.121,0.9917
+10,ATOS," Patience, i had ATOS at sub a dollar and sold at 3. Nothing wrong with selling to secure profits which is what i did but I’m kicking myself for not following through with my second goal, re-entry. Had a price target of $1.66, which it hit and i didnt enter. Patience, patience, patience. Currently sitting on my CTXR and will be for a long time, $1.49 avg. I’ll let it go up and down how ever much it wants but know in a few years it’ll be in the mid double digs.",SlapItDaBass22,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bdgus/,0.0,0.938,0.062,0.531
+11,CTXR," Patience, i had ATOS at sub a dollar and sold at 3. Nothing wrong with selling to secure profits which is what i did but I’m kicking myself for not following through with my second goal, re-entry. Had a price target of $1.66, which it hit and i didnt enter. Patience, patience, patience. Currently sitting on my CTXR and will be for a long time, $1.49 avg. I’ll let it go up and down how ever much it wants but know in a few years it’ll be in the mid double digs.",SlapItDaBass22,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bdgus/,0.0,0.938,0.062,0.531
+12,DD," You need to find things like Index Listings, insider trades, institutional trades, supply chain issues, etc. etc. etc.
+
+Even if you're right you can be early, just about or late to a move.
+
+Early means you can hold your position for an age before you see it profiting.  
+Just about means you might get in after move has started, but before it peaks.  
+Late means you're buying the news/buying the peak.
+
+If you're happy to get there just about you need to monitor the market for anything useful (the above points can be helpful) and figure out a good entry/exit point with Technical/Fundamental analysis.  
+If you want to get in early you need to do your own DD and figure it out yourself.
+
+Even then, you might be wrong.",FILTHY_GOBSHITE,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3az5v6/,0.029,0.846,0.125,0.9118
+13,DD," I found a company, looked through their books, revenue, growth strategy and future outlook. After looking at their Market Value I knew I had found a gem. Look into $CBDD. Im heavily invested waiting for the market to find this gem. I'd suggest you to look into the Stocktwits CBDD board and simply ask for DD.",Substantial_Rich_871,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b2afm/,0.0,0.907,0.093,0.6124
+14,TNXP, Dumb luck. I found TNXP by looking at the top loosers thinking I was gonna make a few bucks from a rebound. After some research they turned into a long term investment. 🤷‍♂️,DropInOttacon,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b5web/,0.1,0.755,0.145,0.128
+15,ATOS, Lurk moar lol I was in ATOS under $4 being here.,WashedOut3991,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3baj95/,0.143,0.635,0.222,0.25
+16,GL," Dont invest what your not willing to lose.
+That said. I do dd and put a hundo or two on lower priced stocks my dd thinks will go up. Once I reach my original investment doubled, i sweep it out and play around with the profits. 
+If I lose, its only a little and I'm not worried about it. 
+GL",ldnapol,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bful8/,0.034,0.689,0.278,0.9175
+17,ATOS," Research, luck, patience and picking random stocks to look into.    
+
+I caught into ATOS before the majority of people did, bought back in March for $3 a share. I didn’t have patience though and sold at a loss in April at $2.11 a share. If I had have trusted my gut, and been patient. I could’ve been here, 2 months later at $7.69 a share.     
+
+
+Also, not financial advice but there’s a guy on Twitter that’s got a good track record clairvoyantINVT. I passively follow and research what he’s up to.",EhMapleMoose,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bjjpn/,0.042,0.812,0.145,0.7906
+18,MRIN," Buy MRIN thank me later. 
+This is not advice.",tylerfc33,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bn4r9/,0.0,0.762,0.238,0.3612
+19,MRIN, Get in MRIN now. Not advice.,tylerfc33,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3buozs/,0.0,1.0,0.0,0.0
+20,DD," Man people want all the answers with none of the hard work these days. Part of the satisfaction is doing some digging, solid DD and then smugly watching the SP rise over time.",jandrews-1411,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bwuqj/,0.0,0.771,0.229,0.6481
+21,SP," Man people want all the answers with none of the hard work these days. Part of the satisfaction is doing some digging, solid DD and then smugly watching the SP rise over time.",jandrews-1411,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bwuqj/,0.0,0.771,0.229,0.6481
+22,MC," $OILFF potential 10x. Currently at $24m MC, patents alone worth over $200m",WizTrade71,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3c0tg0/,0.144,0.719,0.137,-0.0258
+23,DD, Haha you gotta traverse all the stock subreddits until you see something that looks promising. Then do ur DD,doctoroctogonopus,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3c1b3m/,0.0,0.749,0.251,0.6908
+24,GSM," Well, on 12/9 the pre-market brief on this subreddit listed GSM at $1.78. Today it is $5.82 with a high of $6.24. Sometimes this subreddit itself will just give it to you. 
+
+I myself made $400 on INND when that stock went up after someone mentioned it in a comment on some thread.
+
+I've definitely lost money on some stocks I've FOMO'd on (those are always small amounts. I don't just throw stacks at FOMO stocks), but, point being, it is possible to just use this own subreddit to catch em early.",HeyHoLetsGo615,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3cqrjg/,0.018,0.944,0.038,0.1901
+25,DD, When you're too lazy to do DD. Type of person who ends up in the 0 or 10% tax bracket.,VillageOfTheWolf,0,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3d41tf/,0.122,0.878,0.0,-0.3612
+26,ATH," This.
+
+An example : Goldman Sachs released a report last year about how the drone market was going to expand over the next decade. Ark Invest expects the drone delivery market to reach 14B in 2024 and go to $113B by 2030. If you had followed that and bought for example AgEagle at $0.5 in February 2020, then you would be up over 10x now with shares at $5.33. They even reached $15.7 ATH. Draganfly was also at similar price and you could have done a x3 at current price or x6 at ATH. There are more examples of these Drone companies that you can look at. So you invest in the right ones and things turn out bullish as Ark thinks then you could x100 by 2030. There are a lot of factors to take in and you should do your own research as usual. But this is just to give you one way to look at things.
+
+Find out a market that has potential and do you research. Be realistic. And best of luck",KuantumWinter,81,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b0sd0/,0.0,0.915,0.085,0.9231
+27,CVM," > recent example would be CVM 40 calls that came in on June 25th for 40 strike
+
+Well that aged like shit",alexname,24,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bwh4j/,0.191,0.637,0.172,-0.128
+28,AMC," Cool I'll give a follow. I am currently learning this same technique, for a new trader I've had some big plays. Crushed it on ATOS and AMC this month and last. Today I am crapping in my own hand and throwing it in the air. This shit is hard. One talent I do have though is moving on and not getting too down about it. Frustrated with myself today for sure and not going to take any more trades.",toughestmuff,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3c098c/,0.126,0.732,0.142,0.1027
+29,ATOS," Cool I'll give a follow. I am currently learning this same technique, for a new trader I've had some big plays. Crushed it on ATOS and AMC this month and last. Today I am crapping in my own hand and throwing it in the air. This shit is hard. One talent I do have though is moving on and not getting too down about it. Frustrated with myself today for sure and not going to take any more trades.",toughestmuff,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3c098c/,0.126,0.732,0.142,0.1027
+30,CVM," Well, the CVM play went to shit! But here's another one.
+
+https://i.gyazo.com/a21c82c8337451fcf956d43322f1c37b.png",hydershykh,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3ckdhq/,0.155,0.606,0.239,-0.088
+31,MSM," "" Insider trading. MSM manipulation. "" How do you know about insider trading? Can you explain MSM manipulation?",flyingcrane_toMoon,8,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3azfcq/,0.254,0.746,0.0,-0.5803
+32,UK," Go to the 'shares' option in the menu and then use the filter drop down to select indices.  Note: I'm based in the UK, so I use the UK small caps option.  This does include overseas stocks that are traded in London though, which is how I bought 88E.
+
+I posted a screenshot here: https://imgur.com/2NVNGfv",Saiing,5,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3bi0ls/,0.04,0.96,0.0,-0.2732
+33,UK," I use IG Index Spreadbet with leverage
+
+So here's what to do -  click on the ""SHARES"" in the left hand menu bar.
+
+At the top you see ""Indicies"" & ""Countries""
+
+Use the indicies drop-down and click UK SMALL CAPS
+
+I then scan for movers of +10% each day pick out a few companies do some research and watch them, picking the right entry point is the hard point and if we all knew this we would be millionaires Rodders",G0nz0knows,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3cjmsn/,0.018,0.918,0.064,0.5574
+34,COMS," Great data on the drones, KWinter. I fell into drones when COMS purchased smaller Drone company, SKY SAPIENCE. I Bought COMS earlier this year for their 5G manuf and results coming 3Q / 4Q. After the drone acquisition news I researched satellite companies and went into MAXR heavily. Some companies expansion into other areas draw you to new sectors and glad it did!. Great post.",LevelHeaded21,9,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b74d7/,0.066,0.777,0.157,0.769
+35,MAXR," Great data on the drones, KWinter. I fell into drones when COMS purchased smaller Drone company, SKY SAPIENCE. I Bought COMS earlier this year for their 5G manuf and results coming 3Q / 4Q. After the drone acquisition news I researched satellite companies and went into MAXR heavily. Some companies expansion into other areas draw you to new sectors and glad it did!. Great post.",LevelHeaded21,9,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b74d7/,0.066,0.777,0.157,0.769
+36,SKY," Great data on the drones, KWinter. I fell into drones when COMS purchased smaller Drone company, SKY SAPIENCE. I Bought COMS earlier this year for their 5G manuf and results coming 3Q / 4Q. After the drone acquisition news I researched satellite companies and went into MAXR heavily. Some companies expansion into other areas draw you to new sectors and glad it did!. Great post.",LevelHeaded21,9,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b74d7/,0.066,0.777,0.157,0.769
+37,RCAT, Got into RCAT myself because of this unfortunately once it went on the NYSE it tanked a bit bit I’m expecting good growth.,Ricky_Rollin,2,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3c0vx1/,0.101,0.697,0.202,0.4118
+38,GS, where do you find those GS reports? i can't seem to navigate their website to find it.,debugg_and_bait,2,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3ccg97/,0.0,1.0,0.0,0.0
+39,DD," I do something similar.  I use DD’s to take some of the time out of screening for potential winners, then I set about trying to disprove the DD by doing research. 
+
+If I can’t disprove it; I jump in.",James188,7,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b9cmy/,0.0,0.914,0.086,0.4767
+40,ORGN," It’s about being observant and awake to the broadest topics that are discussed most often in major news outlets.
+
+Examples would be:
+Coronavirus.  At the beginning it caused interest in Tech that allowed for remote working; now we’re looking at the tail of it, it’s likely to cause interest in the travel, entertainment and hospitality sectors. 
+
+Data Security.  Lots of growth potential there with cloud computing becoming the norm.  Lots of news around this. 
+
+Green Energy and Eco-Living.  EV’s had a massive run up last year, but anything new and environmentally friendly has potential, especially things that solve new problems (for example, ABML and their battery recycling plant next door to Tesla; ORGN and their carbon-negative plastic)",James188,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b96fm/,0.028,0.833,0.139,0.8833
+41,UK, Is this IG pro? My dashboard doesn’t look quite like this. Also UK.,ttrsphil,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3cpkml/,0.0,0.811,0.189,0.4201
+42,MAXR, MAXR doing google maps was all I needed to know,Kingshirez,4,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3betds/,0.0,1.0,0.0,0.0
+43,COMS," I'm glad you got into drones as well. Need to check out COMS. For now I'm in AgEagle, Draganfly and Drone Delivery Canada. COMS might be my next addition to my portfolio",KuantumWinter,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3b94v4/,0.0,0.855,0.145,0.6249
+44,GS," GS
+
+https://www.goldmansachs.com/insights/technology-driving-innovation/drones/
+
+Ark
+
+https://ark-invest.com/articles/analyst-research/parcel-drone-delivery/",KuantumWinter,1,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3ccvce/,0.0,1.0,0.0,0.0
+45,TY," Hey i'm a developer and plan to write my own trading bot/scanner, what are some tool/frameworks to help me pick up speed. I have experience in java but will look at other languages if the industry requires. TY",alexname,2,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3cdgvj/,0.0,0.843,0.157,0.7468
+46,DD, Been watching Draganfly. Need to dig deeper into DD for MT & LT plays. Thx again for the insight.,LevelHeaded21,2,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3baoej/,0.0,0.78,0.22,0.5423
+47,MT, Been watching Draganfly. Need to dig deeper into DD for MT & LT plays. Thx again for the insight.,LevelHeaded21,2,/r/pennystocks/comments/o9eh76/how_do_you_find_stocks_before_they_blow_up_and/h3baoej/,0.0,0.78,0.22,0.5423
+48,ATOS," I'm holding ATOS. If you read and believe the DD from Fat, he said in Part 2 when the stock price was in the neighborhood of $5.38/share that most of the big gains were yet to occur. 
+
+To me that means that even when it went to $8 or $8.50/share the stock price (if you believe the DD) still has room to run, because $3/share over $5.38 doesn't sound like the major gains he's describing.
+
+I'm in 4k @ 4.92 and some July calls $10 and $12.",Subrookie,3,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3c5cy3/,0.024,0.922,0.054,0.3999
+49,DD," I'm holding ATOS. If you read and believe the DD from Fat, he said in Part 2 when the stock price was in the neighborhood of $5.38/share that most of the big gains were yet to occur. 
+
+To me that means that even when it went to $8 or $8.50/share the stock price (if you believe the DD) still has room to run, because $3/share over $5.38 doesn't sound like the major gains he's describing.
+
+I'm in 4k @ 4.92 and some July calls $10 and $12.",Subrookie,3,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3c5cy3/,0.024,0.922,0.054,0.3999
+50,CLOV," MRIN. Bought 300 @ 2.84 last week. Would have gotten more but tapped out on AABB, CLOV, MSFT",SugarzDaddy,2,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3cfzjt/,0.0,1.0,0.0,0.0
+51,MRIN," MRIN. Bought 300 @ 2.84 last week. Would have gotten more but tapped out on AABB, CLOV, MSFT",SugarzDaddy,2,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3cfzjt/,0.0,1.0,0.0,0.0
+52,MSFT," MRIN. Bought 300 @ 2.84 last week. Would have gotten more but tapped out on AABB, CLOV, MSFT",SugarzDaddy,2,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3cfzjt/,0.0,1.0,0.0,0.0
+53,ATOS," Here is the ATOS DD for anyone interested.  Very good information here!
+
+https://www.reddit.com/r/pennystocks/comments/o50xk3/atos_dd_gamma_storm_pt_2_ticking_time_bomb/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",Tiny_Active_3685,2,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3c68ju/,0.0,0.64,0.36,0.7339
+54,SOS," SOS will run to $4 if the coin market continues to climb back.   Huge potential in this company, very diversified approach.",BigtymerRimer,1,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3c1n7u/,0.0,0.897,0.103,0.3182
+55,ATH," It hit ATH after ATH last week. Whenever values go up there’s always a dip. It dipped everyday last week, it just happened to climb higher and higher is all. So what happened after Friday was really a combination of things. Profit takers being most notable. This was under $2 early this year. Of course there’d be tons of profit takers. Next up were stop losses from both long term holders and ppl who had fomo’d in last week. After that were paper handers who likely bought in of the hype and sold at the first sign of red. Which caused that entire cycle to rinse and repeat. I got in low so while tempted to sell, purely so I could buy in at a lower price and have a lot more shares. I just decided to hold. I’m still UP and in great position. Within the next half year I expect at least 3 catalysts to rally positive sentiments and push this into double digits. Low double digits. Double digits nonetheless. I’m investing with money that would’ve just been sitting in the bank doing nothing. So it’s less emotionally taxing for me then many others.",Ritz_Kola,15,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3c23t8/,0.055,0.854,0.091,0.8553
+56,CTXR," Ctxr will hit big before July. I feel like we'll see a bull run on the 29th for people buying the rumor and we'll see a massive sell off/buy in if the DMC news is positive. It probably won't go past the 29th closing price by much, but hey what do I know. I'm probably gonna sell a third on the 29th and buy back in 2-4 weeks, I'm confident in the long term for CTXR.",KevinLaro,19,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3b00e3/,0.0,0.891,0.109,0.81
+57,SPRT," What happened to SPRT today? Saw there is 0 shares to be shorted available, and took a beating on an up crypto day.",Brythscienceguy,1,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3cv7sv/,0.124,0.785,0.091,-0.2023
+58,SPRT, SPRT 🙌🏼,TheIceIsNice,1,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3bkkvi/,0.0,1.0,0.0,0.0
+59,CTXR," DMC has five working days to make a recommendation. They meet with CTXR on the 29th to read data, so with the 4th coming up, that puts day 5 on July 7th by my reckoning. Hold hold hold",ItsYaBoyDonny1,6,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3bsgsf/,0.0,1.0,0.0,0.0
+60,DD," From the DD, we’re waiting for phase 3 results for their latest breast cancer project - that’s probably most of the hype building right now for it. 
+
+There is a claim it has a high short interest, but I only have seen 11% which is up there but that’s not going to cause a squeeze. 
+
+The big thing last week was the ITM call buys versus put buys, the difference was massive - which leads to bullish sentiment. It was added to the Russell today, adding more bullish sentiment. 
+
+They have a nasal covid spray that can cause bullish sentiment with the current feta variant beginning to make waves and anti-vax sentiment at an all time high. 
+
+I believe they are sitting on a good amount of cash and are potentially debt free. 
+
+All of this I’m typing from memory from stuff I glanced at last week. I would greatly recommend looking for the DD an into the info yourself and not take one word I just wrote as factual as again I’m basing this all of a vague memory.",Nice_Block,11,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3btaot/,0.042,0.881,0.077,0.8146
+61,DD," Here is the DD, buddy.  Worth a read. 
+
+https://www.reddit.com/r/pennystocks/comments/o50xk3/atos_dd_gamma_storm_pt_2_ticking_time_bomb/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",Tiny_Active_3685,2,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3c63nj/,0.0,0.787,0.213,0.2263
+62,DD," A lot of that is supposed to happen in the last 15 minutes of the market today, according to the DD I read. So I’m gonna watch it non stop from 4:00-4:30 today to see what happens.",Tiny_Active_3685,1,/r/pennystocks/comments/o9eiqq/most_discussed_stocks_in_rpennystocks_last_week/h3c5nl8/,0.061,0.939,0.0,-0.296
+63,ATOS, ATOS 📈....then CTXR...then next month NOK,JoeyOceano-69,33,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3adqax/,0.0,1.0,0.0,0.0
+64,CTXR, ATOS 📈....then CTXR...then next month NOK,JoeyOceano-69,33,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3adqax/,0.0,1.0,0.0,0.0
+65,NOK, ATOS 📈....then CTXR...then next month NOK,JoeyOceano-69,33,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3adqax/,0.0,1.0,0.0,0.0
+66,ATOS," To all ATOSians, please let me mention something because I see some panic since last Friday. 
+
+When I bought ATOS at 0.91$ it jumped to 4$, from there it went to 1.50$, then it went back again to 4$ and 6$.
+
+So we had the last drop to 4$ and then shooting to the current prices. Do you see the pattern (climbing higher with some corrections)? All that time I am holding…. I remember that when ATOS was at 4$ and dropped to 1.50$ there was discussion and panic…. So I just see the same again.
+
+Last time that I checked nothing changed in order to affect our investment case! I will continue to HOLD and paper hands/day traders can do their part just don’t cry that you missed an opportunity!
+
+Last thing to consider ATOS has a low float so can be volatile!
+
+Know what you own and enjoy the ride!",AllSeeingEye7,25,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b6z4g/,0.088,0.859,0.052,-0.6876
+67,ATOS, Bought another 100 shares of ATOS on the dip,willsa26,26,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bi9ep/,0.0,0.784,0.216,0.296
+68,ATOS, ATOS I believe in you,doctoroctogonopus,23,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3afypj/,0.0,1.0,0.0,0.0
+69,ATOS," Hoping for ATOS to dip a bit more so I can accumulate more but I hope this before every good run and miss the buy opportunity, hope I’m right. Here’s to y’all this week.
+
+Anyone have any short term plays in the mean time to mess with? Itching for some volatility",poopnip,22,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3a7je4/,0.078,0.609,0.312,0.9463
+70,ATOS, More ATOS today :),Visible_Antelope5010,21,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3agq0y/,0.0,0.479,0.521,0.5046
+71,ATOS, Big sale on ATOS of course I bought the dip,planikaraj,22,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3binzv/,0.0,1.0,0.0,0.0
+72,ATOS," The ATOS dip happened like you said it would. I'm buying more. I'm not sure if it's a good Idea, but it feels exciting. At least it's under the price target now",Asylar,22,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bmdnr/,0.044,0.737,0.219,0.7497
+73,ATOS, ATOS will climb back up for sure,iambrian101,21,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bi1ih/,0.0,0.723,0.277,0.3182
+74,ATOS, ATOS on sale guys.  Just put all my extra cash into it.,Lord-Donkey,22,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bjnd1/,0.0,1.0,0.0,0.0
+75,ATOS, Hope y’all bought the ATOS dip instead of panic selling and freaking out on this thread,huynhorlose,21,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cn2ou/,0.277,0.591,0.132,-0.4939
+76,MAN," $ATOS - Eager to see what the next year of Russell 2K inclusion has in store for this company! Not to mention the progress of their development pipeline! MAN, this stock gets me excited!!",bigtoastieee,20,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ae4y8/,0.0,0.772,0.228,0.8346
+77,ATOS, ATOS at a discount!,Geaux,19,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bhfb7/,0.0,1.0,0.0,0.0
+78,ATOS, ATOS will be skimming double digits EOW. I feel it in my plums.,EatPrayQueef,20,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bi0mq/,0.0,1.0,0.0,0.0
+79,ATOS, I know it’s been an ATOS echo chamber but look at that chart!,poopnip,21,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cerm9/,0.0,1.0,0.0,0.0
+80,ATOS, ATOS SO BADLY WANTS TO CLOSE GREEN TODAY,bigtoastieee,20,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cpxah/,0.326,0.674,0.0,-0.5256
+81,CTXR, CTXR looking good this morning.,BoGD,20,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3awb6z/,0.0,0.58,0.42,0.4404
+82,ATOS, buy the ATOS dip boyz,JohnstonThunderdick,19,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bk748/,0.0,1.0,0.0,0.0
+83,ATOS, Imagine having sold ATOS because it dipped 15% after going up 200% in the previous weeks/months. Lets go boys!,UNOwenWasMe,19,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bva8a/,0.0,1.0,0.0,0.0
+84,ATOS, ATOS,ThrivingTiger,19,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bx07l/,0.0,1.0,0.0,0.0
+85,ATOS," https://www.reddit.com/user/FatAspirations/comments/o9rgmf/atos_dd_gamma_storm_pt_3_post_inclusion_thoughts/
+
+ATOS DD part 3 from FatA",AllSeeingEye7,19,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d29oc/,0.0,1.0,0.0,0.0
+86,ATOS, Thanks to the people out here who reminded me that panic selling is mostly stupid. Happy that I held on to ATOS today! :),BrainStew_HS,18,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cp70t/,0.194,0.52,0.286,0.4926
+87,ATOS," Glad I could buy ATOS below 7. now I need a new peak to sell CC
+
+Edit: at this rate ATOS gonna close green",PutsOnYourWife,17,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cdfne/,0.0,0.87,0.13,0.4588
+88,CC," Glad I could buy ATOS below 7. now I need a new peak to sell CC
+
+Edit: at this rate ATOS gonna close green",PutsOnYourWife,17,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cdfne/,0.0,0.87,0.13,0.4588
+89,PM," Mmm Atos workin hard to erase Friday end and PM losses.
+
+8.20+ now.  Keep goin!",Disposable_Canadian,17,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cmqy9/,0.253,0.747,0.0,-0.5255
+90,ATOS, ATOS you better close at 1 billion market cap again you turkey.,Radthereptile,17,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3crz8j/,0.0,0.775,0.225,0.4404
+91,ATOS," ATOS shorts exploded today to fresh all time highs of 26mil on a reduced float. 
+
+**If before was a gamma squeeze opportunity, this is now a short squeeze time bomb.**",Araphoren,16,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c2023/,0.0,0.831,0.169,0.6249
+92,ATOS, ATOS green EOD,0rang3hat,15,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cmp6f/,0.0,1.0,0.0,0.0
+93,EOD, ATOS green EOD,0rang3hat,15,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cmp6f/,0.0,1.0,0.0,0.0
+94,ATOS, ATOS trust the process,LurkingRedditour,16,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cpym9/,0.0,0.476,0.524,0.5106
+95,ATOS," Remember everyone, read the DDs and do your research so you can have conviction in your trades. It took me a while to be honest with myself about that, but since then I've been less stressed about the movement of stocks and have been making much better trades. I believe in ATOS and will continue to hold and buy.",proloufic,15,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bnyv7/,0.042,0.862,0.096,0.517
+96,ATOS," the big ATOS play is still 2 weeks away.  
+
+im chillen on my $9 calls.  
+
+:)",WeReallyOutHere420,14,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bkklp/,0.0,0.707,0.293,0.6597
+97,ATOS, Nice little ATOS sale earlier today. Funny seeing people get all bent out of shape and wanting to sell when Sensation’s DD explained the volatility of this stock lol. We’re gonna keep rising until the moon in July,dontloseyourway1610,14,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c0u3h/,0.0,0.805,0.195,0.8176
+98,DD, Nice little ATOS sale earlier today. Funny seeing people get all bent out of shape and wanting to sell when Sensation’s DD explained the volatility of this stock lol. We’re gonna keep rising until the moon in July,dontloseyourway1610,14,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c0u3h/,0.0,0.805,0.195,0.8176
+99,ATOS," Don’t worry guys, sold CC on my ATOS shares, $20 EOW confirmed",willsa26,13,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c4dgf/,0.192,0.662,0.146,-0.1779
+100,CC," Don’t worry guys, sold CC on my ATOS shares, $20 EOW confirmed",willsa26,13,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c4dgf/,0.192,0.662,0.146,-0.1779
+101,ATOS, Huge shake with ATOS today!  Bought the dip $7.19.  Who thinks it closes green on the day?,Yankeefan1970,14,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c7bb6/,0.088,0.778,0.134,0.2244
+102,ATOS, ATOS with this comeback!,DarkGuardianRLSH,14,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cluc7/,0.0,1.0,0.0,0.0
+103,ATOS, How does ATOS do it!,bogdanators,14,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cmun3/,0.0,1.0,0.0,0.0
+104,ATOS," Bullish signal after bullish signal short term on the daily ATOS chart. I’m enjoying playing it
+
+Edit- It only took my comment to end it sorry folks",poopnip,14,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c8tlc/,0.043,0.787,0.17,0.5994
+105,ATOS, Loving the support ATOS is hitting after each run. Making my nonexistent breasts tingle like I tested their product.,poopnip,13,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ckgow/,0.0,0.622,0.378,0.8442
+106,ATOS," Dang, missed the ATOS sale this morning.",JustMy2Centences,13,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3csgkg/,0.268,0.732,0.0,-0.296
+107,ATOS, lmao what a limbo contest on ATOS. panic sells and short shaking hands.,TomTom_ZH,10,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bhnfe/,0.279,0.503,0.218,-0.0258
+108,CTXR, Trying to be patient with CTXR I still have hope for this week 😭,nerdo105,10,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bkwyk/,0.0,0.791,0.209,0.4404
+109,ATOS, Not can ATOS finish at that 1 billion market cap again?,Radthereptile,10,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ckimy/,0.0,1.0,0.0,0.0
+110,ATOS, Buying more ATOS and selling CC.,PutsOnYourWife,9,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3avpc8/,0.0,1.0,0.0,0.0
+111,CC, Buying more ATOS and selling CC.,PutsOnYourWife,9,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3avpc8/,0.0,1.0,0.0,0.0
+112,NEW," https://twitter.com/AspirationsFat/status/1409532815817908224?s=08
+
+NEW PAPA TWEET. Bought more let's go",bubbawears,9,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bvdao/,0.0,1.0,0.0,0.0
+113,ATOS," Alright hands up, how many of you guys panic sold ATOS this morning? I know you're out there",quiettypewriter,10,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ckeie/,0.163,0.739,0.099,-0.3182
+114,ATOS, ATOS dd part 3 is up.,Araphoren,9,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3czvwh/,0.0,1.0,0.0,0.0
+115,PM, SPRT doing things PM,Mark-11-,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b1vxt/,0.0,1.0,0.0,0.0
+116,SPRT, SPRT doing things PM,Mark-11-,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b1vxt/,0.0,1.0,0.0,0.0
+117,SPRT," SPRT really looking strong the past couple days - been consolidating in the $4 region
+
+Looking like it will take off if there’s any news",captain_holt_nypd,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bj7cl/,0.0,0.784,0.216,0.7251
+118,MRIN, So happy I held onto MRIN over the weekend!,goforth1457,9,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bqora/,0.0,0.62,0.38,0.6468
+119,ATOS," MDWD down today. Hopefully that approval guess through tomorrow. 
+
+Loving the ATOS resilience!",JetSpeed79,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cms97/,0.0,0.5,0.5,0.8748
+120,MDWD," MDWD down today. Hopefully that approval guess through tomorrow. 
+
+Loving the ATOS resilience!",JetSpeed79,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cms97/,0.0,0.5,0.5,0.8748
+121,AUUD," $WTT avg volume 130K.  Today’s volume 7.8Million 
+
+Today’s news that I can find. Nothing. 
+
+Who knows something we don’t?
+
+
+
+To anyone who has followed me on here I’ve kinda been the “????” Volume guy.  I’ve found 
+
+AUUD at 2.73.   
+
+MRIN AT 3.45.  Recently 
+
+And prior to that found CTXR at 1.55   Back in Jan Atos at 1.30. 
+
+
+
+I don’t recommend buying if you’re uncomfortable buying something you don’t understand but that kinda volume has me buying in.",LeoFireGod,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cu5yv/,0.036,0.942,0.023,-0.2523
+122,CTXR," $WTT avg volume 130K.  Today’s volume 7.8Million 
+
+Today’s news that I can find. Nothing. 
+
+Who knows something we don’t?
+
+
+
+To anyone who has followed me on here I’ve kinda been the “????” Volume guy.  I’ve found 
+
+AUUD at 2.73.   
+
+MRIN AT 3.45.  Recently 
+
+And prior to that found CTXR at 1.55   Back in Jan Atos at 1.30. 
+
+
+
+I don’t recommend buying if you’re uncomfortable buying something you don’t understand but that kinda volume has me buying in.",LeoFireGod,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cu5yv/,0.036,0.942,0.023,-0.2523
+123,MRIN," $WTT avg volume 130K.  Today’s volume 7.8Million 
+
+Today’s news that I can find. Nothing. 
+
+Who knows something we don’t?
+
+
+
+To anyone who has followed me on here I’ve kinda been the “????” Volume guy.  I’ve found 
+
+AUUD at 2.73.   
+
+MRIN AT 3.45.  Recently 
+
+And prior to that found CTXR at 1.55   Back in Jan Atos at 1.30. 
+
+
+
+I don’t recommend buying if you’re uncomfortable buying something you don’t understand but that kinda volume has me buying in.",LeoFireGod,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cu5yv/,0.036,0.942,0.023,-0.2523
+124,ATOS, The shorted shares on ATOS is 16.52 million as of 6/15. Has that increased?  I think I saw someone say it’s up 8% since last week. That would put it somewhere around 25 million shorted shares.,Moostucky_Stank,5,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ckvr7/,0.0,0.827,0.173,0.6705
+125,MRIN, MRIN was the play today. Fuck me for not buying a few days ago when someone mentioned it.,STAHLBANDE1337,6,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d0ea7/,0.167,0.718,0.115,-0.2732
+126,MRIN, MRIN giving me some serious FOMO but I’m trying to stay disciplined and not jump in head first.  No idea if this thing is a one off or if it’s going to keep trending up. That AH market on it is crazy.,BurntHarshbrown,6,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d2v0n/,0.154,0.809,0.037,-0.6542
+127,ATOS, Just watched $400 profit turn into $9 profit on ATOS lmao,Chuakid,16,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bk5vj/,0.0,0.452,0.548,0.8658
+128,ATOS, ATOS is dropping big in pre market - is that buy signal at open?,DarkGuardianRLSH,15,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bai2y/,0.0,1.0,0.0,0.0
+129,ATOS, ATOS dip? YES PLEASE 🥳,Mitchgeist,16,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bjdfa/,0.0,0.236,0.764,0.7555
+130,ATOS, Lets see ATOS rip today!,kaymo89,24,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3aqso3/,0.0,1.0,0.0,0.0
+131,ATOS, ATOS 2 digits soon. You heard it here first,PutsOnYourWife,24,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b9qso/,0.0,1.0,0.0,0.0
+132,GSAT, GSAT BABY!!!!! GET IN WHILE THE GETTING IS STILL GOOD!!!,famictech2000,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bei8v/,0.0,0.689,0.311,0.6209
+133,SPRT, SPRT getting ready to blast off,Lord-Donkey,5,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3blewh/,0.0,0.667,0.333,0.3612
+134,DD," Nobody mentioning $AVVH anymore. There was a massive sell off after wonderful news. This is the lowest we'll see it again.
+
+DD highlights: 
+
+OS reduction by more than 50% happening next month. Which will double the price. 
+
+Not to mention the biggest housing/building lender in Texas has spawned off a new entity of itself that will be merging into this ticker. 
+
+Do your DD into Gold Quest Group and tell me why you aren't holding long term on this one?",wempenis,5,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c3zh5/,0.032,0.923,0.045,0.2732
+135,ATOS, What are your predictions for ATOS tomorrow? Rather take profits today& wait for the next dip or hold?,Fabulous_Cup4730,5,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d308e/,0.0,0.839,0.161,0.504
+136,MRIN," MRIN still popping off in after hours!  $8.45!!!  Wish I would have bought more....only bought 250 shares at $6.59.  EDIT:  Welp, sold my last MRIN for $8.59.",SPAC-tacular,5,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d3g8f/,0.0,0.798,0.202,0.7243
+137,ATOS," I had sold on Friday ATOS, but got Back at 7$.",addy_newton008,13,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bt5rx/,0.0,1.0,0.0,0.0
+138,GOED," GOED, up pre-market and looking to start its next leg up",ABevyofSwans,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ay6xd/,0.0,1.0,0.0,0.0
+139,GS, Grabbing some $GVSI before GS announces he's applied for OTC IQ application.,notarobot_11,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b26zi/,0.0,1.0,0.0,0.0
+140,GSAT, GSAT is preparing for liftoff. Been accumulating for 3 months now. $2 Option is about to breakout. Don't miss the ride.,YawwRight,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ba0sg/,0.0,0.929,0.071,0.1139
+141,MARA," Wow, Hut8 $HUT just announced 6  ExaHash mining capacity by mid 2022. Was already severely undervalued in comparison with RIOT and MARA, but now also having the same growth outlook makes it the easiest money in the market.
+
+[http://crweworld.com/article/news-provided-by-pr-newswire/2045244/hut-8-mining-provides-corporate-update-following-recent-financing-and-ongoing-new-machine-installation-initiatives#](http://crweworld.com/article/news-provided-by-pr-newswire/2045244/hut-8-mining-provides-corporate-update-following-recent-financing-and-ongoing-new-machine-installation-initiatives#)",papadipoopi1,5,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bft69/,0.099,0.7,0.201,0.7035
+142,RIOT," Wow, Hut8 $HUT just announced 6  ExaHash mining capacity by mid 2022. Was already severely undervalued in comparison with RIOT and MARA, but now also having the same growth outlook makes it the easiest money in the market.
+
+[http://crweworld.com/article/news-provided-by-pr-newswire/2045244/hut-8-mining-provides-corporate-update-following-recent-financing-and-ongoing-new-machine-installation-initiatives#](http://crweworld.com/article/news-provided-by-pr-newswire/2045244/hut-8-mining-provides-corporate-update-following-recent-financing-and-ongoing-new-machine-installation-initiatives#)",papadipoopi1,5,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bft69/,0.099,0.7,0.201,0.7035
+143,ATOS," Anyone is in PROG?
+
+And please ATOS does your thing!",1ngK,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c7yvj/,0.0,0.776,0.224,0.3802
+144,SENS, SENS quietly doing it's thing the last week or so. Looking solid.,co_fragment,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d1zrb/,0.0,0.854,0.146,0.2212
+145,ATOS, Consider shorting ATOS on July 17th. I see it dropping 50% or more from there,Thedhcpddosgod,11,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3anr9e/,0.0,1.0,0.0,0.0
+146,ATOS," Can someone with a non-memes analysis tell me what ATOS can realistically get to short or long term? 
+
+Is something like 15 the goal or is this supposed to actually go into the 100s if the DD is correct? How about long term? If this company actually ends up doing good, would it be like investing in moderna before the pandemic?",N00bnuggets,10,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cnm4q/,0.0,0.865,0.135,0.8343
+147,DD," Can someone with a non-memes analysis tell me what ATOS can realistically get to short or long term? 
+
+Is something like 15 the goal or is this supposed to actually go into the 100s if the DD is correct? How about long term? If this company actually ends up doing good, would it be like investing in moderna before the pandemic?",N00bnuggets,10,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cnm4q/,0.0,0.865,0.135,0.8343
+148,ATOS, PQEFF for me. I might grab some more ATOS if it keeps falling.,surrealfern,7,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3acx3r/,0.127,0.873,0.0,-0.1531
+149,ATOS, Hoping all of you ATOS holders secure some profit just in case.   Then I hope you see the moon with the rest of your shares,LeoFireGod,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bo3zp/,0.0,0.59,0.41,0.9042
+150,CTXR," I made up my mind, holding onto 100% of my CTXR position through until FDA approval,  I was on the fence about whether we will have a sell the news situation with the upcoming catalyst, and I was going to reduce my position by 40%.",ShopBitter,6,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bgyz2/,0.0,0.928,0.072,0.4767
+151,ATOS," Shout out to all the cowards in here jumping ship on ATOS because of a little red, thanks for the cheap shares ya 🤡’s",Ducey89,13,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3boet9/,0.0,0.813,0.187,0.5888
+152,MMAT, I thought TRCH was converting 1:1 to MMAT... Anyone know why it came through Fidelity as a reverse split? Only got half as many shares as expected...,mrsegraves,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b3fpy/,0.0,0.916,0.084,0.296
+153,GOED, GOED all in!!,Matt_Wuhu69,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b9tfz/,0.0,1.0,0.0,0.0
+154,MRIN, MRIN is going through the roof,tylerfc33,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bn3a0/,0.0,1.0,0.0,0.0
+155,DD," I know it’s frustrating sometimes to look for a potential penny and seeing DD after that fact it’s ran 50% or more, but I came across one last week that in my opinion hasn’t ran yet. Probably a longer hold then usual but if you want to have a good percentage return, I’d look into pwwbf or PBX. Basically a carvana type company, where you can buy/lease cars online. Just FYI, not a financial advisor. Position is 8500 shares. Feel like the post didn’t get a lot of eyes on it the first time, so I’d figure I’d share it again.
+
+https://www.reddit.com/r/pennystocks/comments/o581n2/this_is_my_detailed_due_diligence_on_pwwbf_stock/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",always_on_top123,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bw755/,0.018,0.818,0.164,0.9382
+156,MDWD, Just bought MDWD,Infamousdumbass,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cvqt9/,0.0,1.0,0.0,0.0
+157,MRIN, Good lord MRIN climbing in AH.  Wish I held more but hey it is what it is,LeoFireGod,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d84js/,0.0,0.787,0.213,0.4215
+158,ATOS, 8% increase in SI im ATOS,bubbawears,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c5wzt/,0.0,0.685,0.315,0.3182
+159,SI, 8% increase in SI im ATOS,bubbawears,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c5wzt/,0.0,0.685,0.315,0.3182
+160,MMAT," I'm later than usual boys, that's alright though I been working on a safer strategy for people who don't like to buy dips. Today's watch list looks like this:
+
+$ICNM - Chart is ready.
+
+$CYBL - Could move higher according to the chart.
+
+$NGWC - Saw a significant move on Friday, could continue today.
+
+$HPIL - Buzz, buzz.
+
+$FDFT - Merger??
+
+$GGSM - Merger??
+
+$......(nothing else off the top of my head so let's add) MMAT. Even if you aren't in this one, get your popcorn ready, the show starts at 4am.
+
+..::UPDATE::..
+
+$RGBP - Just put out their 8K. Filings for Pink are coming soon!",BagboyBrown,5,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3apeyp/,0.039,0.823,0.137,0.8567
+161,ATOS," I would love to we ATOS remain in the 1B cap category today, but it looks line that may be a long shot.",ImRunningOutOfIdead,7,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bzu4z/,0.0,0.885,0.115,0.3818
+162,MC," Motherfuckers just HAD to force it to close $0.02 below the requirement to be discussed on the Ape forum, huh? Them's the rules. TWO DAYS IN A ROW it has to close above $1 billion MC. Today it closes at $8.25.",Geaux,6,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cyksi/,0.0,1.0,0.0,0.0
+163,TWO," Motherfuckers just HAD to force it to close $0.02 below the requirement to be discussed on the Ape forum, huh? Them's the rules. TWO DAYS IN A ROW it has to close above $1 billion MC. Today it closes at $8.25.",Geaux,6,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cyksi/,0.0,1.0,0.0,0.0
+164,ATOS," [Redacted Gaming Stock] back to fighting the $220 ceiling
+
+[Redeacted Movie Stock] back to fighting the $60 ceiling
+
+ATOS back to fighting the $8 ceiling
+
+-----
+
+Sooner or later, they'll learn that we can hold longer than they can stay liquid...",mythrilcrafter,7,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c8i06/,0.165,0.835,0.0,-0.7579
+165,SA, Avenir telecom SA.... its a penny stock 🤭,DeepStockHunter,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bc4qk/,0.0,1.0,0.0,0.0
+166,KTRA, Hopefully KTRA and LCTX don't fail me after I impulsively bought them at the end of Friday.,MeowStreetBets,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bf1o2/,0.0,0.716,0.284,0.6757
+167,LCTX, Hopefully KTRA and LCTX don't fail me after I impulsively bought them at the end of Friday.,MeowStreetBets,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bf1o2/,0.0,0.716,0.284,0.6757
+168,DD," Seen a couple gsat shoutouts, has there been any DD on it that I'm missing? Can't seem to find any",nathanaelaldred2,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bmx94/,0.109,0.891,0.0,-0.296
+169,MNMD, come on MNMD.,0rang3hat,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bn922/,0.0,1.0,0.0,0.0
+170,GSAT, How GSAT looking?,Psychological-Cold-5,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bq15r/,0.0,1.0,0.0,0.0
+171,TD, Schwab is the best brokerage for otc penny stocks right? TD charges a hefty fee for them.,GoPackGo12287,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bt3wt/,0.103,0.69,0.207,0.4767
+172,GSAT, GSAT just cleared resistance @ 1.93.  Let's see where it goes.,Lord-Donkey,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3btvst/,0.0,0.865,0.135,0.1027
+173,GROM, GROM taking off again today,SquareShells,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3buurg/,0.0,1.0,0.0,0.0
+174,DD, Can anyone recommend a stock sub where I can discuss SNPX? They’re like 40M market cap but not strictly a penny. I think it has huge potential and would like to create a DD post with what I’ve found.,farfromfinland,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c6ubg/,0.0,0.701,0.299,0.8847
+175,TD, whats the best MSO (multi state weed bois stocks) that is avail. on TD Ameritrade?  Anyone know?,WeReallyOutHere420,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cjki8/,0.0,0.778,0.222,0.6767
+176,ATOS, 40 cent red candle at close for ATOS holy shit,poopnip,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cx994/,0.286,0.714,0.0,-0.5574
+177,MRIN, MRIN is unreal....,goforth1457,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d54q4/,0.0,1.0,0.0,0.0
+178,ATOS," Lol my ATOS stop loss at $6.8 just barely got kissed before it climbed back up. I came out with $1k profit, and set my stop loss deep enough that I thought it would only get hit with a free fall. Oops. Oh well, will watch a bit and then buy back, trying to avoid FOMOing back in too hard. Still have 1000 shares so I won’t totally lose out.",Bael18,5,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bvs7a/,0.19,0.623,0.187,0.1938
+179,ATOS, Where are all the liars who said ATOS was going to rocket today due to them being on the Russell Index?,Milo1999,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bpyyb/,0.145,0.855,0.0,-0.5267
+180,MMAT, I'm curious how MMAT will do. I have a feeling people will be quite shocked when there is a huge dip in their $ due to the merge.,samchih,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3a9phi/,0.09,0.697,0.213,0.3626
+181,GTE," I need a new and exciting stock to blow some money on. Short term ""investment"" / swing trade. Was thinking GTE...or HITI. Anyone got any views / ideas?",Milo1999,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bqezk/,0.0,0.878,0.122,0.4939
+182,HITI," I need a new and exciting stock to blow some money on. Short term ""investment"" / swing trade. Was thinking GTE...or HITI. Anyone got any views / ideas?",Milo1999,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bqezk/,0.0,0.878,0.122,0.4939
+183,MMAT, So annoying watching MMAT bleed out in premarket before my shares convert and I can sell is so gosh damn annoying.,Bael18,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b1sly/,0.33,0.589,0.081,-0.776
+184,AM, $PRMO granted custodianship this AM. Still very cheap. Grab a dip tomorrow if you can for bloody Tuesday.,MrCarey,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ci72g/,0.146,0.754,0.101,-0.2263
+185,BB, Choose BB you reddit MFs,Priceless-Mints,-1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d8bzr/,0.0,1.0,0.0,0.0
+186,BEST, Yesterday I posted a Short DD on $BEST and then deleted as it got commented on by people saying china stock etc. BEST is climbing 10% now. 2$ breached. Still good time. I think there was a big unsual Volume last week and this Stock is going through Reversal or Alibaba buyout. BEST is like FEdex of China,addy_newton008,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bi5o4/,0.0,0.766,0.234,0.9457
+187,DD, Yesterday I posted a Short DD on $BEST and then deleted as it got commented on by people saying china stock etc. BEST is climbing 10% now. 2$ breached. Still good time. I think there was a big unsual Volume last week and this Stock is going through Reversal or Alibaba buyout. BEST is like FEdex of China,addy_newton008,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bi5o4/,0.0,0.766,0.234,0.9457
+188,MMAT, Hugh short on MMAT … the big boys have taken over … over 11 million shares today INCREDIBLE….so I’m done ….,whatttttupppp,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bmb40/,0.0,0.891,0.109,0.296
+189,DD, How do you guys do DD on small caps? What websites do you use for info and shit? I have gotten absolutely positively smashed the past few weeks and the smaller caps are really there only place I can afford to make moves and keep day trading ability right now,BarrackOjama,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bsbcs/,0.066,0.819,0.116,0.4124
+190,DD," Why NOK? Couldn't find recent DD on this, but I'm interested to learn more.",Nelewout,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3awmk9/,0.0,0.785,0.215,0.5499
+191,ATOS, So happy to see ATOS as part of the steam summer sales event today. I’ve been waiting to buy more shares.,MadMoneyWallStreet,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bkg3u/,0.0,0.746,0.254,0.7569
+192,ATOS," Monday is the day ATOS is meant to rocket. If not, I may sell off to get into some new stuff. It's been a wild ride.
+
+CYBL has been a good performer over the last week or so. It's rocketing right now.
+
+XERS and SRGA are my open orders, ready to kick in when market opens.",Narwahl_Whisperer,12,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ab3j8/,0.0,0.904,0.096,0.6597
+193,SRGA," Monday is the day ATOS is meant to rocket. If not, I may sell off to get into some new stuff. It's been a wild ride.
+
+CYBL has been a good performer over the last week or so. It's rocketing right now.
+
+XERS and SRGA are my open orders, ready to kick in when market opens.",Narwahl_Whisperer,12,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ab3j8/,0.0,0.904,0.096,0.6597
+194,XERS," Monday is the day ATOS is meant to rocket. If not, I may sell off to get into some new stuff. It's been a wild ride.
+
+CYBL has been a good performer over the last week or so. It's rocketing right now.
+
+XERS and SRGA are my open orders, ready to kick in when market opens.",Narwahl_Whisperer,12,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ab3j8/,0.0,0.904,0.096,0.6597
+195,ATOS, ATOS is my short term,JoeyOceano-69,9,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3admy2/,0.0,1.0,0.0,0.0
+196,FA, I think the real question is... where is the tens of millions of index ETF purchases? That many purchases (they have to happen by close of market today) should have sent the price skyrocketing. Major peice of the FA DD seems to have been very wrong...,MysticDaedra,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cimv6/,0.0,1.0,0.0,0.0
+197,EOD, 8$ EOD,bubbawears,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cak7v/,0.0,1.0,0.0,0.0
+198,DD," Is there a bad time to buy ATOS? :)) just do some DD, older posts provide good insight.",AllSeeingEye7,7,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c9jn4/,0.164,0.701,0.136,-0.1531
+199,ATOS," The original DD for ATOS said that the price target (without consideration of the short interest) is $12-$15.
+
+(Not legally binding financial advice) I'd say that now is still a good time to get in and if you're playing it safe then $9-$11-ish would be a good personal price target. The choice for you to make is that you can either play it conservatively get out directly at your chosen exit price or you can wait and get out on the way down before you get back down you your exit price.",mythrilcrafter,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c9fft/,0.0,0.833,0.167,0.9274
+200,DD," The original DD for ATOS said that the price target (without consideration of the short interest) is $12-$15.
+
+(Not legally binding financial advice) I'd say that now is still a good time to get in and if you're playing it safe then $9-$11-ish would be a good personal price target. The choice for you to make is that you can either play it conservatively get out directly at your chosen exit price or you can wait and get out on the way down before you get back down you your exit price.",mythrilcrafter,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c9fft/,0.0,0.833,0.167,0.9274
+201,ATOS," I'm no genius, but I got in at $3.25 literally the same day as the famous DD that was posted in this sub. I took some out when it hit $6, then took some out when it hit $8, then the rest out when it hit $9.75. I'm happy with my gains.
+
+I've seen way too many posts thinking ATOS is gonna hit $30 or $50. Some of ya'll need a reality check and need to learn to take profits.",capfedhill,10,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bl7hw/,0.018,0.843,0.139,0.9081
+202,DD," I'm no genius, but I got in at $3.25 literally the same day as the famous DD that was posted in this sub. I took some out when it hit $6, then took some out when it hit $8, then the rest out when it hit $9.75. I'm happy with my gains.
+
+I've seen way too many posts thinking ATOS is gonna hit $30 or $50. Some of ya'll need a reality check and need to learn to take profits.",capfedhill,10,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bl7hw/,0.018,0.843,0.139,0.9081
+203,ATOS, Comparing ATOS to TSLA. Great source of DD here,Responsible_Papaya93,12,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bvqmd/,0.0,0.661,0.339,0.6249
+204,DD, Comparing ATOS to TSLA. Great source of DD here,Responsible_Papaya93,12,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bvqmd/,0.0,0.661,0.339,0.6249
+205,TSLA, Comparing ATOS to TSLA. Great source of DD here,Responsible_Papaya93,12,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bvqmd/,0.0,0.661,0.339,0.6249
+206,SPRT, SPRT is the way! Going to be an interstellar week.,TheIceIsNice,6,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bkr3u/,0.0,1.0,0.0,0.0
+207,MRIN, Someone posted about MRIN in one of the daily threads 2-3 days ago (think they mentioned some others too). Hope they got mad money.,STAHLBANDE1337,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bryoa/,0.114,0.783,0.103,-0.0772
+208,AUUD," Yeah, I can't find anything on WTT, other than the article below.  Nice finds on AUUD and the others.  Any others on your radar?",Equal-Trouble-5211,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cyphk/,0.0,0.808,0.192,0.6124
+209,WTT," Yeah, I can't find anything on WTT, other than the article below.  Nice finds on AUUD and the others.  Any others on your radar?",Equal-Trouble-5211,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cyphk/,0.0,0.808,0.192,0.6124
+210,DD, Fats said he plans to do a 3rd DD soon.  So we will have updated numbers then.,Radthereptile,6,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cl3p5/,0.0,1.0,0.0,0.0
+211,TDA, You might have seen me make the 8% comment. That info was based on what TDA had available last week. TDA updated today to ~13% shorted.,Nice_Block,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cmvg4/,0.0,1.0,0.0,0.0
+212,ATOS," IMO it is! Some folks are really concerned about downward trend pre-market.
+
+Reality: There IS a probability it closes red today. BUT, this IS healthy. For those new to ATOS, looks at a more macro view of 3 months. Look at that trend! It's finished green 24 out of the last 30 days!
+
+B R E A T H E",bigtoastieee,19,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bbtvw/,0.0,0.917,0.083,0.6626
+213,IMO," IMO it is! Some folks are really concerned about downward trend pre-market.
+
+Reality: There IS a probability it closes red today. BUT, this IS healthy. For those new to ATOS, looks at a more macro view of 3 months. Look at that trend! It's finished green 24 out of the last 30 days!
+
+B R E A T H E",bigtoastieee,19,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bbtvw/,0.0,0.917,0.083,0.6626
+214,ATOS, I see ATOS I upvote.,SeanPizzles,16,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3chcg1/,0.0,1.0,0.0,0.0
+215,DD, It is still early please read older comments and DD,AllSeeingEye7,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b70rj/,0.0,0.796,0.204,0.3182
+216,IMO," I'm long on it so this stuff doesn't really effect me, but if you're short make sure you take your profits along the way.
+
+IMO it'll come right back down after all this hype until the FDA approval later this year",Whiskey--Dick,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3awq3u/,0.0,0.776,0.224,0.899
+217,DD," He said after his first DD ""at least double digits, triple digits unrealistic. Short term.""
+
+Some very good analysts I follow think Atos in long term could have somewhere between 5-10 billion market cap. Which would make the price go like 500-1000% from exactly the current price.",penmanship_throwaway,9,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cohak/,0.0,0.885,0.115,0.6901
+218,DD," I think the original DD was relatively non-memey, spoke to risks, downsides, etc. (Search u/fataspirations for DD part 1 and 2) 
+
+In terms of further research it's unpredictable short term but I think there's a growing short-term bull case (I'm hoping for $11 as a new floor come OPEX week) but w/ the way we've recovered today + increased short interest I think things could be bubbling for much larger short term pop than expected... and if that DOESN'T happen, then I'm happy to have bought my tickets now for a possible acquisition as endoxifen comes to market and becomes a mass market treatment for breast cancer. A $2B valuation would be $16 a share... Am I okay with that as a mid-to-long term hold? 100%. 
+
+Personally, I'm not selling until at least $11/share at OPEX week (or if it goes crazy to 15+ before that). At (around) that point I'll start unloading small portions of my position, maybe 2.5-5% at a time (e.g. if OPEX, 2.5 at 11 or so, 2.5 at 12, 5 at 13, etc.) depending on momentum and what I deem to be appropriate DD at that time. YMMV :)",aimaguru,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cpxzg/,0.053,0.822,0.125,0.9287
+219,ATOS," Just copy pasting from older posts, holding all my shares since 0.91$:
+
+“With a conservative PT of 30-40$ market cap of 5B you think that you are late?
+
+FYI
+
+For those thinking that 30-40$ price range (short term) is not possible I would like to remind them that Gilead offered 20B for a buyout recently for Trodelvy and I can consider this as a peak. 5B market cap or even 10B buyout offer is totally reasonable as if I remember Trodelvy covers about 10% of breast cancer types where ATOS drug covers about 62% if I am not mistaken. I changed my sell order from 40$ to 80$ because FOMO should be considered.“",AllSeeingEye7,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cqjq3/,0.057,0.882,0.06,-0.1697
+220,PT," Just copy pasting from older posts, holding all my shares since 0.91$:
+
+“With a conservative PT of 30-40$ market cap of 5B you think that you are late?
+
+FYI
+
+For those thinking that 30-40$ price range (short term) is not possible I would like to remind them that Gilead offered 20B for a buyout recently for Trodelvy and I can consider this as a peak. 5B market cap or even 10B buyout offer is totally reasonable as if I remember Trodelvy covers about 10% of breast cancer types where ATOS drug covers about 62% if I am not mistaken. I changed my sell order from 40$ to 80$ because FOMO should be considered.“",AllSeeingEye7,8,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cqjq3/,0.057,0.882,0.06,-0.1697
+221,ATOS," That's the kind of thinking that screws you over. You don't lose anything until you sell. ATOS hasn't tanked, the DD hasn't changed, the interest hasn't been lost. Be patient",nathanaelaldred2,23,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bhe6z/,0.129,0.749,0.122,-0.067
+222,DD," That's the kind of thinking that screws you over. You don't lose anything until you sell. ATOS hasn't tanked, the DD hasn't changed, the interest hasn't been lost. Be patient",nathanaelaldred2,23,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bhe6z/,0.129,0.749,0.122,-0.067
+223,CTXR, My peice of CTXR is locked up in an account transfer right now so I'm happy to wait,SirTiffAlot,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bk4ts/,0.0,0.81,0.19,0.6096
+224,MRIN, where did MRIN come from?? totally missed it…,Vyutheview,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d8axe/,0.29,0.71,0.0,-0.4316
+225,TDA,"  I have accounts with both brokers. Schwab has no fees for OTC. TDA charges $7.95 per trade, but their Thinkorswim app blows away Schwab's StreetSmart app.",Xerlic,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3btx9o/,0.12,0.88,0.0,-0.2846
+226,ATOS," We call those people pumpers. They pull info out of their ass and say things like mega gamma squeeze imminent. There’s a comment on here that called out the predicted share prices $30-50 as unrealistic because there’s no basis for it. Even the holy DD post that inspired ATOS buys never referenced share value. 
+
+You know the reply to their comment? A mega squeeze. What? That isn’t enough info where some people assume it’s going to happen.",waitmyhonor,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bsv3m/,0.09,0.789,0.121,0.4067
+227,DD," We call those people pumpers. They pull info out of their ass and say things like mega gamma squeeze imminent. There’s a comment on here that called out the predicted share prices $30-50 as unrealistic because there’s no basis for it. Even the holy DD post that inspired ATOS buys never referenced share value. 
+
+You know the reply to their comment? A mega squeeze. What? That isn’t enough info where some people assume it’s going to happen.",waitmyhonor,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bsv3m/,0.09,0.789,0.121,0.4067
+228,HITI," I swing HITI. Now not's a very good time to go in though I think. It swings from about low 7s to 8s, sometime over 9. Now it's over 8 for the past week or so, which is the close to the top of its usual pattern, or at least not far enough for me to consider going in. I'm waiting for it to go 7+ again before reentering.",-Wei-,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bsg6h/,0.03,0.897,0.072,0.4391
+229,RIG, What’s the case with RIG looks down today,tfdhhiohfdyikcxckk,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cnc5l/,0.242,0.758,0.0,-0.3034
+230,MMAT," No, the merger is taking place. TRCH will be MMAT, but it can take a few days to show up in your account.",Alluring_Melody,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ank1p/,0.071,0.929,0.0,-0.1531
+231,MMAT, MMAT is on the way back up,DRWildside1,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3boida/,0.0,1.0,0.0,0.0
+232,ATOS," I'm not sure of the DD on NOK, but like ATOS, CTXR, and BB, they all are stocked pumped and squeezed (was CTXR in a squeeze?) but have good long term products.  NOK is huge in the mobile device market, and is in pretty big on 5G as well.",Vlad_Deferens,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b7mbi/,0.024,0.694,0.281,0.9479
+233,BB," I'm not sure of the DD on NOK, but like ATOS, CTXR, and BB, they all are stocked pumped and squeezed (was CTXR in a squeeze?) but have good long term products.  NOK is huge in the mobile device market, and is in pretty big on 5G as well.",Vlad_Deferens,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b7mbi/,0.024,0.694,0.281,0.9479
+234,CTXR," I'm not sure of the DD on NOK, but like ATOS, CTXR, and BB, they all are stocked pumped and squeezed (was CTXR in a squeeze?) but have good long term products.  NOK is huge in the mobile device market, and is in pretty big on 5G as well.",Vlad_Deferens,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b7mbi/,0.024,0.694,0.281,0.9479
+235,DD," I'm not sure of the DD on NOK, but like ATOS, CTXR, and BB, they all are stocked pumped and squeezed (was CTXR in a squeeze?) but have good long term products.  NOK is huge in the mobile device market, and is in pretty big on 5G as well.",Vlad_Deferens,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b7mbi/,0.024,0.694,0.281,0.9479
+236,NOK," I'm not sure of the DD on NOK, but like ATOS, CTXR, and BB, they all are stocked pumped and squeezed (was CTXR in a squeeze?) but have good long term products.  NOK is huge in the mobile device market, and is in pretty big on 5G as well.",Vlad_Deferens,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b7mbi/,0.024,0.694,0.281,0.9479
+237,NOK, NOK was just upgraded from neutral to BUY for Goldman...they announce revenue and earnings next month which they WILL BEAT expectations AGAIN and they will benefit from the 65 BILLION in Broadband 5G money in the Infrastructure Bill,JoeyOceano-69,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bimlb/,0.0,0.925,0.075,0.4588
+238,XERS," XERS was nice to me last week, hoping it still climbs. Good luck to us.",furretarmy,6,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3aebsh/,0.0,0.489,0.511,0.8885
+239,ATOS," Absolutely. I understand that this isn’t the play for everyone. Some folks want to play this short and I will witness the swings as a result. However, the fundamentals of this company are strong. It’s something I believe can really go the distance. In my opinion, ATOS has only scratched the surface.",bigtoastieee,11,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3ahk2v/,0.0,0.824,0.176,0.8126
+240,DD," It was bought…the problem is like $100M volume happened at once.  So you had the millions of buys and corresponding millions of sells on the news.
+
+Unfortunately for those holding, the sells were higher volume.
+
+Positive for those holding; now a large percent of the stocks float is owned by funds that can’t sell.  
+
+This means smaller effective float, so if that same money that bought-sold last week buys back in for the next run, it will spike much harder.
+
+The DD wasn’t wrong on the buying, it just didn’t anticipate mass sell off by institution and retail at same time…and no DD can predict what people are going to do when news/catalyst hits.  No one really knows.",WeReallyOutHere420,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3cl4jx/,0.096,0.833,0.07,-0.34
+241,ATOS, I’m new here from crypto and been watching thousands drain on the daily had done a number on me. These small dip numbers are breakfast cereal lol holding for ATOS  climb 🧗‍♀️,Whereas_Dull,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c2osd/,0.0,0.876,0.124,0.4767
+242,SI," Ortex. 
+
+120mil (minus) new institutions per r2k = presumably 90m. 
+
+29% SI.",Araphoren,12,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c2pp5/,0.0,1.0,0.0,0.0
+243,MRIN," Lol, I only got into MRIN after seeing it trend on Yahoo Finance. For some reason, I felt like the PR that made it spike initially would be significant. It had been stagnant at like $1.60 for so long; I can't see how with the kind of PR it had it would return to $1.60 levels.",goforth1457,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3btubq/,0.0,0.836,0.164,0.8225
+244,ATH, It seems like now is the perfect time to get in since Bitcoin has been dropping hard since May. Almost every altcoin is down 50% from its ATH. With a few good moves I should be able to recover my losses once Bitcoin starts to recover. (hopefully) lol,kakkesugi,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bn46m/,0.073,0.714,0.212,0.8316
+245,ATOS," I think you’re new to ATOS. It dropped as much or more on June 8-10 and fell as low as $4.07 before climbing to $9.38 on June 25th.
+
+Everyone whose made a few of these plays will hold and laugh to the bank. I’ve got no problem with people who don’t have the risk tolerance to hang with these moves. It is what it is. But they’re going to look silly in a few weeks.",milkplantation,9,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bryt1/,0.085,0.83,0.085,0.0
+246,ATOS," all that matters are facts.
+
+True P&D schemes are full of fake events/catalysts that don't come true.
+
+For ATOS, a catalyst for forced buying was named to be russel inclusion, as a precursor to July OPEX (options expirations) which will be more forced buying.
+
+This did occur; this wasn't a fake or overhyped event.  A large amount of shares were purchased.  The difference is, many swing traders and institutions sold that news.  We had a net-sell event of alot of hype buildup to the inclusion.
+
+However, now that part of the float is owned by index funds and won't be sold.  This increases the price pressure of every new buy in the future.  So catalyst 1 of this play/thesis is complete.
+
+On the aggregate, the stock is still up which is great.  It has not tanked through the center of the earth.
+
+A true P&D you see an absolute, lights out, goodnight, type of crash and no future catalysts/chance of redemption.  
+
+$30-50 has been referenced by a few calculations as making sense as a ""buyout"" price which in a stock like this is a possibility as the drug can compete with tamoxifen, which was bought-out.  A buyout can occur prior to phase 3 completion, if the drug appears viable.  This is more of a long-term thesis.
+
+Personally, I feel that as we approach options expiration week July 16th with SO MANY options expiring, there will be another run up by speculative institutions and retail and day traders closer to the day of catalyst.
+
+Even better?  Now we have a smaller float due to index inclusion and forced buying.  
+
+So heading into Opex if the same money that left decides to come back and play again, we will see a harder spike than before, because of smaller float.  
+
+Also, people don't give hard price targets because it's not being valued on traditional ""value"" metrics.  This is a speculative play based on multiple catalysts, the biggest being the July 16th OPEX.  
+
+I think speculative play with catalysts is much different than P&D, which we have seen go up and crater in 1-2 days and then never be seen again and often on fake information.  
+
+These catalysts are hard and true, but no one can know what individual retailers and institutions will do for certain.  
+
+Not financial advice.  I just like ATOS and this play.",WeReallyOutHere420,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bzic2/,0.067,0.856,0.077,0.2721
+247,SO," all that matters are facts.
+
+True P&D schemes are full of fake events/catalysts that don't come true.
+
+For ATOS, a catalyst for forced buying was named to be russel inclusion, as a precursor to July OPEX (options expirations) which will be more forced buying.
+
+This did occur; this wasn't a fake or overhyped event.  A large amount of shares were purchased.  The difference is, many swing traders and institutions sold that news.  We had a net-sell event of alot of hype buildup to the inclusion.
+
+However, now that part of the float is owned by index funds and won't be sold.  This increases the price pressure of every new buy in the future.  So catalyst 1 of this play/thesis is complete.
+
+On the aggregate, the stock is still up which is great.  It has not tanked through the center of the earth.
+
+A true P&D you see an absolute, lights out, goodnight, type of crash and no future catalysts/chance of redemption.  
+
+$30-50 has been referenced by a few calculations as making sense as a ""buyout"" price which in a stock like this is a possibility as the drug can compete with tamoxifen, which was bought-out.  A buyout can occur prior to phase 3 completion, if the drug appears viable.  This is more of a long-term thesis.
+
+Personally, I feel that as we approach options expiration week July 16th with SO MANY options expiring, there will be another run up by speculative institutions and retail and day traders closer to the day of catalyst.
+
+Even better?  Now we have a smaller float due to index inclusion and forced buying.  
+
+So heading into Opex if the same money that left decides to come back and play again, we will see a harder spike than before, because of smaller float.  
+
+Also, people don't give hard price targets because it's not being valued on traditional ""value"" metrics.  This is a speculative play based on multiple catalysts, the biggest being the July 16th OPEX.  
+
+I think speculative play with catalysts is much different than P&D, which we have seen go up and crater in 1-2 days and then never be seen again and often on fake information.  
+
+These catalysts are hard and true, but no one can know what individual retailers and institutions will do for certain.  
+
+Not financial advice.  I just like ATOS and this play.",WeReallyOutHere420,4,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bzic2/,0.067,0.856,0.077,0.2721
+248,CRL," it is getting shorted a lot in PM, might recover to previous PM high in regular trading hours, given it's volume is getting bigger everyday and i think it will get approved since this volume increasing past two days.. I would say it is a buy but try to trim some in the end of the day, since it can always get CRL from fda.",Time_Faithlessness19,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b5uay/,0.0,0.969,0.031,0.2263
+249,PM," it is getting shorted a lot in PM, might recover to previous PM high in regular trading hours, given it's volume is getting bigger everyday and i think it will get approved since this volume increasing past two days.. I would say it is a buy but try to trim some in the end of the day, since it can always get CRL from fda.",Time_Faithlessness19,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3b5uay/,0.0,0.969,0.031,0.2263
+250,CTXR," CTXR wasn't squeezed. That recent run up was probably due to buying for the Russell 2000 inclusion. Short interest is still very high for CTXR. I'm hoping for a good pop on the DMC review news, but would also welcome a squeeze.",genericasallfuck,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bf9w5/,0.0,0.785,0.215,0.8338
+251,DD, Upgrade your DD on NOK they haven't been in mobile phones since they sold that part to Google .....they are #2 in 5G infrastructure...#1 is Huawei but they can't get any Infrastructure money so NOK wins,JoeyOceano-69,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bjvt7/,0.0,0.865,0.135,0.7556
+252,NOK, Upgrade your DD on NOK they haven't been in mobile phones since they sold that part to Google .....they are #2 in 5G infrastructure...#1 is Huawei but they can't get any Infrastructure money so NOK wins,JoeyOceano-69,1,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bjvt7/,0.0,0.865,0.135,0.7556
+253,ATOS," think about it like this; the stock price was artificially pumped last week a bit by day traders + institutions playing the short game on the russel index inclusion.  
+
+now, the shares purchased by the russel index funds are removed from the float.  ATOS is still above $7 and it has been MUCH lower the past couple weeks.
+
+So in the next few weeks, speculators and swing traders and eventually day traders will hop back in.
+
+If we theoretically get the same money back in, the price will theoretically spike higher than before (so into $10+ for example) before even considering the smaller float that now exists. (smaller float means harder spike in prices on buying).
+
+So you take that setup, and you combine the OPEX catalyst, AND you combine any extra hype generated in the next couple of weeks to bring in more retail/institutions to buy...
+
+decide for yourself what will happen then.  There will probably be some ""sell the news"" type stuff on the 16th and then the play long term becomes waiting for aquisiton news for a $40 price or so.
+
+also, it isn't a big deal that short term investors took profits, that's likely pros and paper hands, and they come just as fast as they go.  Im impressed ATOS is holding this price level as well as it is.  
+
+Not financial advice just my opinion, i got july 16th $9 calls and i'm amazed people in here haven't read the DD.",WeReallyOutHere420,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3brlr1/,0.009,0.912,0.079,0.9432
+254,DD," think about it like this; the stock price was artificially pumped last week a bit by day traders + institutions playing the short game on the russel index inclusion.  
+
+now, the shares purchased by the russel index funds are removed from the float.  ATOS is still above $7 and it has been MUCH lower the past couple weeks.
+
+So in the next few weeks, speculators and swing traders and eventually day traders will hop back in.
+
+If we theoretically get the same money back in, the price will theoretically spike higher than before (so into $10+ for example) before even considering the smaller float that now exists. (smaller float means harder spike in prices on buying).
+
+So you take that setup, and you combine the OPEX catalyst, AND you combine any extra hype generated in the next couple of weeks to bring in more retail/institutions to buy...
+
+decide for yourself what will happen then.  There will probably be some ""sell the news"" type stuff on the 16th and then the play long term becomes waiting for aquisiton news for a $40 price or so.
+
+also, it isn't a big deal that short term investors took profits, that's likely pros and paper hands, and they come just as fast as they go.  Im impressed ATOS is holding this price level as well as it is.  
+
+Not financial advice just my opinion, i got july 16th $9 calls and i'm amazed people in here haven't read the DD.",WeReallyOutHere420,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3brlr1/,0.009,0.912,0.079,0.9432
+255,DD," I don’t understand how people can see what happened over in that other sub, read a good DD, understand the market and market history, and still not understand daily volatility.
+
+It’s like despite EVERYTHING explaining the human psychology of it, as soon as a stock is bearish people think it will be such forever. As soon as it’s bullish, people believe the same.
+
+Don’t understand how these people don’t just step back and invest with a robo-advisor. If you’re a paper hands type: Don’t overextend. Don’t go on Reddit. Don’t invest in pennies. Go drop money in a blue chip and accrue wealth slowly and with less volatility.",milkplantation,6,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3btfh4/,0.019,0.902,0.079,0.7579
+256,DD, did you find out about it here? I havent seen any DD,Vyutheview,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3d99mq/,0.0,1.0,0.0,0.0
+257,ATOS," I agree that it is based on your risk tolerance approach and really respect that but we need to have in our minds that they are counting on that hence the deep dives, like last time there is a high risk of “kicking you out”. ATOS has a low float so they really use that technique very effectively!",AllSeeingEye7,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3c562z/,0.102,0.699,0.199,0.7599
+258,DD," Thanks for the detailed breakdown, I put money in last week when the DD post blew up and I think it was trading in the high 5s. Then I actually looked into what they’re making and the successes to date with clinical trials and it’s hard not to like the stock.",Ducey89,5,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bs3f4/,0.065,0.815,0.12,0.6111
+259,ATOS," I get it happens.  It's still more than just a tiny drop.  It's a big drop, but one that happens.  A better statement would have been ""People are selling off ATOS when it's down even though it's done this before and rallied back easily.""",Radthereptile,2,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bu186/,0.071,0.842,0.088,0.4118
+260,DD," Yeah that’s fair. I guess I just feel like what did these people expect? If you’re rattled by this drop, you invested money in something without even looking at the yearly charts or reading the DD. Seems silly, no?  Play shit games, get shit prizes.
+
+These people pull their cash on a drop then come in here saying what could have been when it rallies 40% in three weeks. It’s lunacy.",milkplantation,3,/r/pennystocks/comments/o9byy5/the_loungedaily_plays_june_28_2021/h3bukg4/,0.171,0.671,0.159,-0.4606
+261,RH," It's on fidelity and ameritrade. If you're using RH, no luck. This is an OTC stock",repuswow,7,/r/pennystocks/comments/o9jj2f/dscr_is_736_short_has_a_green_day_friday_and_is/h3bv6aw/,0.115,0.729,0.156,0.2023
+262,TD," I was going to tell you I can see it on TD WebBroker, but it's telling me ""there may be a cease trade restriction on this security in your jurisdiction"" and not allowing me to purchase.",DrunkOnLoveAndWhisky,2,/r/pennystocks/comments/o9jj2f/dscr_is_736_short_has_a_green_day_friday_and_is/h3ck25k/,0.072,0.844,0.084,0.1154
+263,DD," For shits and giggles I bought 1000 shares and immediately made a nickel. I’ll do some of my own DD and consider it. 
+
+Thanks for the post and response.",mapple0002,9,/r/pennystocks/comments/o9jj2f/dscr_is_736_short_has_a_green_day_friday_and_is/h3boueh/,0.094,0.697,0.209,0.4215
+264,DD," This is a pleasant surprise, but per all my other DD posts, I believe in this company. I just don't see a company sitting on a gold mine trading sub penny.",repuswow,3,/r/pennystocks/comments/o9jj2f/dscr_is_736_short_has_a_green_day_friday_and_is/h3cqli2/,0.0,0.866,0.134,0.4019
+265,SPCE," Already saw that. Thank you. Looks like you might have found us an easy double bagger or more. 
+
+All my money is in SPCE though.... tough call.",mapple0002,5,/r/pennystocks/comments/o9jj2f/dscr_is_736_short_has_a_green_day_friday_and_is/h3btafi/,0.046,0.71,0.244,0.7506
+266,SPCE," So I sold some SPCE and picked up 230,000 shares. Wish I did that 3 hours ago....",mapple0002,3,/r/pennystocks/comments/o9jj2f/dscr_is_736_short_has_a_green_day_friday_and_is/h3cjd4g/,0.0,0.71,0.29,0.5994
+267,BBQ," Thanks for the DD.  Couple of questions...
+
+1.  What is the relationship of the owner (Z.A.) and his zenasian BBQ restaurant in Naples?  Is the restaurant and this marijuana play both subsidiaries of the ticker?
+2. Any updates on going current?  His last tweet you had on your DD was on 6/22.  He only has 3 more days to go current (per his timetable on this tweet).  Of course, the real deadline is 9/2021. 
+
+I would caution anyone who is thinking of investing NOT to do it until he has confirmed submitting to go current.  The company has to 9/2021, but figure there will be a drop if not current by then as most folks don't know the difference.",10xwannabe,0,/r/pennystocks/comments/o961g0/zaag_112m_float_no_debt_32m_in_pre_orders_a_6m/h39pk72/,0.022,0.943,0.035,-0.1381
+268,DD," Thanks for the DD.  Couple of questions...
+
+1.  What is the relationship of the owner (Z.A.) and his zenasian BBQ restaurant in Naples?  Is the restaurant and this marijuana play both subsidiaries of the ticker?
+2. Any updates on going current?  His last tweet you had on your DD was on 6/22.  He only has 3 more days to go current (per his timetable on this tweet).  Of course, the real deadline is 9/2021. 
+
+I would caution anyone who is thinking of investing NOT to do it until he has confirmed submitting to go current.  The company has to 9/2021, but figure there will be a drop if not current by then as most folks don't know the difference.",10xwannabe,0,/r/pennystocks/comments/o961g0/zaag_112m_float_no_debt_32m_in_pre_orders_a_6m/h39pk72/,0.022,0.943,0.035,-0.1381
+269,DD," I don't know about ZAAG specifically, but getting stop sign tickers can lead to some of the biggest % gains. It's worth doing more DD than just seeing dark/defunct and moving on, if you're willing to take a risk of course.",imadogg,1,/r/pennystocks/comments/o961g0/zaag_112m_float_no_debt_32m_in_pre_orders_a_6m/h3avfxb/,0.121,0.757,0.121,-0.0
+270,ATOS," From a brief look, MDWD looks like a good company, but the single day 20% increase on Friday and nearly double in value in the past month has me a little gun shy, especially with major news coming out tomorrow. This reminds me of ATOS a few week ago with a run up and then drop after the good news. ""Buy the rumor, sell the news"".  If MDWD does drop after the good news tomorrow, I'll jump in.",flycrg,6,/r/pennystocks/comments/o9h2pl/mdwd_and_its_fda_approval_set_for_june_29th/h3bfzc3/,0.111,0.696,0.193,0.813
+271,MDWD," From a brief look, MDWD looks like a good company, but the single day 20% increase on Friday and nearly double in value in the past month has me a little gun shy, especially with major news coming out tomorrow. This reminds me of ATOS a few week ago with a run up and then drop after the good news. ""Buy the rumor, sell the news"".  If MDWD does drop after the good news tomorrow, I'll jump in.",flycrg,6,/r/pennystocks/comments/o9h2pl/mdwd_and_its_fda_approval_set_for_june_29th/h3bfzc3/,0.111,0.696,0.193,0.813
+272,RIG, Been HODLing since Dec 2020. My belief is RIG is a GREAT LTH and will exceed it's 52 week high by EOY.,jimbobcooter101,4,/r/pennystocks/comments/o9ift6/transocean_rig/h3bbti2/,0.086,0.729,0.185,0.5574
+273,TSLA," This is one of the few times I'm holding a majority of my shares despite a 200% single day gain.  
+
+The Tesla news is legit, it's on the TSLA news feed.  
+
+It's down a bit eod, I'd get it now if you're looking to.  
+
+I definitely see it running over a penny if not two or three by eow.",amphetaminesfailure,2,/r/pennystocks/comments/o9lyhw/pbya_north_american_crane_bureau_expands_its/h3cuvq8/,0.0,0.86,0.14,0.8074
+274,CRH, Look at CRH but not a Penny stock,Bettin_the_farm,0,/r/pennystocks/comments/o9klil/infrastructure_bill_and_bkep_an_asphalt_road/h3cq2gs/,0.0,1.0,0.0,0.0
+275,WKHS, Can someone please tell WKHS to chill hes hogging all the attention,Exciting_Impression2,1,/r/pennystocks/comments/o9jqtp/momentum_watchlist_for_monday_062821/h3blrsh/,0.0,0.827,0.173,0.3182
+276,ITRM, ITRM up +14% today.,im-buster,1,/r/pennystocks/comments/o9jqtp/momentum_watchlist_for_monday_062821/h3c81j8/,0.0,1.0,0.0,0.0
+277,DD," Ah gotcha, hadn't heard that term before but it makes sense. No, I'm heavily invested in hopes that it goes up. If there is no news and it goes down Thursday, I plan to buy more. It still has phenomenal long-term value. I'm very optimistic about good news coming this week, but figured I would share more neutrally on the DD to let others come to their own conclusion.",eingram,1,/r/pennystocks/comments/o9mhd2/aqms_dd_expect_volatility_this_week/h3by22x/,0.068,0.724,0.208,0.9124
