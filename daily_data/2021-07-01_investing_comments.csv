@@ -1,0 +1,874 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,TSLA," People want $1K not $20.  That being said, a friend accumulated 100s of TSLA.  He makes $300-500 a week but forget sometimes. This is from his Roth IRA and getting called is not a big deal.
+
+I do not own that many TSLA. For me to write 25 different calls a week is time consuming.  My SPY call almost got exercised resulting in a potential 13K capital tax gain tax for a short expiry cc. In this case it is risky.",Vast_Cricket,6,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n0fi4/,0.056,0.848,0.096,0.5106
+1,ASTS, ASTS jumped 40% today. I had covered calls. I did not make 40%.,RangersNation,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n5woa/,0.0,1.0,0.0,0.0
+2,AMD," Its great until you sell a CC on one of the stocks you’ve been holding forever, that hasn’t been doing shit, and it moons overnight and you miss all the gains, getting your shares called away. Sucks to hold something for months and months then sell a cc and watch it get called away the one time it actually does something. Some stocks are like that, trade flat for 6 months or more then go on a massive tear upwards all at once before trading sideways some more. Just look at Amazon, AMD, and countless others…
+
+You miss out on far bigger dollar amounts than you gain in the long run usually. The few dollar premium just doesn’t seem worth it most of the time. The times I do sell covered calls in my stuff it’s after a massive run when IV is jacked to the tits and it’s usually as safe as I can make it by being way OTM.
+
+There’s other reasons too. Say I’m in a trade and my price target for the stock is 100$ a share. I sell a cc for $125 because I’m not thinking it’ll get that high. Problem is, when it hits my target, if I want to sell I’m forced to buy back my covered call first costing me money. That or hold until expiration and hope my shares are still worth what they are now. Idk. A lot more to cc than people think.",WSDreamer,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3otxaf/,0.07,0.808,0.122,0.9062
+3,CC," Its great until you sell a CC on one of the stocks you’ve been holding forever, that hasn’t been doing shit, and it moons overnight and you miss all the gains, getting your shares called away. Sucks to hold something for months and months then sell a cc and watch it get called away the one time it actually does something. Some stocks are like that, trade flat for 6 months or more then go on a massive tear upwards all at once before trading sideways some more. Just look at Amazon, AMD, and countless others…
+
+You miss out on far bigger dollar amounts than you gain in the long run usually. The few dollar premium just doesn’t seem worth it most of the time. The times I do sell covered calls in my stuff it’s after a massive run when IV is jacked to the tits and it’s usually as safe as I can make it by being way OTM.
+
+There’s other reasons too. Say I’m in a trade and my price target for the stock is 100$ a share. I sell a cc for $125 because I’m not thinking it’ll get that high. Problem is, when it hits my target, if I want to sell I’m forced to buy back my covered call first costing me money. That or hold until expiration and hope my shares are still worth what they are now. Idk. A lot more to cc than people think.",WSDreamer,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3otxaf/,0.07,0.808,0.122,0.9062
+4,AMC," I was doing $11-12 CCs on AMC...didn't feel good when it shot up.
+
+Did the same thing with SPCE and CLOV that both doubled.
+
+Basically...don't do CCs on volatile stocks.",Jangande,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3mxi10/,0.079,0.921,0.0,-0.3412
+5,CLOV," I was doing $11-12 CCs on AMC...didn't feel good when it shot up.
+
+Did the same thing with SPCE and CLOV that both doubled.
+
+Basically...don't do CCs on volatile stocks.",Jangande,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3mxi10/,0.079,0.921,0.0,-0.3412
+6,SPCE," I was doing $11-12 CCs on AMC...didn't feel good when it shot up.
+
+Did the same thing with SPCE and CLOV that both doubled.
+
+Basically...don't do CCs on volatile stocks.",Jangande,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3mxi10/,0.079,0.921,0.0,-0.3412
+7,BB," Lol this place is just the extension of wsb with friendlier language. Y’all all buy the same stocks. BB, CRSR?",fe2sio4,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3oe7t4/,0.0,0.756,0.244,0.7003
+8,CHPT," Last month, when CHPT was around $23, I sold covered calls strike $28 Jun18 on my shares for $0.41 / contract.
+
+Price on June 18? $33",JonA3531,0,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3mtnph/,0.058,0.856,0.086,0.1779
+9,AAPL," Most don’t understand options enough to do it themselves or most are just lazy. It still require active management even though it’s a minimal one. Plus, the gain incurred from selling cc incurred capital tax which may not make them worthwhile. Some just realized that they are technically married to the stock so selling cc is just capping gain.
+
+I use CCs on only one scenario - stocks which I buy for short term (you can call it swing) and does not intend to hold long term. CCs force me to sell these if it does become ITM. If I doesnt, it at least lower my cost basis. 
+
+I have a lot of long term stock which I am married to - ah hem AAPL which I acquired since 10 years ago. I would never want to put someone in a situation where I could potentially lose them.",Chronosoptions,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3mzclo/,0.074,0.861,0.064,0.1477
+10,BNTX," You aren’t missing much… the catch is you limit your upside sometimes.  I typically sell covered calls no longer than a month out and I look 10% above the current price as the strike.  For my portfolio I regularly generate 1-4% a month in income depending on volatility.  I use about 60% of my portfolio in larger companies like Apple, Microsoft, some blue chips (lower yields) and then I use high volatility mid snd small caps to round it out.  The mid/small caps like UPST, Nio, Palantir, BNTX, Moderna, teledoc, and peloton can regularly yield 1% a week",BoochieShibbs,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n4hp2/,0.062,0.886,0.052,0.0258
+11,UPST," You aren’t missing much… the catch is you limit your upside sometimes.  I typically sell covered calls no longer than a month out and I look 10% above the current price as the strike.  For my portfolio I regularly generate 1-4% a month in income depending on volatility.  I use about 60% of my portfolio in larger companies like Apple, Microsoft, some blue chips (lower yields) and then I use high volatility mid snd small caps to round it out.  The mid/small caps like UPST, Nio, Palantir, BNTX, Moderna, teledoc, and peloton can regularly yield 1% a week",BoochieShibbs,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n4hp2/,0.062,0.886,0.052,0.0258
+12,CC," Don’t do covered calls on growth stocks. CC on stable stocks is better.
+
+I sold NIO $48 covered calls, they are now OTM. I rolled up and out once already. Now, I’m just done. 
+
+Same with DOCU",istockustock,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n5htx/,0.0,0.806,0.194,0.7717
+13,DOCU," Don’t do covered calls on growth stocks. CC on stable stocks is better.
+
+I sold NIO $48 covered calls, they are now OTM. I rolled up and out once already. Now, I’m just done. 
+
+Same with DOCU",istockustock,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n5htx/,0.0,0.806,0.194,0.7717
+14,NIO," Don’t do covered calls on growth stocks. CC on stable stocks is better.
+
+I sold NIO $48 covered calls, they are now OTM. I rolled up and out once already. Now, I’m just done. 
+
+Same with DOCU",istockustock,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n5htx/,0.0,0.806,0.194,0.7717
+15,AAPL, You need a lot of capital since you need 100 shares of a stock to sell CC’s. I sold a CC on AAPL and NET and it backfired since tech shot up in the last few weeks. I ended up buying back my CCs for hundreds of dollars. Worked out though since NET went up like crazy,Chamangotango,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n689i/,0.043,0.873,0.084,0.3182
+16,CC, You need a lot of capital since you need 100 shares of a stock to sell CC’s. I sold a CC on AAPL and NET and it backfired since tech shot up in the last few weeks. I ended up buying back my CCs for hundreds of dollars. Worked out though since NET went up like crazy,Chamangotango,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n689i/,0.043,0.873,0.084,0.3182
+17,NET, You need a lot of capital since you need 100 shares of a stock to sell CC’s. I sold a CC on AAPL and NET and it backfired since tech shot up in the last few weeks. I ended up buying back my CCs for hundreds of dollars. Worked out though since NET went up like crazy,Chamangotango,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n689i/,0.043,0.873,0.084,0.3182
+18,GME, Was selling covered calls on GME and missed out on prime opportunities to sell as I waited for expiration,greatgumz,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n79xe/,0.106,0.769,0.125,0.1027
+19,ATOS, Profit margin is so low for most stocks. Consider stocks under $20. Other than ATOS there aren’t probably any other stocks on which I would do CC due to super low premiums.,Formal-Vacation-6913,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nb3uk/,0.14,0.687,0.173,0.3221
+20,CC, Profit margin is so low for most stocks. Consider stocks under $20. Other than ATOS there aren’t probably any other stocks on which I would do CC due to super low premiums.,Formal-Vacation-6913,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nb3uk/,0.14,0.687,0.173,0.3221
+21,CC," I sell covered calls in 2 cases:
+1. Extremely risky positions with high IV. Ex: Tigr. I bought in at 18$ & sold long CC for 40$ strike, making 4$ extra (I’m okay selling it at 40$)
+2. Stocks I’ve made profit in & expect to be flat for a while, but holding for tax purposes. Ex:Kohls. Got in at 18, knew it had hit its peak at 60. Sold a CC for 80$ for when I hit 1+ year holding time
+
+PS: Occasionally I buy them back, just to resell them when the stock moves up again. Bought back when kohls hit 50, making 70% profit & resold the call when it hit 55",srinidhikv,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ne478/,0.025,0.909,0.066,0.6655
+22,CC, I only sell CC on stocks with high IV and I am doing the wheel on them or I have outstanding gains and want to short term capitalize on them while having security around it.,ThatOldGeezer,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ngx4u/,0.0,0.735,0.265,0.8442
+23,CC," Because like other strategies there are risks.  
+
+
+If the stock goes down you're locked into holding your underlying 100 shares per CC sold, not allowing you to be flexible and exit the position. This is only your only overall loss scenario.  
+
+
+If stock trades sideways or barely just reaches your strike you're pretty happy because you make a profit off the premium.  
+
+
+The final and largest risk is if the underlying stock absolutely moons and you miss out on all the extra profit between the market price and strike price. In my opinion this is the real downside of buying CC's which you should never use consistently against  growth stocks as you just lock yourself out of profits if your'e right.",PersianMG,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3njv4e/,0.1,0.725,0.175,0.9277
+24,CC," I can think of 2 reasons.   
+
+
+1) they are a source of frustration.  Most people are not psychologically well-suited to selling covered calls, and finding options strategies that suit your psychology is critical to consistently implementing those strategies.  
+
+
+2) A covered call behaves identically as selling a put (dividends can cause slight differences in practice).  Does selling puts sound as good to you?  
+
+
+More about the frustrations...
+
+The premiums are usually quite small. They just don't look attractive. It's hard to get it up for 1% premiums on monthly CCs.  
+
+
+They limit the upside of the shares. Nobody wants to sell a $10 covered call for 25 cents and watch the stock go to $10.50, or worse $15.  Then you start thinking about changing your strategy and rolling the call up and out for a credit, and if you do that you have to hold the shares even longer and face the same dilemma eventually. Or worse the shares go back down and your new calls don't because the delta is small (too far in the future, too far OTM). Now what? Roll them back down and repeat? ***The only appropriate exit strategy for a covered call is to buy the call back (or roll it out) when it's close to parity, or to let it expire and/or the shares be called away.***   
+
+
+You can't sell your shares because they are collateral! This is why you don't sell covered calls with high volatility stocks. Here's a totally made up story - I bought 100 shares of GME at $120 on a Monday and sold $360 CC for $45. On Wednesday it shot up above $300 and I was faced with a dilemma -- do I hold until Friday and pray the shares don't crash? Or do I buy back the call option (now $105) and sell the shares to take profit?  In both cases I would be fine, but the decision is tough and you might not feel great if you pick the worse option. Personally I didn't have a choice because I didn't have enough money to buy the call back.  The stock tanked and I ended up buying the call back for $65 and selling the shares at $160 for a modest profit.   
+
+
+Another is that your stocks can get called away. Most of the time, you own shares because you want to keep them. Don't sell covered calls on those, because eventually the shares will be gone. Covered calls are ***only appropriate when you don't mind handing over the shares.***   
+
+
+I know I'm forgetting something. I have lost sleep over covered calls, and that's not a good thing when the gains are so small. Like I said before, you have to have the right psychology.",ForrestNub,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nl0x3/,0.056,0.841,0.103,0.9521
+25,GME," I can think of 2 reasons.   
+
+
+1) they are a source of frustration.  Most people are not psychologically well-suited to selling covered calls, and finding options strategies that suit your psychology is critical to consistently implementing those strategies.  
+
+
+2) A covered call behaves identically as selling a put (dividends can cause slight differences in practice).  Does selling puts sound as good to you?  
+
+
+More about the frustrations...
+
+The premiums are usually quite small. They just don't look attractive. It's hard to get it up for 1% premiums on monthly CCs.  
+
+
+They limit the upside of the shares. Nobody wants to sell a $10 covered call for 25 cents and watch the stock go to $10.50, or worse $15.  Then you start thinking about changing your strategy and rolling the call up and out for a credit, and if you do that you have to hold the shares even longer and face the same dilemma eventually. Or worse the shares go back down and your new calls don't because the delta is small (too far in the future, too far OTM). Now what? Roll them back down and repeat? ***The only appropriate exit strategy for a covered call is to buy the call back (or roll it out) when it's close to parity, or to let it expire and/or the shares be called away.***   
+
+
+You can't sell your shares because they are collateral! This is why you don't sell covered calls with high volatility stocks. Here's a totally made up story - I bought 100 shares of GME at $120 on a Monday and sold $360 CC for $45. On Wednesday it shot up above $300 and I was faced with a dilemma -- do I hold until Friday and pray the shares don't crash? Or do I buy back the call option (now $105) and sell the shares to take profit?  In both cases I would be fine, but the decision is tough and you might not feel great if you pick the worse option. Personally I didn't have a choice because I didn't have enough money to buy the call back.  The stock tanked and I ended up buying the call back for $65 and selling the shares at $160 for a modest profit.   
+
+
+Another is that your stocks can get called away. Most of the time, you own shares because you want to keep them. Don't sell covered calls on those, because eventually the shares will be gone. Covered calls are ***only appropriate when you don't mind handing over the shares.***   
+
+
+I know I'm forgetting something. I have lost sleep over covered calls, and that's not a good thing when the gains are so small. Like I said before, you have to have the right psychology.",ForrestNub,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nl0x3/,0.056,0.841,0.103,0.9521
+26,CC," Because people feel it locks them in to the stock and prevents the from selling the stock until the call they sold expires. So you can't do a limit sell order on a stock to limit your losses if the stock or market starts to tank.
+
+You can always do a limit sell order on a stock,  even one in which you sold CC by purchasing back the CCs sold if you stock is sold via a limit order",Ianmartin573,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nqgmm/,0.036,0.947,0.017,-0.34
+27,CC," So much talk about capping the upside. 
+
+You want to sell a CC to reduce delta exposure, not time an exit.",no_value_no,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nr23f/,0.0,0.936,0.064,0.0772
+28,CC," Lets say I have stock of some company I believe in and I believe It will easily get to X price in a few years.
+
+If I sell CC under the X strike, I risk being forced to sell the stock under expected value. If that happened to me, I would buy back the calls or buy back the stock, but that would realize some losses. Then I compare such loses with how much I can gain in minuscule premium on this boring (for now) stock and decide it is not worth it.
+
+Ok, then what about selling strike above cost X? Actually X + some extra, because selling CC would reset my holding period and thus increase taxes (this is highly dependent on local taxation laws, yours may differ). I will look at what premium I will receive for such option sold and... Ugh, one cent, I would not even pay transaction fee with this. Not worth it.
+
+In this case, I would not sell CC on such stock.",Glurak,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nxxn2/,0.151,0.779,0.07,-0.9027
+29,CC," Any time you sell covered calls or cash covered options you're locking up your liquidity for a set amount of time.  If you plan on holding until a certain price target then cash covered options are great for a bit of passive income to build on your position or do whatever with.  Also if you want to have a stop loss set, you'll need to actively monitor your position so you can buy the contracts back in order to sell those shares.  Depending on the security, the premium might not be worth locking up a position for an extended period of time.  However if you're long on a slow mover and dont anticipate any movement in either direction, selling a CC and a cash covered put can be a great way to continue to build in other positions or that same position depending on your time frame.",thebutthat,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o7kpc/,0.04,0.828,0.132,0.9207
+30,ATOS," OP - Because they can do the opposite of what people think they do. 
+
+Most people think writing covered calls will reduce your downside risk.  Unfortunately there are two scenarios where that is not the case:
+
+1) When IV shoots up as the stock rapidly falls. This happened with ATOS just last week. The stock fell, say, 30 cents and the price of the calls I wrote rose 20 cents. If I wanted to close the position at that time writing the CC would have increased my loss. 
+
+2) Price drops (or even rises) after hours or pre market. If you have pledged the shares as collateral, and depending on your account value and options level, then you cannot sell the shares during these  times. You have to wait for the next regular market hours to unwind the calls then sell the shares. 
+
+Anyone saying they make money all the time with CCs is fooling someone and it’s not me :)",igrowontrees,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o9o6w/,0.081,0.854,0.065,-0.4367
+31,CC," OP - Because they can do the opposite of what people think they do. 
+
+Most people think writing covered calls will reduce your downside risk.  Unfortunately there are two scenarios where that is not the case:
+
+1) When IV shoots up as the stock rapidly falls. This happened with ATOS just last week. The stock fell, say, 30 cents and the price of the calls I wrote rose 20 cents. If I wanted to close the position at that time writing the CC would have increased my loss. 
+
+2) Price drops (or even rises) after hours or pre market. If you have pledged the shares as collateral, and depending on your account value and options level, then you cannot sell the shares during these  times. You have to wait for the next regular market hours to unwind the calls then sell the shares. 
+
+Anyone saying they make money all the time with CCs is fooling someone and it’s not me :)",igrowontrees,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o9o6w/,0.081,0.854,0.065,-0.4367
+32,CC," A family member has their entire portfolio in 1 (large cap) stock. This is not the place/time to discuss diversification - trust me I've explained it to them many times.
+
+Earlier this year I recommended they sell short dated covered calls. Worked out fine. Vol wasnt at pretty much record lows and skew was favorable (as much as it can be for calls...). 
+
+This person was prepared to sell the stock anyway if it hit x% above spot, so it was a good way to make a few k.
+
+Recently however, I suggested they don't sell CC simply because the variance premium is so low. Risk of getting the stock called was not worth the paltry premium.
+
+Not sure what I'm trying to say, this is just a story of why I thought CCs were appropriate at a certain time, and not at others. Of course this was just advice, the person made the final decision themselves.",XBV,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3oadzv/,0.08,0.815,0.104,0.6109
+33,CC," My reason is psychological: in the late 90's I owned Etrade for $5; sold $7.50 CC, (got 60 cents per share I think), only to see the stock trade above $60 before expiration. Not a good reason I know.",ProudLiberal54,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3oceaa/,0.064,0.878,0.059,-0.0531
+34,AAPL," I do calls way out right now I have a $160 call on AAPL for June 2022 but actively watch apple to make sure my position doesn't get liquidated.  I am more passive in my investments since the goal is just income but if you really know what you are doing then have at it, it's not the end all be all of investing but any bit of money you know you can make is worth it.",CoolMoo5e,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ocjwd/,0.0,0.864,0.136,0.8717
+35,CC," I am one of more aggressive sellers of CCs here
+
+I typically sell weeklies OTM nearly 90% of my stocks have CC against them. the strategy does well in bear or flat market. It requires lot more work and understanding of option prices and judging fair value of stock.
+
+So far I am up about 15% YTD , I can give you more info you are interested.",Dmoan,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3odfg0/,0.028,0.833,0.139,0.7655
+36,GME, I've been selling plenty on my GME.,robertito42,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ogary/,0.0,1.0,0.0,0.0
+37,DNN," I have a few stocks like TLRY, DNN, and MNMD that consistently run up big and then crash so I just wait around until one of them has a huge run up then sell CCs way OTM and it has never failed me. Even if it does fail me I would still make a great profit so win/win.",n0lefin,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3onbwh/,0.094,0.685,0.221,0.8075
+38,MNMD," I have a few stocks like TLRY, DNN, and MNMD that consistently run up big and then crash so I just wait around until one of them has a huge run up then sell CCs way OTM and it has never failed me. Even if it does fail me I would still make a great profit so win/win.",n0lefin,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3onbwh/,0.094,0.685,0.221,0.8075
+39,TLRY," I have a few stocks like TLRY, DNN, and MNMD that consistently run up big and then crash so I just wait around until one of them has a huge run up then sell CCs way OTM and it has never failed me. Even if it does fail me I would still make a great profit so win/win.",n0lefin,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3onbwh/,0.094,0.685,0.221,0.8075
+40,CC," i fucking hate CC
+
+i have 2 accounts that i do options on . 
+
+and one account holds a few hundred tsla 
+
+the other account holds a few hundred twlo.
+
+i do CC on those cause its a necessary evil, and the premium gained helps me accumulate more shares of tickers i want.
+
+but i will not do CC (anymore) on anything else.
+
+if you have cc on a stock you wanted to keep, and it runs away with from you , its stressful.
+
+CC make you go against your nature, you actively root for negative bear shit.  
+
+
+i know there are people that will say hey you made ""max profit, be happy!""
+
+man so much of ""investing"" is working around your own psychology.  you are who you are... and if CC make you feel like they do me... then just dont do them.",rvncto,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3op8rr/,0.129,0.764,0.107,-0.8096
+41,CC," One of the more unknown catches about CC less than a monthly CC is it resets the holding period of the underlying.  
+
+
+Refer: https://www.reddit.com/r/thetagang/comments/nwcoym/psa\_if\_you\_sell\_a\_covered\_call\_less\_than\_30\_dte/",AlphaDebugger,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ov0nc/,0.0,1.0,0.0,0.0
+42,CCIV," I’ll give you an example of the risk and reward of covered calls because I do them quite often and they are a great source of income, but you need to understand when to sell them. For instance, I have made thousands selling covered calls for CCIV. Probably more than I have gained through the stock alone. The trick is selling these calls during periods of high volatility to the upside. I believe it was in March I sold $55 covered calls that’s expired in May for about $2K. I knew the price wasn’t going there with no car in production yet. I also just sold another set of covered calls this morning and collected another $1500 in premium for the Aug 20 $55 strike. It’s a great way to make some extra money off your stock but there is some risk involved. 
+
+For example, I bought Chargepoint stock back in like April at $27.50 and it dropped down as low at $20 from then to May. Needless to say I was ticked off at my stupidity so I sold a covered call back in May for the price I bought it for. I wasn’t happy with its performance and figured I’d be happy selling it for what I bought it for. Fast forward about a month and the price of Chargepoint is at about $33 at expiration so I lost out on potential profits I could have made. 
+
+Overall, covered calls are a fantastic, low risk way to collect extra money. You just need to understand when to sell them and have a strong understanding of the underlying stock and it’s future potential leading up to the expiration date.",Turius_,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3oyhbz/,0.103,0.765,0.132,0.9419
+43,CC," Well first of all a lot of people do sell covered calls. Maybe not everyone but there are plenty of people out there that do. 
+
+There are many reasons why some people don't sell CCs though too. Here are just a couple:
+
+One reason a lot of people don't sell covered calls because it caps the upside of your investment. If the underlying is at $18 and you sell a CC at $20 for .50 premium and the underlying blows through the strike price to $24 your upside is now capped at $20.50 and you're missing out on the rest of the price increase and that's a big turn off for a lot of investors.   
+
+Another reason people don't do them is because you have to actively manage your positions when you do them and a lot of people just aren't interested in that. They want to invest money into some stocks and then let their portfolios do their own thing.",BB_Captain,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ozmrv/,0.046,0.9,0.054,0.1187
+44,BB, I’m loving it. I spent ridiculous amounts on BB the avg was like almost $14 now my cost basis on 300 BB shares since January is down to $8.85. Now I’ll start selling calls for like 2-3 weeks out and keep rolling further if it breaks out.,rawnaldo,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3p64ja/,0.046,0.751,0.203,0.8225
+45,AAPL," There is zero additional downside risk taken on selling covered calls. They are an excellent way to generate extra income. The drawback is you're potentially giving away upside if the stock is trading through the strike at expiry (really any day up to expiry for American options but they rarely get exercised before the expiration date).
+
+I have long term positions in AAPL and MSFT I sell calls against every month. The calls I sell are well out of the money but generate a decent income that I would not have otherwise had.
+
+Another thing to keep in mind is that the premium effectively increases the strike price for you when selling covered called. i.e. if you sell a call against XYX with a strike of $50 and you receive a premium of $2.00, as long as the stock is still below $52 at expiry, you've made money you would not have otherwise had.
+
+You're not missing anything here. Covered calls are great. Many people don't understand options so don't mess with them and for those that do trade options regularly, they are not particularly interesting because what you sell them for is the most you can make on them.
+
+I would recommend learning a bit about option pricing - the primary, non-intrinsic driver of option premiums is implied volatility. When that is higher than historical volatility, you can say the option is ""expensive"". Vice versa and they're cheap. A driver for volatility increase is often an expected event like an earnings release, new patent pending, drug approval, etc.
+
+Sell when the IV is ""expensive"" is the equivalent of selling high on an option since they die regularly and you can't view them on a 52 week basis.
+
+&#x200B;
+
+I find them especially interesting when buying a new stock - if you like the stock, do a buy write with a call option that is a month out from expiry that's 10% higher  (or whatever you are comfortable with) than the current price. If you're up 10% on a stock in a month, you won't cry if it gets called... most of the time.",culculain,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3p97yp/,0.052,0.825,0.123,0.9829
+46,MSFT," There is zero additional downside risk taken on selling covered calls. They are an excellent way to generate extra income. The drawback is you're potentially giving away upside if the stock is trading through the strike at expiry (really any day up to expiry for American options but they rarely get exercised before the expiration date).
+
+I have long term positions in AAPL and MSFT I sell calls against every month. The calls I sell are well out of the money but generate a decent income that I would not have otherwise had.
+
+Another thing to keep in mind is that the premium effectively increases the strike price for you when selling covered called. i.e. if you sell a call against XYX with a strike of $50 and you receive a premium of $2.00, as long as the stock is still below $52 at expiry, you've made money you would not have otherwise had.
+
+You're not missing anything here. Covered calls are great. Many people don't understand options so don't mess with them and for those that do trade options regularly, they are not particularly interesting because what you sell them for is the most you can make on them.
+
+I would recommend learning a bit about option pricing - the primary, non-intrinsic driver of option premiums is implied volatility. When that is higher than historical volatility, you can say the option is ""expensive"". Vice versa and they're cheap. A driver for volatility increase is often an expected event like an earnings release, new patent pending, drug approval, etc.
+
+Sell when the IV is ""expensive"" is the equivalent of selling high on an option since they die regularly and you can't view them on a 52 week basis.
+
+&#x200B;
+
+I find them especially interesting when buying a new stock - if you like the stock, do a buy write with a call option that is a month out from expiry that's 10% higher  (or whatever you are comfortable with) than the current price. If you're up 10% on a stock in a month, you won't cry if it gets called... most of the time.",culculain,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3p97yp/,0.052,0.825,0.123,0.9829
+47,ST," Often times the small premium gain isn't worth the tax impact of your shares being sold. For example:
+
+Sell 10 covered calls for $0.50 premium on each call. So you get $500 in premium value. 
+
+Buyer exercises the option forcing you to sell your 1000 shares, which you had a $10,000 ST gain on. Depending on your tax bracket, you'll most likely pay more than $500 in tax. 
+
+So unless you can get away with selling out of the money covered calls a bunch of times or have a marginal tax impact by liquidating your position, it may not be worth it.",JaiminDesai93,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3pbsdj/,0.046,0.83,0.124,0.8621
+48,AMC," I wrote 7$ covered calls on AMC with my basis at 4.50
+
+it hit 22$ the same week",posterguy20,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3pbw73/,0.0,1.0,0.0,0.0
+49,CC," If you take as a baseline that options are efficiently priced, selling covered calls are going to have an EV exactly the same as not selling covered calls, less contract fees, so it's a waste of time.  The $$ you make on theta is going to be washed by the $$ you lose due to assignment, and you just lose the couple of cents you pay per contract to your broker.
+
+Of course people who sell options don't believe options are efficiently priced, they believe they can exploit IV mean regression to buy/sell options in a way which generates positive EV.  The basic thesis is that you sell options when a stocks IV is elevated (so high IVRank) and buy options when the stocks IV is depressed (some people don't do this part, but it's functionally the same logic), because you exploit Vega this way, which (so the theory goes) is actually more predictable than things like directional bets on stocks.
+
+Either way, what most investors tend to find is proper CC management (deciding when to buy to close, what strikes and time frames to sell over, tracking IV) is a lot of effort considering the actual edge you might be able to exploit.  For a lot of investors spending that same amount of energy and attention finding better opportunities to establish long positions is a more attractive way to generate returns.  Practically people tend to sell covered calls for financial goal reasons (i.e. they rely on the generated income) or psychological reasons (i.e. they are incompetent at deciding when to sell).  These are not mathematical things so they aren't associated with a trading edge.  CCs are also popular as part of diagonal spreads as they give you access to cheap leverage, which can multiple the edge you perceive having.  This is more rational than selling CCs on traditional long positions.",pWheff,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3pe4di/,0.063,0.855,0.082,0.882
+50,CC," Why dont people go to engineering schools and work for the FAANG making 6 figures?
+
+Everybody knows how to co CC, but not all succeed. 
+
+Pros:
+Fairly safe while still generate income
+
+Cons:
+Big collateral.
+It can go wrong as fast as ordinary trading.
+Capped max gain
+
+
+They tell you only do CC with the stocks you wanna own long term - Then why dont you just own it? Why cap your potential gain? 
+
+Im not against CC, just saying ordinary traders think about CC that I collected during the years.",ThetaForLife,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ph0ds/,0.073,0.797,0.13,0.7905
+51,CC," I do CC all the time because it aligns with my trading mentality extremely well. 
+
+People always talk about ""missing the upside"" but that is a fallacy because you sell CC for a strike price you're happy selling the stock at. You didn't ""miss the upside"" because you would have sold before the peak or missed the top entirely regardless. It's honestly a good tactic for people that get too greedy and end up bagholding because they didn't sell for profit when they could have.",Dotifo,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3phvbj/,0.121,0.693,0.187,0.8248
+52,MCD," Old McDonald's stock was in a trench
+
+Wrote MCD 220c to get revenge
+
+Stock got hot and I burned my balls
+
+Got assigned on all my covered calls",TheGarbageStore,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3pjbat/,0.12,0.88,0.0,-0.5267
+53,CC," Unlimited risk of stocks going down to zero, and very limited upside as if stock goes up too far, you miss all the extra gains. All option plays require stocks to behave in very specific ways within very specific time frame, and CC is no different. And timing stocks is incredibly hard and arguably impossible",catch-a-stream,0,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nnuu7/,0.19,0.741,0.069,-0.6858
+54,NVDA," Same. If I think the price on a stock is going up over time and I don't want mine to get called away, either I have to sell a call so far OTM that the contract is almost worthless, or buy back the calls when they go ITM and totally negate the gains of holding the stock in the first place.
+
+I expected NVDA to trade sideways for a while or maybe correct due to crypto, ask me how the last few weeks have been going lol",gnocchicotti,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o44tq/,0.045,0.891,0.064,0.3889
+55,IS," >I have lost MUCH more by not timing when to sell a stock that’s skyrocketed. Covered calls can help force that sale.
+
+***WHAT YOU ARE THINKING OF IS A LIMIT SELL ORDER.***  
+Covered calls don't force a sale. In fact they prevent you from selling until they are exercised or bought back.  If it skyrockets, it has to STAY in the sky until expiration.  But stocks that skyrocket also plummet, so you have to hope it doesn't happen before expiration. Just set a limit sell order if you want to force yourself to sell at a certain price.   
+
+
+>I place covered calls at a strike price that I would be extremely happy to sell. Never had to sell any of my assets and enjoyed the premiums along the way.
+
+This sounds like you actually have a good strategy - You are selling OTM calls for a small premium, and you are not choosing volatile stocks that might skyrocket. You are happy to let the stock go if it expires ITM, or keep it otherwise and write a new call. If I add only one more criteria - you should be neutral or slightly bullish, then   ***THIS IS EXACTLY WHEN YOU SHOULD TRADE COVERED CALLS.***",ForrestNub,20,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nnxrl/,0.016,0.821,0.163,0.9862
+56,YOU," >I have lost MUCH more by not timing when to sell a stock that’s skyrocketed. Covered calls can help force that sale.
+
+***WHAT YOU ARE THINKING OF IS A LIMIT SELL ORDER.***  
+Covered calls don't force a sale. In fact they prevent you from selling until they are exercised or bought back.  If it skyrockets, it has to STAY in the sky until expiration.  But stocks that skyrocket also plummet, so you have to hope it doesn't happen before expiration. Just set a limit sell order if you want to force yourself to sell at a certain price.   
+
+
+>I place covered calls at a strike price that I would be extremely happy to sell. Never had to sell any of my assets and enjoyed the premiums along the way.
+
+This sounds like you actually have a good strategy - You are selling OTM calls for a small premium, and you are not choosing volatile stocks that might skyrocket. You are happy to let the stock go if it expires ITM, or keep it otherwise and write a new call. If I add only one more criteria - you should be neutral or slightly bullish, then   ***THIS IS EXACTLY WHEN YOU SHOULD TRADE COVERED CALLS.***",ForrestNub,20,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nnxrl/,0.016,0.821,0.163,0.9862
+57,CC," Why not sell immediately? Why do it via a covered call? If you are no longer happy with the stock you own -> you should sell it. 
+
+Are you saying you are not happy to sell it now, but happy to sell it at the potential +3% at your CC strike? What happens if you don't hit the strike for a year?",Bruducus,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nhsh1/,0.073,0.774,0.153,0.8229
+58,CRSP," I just did this with CRSP and ""lost"" a ton of potential (125 C 7/16). I don't regret it though, over time I've made a lot more selling covered calls than if I had just sat there waiting for it to skyrocket.",MMOAddict,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3op9kb/,0.0,0.938,0.062,0.3252
+59,NVDA," I agree wholeheartedly.  Cc’s are also somewhat of a hedge.  When TSLA went down to the 550 range, the decrease in the call price stabilized my account value.
+
+Some stocks I do not sell cc’s on. For instance NVDA had a lot of momentum and I just rode the price up and plan to sell cc’s sometime in the future after the split.",Sea_Courage9010,0,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nyv5w/,0.0,0.92,0.08,0.5994
+60,TSLA," I agree wholeheartedly.  Cc’s are also somewhat of a hedge.  When TSLA went down to the 550 range, the decrease in the call price stabilized my account value.
+
+Some stocks I do not sell cc’s on. For instance NVDA had a lot of momentum and I just rode the price up and plan to sell cc’s sometime in the future after the split.",Sea_Courage9010,0,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nyv5w/,0.0,0.92,0.08,0.5994
+61,CC," I own two cheap stocks to play with covered calls.  Threw 275 bucks at 200 shares  just so I could play with covered calls as a learning tool. I've learned a lot and risked very little imo.  
+
+ After that I've got 100 shares of a 13 dollar stock so a little more risk, but I think it will be fine.   I've yet to sell a CC on that one, but I plan too.       I suppose next I'll be figuring out CSP and so on from there.     I think next I need to learn how to do actual DD",Mikerk,14,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nk7mk/,0.035,0.869,0.097,0.5663
+62,DD," I own two cheap stocks to play with covered calls.  Threw 275 bucks at 200 shares  just so I could play with covered calls as a learning tool. I've learned a lot and risked very little imo.  
+
+ After that I've got 100 shares of a 13 dollar stock so a little more risk, but I think it will be fine.   I've yet to sell a CC on that one, but I plan too.       I suppose next I'll be figuring out CSP and so on from there.     I think next I need to learn how to do actual DD",Mikerk,14,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nk7mk/,0.035,0.869,0.097,0.5663
+63,CC," If you are investing and long on a stock, you will have the stocks and probably want to keep it. CC while it looks attractive, once you go through the cycle of stock runs, role out to protect your stocks, keeping track of dividends/earnings, all the anxiety and overall premiums being small, you realize it’s not worth the time and effort.",digicrush,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3qcdj7/,0.052,0.844,0.104,0.5321
+64,CC," Are there any wash sale rules that apply ? I’ve only sold CC, rolled up and out, and only BTC a few times.",ErickB4President,11,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n8tpo/,0.0,1.0,0.0,0.0
+65,TSLA," They don’t just cap gains, they can make you sell when you should sell. I had TSLA covered calls for 900 strike at one point, but I choose to rollout instead of allow the assignment. If I had taken the assignment, because I thought the strike was so crazy that it would never hit, I would have sold at the top. And if I had bought back a few weeks ago, I could have ended up with almost double the number of shares.
+
+Coulda woulda shoulda.",C2theC,17,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n8pl7/,0.075,0.808,0.117,0.3746
+66,CC, I made about 10-18% per CC on SNDL while it was moving. At some point you stop caring if you miss out on the upswing.,Naturopathy101,0,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nazxu/,0.136,0.75,0.114,0.1027
+67,SNDL, I made about 10-18% per CC on SNDL while it was moving. At some point you stop caring if you miss out on the upswing.,Naturopathy101,0,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nazxu/,0.136,0.75,0.114,0.1027
+68,GME," Can’t you just roll it up?
+I was selling 2 s200 GME CC, it shot up to 300. I just keep rolling up every week (to s220) while still collecting premiums. 
+It came back down to 200. 
+I brought back last day and wrote another one at 230.",amazing_kai,0,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nsvy1/,0.0,1.0,0.0,0.0
+69,SPR, Let me see ur professional advice one more time. Pls give your judgment about ENGAGED and their SPR pocket. Is it really awesome as I heard about them?,dalamar872,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ntg2d/,0.0,0.718,0.282,0.8557
+70,AMD," Yeah cuz If I have 50k AMD shares and im selling 500 contracts weeking on the 150 strike price for 2 bucks a pop, man making an extra 1k a week for no risk sucks!, oh wait it doesn't.",Riledup2020,6,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3mxh5j/,0.15,0.741,0.109,-0.1759
+71,CC, Selling CSP and CC are equivalent.  Selling a CSP deep in the money produces the same profit or loss as selling a CC at the same strike would have.,disarrange_daily,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n6tzm/,0.124,0.782,0.094,0.0258
+72,CRSR, yup....i've made some decent premiums writing ETSY & CRSR calls,way2lazy4u,23,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n1da4/,0.0,1.0,0.0,0.0
+73,ETSY, yup....i've made some decent premiums writing ETSY & CRSR calls,way2lazy4u,23,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n1da4/,0.0,1.0,0.0,0.0
+74,AMC, You say that but then it blows past your strike. Never thought AMC would get close to $20 again and now I missed out on thousands of dollars because of CCs,New_Reward,33,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ne520/,0.14,0.86,0.0,-0.5499
+75,BB, Yup did that with BB,Dipset-20-69,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3pf8xx/,0.0,1.0,0.0,0.0
+76,AMZN, You got 100 shares of AMZN sitting around??!?!,Ruffratkin,30,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3na48h/,0.0,0.678,0.322,0.5145
+77,AMAT," I think you have to draw a distinction between core holdings and trades. I generally do not sell much premium on core holdings (AAPL, BMY, AMAT, BRK.B, BAC, JPM, BX, GM, etc.) because the IV is generally low.  But the trades generally have high IV and can be very lucrative.",Sea_Courage9010,4,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o2up6/,0.033,0.967,0.0,-0.1406
+78,BAC," I think you have to draw a distinction between core holdings and trades. I generally do not sell much premium on core holdings (AAPL, BMY, AMAT, BRK.B, BAC, JPM, BX, GM, etc.) because the IV is generally low.  But the trades generally have high IV and can be very lucrative.",Sea_Courage9010,4,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o2up6/,0.033,0.967,0.0,-0.1406
+79,BMY," I think you have to draw a distinction between core holdings and trades. I generally do not sell much premium on core holdings (AAPL, BMY, AMAT, BRK.B, BAC, JPM, BX, GM, etc.) because the IV is generally low.  But the trades generally have high IV and can be very lucrative.",Sea_Courage9010,4,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o2up6/,0.033,0.967,0.0,-0.1406
+80,BX," I think you have to draw a distinction between core holdings and trades. I generally do not sell much premium on core holdings (AAPL, BMY, AMAT, BRK.B, BAC, JPM, BX, GM, etc.) because the IV is generally low.  But the trades generally have high IV and can be very lucrative.",Sea_Courage9010,4,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o2up6/,0.033,0.967,0.0,-0.1406
+81,GM," I think you have to draw a distinction between core holdings and trades. I generally do not sell much premium on core holdings (AAPL, BMY, AMAT, BRK.B, BAC, JPM, BX, GM, etc.) because the IV is generally low.  But the trades generally have high IV and can be very lucrative.",Sea_Courage9010,4,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o2up6/,0.033,0.967,0.0,-0.1406
+82,JPM," I think you have to draw a distinction between core holdings and trades. I generally do not sell much premium on core holdings (AAPL, BMY, AMAT, BRK.B, BAC, JPM, BX, GM, etc.) because the IV is generally low.  But the trades generally have high IV and can be very lucrative.",Sea_Courage9010,4,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o2up6/,0.033,0.967,0.0,-0.1406
+83,RIDE," This why I only buy stock with weeklies. When I didn't know what I was doing I bought a lot of stupid stocks without options that I can't do anything with besides hold. They make up a large part of my portfolio and are all around 50-70% losses. I'll never buy a stock without options again. 
+
+Sell cash secured puts weekly until it hits the price you want to buy at for ~$100 a week. Once you're finally assigned, start selling weekly covered calls.   
+Ideally when assigned, you've already collected enough premium to make your cost basis a few bucks lower per share. For instance I got assigned for RIDE @ $10, but up to that point I already collected $200 in premium from prior weeks which made my cost basis $8. 
+
+I roll them every week perpetually if I can make profit (if can't roll for profit then I go 2-3 weeks out).  My goal is to keep the shares for a year and not pay capital gains. When that time comes, depending on the premium I'm collecting for rolling, I'll consider selling.",DZMBA,3,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nrnt0/,0.045,0.853,0.102,0.8496
+84,DTE," Covered call is a terrible strategy for a speculative play. Speculative play means you are taking extra risks for extra upside. You are then capping your upside for chump change. Covered call should probably only be done for 1-2 weeks DTE and if you are planning on selling the stock anyways. But even if I'm planning on selling, I find it best to just sell it at a price I want as opposed to wait until the call expires. By then the stock might be below what I want. It's not free or easy money (might only be worth it if done on high frequency), and if not done in a tax saving account, is DEFINITELY worse due to tax implications.",Malamonga1,7,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nd34o/,0.106,0.736,0.158,0.6234
+85,CC, It's not so much that he's lost money it's that the money he could have earned isn't his. I sold a CC on TTD last week at a strike 0f 64. The stock went up from 60 to 76. This means that I earned 400 when I could have earned 1600. The 1200 difference is the money he's refering to.,dbzmm1,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3oo572/,0.067,0.933,0.0,-0.4215
+86,TTD, It's not so much that he's lost money it's that the money he could have earned isn't his. I sold a CC on TTD last week at a strike 0f 64. The stock went up from 60 to 76. This means that I earned 400 when I could have earned 1600. The 1200 difference is the money he's refering to.,dbzmm1,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3oo572/,0.067,0.933,0.0,-0.4215
+87,CLOV, Imagine thinking you bought CLOV at 9 and you put a cc at 14. But it shoots all the way to 23. Aren't you missing  out on the gains?,AdaptiveNarc,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3mtszi/,0.0,0.822,0.178,0.6632
+88,AMC," +1. 
+
+I regret the day I let AMC go for $15 ( 2000 shares, the pain is real losing out on a $80000 gain)
+
+I could just have been fucking chilling my summer vaca",pmor,28,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ninu3/,0.278,0.661,0.061,-0.7841
+89,SP, But why didn't you roll out of it.. Move the SP and the date to future.. Sure you'll have to pay back some of the CC's premium but at least your Sale price will go up for the stocks you own..,Shayzter,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ocngs/,0.037,0.896,0.068,0.3291
+90,AMC," I’ve been looking at it from a total return perspective. 
+
+But I’ve also been burned by AMC.",ireland352,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nh37w/,0.0,1.0,0.0,0.0
+91,AAPL, He is probably talking about specific stocks like AAPL which has been arguably trading sideways since their split last August.,lacrimosaofdana,5,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o4xrp/,0.089,0.8,0.111,0.128
+92,AAPL," AAPL and AMZN for the past nine months, for example.",lacrimosaofdana,3,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o4tfr/,0.0,1.0,0.0,0.0
+93,AMZN," AAPL and AMZN for the past nine months, for example.",lacrimosaofdana,3,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o4tfr/,0.0,1.0,0.0,0.0
+94,CAN," Yeah, they CAN absolutely cap your gains, like I said, but it’s not always going to happen. Saying “they cap your gains” is too broad a statement. 
+
+Or consider if you sell at a strike price you planned to sell the stock at anyway, then they literally are not capping your gains but locking in gains + premium. So it comes down to the strategy. 
+
+Not sure if it’s myth or true that most options expire worthless, but certainly most are not exercised (correct me if I’m wrong), and anecdotally I can tell you 90%+ of the CCs I’ve ever sold have expired worthless or I’ve closed out early for a profit.",sunnbeta,12,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nbhrd/,0.098,0.726,0.176,0.8457
+95,CC," Yeah, I’m not advising you try to earn 10% premium on some gonna-double-or-crash stock either, like a long CC on a small pharma research stock waiting on clinical trial results or whatever. Sounds like a fun way to put the odds against you.
+
+I meant something like earning 5% premium for 1m 10% OTM, etc, as a means to get you off the sideline, afraid of not pricing the entry right for a recently bouncy stock.",B0BsLawBlog,3,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ndv17/,0.0,0.833,0.167,0.9001
+96,LMAO," I guess I'll have to pick this apart one by one.
+
+> Consider the people who had index funds and were close to retirement in 2008. They never retired. It took years to recover. And their brokers, who made money on the downside, stopped taking their phone calls.
+
+This point is incredibly irrelevant - putting aside the fact that someone who's about to retire should never have all or even most of their savings in equities... if they held for 4 years, their savings would have recovered to their pre-crisis level.  Sure it's not ideal, but imagining the absolute worst case scenario where someone is retired and put all their money in equities at the top of the market, they would have made it all back by 2012.  The people who got hurt were those who panicked and sold everything at an inopportune time (which makes the case for my suggestion that most people are better off setting it in a fund and closing their eyes).  The alternative would be not buying equities at all - which you'd be worse off doing in the long-run, and that's a fact - or actively managing your portfolio/trying to time the market - which is a fool's errand.
+
+Many people lost their livelihoods in 2008... but it wasn't because of the stock market.  It was because they lost their homes, jobs, and were put on the street with no recourse.  Recessions happen, and that's a reality of investing.  It's unfortunate that some are unlucky and need to push their retirement a few years out to allow their investments to recover.  But that's the reality of investing, and in the long-run, you're (99.9% of the time) better off having money invested vs. sitting in cash and hiding under your bed for fear of losing.
+
+Also ""brokers who stopped taking their phone calls"" - LMAO... talk about dramatic.  Maybe there were like 2 brokers somewhere who did this, but you watch too many movies. Give me a break.  
+
+> So to me, when you work 40 hours per week for 40 years earning that money, you should be investing at least SOME time learning how to manage it at some point in your life. Most people have been convinced to NEVER learn anything about managing the money they spend 80,000 hours earning. In fact you just recommended it. It’s criminal.
+
+No, absolutely, people should learn how to manage their personal finances. You're misconstruing my point.  And guess what, if they're listening to the right people, they'll learn that their best course of action is to not overthink things, and put their money in diversified indexes of stocks and bonds to compound in a tax-deferred manner without trying to introduce any complicated strategies that will most likely make them worse off in the long-run.  **Put differently, show me the data that shows that putting your money in indexes isn't the best strategy for a retail investor over the long run, and I'll send you the data that shows you're wrong.**  As much as you think this is something that ""favors the brokers"" or whatever nonsense you're saying, my points are objectively true and you're just appealing to people who are inclined to believe everyone is conspiring against them.  In fact, my advice goes counter to what many brokers would tell you, so a fail to see how yours is a narrative that makes any sense.
+
+> The religion of “markets always go up over time” and “markets are too complicated for you” are lies that serve only the broker-dealers.
+
+Except markets do always go up over time?  And if you don't believe that, you shouldn't be investing in the markets?
+
+And ""markets are too complicated for you"" is not the argument I'm making, and I reject the notion that it's what the industry is doing these days.  The argument is ""with hundreds of millions of market participants, from quants, to institutions, to professional investors, markets integrate information so quickly that they're efficient enough where it's highly statistically unlikely the average investor can outperform a broad market index over time without taking on idiosyncratic risks in their portfolio.""  And by ""average investor,"" I'm including professionals. 
+
+> I’m not telling people to day trade. I’m telling them to take responsibility and be involved in their own retirement.
+
+I agree. And I'd hope that most people who take the time how to learn to invest their own money come to the conclusion that putting their money in a ""set it and forget it"" type of strategy is the best course of action, because it is for most people.  Suggesting that covered calls would be even near the top of the list unless you have a very specific idea in mind is crazy... lol.  
+
+> Now. Your questions. You get downside protection by buying puts, and you mitigate unrealized losses with covered call income. But it’s not a few % annualized.... have you uses these strategies? It’s a few % weekly on volatile names. A few % monthly on quiet names.
+
+You suggested writing puts, not buying them. If you're generating that kind of premium income, you're doing strategies that are either long-dated, close to ITM, or highly volatile where you're likely to be called away, which again is fine if you actually want to get rid of a position, but not a strategy that makes sense for most people.  You sound like you're doing this weekly which makes me think it's a combination of the last two.  It only makes sense if you're trading individual names - on indexes you're likely to be called away at some point, in which case you just forced a gain on something that could have compounded tax-deferred over time.
+
+And yes, I've used these strategies.  I am a professional investor and ran a $250M covered call portfolio at my prior firm :)
+
+> Now let’s consider the case where a stock rips through your covered call. You took your premium income on your position, and it gets called away. You still took in your premium. 
+
+Yep, you took in the premium, but you also were forced to take a taxable gain on the position.  If your intent was to continue holding, that is a bad outcome.
+
+> Now you write the put and get paid to catch it on the rebound, or else get paid again on the put premium. These weekly contracts have made it even easier and more lucrative.
+
+How you're saying this suggests that you don't actually know how it works, which is strange for someone who's so pro-the strategy.  Yeah you get paid to catch it on the rebound... if it expires in the money.  You're just market timing using options, which is a loser's game.  Again, the opportunity cost of being out of the market/risk that you don't actually get back in, plus the unnecessary gain you took by getting called out to begin with, makes this a very tax-inefficient strategy that is not suitable for most people (other than maybe people who have specific goals in mind, or are Warren Buffett).
+
+> There is nothing about spending 2 hours a week setting up a strategy that resembles giving yourself open heart surgery. 
+
+*Whoosh* - my point was that suggesting that something that works for a professional with 70 years of experience in the markets, let alone a professional who is an outlier among professionals, is something that would work for everyone is a funny concept.  Just because Warren Buffett does something doesn't mean everyone should do it.",elctromn,2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3oz3rr/,0.078,0.832,0.091,0.9577
+97,BB," I should've sold my BB instead of a CC. Sold 25C for ""juicy"" premium, just for the stock to dive 5x the premium I got.",ZenoxDemin,11,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ncbj6/,0.0,1.0,0.0,0.0
+98,CC," I should've sold my BB instead of a CC. Sold 25C for ""juicy"" premium, just for the stock to dive 5x the premium I got.",ZenoxDemin,11,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ncbj6/,0.0,1.0,0.0,0.0
+99,AGTC, that's a good thought on AGTC.   holding 200 shares and a bit underwater.   keep waiting for a catalyst to move it up a bit before i would write CCs though.,way2lazy4u,5,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3n3l3h/,0.0,0.819,0.181,0.6249
+100,AMC, You could’ve rolled the calls. Alternatively you could’ve taken that money and re-bought AMC and sold the juicy cc’s and decreased the cost of your entry point.   That’s what I did.,Sea_Courage9010,5,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nyjeo/,0.0,1.0,0.0,0.0
+101,AMC, Could've bought a lotto scratcher and you'd have had similar odds to AMC blowing up to 50.,RSquared,40,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3niz45/,0.0,1.0,0.0,0.0
+102,CC," +1.  But I'll roll it out to next July if I have to for $720.
+
+If it squeezes and actually goes to hundreds of dollars, I'm sure who ever bought my CC would likely exercise early so it's not like I'll actually have to hold until then.  If I get some affirmation about that being a likely scenario, I may even roll it out to 2023 and collect that last bit of premium now. 
+
+https://i.imgur.com/cyAYT7x.png
+
+The only thing holding me back from doing the roll is that I'm unsure of how the premium would change if the price increases. Would it also increase the premium even more? Notice the deep ITM options actually have negative Extrinsic value. Maybe it'll go more negative?",DZMBA,0,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nscly/,0.118,0.816,0.066,-0.841
+103,GME, I let GME go for $18 if that’s any consolation…,VolFan85,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o07nz/,0.0,1.0,0.0,0.0
+104,CRSR, Says the dude trading CRSR,New_Reward,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3otj1p/,0.0,1.0,0.0,0.0
+105,ANY," The only people who decide to exercise an option are 1) someone who bought it, 2) sometimes their broker automatically exercises it if it's ITM. But someone who bought the contract can exercise at ANY time, no matter what, as long as they pay the strike price. This exercise MAY get assigned to you as a seller.
+
+The options seller has literally 0 control whether an option is exercised or not. The only way for a sold contract to not be exercised is to buy it back before it is exercised.",WasabiofIP,-1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ohwbj/,0.067,0.92,0.013,-0.6124
+106,ITT, This is the first reasonable answer I've seen ITT. Well put /u/ForrestNub.,idontmeanmaybe,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3p83i8/,0.0,0.84,0.16,0.2732
+107,CC," I love CCs, but they absolutely cap your gains. In addition, they add extra convexity to your investment, since it reduces your delta and makes you short vega. If after you sell a CC, your stock price surges along with an increase in IV that is typical after a large market movement, your short CC will be worth a crapload of money. For example, if stock XYZ is at $10 and you sell a $11 CC for $1, XYZ might moon to $15, but your CC could be worth $6.50, and you can't even realize max profit if you close early. In the meanwhile, there is a lot of risk that your stock might fall back to $10. I found this as a serious problem when selling CCs on meme stocks, since your short options can really bite you during massive delta and IV spikes.
+
+Most options do expire worthless, and by and large, I've made a lot of money selling CCs. I've also missed out on 20k of gains on GME by selling a CC.",shimszy,7,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nc4s0/,0.076,0.813,0.111,0.7777
+108,GME," I love CCs, but they absolutely cap your gains. In addition, they add extra convexity to your investment, since it reduces your delta and makes you short vega. If after you sell a CC, your stock price surges along with an increase in IV that is typical after a large market movement, your short CC will be worth a crapload of money. For example, if stock XYZ is at $10 and you sell a $11 CC for $1, XYZ might moon to $15, but your CC could be worth $6.50, and you can't even realize max profit if you close early. In the meanwhile, there is a lot of risk that your stock might fall back to $10. I found this as a serious problem when selling CCs on meme stocks, since your short options can really bite you during massive delta and IV spikes.
+
+Most options do expire worthless, and by and large, I've made a lot of money selling CCs. I've also missed out on 20k of gains on GME by selling a CC.",shimszy,7,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nc4s0/,0.076,0.813,0.111,0.7777
+109,CC," Greater premium = greater risk, in this case in the form of time. There is no free lunch. Rolling is not an infinite thing, eventually you run out of room to roll. Every roll is just a greater risk that you're stuck selling a LEAP that is closer to the money than anybody would ever be comfortable with. What if the underlying blows by your call when you're already on the longest dated option? You lose money. 
+
+Of course this situation is unlikely from the outset, the first CC is an extremely safe play, but every roll is one step closer in the name of ""not losing money"" instead of doing something that makes money.",Ruffelz,5,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o7oig/,0.065,0.803,0.132,0.8026
+110,LEAP," Greater premium = greater risk, in this case in the form of time. There is no free lunch. Rolling is not an infinite thing, eventually you run out of room to roll. Every roll is just a greater risk that you're stuck selling a LEAP that is closer to the money than anybody would ever be comfortable with. What if the underlying blows by your call when you're already on the longest dated option? You lose money. 
+
+Of course this situation is unlikely from the outset, the first CC is an extremely safe play, but every roll is one step closer in the name of ""not losing money"" instead of doing something that makes money.",Ruffelz,5,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3o7oig/,0.065,0.803,0.132,0.8026
+111,RH, I've had this exact same comment in my head. Thank you for actually putting it out there. Usually it's around people asking if it's a good time to transfer out of RH but to day it was covered calls. There is such a thing as stupid question.,spudlogic,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3oe0nm/,0.091,0.835,0.074,-0.4404
+112,CLOV," At the money put premiums are very often 20-30% or higher annualized yields... If you never get assigned, you are doing great with cash covered puts.
+
+Even better to use margin instead of cash. Not only are you avoiding interest, you get paid to wait for your price.
+
+My margin secured CLOV $12 puts for 7/16/21 netted me $149 each... That's 12.4% for a month of risk, and not a single penny of mine extended.
+
+But it will be a bad bad deal if they go back to their 52 week low of $6.31 or worse!",Niastri,4,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3oxqzx/,0.178,0.746,0.075,-0.9259
+113,AMZN," Highest strike for LEAPs is 5,300 in 2023.
+
+Would I be fine with 25% annualized for 2 years, sure. Would I rather have a 20%  CAGR for the next 10-15 years, absolutely.
+
+The market isn't rational, I don't know if AMZN will do a slow and steady creep to a $10T cap over the next 10-12 years, or if there will be some +50% years mixed in along the way.
+
+If covered calls were the answer for long-term investing, XYLD would be outperforming SPY. XYLD isn't - it reduces the max drawdown a little, but also reduces total return. We could wind up with a lost decade where XYLD does better, but I'm not going to bet on it.",kfuzion,6,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ndm2p/,0.036,0.904,0.06,0.4019
+114,AMZN, No idea what you’re taking about. AMZN has been neatly bouncing between 2900 and 3500 since last August. If this isn’t “burning sideways” then I don’t know what is.,lacrimosaofdana,4,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3og7pc/,0.072,0.85,0.078,0.0516
+115,CC," Yes that can happen, but in your example if you sold at a $16 strike you obviously wouldn’t have capped your gains on the underlying. I understand that every CC sold theoretically caps max possible gains but if you had an exit point already established then they functionally aren’t capping anything.",sunnbeta,6,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ncj98/,0.032,0.821,0.147,0.743
+116,CC," Nobody times the market perfectly.  Choosing to sell at a particular point is the exact same wager as selling a CC, except that with a CC you can choose to make the sell point much higher than the current price and be likely not to lose the shares anyways.  And if you choose a strike price you would want to sell anyways, then it's not an issue.  You do this on stocks you would be holding long term unless they skyrocketed to an insane value in a short period of time, which is where you set your strike price and date.  If you wait until these stocks are already up, the premium on them can be huge.
+
+Selling CCs on a meme stock is an insanely bad idea, because you calling it a meme stock by definition means that you don't believe in it long term, and you're looking to sell at the top or for a certain profit whenever that happens.  If you sell a CC then you lock up your ability to do that.
+
+You're missing the points of when it is smart to do, and saying it's a bad idea based on your own super risky strategy.",stippleworth,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3pffgp/,0.077,0.784,0.139,0.9128
+117,CC," Well a 50% premium certainly changes the equation, since your possible range is now -50% to +80%, achieved by stock moving -100 to +30%. I looked at one of those too (EDIT), I think it was 50% to CC at a similar OTM a few months ago.
+
+Or I guess you could nearly double your position if you get half back, if you wanted to go hard at it. Buy $1000, collect $500 premium, buy $500, collect $250 premium…
+
+Also for the long CC you don’t even have to wait, even if it stock does tank if it’s a while down the road you can buy back the CC and exit and maybe still not be down, if the CC price retreat matches the stock drop.",B0BsLawBlog,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nlmw5/,0.028,0.921,0.051,0.4215
+118,CC," You don't lose money, you lose opportunity cost.  They are different.  I don't disagree with you about rolling though.  You should sell a CC at a price and date you are comfortable selling the shares at and be content with your decision if it happens.  Otherwise you're introducing FOMO and that is always a bad idea",stippleworth,3,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3pfypb/,0.055,0.709,0.236,0.8591
+119,CC," CC's are a hedge. A hedge against what? Your MAIN position in the shares you hold. And what do we want shares we hold to do? Go up, of course. If the stock goes down, you make back some premium on your shares via the CC's. If the stock goes up, you lose on the CC's and make a hell of a lot more on the shares. Case and point: No amount of CC writing on shares will ever outweigh your main and first objective: Value INCREASE in shares. It's a bullish position.",DaAlmanac,4,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nhipn/,0.09,0.718,0.192,0.7778
+120,MAIN," CC's are a hedge. A hedge against what? Your MAIN position in the shares you hold. And what do we want shares we hold to do? Go up, of course. If the stock goes down, you make back some premium on your shares via the CC's. If the stock goes up, you lose on the CC's and make a hell of a lot more on the shares. Case and point: No amount of CC writing on shares will ever outweigh your main and first objective: Value INCREASE in shares. It's a bullish position.",DaAlmanac,4,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nhipn/,0.09,0.718,0.192,0.7778
+121,CC," Correct. However, say if you sold a 16C short option, you would probably be -500% on the CC if the stock suddenly spiked that hard. If the stock doesn't go past 16 by expiry, you can pocket all the change for free, but being short the CC limits what you can do in the meanwhile. In addition, if you had just done nothing but waited to sell a CC after the spike to 16, you would have made a hell of a lot more money.",shimszy,-2,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3nd5j5/,0.087,0.889,0.025,-0.7543
+122,ATH, Huh? We're still in the process of making ATH at least once a week now. We just made an ATH today.,ThroneTrader,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3ouef1/,0.0,1.0,0.0,0.0
+123,UL," Lol if you own the shares of course they are ATM. In the eyes of the market, you are net bearish as you are short calls. You may be bullish on the UL. But selling to open Calls is being short calls and therefore bearish. Selling to open puts is being short puts and therefore bullish.",AdrenalineRush38,1,/r/investing/comments/obb3mc/why_dont_more_people_do_covered_calls_whats_the/h3qcpad/,0.0,0.939,0.061,0.3612
+124,GOOG, I do both.  The vast majority of my portfolio is indexed.  I have one or two equities that I especially like to put money in like GOOG where my cost basis is $525.  This makes my portfolio look like an index fund that's overweighted in a couple of my favorite equities.,_bobby_tables_,39,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3ovkde/,0.0,0.791,0.209,0.8854
+125,DD," I would agree that most people should invest in only index funds. However, If you're particularly knowledgeable about a certain industry or some businesses and you are confident in your DD then I think that's a great opportunity to take a part of your portfolio and buy individual stocks. My largest gains are from doing just that.",Wiggidy1,6,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3pnv4m/,0.0,0.726,0.274,0.9465
+126,DD," If your goal is to retire early/get rich quick, it would be much easier (and yes, riskier) to do so on individual stocks instead of an index. I have a few friends who are closer to retiring early by investing heavily in TSLA pre-pandemic, which obviously yielded much greater returns than any index. I wouldn't even call it YOLO'ing/betting like GME; they did their DD beforehand. But like many others said, I wouldn't convince someone to do this...it's all about risk assessment and life goals.",bigboybuckeyenuts,4,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3ph6t7/,0.052,0.786,0.162,0.7958
+127,TSLA," If your goal is to retire early/get rich quick, it would be much easier (and yes, riskier) to do so on individual stocks instead of an index. I have a few friends who are closer to retiring early by investing heavily in TSLA pre-pandemic, which obviously yielded much greater returns than any index. I wouldn't even call it YOLO'ing/betting like GME; they did their DD beforehand. But like many others said, I wouldn't convince someone to do this...it's all about risk assessment and life goals.",bigboybuckeyenuts,4,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3ph6t7/,0.052,0.786,0.162,0.7958
+128,IMO," I mostly invest in index funds largely for the reasons you gave lol and I do think markets are fairly efficient overall. I also just don't like spending significant time doing research into single stocks. It's just not that fun to me. However, I do have a sizeable amount of my portfolio in Microsoft, which is my only single stock investment. With that said, some people do okay with stock picking and some just have fun with it, so there isn't anything wrong with it IMO. 
+
+
+Here are couple things you could say (not really one liners, but you could easily paraphrase):
+
+1.) It's fun and you enjoy doing research into stocks. As long as you're managing your risk, you'll still probably make money and will have fun doing it even if you underperform or just have the same performance as the market. There's also the possibility you could outperform and make more by doing proper research. 
+
+2.) Even if you believe in efficient markets, that doesn't mean beating the market is impossible. It just means you likely have to take on more risk to do it. It might work, it might not. Higher risk is rewarded with higher returns, so if you're okay with the added risk, there's the possibility of making more money (ideally with at least some divetsification).
+
+3.) People often misunderstand the role of entities like hedge funds and other pro money managers. I worked at a large hedge fund (not as a trader) and we rarely beat the S&P 500 in a given year in total return lol. Clients for hedge funds often are wealthy individuals or others such as pension funds who simply want a reasonable return that isn't 100% correlated with the market, so if the S&P tanks they don't lose everything. Some do take on a ton of risk, but they usually blow up within a few years. The ones that stay around generally have higher Sharpe ratios than the broader market, but in total returns they often lag, yet they still have clients because the goal isn't always to just beat the market. Their strategies can also sometimes be constrained by a large AUM. With less capital, you can actually take on different strategies than the pros are able to and it's entirely possible for these strategies to do well.",Dolos2279,2,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3payoi/,0.088,0.813,0.099,0.7514
+129,AMD," I have a simple one, sometimes there are circumstances that provide very incredible asymmetric risk. Sure you may lose your money say 80% of probability but your gains might be 8000%. AMD, GME, Cryptos were some of those circumstances. It's not for the faint of heart though and that's why most people don't do well.",Coz131,2,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3pmjgo/,0.098,0.82,0.081,-0.0007
+130,GME," I have a simple one, sometimes there are circumstances that provide very incredible asymmetric risk. Sure you may lose your money say 80% of probability but your gains might be 8000%. AMD, GME, Cryptos were some of those circumstances. It's not for the faint of heart though and that's why most people don't do well.",Coz131,2,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3pmjgo/,0.098,0.82,0.081,-0.0007
+131,DD," You should be able to tell rather quickly whether you outperform indexes because of a few lucky picks or because >50% of your portfolio that outperforms indexes still gives you more alpha on your total returns than if you had the benchmark indexes. 
+
+
+If you choose to spend minutes a week reading about things and you know that more than that is boring and tiresome then you should be like a successful gambler and go into much more safe investments such as indexes right away.
+
+
+If you are happy for the rest of your investing career doing DD and keeping up with the macro trends as well as the individual stocks you pick and you see good returns then keep on going. 
+
+
+You don't just get an inborn talent for investing and outperform the market because you are intelligent. It takes strategy that mitigates for risk. It takes commitment. It requires mastering your emotions so that your excellent strategy is actually followed. 
+
+Since 2020 and probably over the next several years there will be a large number of people figuring out that just because they started investing in the spring of 2020 and buying EV and Crypto doesn't mean their gains are invulnerable from losses.
+
+
+**Quick and dirty one-liners only please.**
+TLDR There is no counter because this is the best advice for most people and especially those who are sure they are better than the rest before having a decade of experience and knowledge.",ManofWordsMany,2,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3pn1tr/,0.051,0.783,0.166,0.985
+132,AAPL, AAPL AMZN GOOG MSFT FB,Duzand,1,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3psr1f/,0.0,1.0,0.0,0.0
+133,FB, AAPL AMZN GOOG MSFT FB,Duzand,1,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3psr1f/,0.0,1.0,0.0,0.0
+134,GOOG, AAPL AMZN GOOG MSFT FB,Duzand,1,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3psr1f/,0.0,1.0,0.0,0.0
+135,EM," US Markets are super efficient, particularly large-caps. Index funds are the way to go here.
+
+However.
+
+Fixed Income exposure has high levels of dispersion in returns, and really good managers constantly drive alpha.
+
+Some less efficient equity markets, EM/Asia, have significant alpha opportunities, and there are managers who are really good at outperforming indices.
+
+Asset Allocation is important, my take is just passive exposure with the US, and take active exposure for other markets.",koroc,1,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3puigv/,0.0,0.684,0.316,0.9778
+136,IMO, IMO most people should buy passive index funds for retirement accounts. Invest in high quality dividend growth stocks outside of retirement accounts.,DividendPower,1,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3pypls/,0.0,0.82,0.18,0.5267
+137,TSLA," TSLA
+AMZN
+
+Made a few mil just off these alone from fairly small positions in absolute numbers. Then again, lost a mil on the first one too. So maybe not, or at least be better at timing on entry/exit.",Markol0,1,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3q8zza/,0.104,0.825,0.07,-0.1027
+138,CTXR," See for most people in most situations this is the best advice. If you just want to set it and forget it with your investing and have reasonable consistent returns, this is absolutely unequivocally the way to go.
+
+However, if you’re someone who’s interesting in picking stocks and what not then there’s a lot more that goes into it and it’s complicated. Can you make more money that way? Totally. Will you lose more money that way? For most people, probably.
+
+I personally do both. Most of my money goes into index funds because I just don’t much feel like doing DD all day. And I have a few picks here and there for fun. Recently held some Ford for a few months until the electric car announcements and made about 25%. Now I’m in CTXR. My stock returns are higher, but they’re also less consistent and sometimes I lose money.",Heiruspecs,1,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3q98qm/,0.048,0.888,0.064,0.1237
+139,DD," See for most people in most situations this is the best advice. If you just want to set it and forget it with your investing and have reasonable consistent returns, this is absolutely unequivocally the way to go.
+
+However, if you’re someone who’s interesting in picking stocks and what not then there’s a lot more that goes into it and it’s complicated. Can you make more money that way? Totally. Will you lose more money that way? For most people, probably.
+
+I personally do both. Most of my money goes into index funds because I just don’t much feel like doing DD all day. And I have a few picks here and there for fun. Recently held some Ford for a few months until the electric car announcements and made about 25%. Now I’m in CTXR. My stock returns are higher, but they’re also less consistent and sometimes I lose money.",Heiruspecs,1,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3q98qm/,0.048,0.888,0.064,0.1237
+140,TSLA, TSLA,yeahyeah2468,0,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3plyvh/,0.0,1.0,0.0,0.0
+141,USA," I don't see many ethical investors
+
+I have ETFs but only in renewables or tech.
+
+I'd like VUSA, VOO in the USA I believe
+
+But America loves making bombs that kill civvies all over the world and there's a load of ""defense"" companies in the S&P 500",SpaceBollzz,3,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3pjcln/,0.151,0.7,0.149,-0.0261
+142,CS," The hedge funds that try to beat the market and all the active mutual fund managers that also try to beat the market generally fail to beat the market **AFTER fees**.
+
+The truth is, beating the market is very difficult in a risk adjusted manner.
+
+&#x200B;
+
+There are other ways to have greater returns while underperforming the market. Generally, the answer to that lies in... borrowing other people's money (leverage) and praying you don't get a LTCM or Bill Hwang moment.
+
+&#x200B;
+
+[https://www.spglobal.com/spdji/en/research-insights/spiva/](https://www.spglobal.com/spdji/en/research-insights/spiva/)
+
+SPIVA evidences the active mutual fund managers that are benchmarked against their respective index to see what percent actually beats the benchmark after fees.
+
+The truth is, the numbers are horrible.
+
+My father, who has been in this field his entire life, isn't hesitant to admit that beating the index after fees is extremely difficult.
+
+And I too who worked at Wall Street out of college (graduated from Ivy League with CS, Math) understand how difficult it is to beat the market long term. The future is a mystery. It could have been likely covid could have crashed the US Market for years. No one can be sure of anything of the future.
+
+That said, I do invest both passive and active. Passive indexes is my 'serious retirement money' and active is cause... everyone likes to believe he/she is above average ;)
+
+Mathematically, 'only invest in index funds' has been the ideal approach long term for most Americans. So it's really hard to refute that statement. I don't like dealing with absolutes but if an average American wanted to maximize his/her chances of making money, indexing has been the most sound approach.
+
+Plus, index funds have a great advantage in that you don't have to worry about your tax bills. Taxes can be huge drag to returns long term.",Fwellimort,12,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3pj3wa/,0.082,0.785,0.133,0.9401
+143,MSFT," I have that dilemma: I bought things like TTD, SHOP, NVDA, MSFT and others.  Stocks have multiplied and I want to take gains and put them in an Index fund.  However, I'm worried about the Tax implications when I sell.  What should I do?",Burgerb,5,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3q2jdm/,0.088,0.771,0.141,0.3182
+144,NVDA," I have that dilemma: I bought things like TTD, SHOP, NVDA, MSFT and others.  Stocks have multiplied and I want to take gains and put them in an Index fund.  However, I'm worried about the Tax implications when I sell.  What should I do?",Burgerb,5,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3q2jdm/,0.088,0.771,0.141,0.3182
+145,SHOP," I have that dilemma: I bought things like TTD, SHOP, NVDA, MSFT and others.  Stocks have multiplied and I want to take gains and put them in an Index fund.  However, I'm worried about the Tax implications when I sell.  What should I do?",Burgerb,5,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3q2jdm/,0.088,0.771,0.141,0.3182
+146,TTD," I have that dilemma: I bought things like TTD, SHOP, NVDA, MSFT and others.  Stocks have multiplied and I want to take gains and put them in an Index fund.  However, I'm worried about the Tax implications when I sell.  What should I do?",Burgerb,5,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3q2jdm/,0.088,0.771,0.141,0.3182
+147,ABNB," Honestly one of my picks is ABNB. People are scared about regulation, and it certainly is a risk, but I feel like they are eventually going to be the leader in hotels and leisure
+
+
+Another is Nintendo. They’re run by some of the most brain dead ancient leadership *and still* somehow manage to make money hand over fist. They have incredibly strong IP and they’re slowly starting to license their properties out again. The second someone who isn’t afraid of the internet steps in they’re going to explode.
+
+
+BABA…just look at their financials",voneahhh,4,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3q3sb9/,0.091,0.761,0.148,0.7409
+148,IP," Honestly one of my picks is ABNB. People are scared about regulation, and it certainly is a risk, but I feel like they are eventually going to be the leader in hotels and leisure
+
+
+Another is Nintendo. They’re run by some of the most brain dead ancient leadership *and still* somehow manage to make money hand over fist. They have incredibly strong IP and they’re slowly starting to license their properties out again. The second someone who isn’t afraid of the internet steps in they’re going to explode.
+
+
+BABA…just look at their financials",voneahhh,4,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3q3sb9/,0.091,0.761,0.148,0.7409
+149,AAPL," Amazon and Apple still have gas in the tank. Two of my three biggest holdings are:  
+AMZN $3150C 6/2023 & AAPL $100C 6/2023",dumpsterfire_account,1,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3pz3d3/,0.0,0.925,0.075,0.1779
+150,AMZN," Amazon and Apple still have gas in the tank. Two of my three biggest holdings are:  
+AMZN $3150C 6/2023 & AAPL $100C 6/2023",dumpsterfire_account,1,/r/investing/comments/obnprd/what_are_your_best_12_line_counters_to_the_advice/h3pz3d3/,0.0,0.925,0.075,0.1779
+151,USA," VOO - bigger risk, bigger companies, more volatility
+
+
+VIG - large, established companies that pay healthy dividends (tend to be older companies)
+
+
+VT - total world, but keep in mind that global growth can be uneven and overall gains dampened
+
+At your age though, could be worth it to go VT since the general understanding has been that the rest of the world has some catching up to do in a few key industries compared to the USA (Big Tech-wise for example). UNFORTUNATELY, for many the possible 20 years until that growth is fully realized is too long to wait, but you could be getting VT super cheap since you've got time on your side.
+
+Also consider:
+
+VTSAX - Total USA
+
+VEIRX - Equity/Income
+
+VGSLX - Real Estate
+
+VFAIX - Financial",GemelosAvitia,39,/r/investing/comments/obbqcr/roth_ira_voo_vig_or_vt/h3mv8v5/,0.049,0.812,0.139,0.926
+152,AI," Me, I like the VIG. It's been my go-to when the market gets weird.
+
+Specifically, you get decent growth potential but automatically filter out the Teslas because they don't pay dividends. Sure, the United Healthcare's ($UNH, a top VIG holding) aren't exciting but remember that they will ride innovations in AI etc to become more efficient.",asah,3,/r/investing/comments/obbqcr/roth_ira_voo_vig_or_vt/h3o3x3j/,0.108,0.669,0.223,0.7782
+153,GME," You're the right age to run a fairly aggressive portfolio. Broad-market indexes are a very good bet over the long run (the alternative is that society collapses and money is worthless anyway).
+
+I'm a *bit* older, but also just opened a Roth to manage some cash I got from some insurance claims (no tax now, *no tax later*). For now I'm going with VOO, VTI, and a small slice of QQQ because I am a tech nerd. As it's the lesser portion of my portfolio I think I'm probably running it more aggressively than I should with a relatively short horizon and I'm probably going to come to my senses soon, but if I were your age I would not be shy about an aggressive spread. I might hedge a little bit on internationals for now, just because my bank's wealth office has pulled back on those (don't ask me why - I bought GME, I can't be trusted).
+
+As for *other* retirement contributions, I think the #1 thing is that if your employer offers an IRA, use it. In all likelihood your earning-years tax rate is higher than your retirement-age rate, so investing pre-tax is to your benefit. And if they offer IRA contribution matching, take advantage of every last dollar. It's literally free money.",TransientVoltage409,1,/r/investing/comments/obbqcr/roth_ira_voo_vig_or_vt/h3p46ss/,0.06,0.851,0.089,0.8597
+154,IMO," Sure, but better to have 100% stock IMO. At least for somebody young and just starting out.",singluon,2,/r/investing/comments/obbqcr/roth_ira_voo_vig_or_vt/h3pnx4u/,0.0,0.732,0.268,0.6705
+155,TD," They've been emailing and calling me for years. Just a few weeks ago someone from their office sent me a text message saying ""I just want to introduce myself, I'm your new financial advisor here at TD Ameritrade"" and I replied and said ""LOL no you're not"".
+
+I have a pretty high balance with them - multiple millions in my accounts there - and I've told them many times I'm not interested in any services they're trying to sell me. It doesn't matter, they want to get their grubby paws on a chunk of my portfolio.
+
+I feel like the episode of Community where Ron Swanson tells the kid at the hardware store ""I know more than you"". A lot of ""financial advisors"" are essentially just sales people. They try to sell the company's product and they follow a script for your finances. Anything out of the ordinary and they can't help you. When I was young I had an account at Edward Jones, at the advice of my first boss. I kept asking questions and eventually the guy told me that all he does is put my numbers in the computer and if I want something the program can't do then he can't help me.",irresponsible_owl,30,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3m1091/,0.049,0.886,0.065,0.474
+156,CPA," First, I think I'd immediately be wary and on guard of anything that comes at me when it's related to money/investment. I hate the idea of anything being ""sold"" to me through a processes. If I want something I want to be the one making the decision/deal/purchase without some salesman trying to influence or ""sell"" me.
+
+If you didn't need an FA before then why would you need one now? I wouldn't unless I'm so old I can't do what I'm doing anymore, going senile, and there is no one I can trust.
+
+Even then I wouldn't get an FA. FAs are not legally obligated to work in your best interest. Fiduciaries are. Get one of those if you really need someone to manage your money.
+
+In the case where I just need investment advice, tax planning, estate planning, and inheritance? Then sure get an FA, but I'd probably just pay for an FA for financial advice rather than w/e is offered to me by my broker. Nothing is free. If it's not free then you should pick someone you like. If it's free then they'll try to sell you on some management or package shit that will cost you money. Since we're on this topic, if I was paying for a FA then I would go for an FA with a estate/CPA/tax background. They will help you setup the vehicles for which you can then manage or get a fiduciary to manage for you.",zxc123zxc123,18,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3m5fae/,0.089,0.842,0.069,-0.7974
+157,FA," First, I think I'd immediately be wary and on guard of anything that comes at me when it's related to money/investment. I hate the idea of anything being ""sold"" to me through a processes. If I want something I want to be the one making the decision/deal/purchase without some salesman trying to influence or ""sell"" me.
+
+If you didn't need an FA before then why would you need one now? I wouldn't unless I'm so old I can't do what I'm doing anymore, going senile, and there is no one I can trust.
+
+Even then I wouldn't get an FA. FAs are not legally obligated to work in your best interest. Fiduciaries are. Get one of those if you really need someone to manage your money.
+
+In the case where I just need investment advice, tax planning, estate planning, and inheritance? Then sure get an FA, but I'd probably just pay for an FA for financial advice rather than w/e is offered to me by my broker. Nothing is free. If it's not free then you should pick someone you like. If it's free then they'll try to sell you on some management or package shit that will cost you money. Since we're on this topic, if I was paying for a FA then I would go for an FA with a estate/CPA/tax background. They will help you setup the vehicles for which you can then manage or get a fiduciary to manage for you.",zxc123zxc123,18,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3m5fae/,0.089,0.842,0.069,-0.7974
+158,TD," The top advisors will move on to other better jobs. I always had a free advisor, Fidelity, Merrill Lynch, TD- I had 3. Some will work with you more than others. A few you just need them to approve paperwork.  I find the adminstrative person in the front desk makes a big difference. Mine knows the system having been there for 15 years with all licenses like others. One previous planner actually influenced my investment thinking more than others get me organized setting up different accounts for different strategies. A few years ago, I wanted to learn optional trading. Current advisor brought a better show-and-tell planner showed me how. From there I became aware of education opportunities offered having people flown from Omaha gave me personalized tutoring on questions I had. All weekend seminars topical trainings at convention center or Vegas. New products seminars at branch office. That was just before the pandemic.
+
+The best advisor I had left TD but became a TD service provider from a llc. She is authorized to give me advice as TD is a discount DIY brokerage.  She and her superior also reviewed my planning documents including a will - no charge. They are qualified cpa also.
+
+Schwab used to a discount brokerage. They charged $35 to do trade over the phone before. Now it is more a high end brokeratge in our area.  You need to pay them review your strategies. It also has more in-house products than TD.  Many high networth savers prefer to work with their favorite planners at Schwab bringing gifts at Xmas. I opened an account and find their platform and terminology is very different so I am working with 7 different platforms.
+
+Investment is an individual thing. These financial advisors all teach and caution you about risk management and capital preservation. If one only trust himself, no need to see anyone. If one is motivated to learn they are willing to give you better service.",Vast_Cricket,4,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3mva52/,0.036,0.86,0.104,0.9705
+159,TD," Meet with them, but you can also ask to be introduced to someone else if it isn’t a good fit or look for a planner not associated with TD. 
+
+You want someone that will help with taxes, social security claiming strategies, roth conversion models, etc.",QuirkyConversation74,3,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3lwzcg/,0.0,0.714,0.286,0.9349
+160,TD," TD Ameritrade recommending to you that you pay them?
+
+Wow.  A business wants to be paid?
+
+I'm shocked.",SpookyKG,2,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3mnjq9/,0.169,0.64,0.19,0.3527
+161,ACA," Sound like an advisor direct referral. TD refers you to an advisor and charges that advisor 0.25% of whatever assets they manage for you. Make sure the advisor you're speaking to is a fiduciary and has the tax planning capabilities you're looking for. It's unlikely that a CFP can help you manage income planning for ACA benefits, so you'll want access to a CPA with an advisor. This sub has a heavy DIY bias, so step back from that go into the conversation with an open mind and be inquisitive about the services they provide and whether they are worth the fee.",memestockwatchlist,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3pcd0r/,0.032,0.811,0.157,0.888
+162,CPA," Sound like an advisor direct referral. TD refers you to an advisor and charges that advisor 0.25% of whatever assets they manage for you. Make sure the advisor you're speaking to is a fiduciary and has the tax planning capabilities you're looking for. It's unlikely that a CFP can help you manage income planning for ACA benefits, so you'll want access to a CPA with an advisor. This sub has a heavy DIY bias, so step back from that go into the conversation with an open mind and be inquisitive about the services they provide and whether they are worth the fee.",memestockwatchlist,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3pcd0r/,0.032,0.811,0.157,0.888
+163,TD," Sound like an advisor direct referral. TD refers you to an advisor and charges that advisor 0.25% of whatever assets they manage for you. Make sure the advisor you're speaking to is a fiduciary and has the tax planning capabilities you're looking for. It's unlikely that a CFP can help you manage income planning for ACA benefits, so you'll want access to a CPA with an advisor. This sub has a heavy DIY bias, so step back from that go into the conversation with an open mind and be inquisitive about the services they provide and whether they are worth the fee.",memestockwatchlist,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3pcd0r/,0.032,0.811,0.157,0.888
+164,TD," There is a massive difference between EJ and other advisors. TD will partner with RIAs to offer high net worth clients to them. RIAs will pay TD a fee for the attempt to pitch to clients. It's incredibly possible you were speaking with a legitimate advisor, not some high school grad with a series 7 and insurance license looking to sell the neatest A share and variable annuity.
+
+EJ is a known dumpster fire in the advisor world.",FromBayToBurg,10,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3mb5xu/,0.07,0.842,0.088,0.34
+165,FA," >Even then I wouldn't get an FA. FAs are not legally obligated to work in your best interest. Fiduciaries are. Get one of those if you really need someone to manage your money.
+
+FWIW TD Ameritrade says all the investment advisors they recommend have a fiduciary responsibility to clients - https://www.tdameritrade.com/investment-guidance/advisor-referral.html",metallitterscoop,7,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3nbvnw/,0.024,0.8,0.176,0.8557
+166,CPA," Careful. In my experience, the FAs with CPA/tax backgrounds tend to sell annuities like crazy, regardless of suitability.",Alexander_HamilDong,2,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3n35eg/,0.112,0.698,0.191,0.1779
+167,FA," Legitimate question as I'm in the market for an FA myself. How would one go about finding one if they're in OP's position - recently moved, no reliable contacts to ask for a referral.
+
+Asking as I'm in a similar situation myself.
+
+Google ""fiduciary financial advisor + zip code""?",metallitterscoop,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3nc4ml/,0.048,0.952,0.0,-0.296
+168,ACA," The strategy we are looking for is to optimize ACA as we will soon both be retired but not Medicare-age as yet, a few years to go. 
+
+Not sure what qualifies as 'needs estate planning'... the amount we would put with these guys (if at all) would be $0.5M. Our overall net worth is a single-digit multiple of that.",audiofankk,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3m56wo/,0.04,0.887,0.073,0.2516
+169,IBKR," I use TDA too, but majority of my funds are with IBKR.
+
+I had a look at that link and their independent RIAs do have fiduciary responsibility and are legal obligated to act in their client's best interest. 
+
+However OP's question and my response are about the recommended financial advisor. Per that same link you posted:
+
+>How AdvisorDirect works
+
+>***A TD Ameritrade financial consultant will help you identify an independent RIA near you*** to arrange a face-to-face meeting
+
+>You'll have a ***free consultation*** to become comfortable with their approach and discuss your financial goals
+
+The independent RIA will be a fiduciary who will act in your best interest. The TDA FA consultant however is NOT. Semantics really, but I think it's important to be meticulous about these small things when working with important things like your retirement accounts. 
+
+TDA and the independent RIAs probably have some money for recommendations or money for service deal worked out between them. Nothing sketchy there. In fact, knowing this just means TDA is working by the rules. I don't think that fact would change my preference to avoid the ""free"" TDA FA.",zxc123zxc123,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3p3onh/,0.013,0.8,0.187,0.9894
+170,TD," I use TDA too, but majority of my funds are with IBKR.
+
+I had a look at that link and their independent RIAs do have fiduciary responsibility and are legal obligated to act in their client's best interest. 
+
+However OP's question and my response are about the recommended financial advisor. Per that same link you posted:
+
+>How AdvisorDirect works
+
+>***A TD Ameritrade financial consultant will help you identify an independent RIA near you*** to arrange a face-to-face meeting
+
+>You'll have a ***free consultation*** to become comfortable with their approach and discuss your financial goals
+
+The independent RIA will be a fiduciary who will act in your best interest. The TDA FA consultant however is NOT. Semantics really, but I think it's important to be meticulous about these small things when working with important things like your retirement accounts. 
+
+TDA and the independent RIAs probably have some money for recommendations or money for service deal worked out between them. Nothing sketchy there. In fact, knowing this just means TDA is working by the rules. I don't think that fact would change my preference to avoid the ""free"" TDA FA.",zxc123zxc123,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3p3onh/,0.013,0.8,0.187,0.9894
+171,TDA," I use TDA too, but majority of my funds are with IBKR.
+
+I had a look at that link and their independent RIAs do have fiduciary responsibility and are legal obligated to act in their client's best interest. 
+
+However OP's question and my response are about the recommended financial advisor. Per that same link you posted:
+
+>How AdvisorDirect works
+
+>***A TD Ameritrade financial consultant will help you identify an independent RIA near you*** to arrange a face-to-face meeting
+
+>You'll have a ***free consultation*** to become comfortable with their approach and discuss your financial goals
+
+The independent RIA will be a fiduciary who will act in your best interest. The TDA FA consultant however is NOT. Semantics really, but I think it's important to be meticulous about these small things when working with important things like your retirement accounts. 
+
+TDA and the independent RIAs probably have some money for recommendations or money for service deal worked out between them. Nothing sketchy there. In fact, knowing this just means TDA is working by the rules. I don't think that fact would change my preference to avoid the ""free"" TDA FA.",zxc123zxc123,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3p3onh/,0.013,0.8,0.187,0.9894
+172,CPA," What CPA is also selling annuities? Those two worlds are so far apart. 
+
+CPAs can make fantastic advisors but their realm is taxes -- and mostly just taxes. Meaning you don't get a full financial picture from utilizing one.",FromBayToBurg,5,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3omvmh/,0.0,0.941,0.059,0.3182
+173,NC," The best thing to do is to gather data. Meet with several and listen to what they're saying, the things they recommend and how they pitch themselves.
+
+Avoid anyone who claims to beat the market, or even tries to do so consistently. You're in this for the long haul, so try and find a manager with a similar view of the time horizon. Look for someone who takes a holistic view of quality of life - the number in your bank account is one of the least important aspects of that, and a good manager will help you develop plans that meet or exceed your needs, and help you stay on track for that. 
+
+The firm my family uses is based out of NC and we love them, this is the advice they've given me on how they approach their client relationships and investment strategies.",FuzzyBacon,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3ogvc5/,0.024,0.844,0.132,0.9494
+174,ACA," Thanks. Have been reading up quite a bit and I think I understand ACA fairly well (well, to the extent a subject like ACA can be understood). One unknown is whether there will be a cliff after 2023, or will it be legislated away. Yet to be known.
+
+So we do need a tax advisor more than anything else, as I've indicated. Got a bit off track, as really the question was are these 'advisors' from TDA worth the time? Seems from some of the answers here, maybe not.",audiofankk,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3mb1u8/,0.0,0.892,0.108,0.8126
+175,TDA," Thanks. Have been reading up quite a bit and I think I understand ACA fairly well (well, to the extent a subject like ACA can be understood). One unknown is whether there will be a cliff after 2023, or will it be legislated away. Yet to be known.
+
+So we do need a tax advisor more than anything else, as I've indicated. Got a bit off track, as really the question was are these 'advisors' from TDA worth the time? Seems from some of the answers here, maybe not.",audiofankk,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3mb1u8/,0.0,0.892,0.108,0.8126
+176,TD," Correct, I'd assume anyone at Chase or TD will be.",stonedgill,4,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3n3ofx/,0.0,1.0,0.0,0.0
+177,TDA," As for legislation. All you can do is pay attention to what goes on in DC and try to anticipate what they're up to.
+For the TDA advisor. Sounds like you've done well. 
+They probably don't have the services or answers you seek for the concerns you've shared. (Other than accounts you can use as part of a plan to defer taxes in the present and try to minimize taxes in the future.)",OddSituations,1,/r/investing/comments/ob6t9a/td_ameritrade_tda_recommending_a_financial_advisor/h3mc0qb/,0.046,0.863,0.09,0.5267
+178,GOF, I moved my cash to monthly dividend ETF's.   GOF is the one I put my savings in.  Just for a few months to get it to a decent level like I had a 2% rate.,Natural-Magician-522,2,/r/investing/comments/obpoob/emergency_funds_with_dropping_interest_rates_in/h3ppf06/,0.0,0.918,0.082,0.3612
+179,APR," I little risky since it's not FDIC insured but with my wife's blessing, we put our emergency fund into Voyager, a crypto platform and bought USDC which is a stable coin ($1 USD=$1 USDC) and currently getting 9% APR which is insane.
+
+The app can be buggy (no desktop app yet) and there are some groans about issues with withdrawing but people I personally know have never had an issue.",hideo_crypto,2,/r/investing/comments/obpoob/emergency_funds_with_dropping_interest_rates_in/h3py6ba/,0.108,0.799,0.093,-0.0267
+180,TV, For when you see a really sweet TV two inches larger than your own. Amirite.,YTChillVibesLofi,12,/r/investing/comments/obpoob/emergency_funds_with_dropping_interest_rates_in/h3pbi9f/,0.0,0.798,0.202,0.5095
+181,IMO," Well, two things: We are in 'a bubble of everything' at the moment (not my phrase). Since the Fed cut rates in 2019 stocks are up, bonds are up, real estate is up, gold is up, crypto is up... there nothing which will function as a reliable hedge here except the one thing that wins if everything falls in price - cash.
+
+If you do want to try and outpace inflation then go for it, but it's seldom a good idea to meddle with your allocation - especially if you are taking away from losers and adding to winners - surprising how often that comes back to bite you and you feel like the biggest idiot when it happens. You chose an allocation. Just stick to it, IMO",dubov,12,/r/investing/comments/obpoob/emergency_funds_with_dropping_interest_rates_in/h3phit5/,0.097,0.797,0.106,-0.1553
+182,NIO, Unless you can find pre profit companies like NIO  and jump in early for crazy gains. Hard part id finding them and hodling for years,TonyFMontana,1,/r/investing/comments/obbe49/profitable_vs_unprofitable_companies_ror/h3oiana/,0.12,0.633,0.247,0.6124
+183,DD," DD is high effort. If screening stocks based on operation/valuation ratios and earnings reports can consistently identify profitable companies and beat the market, algo traders would have done it decades ago.",ReaperJr,3,/r/investing/comments/obbe49/profitable_vs_unprofitable_companies_ror/h3nuk6x/,0.0,0.912,0.088,0.4404
+184,MU," Quick recap on how earnings reports affect share prices:
+
+Earnings below estimates: price goes down
+Earnings above estimates: price goes down
+
+In related news, fuck you MU.",pinguz,6,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3owhmq/,0.114,0.814,0.072,-0.3182
+185,DD, Anybody do any DD on EverCommerce? They're going public today.,DracoWonderBeard,3,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3obmgo/,0.0,1.0,0.0,0.0
+186,CCIV," CCIV is offering me to buy back shares at $10 per. 
+
+Is this due to the merger happening soon (I've been wondering when it's gonna happen), thus the SPAC ceasing to exist, and a completely normal part of the process?
+
+Or are they trying to do a buyback on their own volition and really think anyone is gonna go for $10?",don_cornichon,2,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3nz6ml/,0.0,0.958,0.042,0.3736
+187,CZR," CZR, thoughts?  I want to take a position in one of the casinos….i have LVS (bought it ages ago, pinged it for my one buy, and its been a dud).  CZR has more variety and is big in Vegas, where people are apparently flocking to",Trophygirl65,2,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3ou8cz/,0.0,0.969,0.031,0.0772
+188,LVS," CZR, thoughts?  I want to take a position in one of the casinos….i have LVS (bought it ages ago, pinged it for my one buy, and its been a dud).  CZR has more variety and is big in Vegas, where people are apparently flocking to",Trophygirl65,2,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3ou8cz/,0.0,0.969,0.031,0.0772
+189,RSI, $OPEN looking very bullish. The RSI is above $50 and it’s spent a few days above the SMA20.,AcrobaticTurnip501,1,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3p1j99/,0.0,1.0,0.0,0.0
+190,MAPS," Small positions in GTBIF, CURLF, MAPS and CERAF (and I do think CERAF is underappreciated, given that it's a Canadian-listed SPAC. That is doing a deal with Parallel - https://www.forbes.com/sites/willyakowicz/2021/02/22/gum-billionaire-beau-wrigley-to-take-cannabis-company-public-through-spac-deal) Do be aware that some brokerages charge significant extra fees to trade in foreign ordinaries (symbol ends in F.) I have no interest in the pure play growers.
+
+Also, what ETF has an expense ratio that's that bad? MJ is 0.75%, MSOS about the same.",dvdmovie1,2,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3ooosq/,0.073,0.834,0.092,0.128
+191,TLRY," Ive got small positions in TLRY, aurora, and cronos. They have had flux but have only gone down since i got them. I am holding them expecting that if/when US legalizes marijuana their values will jump but it is a bit of a long shot.
+
+For reference they are all based in canada",FoxComfortable7759,2,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3p347u/,0.0,0.931,0.069,0.5499
+192,TLRY, TLRY,Thazhowzitiz02,2,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3pr9ym/,0.0,1.0,0.0,0.0
+193,DD," Guess its time for spme good ole DD, thanks man",HelloYatta,1,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3p5xrn/,0.0,0.58,0.42,0.7003
+194,FLT, 2200 shares @ 19 CAD and holding for awhile already. GL. Did ok during APHA/TLRY conversion squeeze back in FEB. I think cannabis is a very real risk vs reward chance for our time. edit.Also threw some into FLT.TSXV and SCR.TO.,IWanaTalk2Samson,1,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3pwbq2/,0.05,0.674,0.276,0.8675
+195,GL, 2200 shares @ 19 CAD and holding for awhile already. GL. Did ok during APHA/TLRY conversion squeeze back in FEB. I think cannabis is a very real risk vs reward chance for our time. edit.Also threw some into FLT.TSXV and SCR.TO.,IWanaTalk2Samson,1,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3pwbq2/,0.05,0.674,0.276,0.8675
+196,SCR, 2200 shares @ 19 CAD and holding for awhile already. GL. Did ok during APHA/TLRY conversion squeeze back in FEB. I think cannabis is a very real risk vs reward chance for our time. edit.Also threw some into FLT.TSXV and SCR.TO.,IWanaTalk2Samson,1,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3pwbq2/,0.05,0.674,0.276,0.8675
+197,RMD," David, as others have said, there is no way to avoid the RMD.  But it is not like you are  losing real money.  I have accounts with ML/BOA.  I am 70, so I have not been required yet to do an RMD.  But talking to my advisor, when I do, I can do a direct transfer of dollars or stocks from my IRA directly to my brokerage account.  That transfer will show as a distribution and will be taxable.  But (a) the RMD amount/holdings are still in an account you own, and (b) the tax consequence is $0 if you are still less than the standard deductible, to very little if it does push you above the standard.
+
+I read an article recently about FLPs (Family Limited Partnerships), which may reduce the tax implications of wealth transfer, but just doing a little research, the costs and complexity to set one up would not likely be beneficial for all but the very wealthy.
+
+Bottom line, have another conversation with your advisor and see if you have the option to transfer to a new or existing account.  And if you use a tax tool like Turbo Tax, they have a tool to allow you to forecast next years taxes, where you can include the RMD and see the forecasted impact, if any!  Good discussion from all.  Thanks for posting.  pa",Successful_retired_7,1,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3ps8jw/,0.073,0.851,0.076,0.605
+198,RMD," If you have no income and your RMD is only $6k, you'd owe no taxes. Why are you worried? You can just convert your IRA into a Roth IRA and avoid future RMD.",cdude,1,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3pa4v6/,0.239,0.761,0.0,-0.7783
+199,RMD, That is correct. Based on the two variables above you will owe federal taxes on your RMD as your total income is above the standard deduction.,FromBayToBurg,1,/r/investing/comments/obhrvy/daily_general_discussion_and_spitballin_thread/h3pthmx/,0.0,1.0,0.0,0.0
+200,IMO," ITOT + IXUS is IMO a much better choice than AOA.
+
+ITOT is essentially the same as VTI or SCHB.  Each of those are total US market index funds, just using different index providers (S&P, MSCI, or Russell).  Very high correlation, but just different enough that a simultaneous sell of one and a buy of the other is not a wash sale.    
+
+Same for VXUS and IXUS, as total international index ETFs.
+If you wanted to split that into developed and emerging, the the ETFs to use are VEA, SCHG, and IEFA for developed and VWO, SPEM, and IEMG for emerging.
+
+Anything you read is Bogleheads Reddit about VTI and VXUS applies equally to ITOT and IXUS.
+
+I would just have an emergency fund of 6 months expenses as your fixed income allocation, then put the rest 100% in ITOT and IXUS.   If you wanted more stability, then add another 6 months or 12 months of expenses in BND or the equivalent iShares.  A shorter duration such as an intermediate bond fund will have lower returns, but less volatility.   
+
+The exact VTI/VXUS or ITOT/IXUS ratio is debated hotly, with some saying 55 Us 45% international since that is how the world market cap is distributed.  I prefer to have a bit of a home bias of 75/25 ITOT/IXUS.  
+  (Some of my IXUS allocation is split up into VEA and IEMG.  The IEMG replaced some SPEM and VWO when I tax loss harvested March 2020).
+—————
+
+I'm not a wizard that knows all of the ETFs.  I am a lazy opportunistic guy that looks at the result of research by Wealthfront and Betterment.  I look at the ETFs they chose to use for their tax loss harvesting, and like their choices.",Anonymoose2021,1,/r/investing/comments/obf2jd/asset_allocation_etfs_aoa/h3porpl/,0.063,0.919,0.018,-0.8979
+201,MSCI," ITOT + IXUS is IMO a much better choice than AOA.
+
+ITOT is essentially the same as VTI or SCHB.  Each of those are total US market index funds, just using different index providers (S&P, MSCI, or Russell).  Very high correlation, but just different enough that a simultaneous sell of one and a buy of the other is not a wash sale.    
+
+Same for VXUS and IXUS, as total international index ETFs.
+If you wanted to split that into developed and emerging, the the ETFs to use are VEA, SCHG, and IEFA for developed and VWO, SPEM, and IEMG for emerging.
+
+Anything you read is Bogleheads Reddit about VTI and VXUS applies equally to ITOT and IXUS.
+
+I would just have an emergency fund of 6 months expenses as your fixed income allocation, then put the rest 100% in ITOT and IXUS.   If you wanted more stability, then add another 6 months or 12 months of expenses in BND or the equivalent iShares.  A shorter duration such as an intermediate bond fund will have lower returns, but less volatility.   
+
+The exact VTI/VXUS or ITOT/IXUS ratio is debated hotly, with some saying 55 Us 45% international since that is how the world market cap is distributed.  I prefer to have a bit of a home bias of 75/25 ITOT/IXUS.  
+  (Some of my IXUS allocation is split up into VEA and IEMG.  The IEMG replaced some SPEM and VWO when I tax loss harvested March 2020).
+—————
+
+I'm not a wizard that knows all of the ETFs.  I am a lazy opportunistic guy that looks at the result of research by Wealthfront and Betterment.  I look at the ETFs they chose to use for their tax loss harvesting, and like their choices.",Anonymoose2021,1,/r/investing/comments/obf2jd/asset_allocation_etfs_aoa/h3porpl/,0.063,0.919,0.018,-0.8979
+202,GM," Not quite the same, since quality of earnings matter. $1 in software (or ideally, SaaS) revenue is far superior to $1 in car revenue, as the margins and retention for software is far better. I would say that Tesla is being valued for their future potential in untapped markets, such as autonomous vehicles, robotaxis, energy storage rather than the quality of their current sales. 
+
+TSLA has a p/s of 18, which isn't bad for a high tech growth company, but other autos like Ford and GM have a p/s of well below 1.",shimszy,4,/r/investing/comments/obna2w/using_market_cap_for_estimating_share_growth/h3p25h7/,0.0,0.796,0.204,0.9357
+203,TSLA," Not quite the same, since quality of earnings matter. $1 in software (or ideally, SaaS) revenue is far superior to $1 in car revenue, as the margins and retention for software is far better. I would say that Tesla is being valued for their future potential in untapped markets, such as autonomous vehicles, robotaxis, energy storage rather than the quality of their current sales. 
+
+TSLA has a p/s of 18, which isn't bad for a high tech growth company, but other autos like Ford and GM have a p/s of well below 1.",shimszy,4,/r/investing/comments/obna2w/using_market_cap_for_estimating_share_growth/h3p25h7/,0.0,0.796,0.204,0.9357
+204,PEG," quite a bit...   P/E is Market Cap/earnings and is an earnings valuation for more mature companies.   PSR or a PEG ratios are used for growth companies where most have no earnings YET. One must be aware of the company you are looking at...development stage companies are totally different than mature companies obviously, and offer patient investors the opportunity to share in the growth over time.  Many IPO's are development stage companies, not mature ones.  The money raised is used for further company development and/or expansion.",HFTAlert,1,/r/investing/comments/obna2w/using_market_cap_for_estimating_share_growth/h3p721b/,0.026,0.774,0.201,0.9432
+205,AAPL," I am 21 and from canada, going to invest some of my monthly income($300-$400) to buy stocks. Not much experience, doing my research alone and still learning. Looking for long term (5 years) and some short term plans. Need suggestions.
+
+Would it be great to buy AAPL, VT, WMT, JPM? Or any other?. Looking for dividends also. Any advice!",MrCleaner22,2,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3o499w/,0.032,0.892,0.076,0.5792
+206,WMT," I am 21 and from canada, going to invest some of my monthly income($300-$400) to buy stocks. Not much experience, doing my research alone and still learning. Looking for long term (5 years) and some short term plans. Need suggestions.
+
+Would it be great to buy AAPL, VT, WMT, JPM? Or any other?. Looking for dividends also. Any advice!",MrCleaner22,2,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3o499w/,0.032,0.892,0.076,0.5792
+207,EPD," I am a 20 year old dividend investor who puts $350 dollars biweekly into my dividend account during the summer (whenever I work and am not in school). My main holdings are KO, IBM, EPD, O, VZ, and T. On top of those main investments, I have sprinkled some money into some higher yield stocks that are considered more riskier dividend investments but have played out well over the past two years. Do any of you have some good dividend/growth stocks that I should look into? I am looking for at least a 3% dividend yield but am open to advice!",lilmitchie1221,2,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3oh8h8/,0.018,0.871,0.111,0.8572
+208,IBM," I am a 20 year old dividend investor who puts $350 dollars biweekly into my dividend account during the summer (whenever I work and am not in school). My main holdings are KO, IBM, EPD, O, VZ, and T. On top of those main investments, I have sprinkled some money into some higher yield stocks that are considered more riskier dividend investments but have played out well over the past two years. Do any of you have some good dividend/growth stocks that I should look into? I am looking for at least a 3% dividend yield but am open to advice!",lilmitchie1221,2,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3oh8h8/,0.018,0.871,0.111,0.8572
+209,KO," I am a 20 year old dividend investor who puts $350 dollars biweekly into my dividend account during the summer (whenever I work and am not in school). My main holdings are KO, IBM, EPD, O, VZ, and T. On top of those main investments, I have sprinkled some money into some higher yield stocks that are considered more riskier dividend investments but have played out well over the past two years. Do any of you have some good dividend/growth stocks that I should look into? I am looking for at least a 3% dividend yield but am open to advice!",lilmitchie1221,2,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3oh8h8/,0.018,0.871,0.111,0.8572
+210,JP," Hello. So, I bought some JP Morgan today because the exdate on their dividend is tomorrow.  I’m still a little unsure of when I can sell the JP Morgan stock. Do I have to hold onto it until I get the dividend? Because that’s Tuesday. Can I sell it first thing Friday morning, And still expect a dividend payout?",fuscosco,1,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3oyxqq/,0.03,0.865,0.105,0.6424
+211,IRS," You will need to fill out the IRS form next year and you may owe some money.
+
+[https://www.irs.com/articles/2020-federal-tax-rates-brackets-standard-deductions/](https://www.irs.com/articles/2020-federal-tax-rates-brackets-standard-deductions/)",LiqCourage,1,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3p0a6h/,0.0,1.0,0.0,0.0
+212,IMO," I am personally all in, but very much like u/dvdmovie1 said, I am looking at least one year out on the investment.  Does every investment do what I want? no.  Do I take losses as well as gains?  yes.  The macro IMO is that we are in the final third of a very long bull market.  There was no change of market leadership with the Covid pullback which makes that, regardless of how people want to classify it based on magnitude, a massive correction because that is what it behaved like.  Will there be more corrections in the bull?  probably.  does anyone know when they will happen?  no.  we just came out of a tech correction that lasted about 4 months that went along with a counter value rotation -- so my thesis is we are seeing secular corrections now rather than wholesale; obviously that can change too.  Will the bear show up tomorrow?  probably not, the level of sentiment, while frothy, doesn't look like unbridled enthusiasm.  How much cash you leave on the sideline is up to you, but you also need discipline to decide to deploy it.  if it just always sits on the sidelines it is nothing but drag.  since you are mid 30s your timeline is 30+ years!  plenty of time for the market to provide you with happy returns regardless of the short term.
+
+If you move your money in over a period of a couple of months or a quarter, you will probably see dips to buy and it may make you feel better to have a plan and to use some discipline in following it.  So I would recommend setting a plan and using limit orders (below market) to buy in.  see how that goes... 3-5% moves are well within normal volatility.  if you want to hold out a chunk for a big down move like 15% plus, then that is a plan to catch a correction.  the key is to have a plan and follow it.
+
+happy returns!",LiqCourage,2,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3pvbgi/,0.036,0.802,0.162,0.9931
+213,IMO," If you are looking for a larger relationship with more different account options as you grow, Fidelity (or Schwab) is the better choice, IMO.",LiqCourage,1,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3pt1tq/,0.0,0.884,0.116,0.4404
+214,AAPL," You are saying I should keep them for 10,15,20 years. I agree with you. And I started to buy AAPL yesterday, but now I have to sell it to buy VT. Thanks for the advice",MrCleaner22,2,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3oaabn/,0.0,0.838,0.162,0.6808
+215,AAPL," If you can find someone willing to sell you an AAPL call with a $10 strike, and you're willing to pay that person whatever the option is worth, then yes.",GAULEM,1,/r/investing/comments/obhr89/daily_advice_thread_all_basic_help_or_advice/h3pgy3t/,0.089,0.769,0.142,0.4019
+216,DD, Thanks for good DD,VolatilityBox,1,/r/investing/comments/obi55u/chinese_mainland_becomes_aias_new_basic_market/h3o2y8j/,0.0,0.256,0.744,0.7003
+217,CC," What you want to find is something with high IV and thus high CC premiums. Sell near the money calls (preferably weeklies) so that your personal risk to the down swing is limited. Your broker probably has a search function that lets your sort by IV and premium, from there you can research which companies youre comfortable owning/taking a risk on.",HeelBangs,9,/r/investing/comments/ob9ey9/i_have_5k_to_spend_on_a_stock_in_order_to_sell/h3metim/,0.094,0.835,0.071,-0.128
+218,AHT," As of right now, $5k in AHT could get you 10 7/16 5p for a credit of 0.88, so $880...if you got assigned in two weeks, you could write 10 8/20 7.5c for, say, 0.50, so $500.  Just keep rolling it down the line and you'd have your initial investment covered in less than a year, assuming IV and interest stays high.  I get what you mean by not caring so much about the long-term value, as long as volatility stays high and you keep writing ccs, you'll eventually make it back.  When you get to zero cost basis, and all you care about is option premium income, who cares if it's trading at $1 or $20.",wphuff,2,/r/investing/comments/ob9ey9/i_have_5k_to_spend_on_a_stock_in_order_to_sell/h3nsgj5/,0.021,0.865,0.114,0.8903
+219,GME," Look into ticker GME, your whole life will be paid for",ramuuuuuuu,5,/r/investing/comments/ob9ey9/i_have_5k_to_spend_on_a_stock_in_order_to_sell/h3mf475/,0.0,1.0,0.0,0.0
+220,RKT, Fucking RKT. I been making 3-5% a week selling slightly OTM calls. Easy money writing calls. Great potential in several years to be a great stock too.,kropstick,5,/r/investing/comments/ob9ey9/i_have_5k_to_spend_on_a_stock_in_order_to_sell/h3mlj6f/,0.0,0.66,0.34,0.8965
+221,OR," what is it with this forum and WSB. You guys mention it so much, I've only made one thread here asking one question and I've heard WSB I don't know how many times. 
+
+And no, you're wrong, it's absolutely correct that you don't lose any money if you still retain your shares. if the stock plummets 20%, you'll profit months later if it rebounds and goes up 50% from where it was. That principle will remain true if your ""portfolio valuation"" declines x percent as it dropped. Why is it that investors will double down on a stock when it drops 10, 20%, right so they can lose more money to save their 'portfolio valuation', OR MAYBE they're averaging down to control more shares, taking correct advantage of the market. 
+
+Please stop wasting your time referring everyone you don't agree with to WSB, we know you're clearly so much more knowledgeable and soooo above everyone else.",letheocean,-1,/r/investing/comments/ob9ey9/i_have_5k_to_spend_on_a_stock_in_order_to_sell/h3mx33r/,0.07,0.787,0.143,0.895
+222,ANY," bro you literally have no idea what you're talking about.
+
+""Are you really this dense? If you put that $5k towards your loan then you would owe $5k less.""
+
+I'm not putting 5K towards the loan! I'm buying stock. How is this at all unclear. NONE OF THAT 5K WILL BE USED TO PAY FOR ANYTHING. I DON""T NEED IT TO PAY FOR ANYTHING. I'm NOT buying options. I'm buying SHARES of a company, and I'm not selling ANY of the shares.
+
+You just showed my that YOU'RE the one who doesn't know what they're talking about, and exactly on brand you're coming into the tread to insult someone on a topic you clearly know nothing of. Good job dense.",letheocean,-9,/r/investing/comments/ob9ey9/i_have_5k_to_spend_on_a_stock_in_order_to_sell/h3mo6dr/,0.111,0.829,0.06,-0.6839
+223,FOR," bro you literally have no idea what you're talking about.
+
+""Are you really this dense? If you put that $5k towards your loan then you would owe $5k less.""
+
+I'm not putting 5K towards the loan! I'm buying stock. How is this at all unclear. NONE OF THAT 5K WILL BE USED TO PAY FOR ANYTHING. I DON""T NEED IT TO PAY FOR ANYTHING. I'm NOT buying options. I'm buying SHARES of a company, and I'm not selling ANY of the shares.
+
+You just showed my that YOU'RE the one who doesn't know what they're talking about, and exactly on brand you're coming into the tread to insult someone on a topic you clearly know nothing of. Good job dense.",letheocean,-9,/r/investing/comments/ob9ey9/i_have_5k_to_spend_on_a_stock_in_order_to_sell/h3mo6dr/,0.111,0.829,0.06,-0.6839
+224,PAY," bro you literally have no idea what you're talking about.
+
+""Are you really this dense? If you put that $5k towards your loan then you would owe $5k less.""
+
+I'm not putting 5K towards the loan! I'm buying stock. How is this at all unclear. NONE OF THAT 5K WILL BE USED TO PAY FOR ANYTHING. I DON""T NEED IT TO PAY FOR ANYTHING. I'm NOT buying options. I'm buying SHARES of a company, and I'm not selling ANY of the shares.
+
+You just showed my that YOU'RE the one who doesn't know what they're talking about, and exactly on brand you're coming into the tread to insult someone on a topic you clearly know nothing of. Good job dense.",letheocean,-9,/r/investing/comments/ob9ey9/i_have_5k_to_spend_on_a_stock_in_order_to_sell/h3mo6dr/,0.111,0.829,0.06,-0.6839
