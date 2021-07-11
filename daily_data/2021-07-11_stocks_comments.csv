@@ -1,0 +1,607 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,API," I'm unsure about your use case with bid/ask pricing, but just to reiterate what OP said, GoogleFinance's API/data has a few caveats, primarily around **time delay in data updates.** 
+  
+I thought it was a 20 minute delay as said by OP, but here is the Google page - it appears to relate to Exchanges specifically and might be Realtime in certain scenarios:
+  
+https://www.google.com/googlefinance/disclaimer/
+  
+OP: Thank you so much for posting this, I've been meaning to dig into this integration.",bandeapart,3,/r/stocks/comments/ohxfch/googlefinance_kind_of_a_cool_way_to_create_your/h4u0si1/,0.089,0.84,0.071,-0.128
+1,LOVE," If it pulls back 20%, I take a cold look at it.  
+
+Why people LOVE selling their winners is beyond me.  There’s never been a successful investor who routinely sells at a 25 or 50 or 100% gain.  It defies all logic.",80percentofme,2,/r/stocks/comments/oi7mgs/when_to_take_profits/h4u0u3t/,0.063,0.701,0.236,0.8541
+2,AMD," For the long holds. You continue to hold until your buying thesis changes. When I invested in AMD 5 years ago I bought it for the long haul. AMD performed way better than I thought. Since thesis hasn’t changed a bit and they are performing flawlessly I will continue to hold for foreseeable future.
+
+I still continue to hold like 90% of total shares bought. 6 months ago my 98-99% portfolio was AMD now its somewhere in the 90s.
+
+For the short term stocks, depending upon the chart and momentum I usually sell with 15-25% profits. Meme (BB, CLOV, WISH, GME etc) stocks due to its momentum can give you 30-50% profit real fast assuming you timed your buy before it sky rockets. Remember these short term trades are risky plays",ahsan_shah,2,/r/stocks/comments/oi7mgs/when_to_take_profits/h4u9lqg/,0.013,0.834,0.152,0.9504
+3,CLOV," For the long holds. You continue to hold until your buying thesis changes. When I invested in AMD 5 years ago I bought it for the long haul. AMD performed way better than I thought. Since thesis hasn’t changed a bit and they are performing flawlessly I will continue to hold for foreseeable future.
+
+I still continue to hold like 90% of total shares bought. 6 months ago my 98-99% portfolio was AMD now its somewhere in the 90s.
+
+For the short term stocks, depending upon the chart and momentum I usually sell with 15-25% profits. Meme (BB, CLOV, WISH, GME etc) stocks due to its momentum can give you 30-50% profit real fast assuming you timed your buy before it sky rockets. Remember these short term trades are risky plays",ahsan_shah,2,/r/stocks/comments/oi7mgs/when_to_take_profits/h4u9lqg/,0.013,0.834,0.152,0.9504
+4,GME," For the long holds. You continue to hold until your buying thesis changes. When I invested in AMD 5 years ago I bought it for the long haul. AMD performed way better than I thought. Since thesis hasn’t changed a bit and they are performing flawlessly I will continue to hold for foreseeable future.
+
+I still continue to hold like 90% of total shares bought. 6 months ago my 98-99% portfolio was AMD now its somewhere in the 90s.
+
+For the short term stocks, depending upon the chart and momentum I usually sell with 15-25% profits. Meme (BB, CLOV, WISH, GME etc) stocks due to its momentum can give you 30-50% profit real fast assuming you timed your buy before it sky rockets. Remember these short term trades are risky plays",ahsan_shah,2,/r/stocks/comments/oi7mgs/when_to_take_profits/h4u9lqg/,0.013,0.834,0.152,0.9504
+5,WISH," For the long holds. You continue to hold until your buying thesis changes. When I invested in AMD 5 years ago I bought it for the long haul. AMD performed way better than I thought. Since thesis hasn’t changed a bit and they are performing flawlessly I will continue to hold for foreseeable future.
+
+I still continue to hold like 90% of total shares bought. 6 months ago my 98-99% portfolio was AMD now its somewhere in the 90s.
+
+For the short term stocks, depending upon the chart and momentum I usually sell with 15-25% profits. Meme (BB, CLOV, WISH, GME etc) stocks due to its momentum can give you 30-50% profit real fast assuming you timed your buy before it sky rockets. Remember these short term trades are risky plays",ahsan_shah,2,/r/stocks/comments/oi7mgs/when_to_take_profits/h4u9lqg/,0.013,0.834,0.152,0.9504
+6,RSI, I guess you could look at RSI and its historical movement?,idoescompooters,1,/r/stocks/comments/oi7mgs/when_to_take_profits/h4u8dld/,0.0,1.0,0.0,0.0
+7,AMC," Depends on stock. I like to plan out what I want when I go to buy the stock. Determine how long I want to hold/what is my sell price. Once I hit that, I do. For instance I bought AMC at 8 and sold the first day it popped at 20. Felt no shame when it hit 60+ later that week. That can lead you to holding when it plummets and any profit is good.",BRlEN,1,/r/stocks/comments/oi7mgs/when_to_take_profits/h4ua60a/,0.07,0.787,0.143,0.5574
+8,MRK," With long term holds, I don’t sell and just let the stock accumulate in growth and/or dividends. I will only sell if something about the company convinces me that it’s no longer worth holding.
+
+With short term or swings, I take profits when something comes in that tells me it’s time to sell. For instance, maybe the stock has lost momentum and I don’t want to hang around to see if it could regain it. Also, maybe news comes in that says it’s time. I did that with MRK when I found out that Buffett had sold; turns out it was the right move, because MRK has stagnated since.
+
+With scalps, I sell the second momentum stops, but scalping means I’m only in for minutes or seconds.",ZhangtheGreat,1,/r/stocks/comments/oi7mgs/when_to_take_profits/h4uessf/,0.037,0.901,0.062,0.2846
+9,DD," I'll use NIO as a example. My sell price is over $200. I arrived at this conclusion after: 
+
+1. Lots n Lots of DD. 
+
+2. LOTS of DD. ( I mean get opinions from people. See what analysts are saying about it. Look at its drawbacks. Compare it with companies in the same field. ETC) 
+
+3. I picked that price before I baught in. so I don't plan on selling til I see close to that price.",AcapellaFreakout,0,/r/stocks/comments/oi7mgs/when_to_take_profits/h4ujayw/,0.0,1.0,0.0,0.0
+10,NIO," I'll use NIO as a example. My sell price is over $200. I arrived at this conclusion after: 
+
+1. Lots n Lots of DD. 
+
+2. LOTS of DD. ( I mean get opinions from people. See what analysts are saying about it. Look at its drawbacks. Compare it with companies in the same field. ETC) 
+
+3. I picked that price before I baught in. so I don't plan on selling til I see close to that price.",AcapellaFreakout,0,/r/stocks/comments/oi7mgs/when_to_take_profits/h4ujayw/,0.0,1.0,0.0,0.0
+11,AN, BUYING IS THE EASY PART !!! LEARNING WHEN TO SELL IS AN ART !!!,WelcomeHead6366,2,/r/stocks/comments/oi7mgs/when_to_take_profits/h4uk9be/,0.0,0.73,0.27,0.7004
+12,IS, BUYING IS THE EASY PART !!! LEARNING WHEN TO SELL IS AN ART !!!,WelcomeHead6366,2,/r/stocks/comments/oi7mgs/when_to_take_profits/h4uk9be/,0.0,0.73,0.27,0.7004
+13,AMC, I've been trying this myself and it works well for me. Recently got back into my SoFi account and noticed what stocks I had left in AMC were still far above what I bought them for but that the were dropping. Chipped away bit by bit so I only have 2 shares left to see what happens. Can finally buy an electric hedge trimmer. lol,SecretlyToku,3,/r/stocks/comments/oi7mgs/when_to_take_profits/h4u7l8p/,0.0,0.873,0.127,0.8149
+14,AMC," You didn't mention AMC...wtf man.
+
+Up 300% and still holding. It's not a short term play, you hold it for long.",AvengerHB,1,/r/stocks/comments/oi7mgs/when_to_take_profits/h4ud9rr/,0.097,0.903,0.0,-0.2584
+15,AMC," If you found AMC at $8 and did educate yourself, you wouldn't sell at 20. The momentum at 14 to 20 was insane, you can clearly tell it's far from over yet. 
+
+&#x200B;
+
+I totally get if you sell at 35-36 all time high. That 36 to 25 dip was scary, lot of people got forced out of fear.",AvengerHB,0,/r/stocks/comments/oi7mgs/when_to_take_profits/h4uef88/,0.178,0.782,0.04,-0.8555
+16,PM," I will be messaging you in 10 years on [**2031-07-11 20:47:56 UTC**](http://www.wolframalpha.com/input/?i=2031-07-11%2020:47:56%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/oi7mgs/when_to_take_profits/h4ugzgf/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2Foi7mgs%2Fwhen_to_take_profits%2Fh4ugzgf%2F%5D%0A%0ARemindMe%21%202031-07-11%2020%3A47%3A56%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20oi7mgs)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",RemindMeBot,1,/r/stocks/comments/oi7mgs/when_to_take_profits/h4uh1nn/,0.107,0.893,0.0,-0.6322
+17,DD," You either sell at $14 expect it to go down to $12 $10 again, or hold past $14 since it will gap up to $20.
+
+&#x200B;
+
+Plan to sell at $16 no man's land tells me that you didn't do much DD at all to this stock.",AvengerHB,1,/r/stocks/comments/oi7mgs/when_to_take_profits/h4ukifx/,0.046,0.954,0.0,-0.296
+18,ATH," No manipulation besides the market players reacting with each other. 
+
+News breaks out that inflation fears are a ‘real’ thing. One firm sells off shares after 6 days of ATH, which causes a spike of red, which then another firm sees and starts shedding shares to sell at the ATH before it becomes a firm red day. Soon enough, enough selling happens to cause the S&P to dip, which causes panic and the red day becomes redder as everyone panic sells. 
+
+The only sane thing to do is to see red days as discount days. I bought some VTI, VXUS and NVDA on Thursday. All three were super green on Friday.",BagFullOfKittenBones,8,/r/stocks/comments/ohw740/why_the_selloff_on_thursday_and_immediate_bounce/h4rusm9/,0.115,0.816,0.069,-0.6705
+19,NVDA," No manipulation besides the market players reacting with each other. 
+
+News breaks out that inflation fears are a ‘real’ thing. One firm sells off shares after 6 days of ATH, which causes a spike of red, which then another firm sees and starts shedding shares to sell at the ATH before it becomes a firm red day. Soon enough, enough selling happens to cause the S&P to dip, which causes panic and the red day becomes redder as everyone panic sells. 
+
+The only sane thing to do is to see red days as discount days. I bought some VTI, VXUS and NVDA on Thursday. All three were super green on Friday.",BagFullOfKittenBones,8,/r/stocks/comments/ohw740/why_the_selloff_on_thursday_and_immediate_bounce/h4rusm9/,0.115,0.816,0.069,-0.6705
+20,OI, To cover short calls. Large OI decrease in calls post dip. For Apple at least.,TheRealKaviModz,1,/r/stocks/comments/ohw740/why_the_selloff_on_thursday_and_immediate_bounce/h4spaqk/,0.0,1.0,0.0,0.0
+21,AM," You must have slept in because Thursday morning was definitely ugly up to about 11 AM or so eastern time. Yeah it wasn't like what we saw in March last year, but I'd call the S&P being down almost 1.5% at one point a selloff (and I think most people would join me in doing so) even if those numbers were merely a return to June 28th like numbers.
+
+In the end that turned out to be the 4th time since late September where we've seen the pattern of COVID jitters takes down the European stock market indices, in response, US futures dive too, and then after Europe closes, the US market recovers and in 3 of the 4 cases, you can definitely argue that it looked as if nothing out of the ordinary happened in retrospect when you look at all of the major averages.",95Daphne,1,/r/stocks/comments/ohw740/why_the_selloff_on_thursday_and_immediate_bounce/h4tqxgi/,0.062,0.87,0.068,0.2161
+22,ATH, The market is usually at ATH though. Zoom out.,Unique_Name_2,1,/r/stocks/comments/ohw740/why_the_selloff_on_thursday_and_immediate_bounce/h4udw0y/,0.0,1.0,0.0,0.0
+23,AMZN," True. But it also depends on what you're buying and how long you're holding the cash. The market can crash 10%, and one would still be up if the cash was deployed in Jan 2021 in VTI or MSFT, maybe even AMZN.",wandererarkhamknight,1,/r/stocks/comments/oi25p9/jerome_powell_speeches/h4tt112/,0.078,0.88,0.042,-0.3919
+24,MSFT," True. But it also depends on what you're buying and how long you're holding the cash. The market can crash 10%, and one would still be up if the cash was deployed in Jan 2021 in VTI or MSFT, maybe even AMZN.",wandererarkhamknight,1,/r/stocks/comments/oi25p9/jerome_powell_speeches/h4tt112/,0.078,0.88,0.042,-0.3919
+25,WFC, Nice! I’ve just bought a large amount of puts on WFC. I think it’ll pay out,Dudeman_McGoo,1,/r/stocks/comments/oi25p9/jerome_powell_speeches/h4t4xeu/,0.085,0.728,0.187,0.4003
+26,MSFT," I have MSFT and keep being tempted to add more. Perhaps it'll never be cheap, but I have decades until I retire and keen to build a stake. So I would consider averaging up as a result.
+
+&#x200B;
+
+I probably wouldn't buy into say, Disney, because I don't own any shares to average up from and it likewise is a fine company that is very expensive.
+
+&#x200B;
+
+I guess though if I truly believed the stock was overvalued, I'd probably sell it. I'm tempted by £PETS because it seems expensive. If MSFT went to $400 tomorrow, I'm taking that profit and putting it elsewhere. If it's ""expensive"" but I have faith in the company, I'll consider buying, if it's ""overpriced"" I won't, and if I hold, I'll sell. 
+
+&#x200B;
+
+I have a list of companies I am planning to focus on in any crash, MSFT among them (and I'd love to pick up Disney at like $140).",TheBossHog_Youtube,18,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4srmx7/,0.036,0.805,0.159,0.9683
+27,IT, How can you be in IT and have this opinion? MSFT is more than windows. They have their hands in everything and will exceed earnings until the zombie apocalypse. Office 360 and cloud services alone are worth billions a year.,EXTRO_INTRO_VERTED,32,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4t0c82/,0.049,0.905,0.046,-0.0258
+28,MSFT, How can you be in IT and have this opinion? MSFT is more than windows. They have their hands in everything and will exceed earnings until the zombie apocalypse. Office 360 and cloud services alone are worth billions a year.,EXTRO_INTRO_VERTED,32,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4t0c82/,0.049,0.905,0.046,-0.0258
+29,AAPL," Only if that would be AAPL
+
+Company is going places.",SwordMaster78,27,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4smgth/,0.0,1.0,0.0,0.0
+30,SNOW, Microsoft being overvalued? Yea ok buddy. If anything stocks like SNOW or Tesla should be considered overvalued I’d recommend doing more research on msft.,Xfelix17,6,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4u5j9u/,0.0,0.745,0.255,0.7351
+31,AMZN," Yes, You cannot just wait for it to become not overvalued. Years/decade ago people all thought AMZN FB was overvalued, well it continues to excel. 
+
+Dollar cost average weekly into all my positions just in case it crashes, but sometimes it just never does. 
+
+Valuations of growing businesses will continue to fly. If it’s there’s barely or no growth, that’s another story. 
+
+Continuing to buy Tesla,Zoom. Which are the “newer” overvalued stock that everyone knows about. 
+Hold 60ish positions to off set some portfolio risk.
+
+Even if a recession like 2000,2007 came along, if it were couple years later, it would drop to maybe today’s price or even higher. Seriously why try to time the bottom.",RFenrisulfr,5,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4t2qdp/,0.102,0.793,0.105,-0.1847
+32,MSFT," I don’t agree that MSFT is considered widely overvalued. Yahoo finance shows only 1 Sell & 6 Hold out of 34 analysts. Average price target is 298, with current price 277. Forward looking PE is 33, what again is not so bad.",muravej,4,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tf841/,0.0,0.855,0.145,0.7256
+33,MSFT, Who considers MSFT overvalued?,GeneEnvironmental925,14,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tcay2/,0.0,1.0,0.0,0.0
+34,TSLA," I bought TSLA at $778, and my cost basis is $684... Sooooooo yes.
+
+
+As to why. I started learning about investing in 2019 when it became obvious to me that TSLA would become a force to be reckoned with. I can go into why I came to this conclusion if people want. Problem is I was not in. A position to start investing back then so I started a paper trade account and bought TSLA for the first time at a split adjusted price of $66. Woulda been nice to throw real money into it back then, but I was getting married starting, a family, and knew making my newb mistakes for free would be the best thing for me, so I stuck to my plan.",TrainquilOasis1423,4,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tk10u/,0.066,0.816,0.118,0.7667
+35,GME," What about GME, serious question. Or is it a ticker that isn’t following any of the fundamentals?",Beginning-Arrival-58,2,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4syvy8/,0.08,0.92,0.0,-0.0772
+36,AAPL," Isn’t that pretty much every tech stock out there. I keep MSFT, AAPL,GOOG, ZM,AMZN, just because the market is contrary where sense doesn’t make cents.",jcl4tx,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tsg95/,0.0,0.878,0.122,0.4939
+37,MSFT," Isn’t that pretty much every tech stock out there. I keep MSFT, AAPL,GOOG, ZM,AMZN, just because the market is contrary where sense doesn’t make cents.",jcl4tx,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tsg95/,0.0,0.878,0.122,0.4939
+38,ZM," Isn’t that pretty much every tech stock out there. I keep MSFT, AAPL,GOOG, ZM,AMZN, just because the market is contrary where sense doesn’t make cents.",jcl4tx,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tsg95/,0.0,0.878,0.122,0.4939
+39,IT," You're in IT and you don't see how MS has a future, by that do you mean you just like computers and video games and are not actually in IT?  Their OS / Office is essentially the standard for businesses.  Expanding their products and keeping companies in their ecosystem is how they continue to grow.  The integration of each application makes it so its more logical to use majority of Microsoft products, things such as Azure AD, One Drive, etc.",Erevoss,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4txcm7/,0.0,0.969,0.031,0.3612
+40,MS," You're in IT and you don't see how MS has a future, by that do you mean you just like computers and video games and are not actually in IT?  Their OS / Office is essentially the standard for businesses.  Expanding their products and keeping companies in their ecosystem is how they continue to grow.  The integration of each application makes it so its more logical to use majority of Microsoft products, things such as Azure AD, One Drive, etc.",Erevoss,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4txcm7/,0.0,0.969,0.031,0.3612
+41,MSFT," Yes. I really try to ignore those opinions and trust my own. Specifically, I added Amazon to my portfolio when it has recently crossed $1000 and a few close friends that also invest were certain it was a mistake. I would certainly be happy to buy more MSFT as I believe their long term prospects are great.",TheWendysGuy,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4ty6so/,0.073,0.568,0.359,0.9592
+42,CRWD," case by case. ppl were screaming how overvalued NET or CRWD were last yr, when these stocks were less than half the price they are today. i ignored the noise and kept buying the dips. 
+
+it only works for your high conviction picks that are of highest quality. i would not buy the low quality meme stocks at all time highs.",high_roller_dude,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4u2hwa/,0.078,0.893,0.029,-0.4742
+43,NET," case by case. ppl were screaming how overvalued NET or CRWD were last yr, when these stocks were less than half the price they are today. i ignored the noise and kept buying the dips. 
+
+it only works for your high conviction picks that are of highest quality. i would not buy the low quality meme stocks at all time highs.",high_roller_dude,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4u2hwa/,0.078,0.893,0.029,-0.4742
+44,AAPL," Look, overvalued is relative. The price you pay the duration you hold that company is your investment. 
+The higher you pay, the lower your return is going to be in that investment. I.e. you can get 15% ROI on undervalued companies or small caps, but maybe 7-10% for a big blue chip company. 
+What kind of return do you want?
+We know a correction is coming. 
+Many folks I know are pooling money for corrections/pullback and going on buying sprees. J Powell has a scheduled report with Congress on the 14th. I suspect the market is gonna be red fearing interest rate increases. Buy your high conviction companies like MSFT, AAPL, GOOG, and etc. They are a solid 20 year bet. Again, what kind of return do you want?  
+If the correct is severe enough, you could be waiting a while to break even on some prices in this market.",CptHolt,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4uii8c/,0.098,0.826,0.076,-0.5514
+45,GOOG," Look, overvalued is relative. The price you pay the duration you hold that company is your investment. 
+The higher you pay, the lower your return is going to be in that investment. I.e. you can get 15% ROI on undervalued companies or small caps, but maybe 7-10% for a big blue chip company. 
+What kind of return do you want?
+We know a correction is coming. 
+Many folks I know are pooling money for corrections/pullback and going on buying sprees. J Powell has a scheduled report with Congress on the 14th. I suspect the market is gonna be red fearing interest rate increases. Buy your high conviction companies like MSFT, AAPL, GOOG, and etc. They are a solid 20 year bet. Again, what kind of return do you want?  
+If the correct is severe enough, you could be waiting a while to break even on some prices in this market.",CptHolt,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4uii8c/,0.098,0.826,0.076,-0.5514
+46,MSFT," Look, overvalued is relative. The price you pay the duration you hold that company is your investment. 
+The higher you pay, the lower your return is going to be in that investment. I.e. you can get 15% ROI on undervalued companies or small caps, but maybe 7-10% for a big blue chip company. 
+What kind of return do you want?
+We know a correction is coming. 
+Many folks I know are pooling money for corrections/pullback and going on buying sprees. J Powell has a scheduled report with Congress on the 14th. I suspect the market is gonna be red fearing interest rate increases. Buy your high conviction companies like MSFT, AAPL, GOOG, and etc. They are a solid 20 year bet. Again, what kind of return do you want?  
+If the correct is severe enough, you could be waiting a while to break even on some prices in this market.",CptHolt,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4uii8c/,0.098,0.826,0.076,-0.5514
+47,PEG," Its fine to buy overvalued stock that institutions and private investors like. It might be priced by high hopes and all kinds of crazy dreams. Just know when to sell and when to buy. Tesla is my limit on dream valuation.
+
+FAANMG is a great example of slightly overvalued stock I like and could consider buy more of.
+I recently bought some more Netflix.
+I don't have Nvidia but I've held it for years might buy it soon again.
+
+I have several stocks with low PEG, PE high or decent growth, solid finacials and high esitmates their price grow slow almost nobody knows they exist and nobody cares.
+
+Build a Bear Workshop.
+Medifast.
+and such.
+
+Moderna might be overvalued but I will hold it during the pandemic.
+
+Valuation is a complex thing to calculate if the CEO is a massive fraud and the company has a huge gain in valuation each year why not just join the ride? 
+
+The market is often efficient but often it's herd behaviour.",265div153,0,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4u4jxd/,0.064,0.758,0.179,0.9543
+48,NVDA, I think NVDA is the most exciting company in the world.,jeffreyianni,29,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4t6sju/,0.0,0.72,0.28,0.5413
+49,MSFT, “I just don’t see a future without people using Microsoft products”… so all futures he/she sees include people using Microsoft products. I read it that op is bullish on MSFT.,InfectedAssMomFucker,4,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4u9tz2/,0.0,1.0,0.0,0.0
+50,AAPL, Yup. A decade ago when Steve Jobs died I thought that was as high as AAPL would ever go. Boy was I wrong. Got my first shares earlier this year. Better (really fking) late than never.,redratus,4,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tloru/,0.164,0.711,0.125,-0.3818
+51,DCF," Analysts, anyone whose done a DCF on them.. Solid hold for me. Although I’m sure it will go up plenty.",godlords,3,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tphnt/,0.0,0.813,0.187,0.4404
+52,GME," Here's my realistic view about GME.
+
+Before WSB, GME was a sinking ship.
+
+After WSB, GME sold new shares and banked massive profit and cleared debt.
+
+The company has potential. BUT, it is already worth 200 ish. Which isn't cheap for ''potential''.
+
+&#x200B;
+
+Before wallstreet bet, I wouldn't have spend 5$ a share for GME.
+
+But now that the company changed management, cleared debt and have cash to change. I'd be willing to pay 40+$ for it.
+
+But 200$ No god damn way I'll pay that for a risky play.",KokoroMain1475485695,8,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tp68r/,0.16,0.676,0.164,-0.128
+53,AMD, It's close between NVDA and AMD. What Lisa Su has done no one could have imagined. But Jensen Huang pushing the frontier faster than anyone thought is truly a sight to behold,1353-,16,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4t8116/,0.046,0.842,0.112,0.5023
+54,NVDA, It's close between NVDA and AMD. What Lisa Su has done no one could have imagined. But Jensen Huang pushing the frontier faster than anyone thought is truly a sight to behold,1353-,16,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4t8116/,0.046,0.842,0.112,0.5023
+55,GME, There will always be GME fanboys to downvote.  The sheep think they’re really sticking it to the man on this one,FreakyEcon,1,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tl50y/,0.0,1.0,0.0,0.0
+56,AMD, Until AMD is able to catch up. I don't believe Nvidia is going to have trouble staying on top with a high stock price.,icefire555,4,/r/stocks/comments/oi1fo4/would_you_buy_a_stock_that_is_widely_considered/h4tvi26/,0.11,0.816,0.073,-0.2263
+57,IBKR," Degiro has a good mobile app but no us options. But a lot of etfs even some without any fees. 
+
+IBKR is the best but has a complicated interface. You have to know what you are doing.",ricbees,25,/r/stocks/comments/oi9r7b/best_brokerage_for_eu_citizen/h4u01er/,0.067,0.746,0.187,0.714
+58,IBKR," IBKR for more active trading + many US products. DEGIRO fine for long term passive, tastyworks good for options",Stormseekr9,5,/r/stocks/comments/oi9r7b/best_brokerage_for_eu_citizen/h4u7vmi/,0.0,0.596,0.404,0.8173
+59,IBKR, IBKR hands down,TIK_GT,3,/r/stocks/comments/oi9r7b/best_brokerage_for_eu_citizen/h4u5iau/,0.0,1.0,0.0,0.0
+60,IBKR," You can use IBKR, Tastyworks, and Gotrade. The latter one is a new commission free broker, though its missing options trading.",aalfath,1,/r/stocks/comments/oi9r7b/best_brokerage_for_eu_citizen/h4ugaqf/,0.094,0.766,0.14,0.2732
+61,IBKR," IBKR also has quite wierd account verification process. I was unable to verify my address, as I'm renting I don't get utility bills in my name and everything else is digital and has no address on it and they for whatever reason require picture of a paper bill to prove your address idk if it is an American or just old school thing.",SnoozyFox,11,/r/stocks/comments/oi9r7b/best_brokerage_for_eu_citizen/h4u2srj/,0.058,0.942,0.0,-0.3818
+62,IBKR, IBKR is because they abolished the inactivity fee.,vulture_capitalist_,15,/r/stocks/comments/oi9r7b/best_brokerage_for_eu_citizen/h4u8502/,0.0,1.0,0.0,0.0
+63,ALL," Not sure if this qualifies, but there is a penny stock (SXOOF).  They do A LOT of different stuff (starting a battery recycling plant with best/ near best in tech), lithium extraction from clay with best in tech, 2 copper/ nickel/ PGE mines in Canada, etc...).  
+
+Interesting, they own ALL the mineral rights for the WHOLE country of Iceland.  So legally if there is ANYTHNG in the ground this company owns the rights to it.  They are in the process of mining for gold in Iceland.  The samples (past ones years ago) are being re-run and the director of that subsidiary just recently stated they have confirmed there is gold there but need to see if it can be commercialized.
+
+They also own 30% of some hydroelectric dam in Iceland as well.  Haven't heard much about that for awhile.  
+
+I did a DD on them sometime ago if you are interested.  They do mean business, as an example, they hired Paul Pelosi (son of Nancy Pelosi) as the Director of the recycling operation.",10xwannabe,1,/r/stocks/comments/oi1k6n/icelandic_energy_metals/h4t21ei/,0.008,0.865,0.127,0.9748
+64,DD," Not sure if this qualifies, but there is a penny stock (SXOOF).  They do A LOT of different stuff (starting a battery recycling plant with best/ near best in tech), lithium extraction from clay with best in tech, 2 copper/ nickel/ PGE mines in Canada, etc...).  
+
+Interesting, they own ALL the mineral rights for the WHOLE country of Iceland.  So legally if there is ANYTHNG in the ground this company owns the rights to it.  They are in the process of mining for gold in Iceland.  The samples (past ones years ago) are being re-run and the director of that subsidiary just recently stated they have confirmed there is gold there but need to see if it can be commercialized.
+
+They also own 30% of some hydroelectric dam in Iceland as well.  Haven't heard much about that for awhile.  
+
+I did a DD on them sometime ago if you are interested.  They do mean business, as an example, they hired Paul Pelosi (son of Nancy Pelosi) as the Director of the recycling operation.",10xwannabe,1,/r/stocks/comments/oi1k6n/icelandic_energy_metals/h4t21ei/,0.008,0.865,0.127,0.9748
+65,AU," I'm not too keen on touching Alcoa due to the NYSE listing but Rio Tinto looks pretty good on the AU Exchange. Thanks for pointing this out!
+
+Is there a list of Companies in Iceland and the exchanges they're listed on? Surprising to me that they're not listed on ICEX/XICE",Ok-Law6586,1,/r/stocks/comments/oi1k6n/icelandic_energy_metals/h4spso1/,0.026,0.727,0.247,0.937
+66,TSLA," Just like with TSLA, pretty cool Elon showed up live in person to support Branson.",shad0wtig3r,9,/r/stocks/comments/oibdub/branson_completes_virgin_galactic_flight_aiming/h4udoqx/,0.0,0.507,0.493,0.8658
+67,MSFT," So you and I are in the same ish boat. I think the play is not to get pure divendend stocks but great stocks that also have a dividend so you can reinvest into that stock.
+
+APPL and MSFT both pay small divendends as examples.",JustNotFatal,4,/r/stocks/comments/ohu7i3/dividend_funds/h4rueyr/,0.033,0.813,0.153,0.775
+68,UWMC, Take it from someone who held dividend stocks in his 20s and continued pouring cash into each of them monthly.... you most definitely keep div stocks but choose wisely. Choose one with huge upside limited risk. UWMC is my play for a div stock. Over 7M invested and my compounding is self propelled growth/profits.,Profitordietrying,12,/r/stocks/comments/ohu7i3/dividend_funds/h4raeqw/,0.078,0.737,0.184,0.7748
+69,DD," There is nothing wrong with dividend stocks but there is plenty wrong with dividend ""funds."" Namely, their fees are generally outrageously high compared to meat and potato ETF's. They get away with it because they are sort of a niche market.
+
+I recommend staying away from these funds unless you can find one that charges less than or = 0.1% fees...
+
+The only one I might recommend is VYM. 0.06% expense ratio and solid blue chips in the portfolio. But... although this is supposed to be a ""high yield"" ETF it is anything but ""high"" sitting at around 2.8%... which is pretty high for the current market, but not very high compared to the more gimmicky stuff that invests in mREITs or plays with margins + options strategies. But it is a  lot safer obviously. Another possibly ok one is SCHD. You will need to do your own DD on these two ETFs.
+
+I strongly suggest you buy your own dividend stocks. There are plenty of long term safe plays that yield 3% or so. If you want higher, then you need to delve into REITs. Thats a topic in itself since there are a lot of REIT sectors that I consider garbage right now while others are pretty good.",thejumpingsheep2,1,/r/stocks/comments/ohu7i3/dividend_funds/h4tlcit/,0.023,0.78,0.196,0.9901
+70,AAPL, Why not have both growth and dividend. AAPL and MSFT have dividends.,thekingbun,1,/r/stocks/comments/ohu7i3/dividend_funds/h4thejf/,0.166,0.834,0.0,-0.2924
+71,MSFT, Why not have both growth and dividend. AAPL and MSFT have dividends.,thekingbun,1,/r/stocks/comments/ohu7i3/dividend_funds/h4thejf/,0.166,0.834,0.0,-0.2924
+72,MSFT," No, unless you're holding tens of thousands of dollars in these companies, nobody buys MSFT/AAPL because of the DRIP opportunity. The dividend is just a side factor for the average investor.",gsdlandshark,4,/r/stocks/comments/ohu7i3/dividend_funds/h4sxwj8/,0.067,0.848,0.085,0.1531
+73,AAPL," Yeah, My approach is AAPL/MSFT for a big-tech and that the dividends are always nice, but not what i’m basing my decisions of the stock on. I have other companies i’m invested in for dividends (4%+) that give a nice return that I know is coming every quarter.",Bloated_lampshade23,1,/r/stocks/comments/ohu7i3/dividend_funds/h4ti6qv/,0.0,0.851,0.149,0.7351
+74,UWMC," And UWMC has doubled down on in-house proprietary technology and put it in the hands of roughly 10,000 independent mortgage brokers. Expecting over $200B in volume this year with the tech built for 500B... that’s why uwmc is seriously insane value",Profitordietrying,-1,/r/stocks/comments/ohu7i3/dividend_funds/h4sj8v6/,0.098,0.848,0.054,-0.25
+75,FCF," bought them back a few months ago and late last year. I would recommend go after the big regional banks if you decide to jump in, they tend to be more responsible with their $$ and have decent dividends. KEY Bank has an interesting footprint and is expanding into higher income areas, Zion Bank owns several other small banks in the west coast area and with their overwhelmingly Mormon customer base they are loyal as hell to their bank and great div payment.  First Horizon Corp (Tennessee based) for some reason trades very cheaply compared to other banks and also has good dividend payment history. FCF is big in the New England area, they are less than $14 a share but I think will hit $16-$17 within 6-12 months and pays a high div. Umpqua bank has a very high dividend and is focused on the Pacific Northwest which is home to Microsoft, Amazon, many other big tech comps.",The_Number_12,6,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4u76b1/,0.025,0.861,0.114,0.896
+76,KEY," bought them back a few months ago and late last year. I would recommend go after the big regional banks if you decide to jump in, they tend to be more responsible with their $$ and have decent dividends. KEY Bank has an interesting footprint and is expanding into higher income areas, Zion Bank owns several other small banks in the west coast area and with their overwhelmingly Mormon customer base they are loyal as hell to their bank and great div payment.  First Horizon Corp (Tennessee based) for some reason trades very cheaply compared to other banks and also has good dividend payment history. FCF is big in the New England area, they are less than $14 a share but I think will hit $16-$17 within 6-12 months and pays a high div. Umpqua bank has a very high dividend and is focused on the Pacific Northwest which is home to Microsoft, Amazon, many other big tech comps.",The_Number_12,6,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4u76b1/,0.025,0.861,0.114,0.896
+77,DD," I haven’t done DD for all banks but Citi Group ($C) had a PEG ratio less than 1 which indicates it’s undervalued and Michael Burry’s purchased $400,000 in call options. Finally, they also indicated that they could begin collecting on ~ 1 billion and in notes this coming fiscal quarter. 
+
+These indicate a 30%- 50% growth in the next 12 months but that’s just my personal DD methodology.",rodrigkn,3,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4uccjx/,0.0,0.947,0.053,0.5267
+78,PEG," I haven’t done DD for all banks but Citi Group ($C) had a PEG ratio less than 1 which indicates it’s undervalued and Michael Burry’s purchased $400,000 in call options. Finally, they also indicated that they could begin collecting on ~ 1 billion and in notes this coming fiscal quarter. 
+
+These indicate a 30%- 50% growth in the next 12 months but that’s just my personal DD methodology.",rodrigkn,3,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4uccjx/,0.0,0.947,0.053,0.5267
+79,BX, BX and KKR,GriffCool13,1,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4u7zgz/,0.0,1.0,0.0,0.0
+80,KKR, BX and KKR,GriffCool13,1,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4u7zgz/,0.0,1.0,0.0,0.0
+81,WFC," Had we bought them last year, wow. Though WFC still has a but more to run before meeting last years peak!",why_wouldeye_ever,2,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4uh18p/,0.0,0.876,0.124,0.4003
+82,BMO," TD, RY, BMO, CM, BNS just to get you started.",why_wouldeye_ever,2,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4ulfto/,0.0,1.0,0.0,0.0
+83,BNS," TD, RY, BMO, CM, BNS just to get you started.",why_wouldeye_ever,2,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4ulfto/,0.0,1.0,0.0,0.0
+84,CM," TD, RY, BMO, CM, BNS just to get you started.",why_wouldeye_ever,2,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4ulfto/,0.0,1.0,0.0,0.0
+85,RY," TD, RY, BMO, CM, BNS just to get you started.",why_wouldeye_ever,2,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4ulfto/,0.0,1.0,0.0,0.0
+86,TD," TD, RY, BMO, CM, BNS just to get you started.",why_wouldeye_ever,2,/r/stocks/comments/oiamwk/time_to_buy_the_banks/h4ulfto/,0.0,1.0,0.0,0.0
+87,MA," If you're playing in a tax-free account, a simple MA strategy switching between the 3x fund and normal fund when above/below has shown huge returns. I backtested the strategy myself from 1980 to now, and came out with 10 mil off a $1k investment. Obviously if you're getting taxed though, this strategy will fail, since you make an average of 4 trades a year.",Traditional_Fee_8828,5,/r/stocks/comments/ohuoh5/is_there_anything_wrong_with_reliable_leveraged/h4smkiw/,0.056,0.879,0.065,-0.1027
+88,GOOGL, You could split amongst MSFT AAPL GOOGL PYPL NVDA AMZN UNH HD.,apooroldinvestor,1,/r/stocks/comments/oht0fk/long_term_of_1015_years/h4uc57n/,0.0,1.0,0.0,0.0
+89,MSFT, You could split amongst MSFT AAPL GOOGL PYPL NVDA AMZN UNH HD.,apooroldinvestor,1,/r/stocks/comments/oht0fk/long_term_of_1015_years/h4uc57n/,0.0,1.0,0.0,0.0
+90,NVDA, You could split amongst MSFT AAPL GOOGL PYPL NVDA AMZN UNH HD.,apooroldinvestor,1,/r/stocks/comments/oht0fk/long_term_of_1015_years/h4uc57n/,0.0,1.0,0.0,0.0
+91,UNH, You could split amongst MSFT AAPL GOOGL PYPL NVDA AMZN UNH HD.,apooroldinvestor,1,/r/stocks/comments/oht0fk/long_term_of_1015_years/h4uc57n/,0.0,1.0,0.0,0.0
+92,FB, where do you see FB in 10-15 years? i have zero confidence in them in the long run,maz-o,1,/r/stocks/comments/oht0fk/long_term_of_1015_years/h4sjit6/,0.0,0.829,0.171,0.5106
+93,FB," Why?
+
+They have 2 billion users of just the Facebook app alone. Messenger, Whatsapp, and Instagram all average around 2 billion users as well. Their social media platforms print money.
+
+Look at their margins in comparison to google, apple, and microsoft. Look at their balance sheet, which is so clean it it will blow your mind. 
+
+But long run Facebook is betting big on VR. Thats their future. 1/5th of employees work on it, and they spend 10 billion a year on R&D, and average 4-5 vr company aquisitions a year. VR currently makes less than 1% of revenue. Zuck sees it as their future.
+
+All the other giants spread their future research among a multitude of projects including ai driving, cloud shit, little bit of ar/vr, and robotics. FB is pretty much just all in on VR.",BobandSteve,1,/r/stocks/comments/oht0fk/long_term_of_1015_years/h4tc0rl/,0.045,0.898,0.057,0.1768
+94,FB," FB is huge in emerging and Third World markets. As in, literally synonymous with the internet.
+
+If a person is attracted to VT, for instance, because they want exposure to markets outside the US but said person still wants to buy individual stocks, $FB would be a great choice for an American stock with enormous international exposure.
+
+Consider that Facebook's largest market is India (more than double the size of their US market) and that India's economy is projected to overtake the US economy by the end of this decade.",Stonesfan03,1,/r/stocks/comments/oht0fk/long_term_of_1015_years/h4ulvar/,0.0,0.89,0.11,0.8537
+95,FB," You're understanding of digital advertising is strange. It's not like people post ads and hope someone notices.
+
+On FB you see the click through. You know you spent $20k on ads which generated 1k clickthrough and converted 200 people. Average lifetime value of customer is $250 so 200*250=$50k which is less than the $20k ad spend. Therefor, the company should increase it's FB marketing budget. 
+
+It's weird to “not believe” in this as a concept. As if we're discussing Santa Claus",msnebjsnsbek5786,1,/r/stocks/comments/oht0fk/long_term_of_1015_years/h4tyh96/,0.064,0.849,0.087,0.457
+96,TV," Yeah I mean, does anyone pay attention to TV commercials? No, but that doesn't mean they're going to disappear anytime soon.
+
+Advertising is everywhere in the background of our lives, but we're so used to it that we just tune it out like white noise. But companies aren't going to just stop advertising anytime soon.
+
+A company would be silly to NOT buy advertising on the world's two largest social media platforms.",Stonesfan03,1,/r/stocks/comments/oht0fk/long_term_of_1015_years/h4ukokm/,0.103,0.819,0.078,-0.2382
+97,FIF," Since it sounds like you're a kiwi, it's actually the opposite - there's a tax incentive not to invest outside of Australia and NZ over a certain amount. Look up FIF.",Forlonius,1,/r/stocks/comments/ohrk1y/perpetually_buying_stocks_in_foreign_currencies/h4r6ap3/,0.0,0.772,0.228,0.7269
+98,IMO," Run away from new ETFs in an entirely new type of market. 
+
+Run away and hide, waiting for the day they have a more stable flow to their movements. Way too much risk and that's even before you calculate whether the owner is lying about something or not.
+
+Full disclosure; I did okay with MJ but I got in there early. IMO psychedelic doesn't really have a leg to stand on because uses are more limited and Marijuana growers would probably one day either start growing it or adopt the stocks into their ETFs because why wouldn't they?",HarmoniousJ,1,/r/stocks/comments/ohy9qx/risky_speculative_etfs_like_the_psychedelic_etf/h4s2h94/,0.078,0.85,0.072,-0.1513
+99,GM," Consider short term variable rate demand notes, several of which function like a limited checking account or money market fund, albeit without the federal protection banks offer. Rates are as high as 1.5% They are investment products, so read the prospectus.
+
+Read the discussion here (particularly about GM's old program): [https://www.bogleheads.org/forum/viewtopic.php?f=1&t=340088](https://www.bogleheads.org/forum/viewtopic.php?f=1&t=340088)
+
+Companies currently offering higher rates:
+
+Toyota (1.35%): [https://www.incomedrivernotes.com/en.html](https://www.incomedrivernotes.com/en.html)
+
+GM (1.5%): [https://www.rightnotes.com/](https://www.rightnotes.com/)
+
+Mercedes-Benz (1.1%): [https://www.firstclassdemandnotes.com/](https://www.firstclassdemandnotes.com/)
+
+Dominion Energy (up to 1.5%): [investors.dominionenergy.com/deri](https://investors.dominionenergy.com/deri)",Deckard95,1,/r/stocks/comments/oicejm/any_bonds_or_cds_recommended_right_now/h4uiv9f/,0.046,0.888,0.067,0.3736
+100,EQT," In the settlement, EQT agrees to pay $53.5 million into a settlement fund ... where is the $35b payout???  NOT.",Ok-GeodesRock49,1,/r/stocks/comments/oiakj6/eqt_settles_first_of_many_multimillion_dollar/h4u67zi/,0.068,0.82,0.113,0.2359
+101,IMO," IMO trim that to about 10 or 20 stocks, and put the rest of the money into some fund or ETF with broad diversification across the entire economy. something like VOO, IWB or VTI/ITOT. 
+
+IMO there's no reason to hold single stocks like Microsoft of Apple when they're already a top holding in most ETFs.",harrison_wintergreen,1,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4t5147/,0.037,0.847,0.115,0.5574
+102,ALL," I’m doing something similar! I’ve got around 200, counting etfs.
+
+There are just so many (seemingly) good plays with different philosophies out there. Green energy, brown energy, tech, finance, autonomous vehicles, electric cars, reopening plays (travel etc), a few irresponsible wsb yolos, the list goes on.
+
+Like you I’m going to see how my small amounts play out in the short term and add to what looks promising longer term.
+
+The problem is, will success continue? Like, SPCE might jump from 50 to 100 tomorrow because of the launch today.Since it does well, maybe I double my investment. But then it calms down because nothing new happens and returns to like 60 over the next 3 months. Suddenly my investment is NOT doing well. So it is tricky.
+
+Right now I’m narrowly beating the SP500 so I’ll continue. At some point I will decide what to trim.
+
+I DONT advise selling anything red, however. My small starter investments are meant to be money lost. I will hold until green.
+
+My plan tho is sell what is positive return but lower than SP500, keep and buy more of what is positive return BEYOND SP500.
+
+It helps because my strategy for ALL of my stocks and etfs is long term hold. I have not purchased anything I don’t feel comfortable holding for less than 5 years, and I understand it might take that long to get any profit from some of them. So as far as I understand, the naysayers here who say it is “too much to keep track of” are missing the point. I *don’t buy* things that I feel I have to micromanage and check each day and make sure it is not “yikes it is going to zero today i need to sell!” Instead I’m confident all will go up long term, tho I accept that I WILL be wrong on a number of them, and accept that some money will be lost. I expect a net gain when you add it all together tho.",redratus,1,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4u4tvf/,0.068,0.747,0.185,0.9908
+103,SPCE," I’m doing something similar! I’ve got around 200, counting etfs.
+
+There are just so many (seemingly) good plays with different philosophies out there. Green energy, brown energy, tech, finance, autonomous vehicles, electric cars, reopening plays (travel etc), a few irresponsible wsb yolos, the list goes on.
+
+Like you I’m going to see how my small amounts play out in the short term and add to what looks promising longer term.
+
+The problem is, will success continue? Like, SPCE might jump from 50 to 100 tomorrow because of the launch today.Since it does well, maybe I double my investment. But then it calms down because nothing new happens and returns to like 60 over the next 3 months. Suddenly my investment is NOT doing well. So it is tricky.
+
+Right now I’m narrowly beating the SP500 so I’ll continue. At some point I will decide what to trim.
+
+I DONT advise selling anything red, however. My small starter investments are meant to be money lost. I will hold until green.
+
+My plan tho is sell what is positive return but lower than SP500, keep and buy more of what is positive return BEYOND SP500.
+
+It helps because my strategy for ALL of my stocks and etfs is long term hold. I have not purchased anything I don’t feel comfortable holding for less than 5 years, and I understand it might take that long to get any profit from some of them. So as far as I understand, the naysayers here who say it is “too much to keep track of” are missing the point. I *don’t buy* things that I feel I have to micromanage and check each day and make sure it is not “yikes it is going to zero today i need to sell!” Instead I’m confident all will go up long term, tho I accept that I WILL be wrong on a number of them, and accept that some money will be lost. I expect a net gain when you add it all together tho.",redratus,1,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4u4tvf/,0.068,0.747,0.185,0.9908
+104,TA," I have Algonquin, RNW, TA, these are Canadian, i also have some water stocks like HEO, i have Nextera, many actually, Enbridge Split Share Fund (ENS), i also have the ETF: PBD. If you look at the tickers, many of them are renewables",zanoo911,1,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4seuhe/,0.0,0.887,0.113,0.5719
+105,AMT," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+106,APPH," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+107,APPN," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+108,CRM," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+109,CRWD," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+110,ETSY," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+111,FSLY," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+112,ISRG," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+113,IT," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+114,MC," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+115,MELI," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+116,NIO," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+117,SE," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+118,SNOW," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+119,SQ," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+120,TDOC," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+121,ZS," I’d venture to guess having >50 individual stock positions is somewhat rare for the average retail investor and >100 and very rare. That’s why you’ll get people who see “I have 100 positions” who instantly respond with “lol you’ve only built an ETF.” I’ve had plenty of people tell me that when I’ve mentioned how many positions I have. They say I’m diversified too much with the added risk of picking stocks. What they fail to ask if what are my holdings in. Currently, nearly 3/4 of my portfolios are in IT, consumer discretionary, and health care. I’m far from diversified. I also only have 29 stocks that are in SPY and 19 that are in QQQ. I am seeking response risk since I plan to be invested for 30+ more years. 
+
+Just realized I’m rambling about me lol. In regards to your positions, I’ll stick with what I originally said. Sell anything you don’t have 100% conviction in. It doesn’t have to be a mass selling. You could do it over 6-12 months or something. I have a Sell Watchlist that I occasionally add positions to that I’m wavering on. I’ll pay a bit more attention to them, news around them, their earnings, investor call, etc. to see if my investment thesis still holds. If it doesn’t, I sell. A stock usually sits on that watchlist for 3-6 months before I sell it or decide I still want to be invested. It works for me. Maybe something like that would work for you and help you pare down from 150 to only the companies you really want to own. 
+
+I perused your list. I don’t recognize some and don’t have the time to look them up now but my 2 cents on a few that aren’t in your keep section:
+
+I own and wouldn’t consider selling: APPN, CRWD, ETSY, ISRG, MELI, SE, SQ, ZS, AMT, 
+
+I own and wouldn’t consider selling but would understand why someone else would: APPH, FSLY, NIO, SNOW, TDOC, 
+
+I don’t own CRM but I expect I will soon. 
+
+Of the ones I mentioned above, MELI and ISRG are two of my highest conviction holdings. MELI in particular. It’s my 3rd largest position. They are an incredible company growing shockingly fast (hello Mercado Pago!) and they aren’t even an 80B MC company yet. I could see them 5x in the next 10 years.",interrobangbros,3,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4rx6gp/,0.026,0.942,0.032,0.3274
+122,IBKR," Oh I just see it is only for US institutions, I can't connect my Canadian accounts. I suppose IBKR will be the only one then, since it is my USD account. Even though I am not in the US.",zanoo911,1,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4ufjae/,0.0,1.0,0.0,0.0
+123,GOOGL," I worry the same as you. In 1.5 years I've made $16k just by holding my positions.  In 5 years regardless you'll have more money.  Don't over think.  MOST stocks go up.  Especially msft aapl GOOGL PYPL NVDA etc!
+
+I made $16k off of initial $49750 investment in 1.5 yr so far. That's about $8k a year doing nothing.  Not bad in my book.  Can my portfolio go down? Yes.  But in 5 years I have a feeling ill be close tonif not $100k.",apooroldinvestor,1,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4um2wi/,0.092,0.865,0.043,-0.6157
+124,NVDA," I worry the same as you. In 1.5 years I've made $16k just by holding my positions.  In 5 years regardless you'll have more money.  Don't over think.  MOST stocks go up.  Especially msft aapl GOOGL PYPL NVDA etc!
+
+I made $16k off of initial $49750 investment in 1.5 yr so far. That's about $8k a year doing nothing.  Not bad in my book.  Can my portfolio go down? Yes.  But in 5 years I have a feeling ill be close tonif not $100k.",apooroldinvestor,1,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4um2wi/,0.092,0.865,0.043,-0.6157
+125,ON," Yes and that is why broad market index funds are invested. If you own VTI (vanguard total stock market) it covers EVERY stock in the entire U.S. market except the 3% or so that is not covered in the microcap world.  So that one holding covers EVERY stock in every industry in every sector.
+
+When you are picking stocks ON TOP of that you are betting/ gambling/ speculating you think one of those stocks are somehow mispriced despite the MILLIONS of professional and amateur eyes watching it every day and thus choose to overweight it in the portfolio. That is fine with a few stocks, but the issue with that many is even if you are right and that stock goes up MUCH higher the impact to the total portfolio value is so small since the % allocated to it is so small.",10xwannabe,1,/r/stocks/comments/ohvzti/way_too_many_stocks_to_choose_from/h4uhw8c/,0.012,0.932,0.056,0.656
+126,AMC," Excellent advice.  
+
+To the OP, the comments on GME/ AMC and eluding to the market being too high are both VERY dangerous things to teach anybody about investing.  Both fit under active management (security selection and marketing timing) and are a loser's game.  They produce negative alpha.  
+
+Here is my advice for him or ANYONE as the first step.  Go pick up a copy of ""How a second grader beat wall street"" by Allen Roth.  Easy to understand, direct to the point of ""WHY"", and can be read in 1 weekend.  
+
+Starting in investing is not as important as CORRECTLY starting in investing. Getting into bad habits is not easy to correct later on in life.",10xwannabe,2,/r/stocks/comments/ohwxvp/advice_for_a_young_investor/h4t2qms/,0.118,0.792,0.091,-0.546
+127,GME," Excellent advice.  
+
+To the OP, the comments on GME/ AMC and eluding to the market being too high are both VERY dangerous things to teach anybody about investing.  Both fit under active management (security selection and marketing timing) and are a loser's game.  They produce negative alpha.  
+
+Here is my advice for him or ANYONE as the first step.  Go pick up a copy of ""How a second grader beat wall street"" by Allen Roth.  Easy to understand, direct to the point of ""WHY"", and can be read in 1 weekend.  
+
+Starting in investing is not as important as CORRECTLY starting in investing. Getting into bad habits is not easy to correct later on in life.",10xwannabe,2,/r/stocks/comments/ohwxvp/advice_for_a_young_investor/h4t2qms/,0.118,0.792,0.091,-0.546
+128,VERY," Excellent advice.  
+
+To the OP, the comments on GME/ AMC and eluding to the market being too high are both VERY dangerous things to teach anybody about investing.  Both fit under active management (security selection and marketing timing) and are a loser's game.  They produce negative alpha.  
+
+Here is my advice for him or ANYONE as the first step.  Go pick up a copy of ""How a second grader beat wall street"" by Allen Roth.  Easy to understand, direct to the point of ""WHY"", and can be read in 1 weekend.  
+
+Starting in investing is not as important as CORRECTLY starting in investing. Getting into bad habits is not easy to correct later on in life.",10xwannabe,2,/r/stocks/comments/ohwxvp/advice_for_a_young_investor/h4t2qms/,0.118,0.792,0.091,-0.546
+129,AMZN, MSFT NVDA UNH GOOGL AMZN PYPL LRCX.  Lots of good stocks. Or do QQQ etf or VGT etc.,apooroldinvestor,2,/r/stocks/comments/ohup7l/50_a_week_to_50k/h4tegh5/,0.0,0.854,0.146,0.4404
+130,LRCX, MSFT NVDA UNH GOOGL AMZN PYPL LRCX.  Lots of good stocks. Or do QQQ etf or VGT etc.,apooroldinvestor,2,/r/stocks/comments/ohup7l/50_a_week_to_50k/h4tegh5/,0.0,0.854,0.146,0.4404
+131,MSFT, MSFT NVDA UNH GOOGL AMZN PYPL LRCX.  Lots of good stocks. Or do QQQ etf or VGT etc.,apooroldinvestor,2,/r/stocks/comments/ohup7l/50_a_week_to_50k/h4tegh5/,0.0,0.854,0.146,0.4404
+132,UNH, MSFT NVDA UNH GOOGL AMZN PYPL LRCX.  Lots of good stocks. Or do QQQ etf or VGT etc.,apooroldinvestor,2,/r/stocks/comments/ohup7l/50_a_week_to_50k/h4tegh5/,0.0,0.854,0.146,0.4404
+133,ATH," Let me tell you a fact: Since 1927, when the S&P 500 has reached an ATH, there’s been a 97,3% chance of the index hitting ANOTHER ATH in the next 90 days. 
+
+When the index has made an ATH, there’s a 0,15% chance that there will be a 20% drop within 90 days. That’s less than 2 times out of 1000. And there’s a 7 in a 1000 chance that the index will fall over 10% within 90 days.
+
+So the odds are small. Consider yourself lucky if you manage to effectively short the S&P 500. Or you’re a wizard.",juaggo_,5,/r/stocks/comments/ohrsq2/shorting_sp_500/h4qyttc/,0.021,0.847,0.132,0.8402
+134,TSLA," If TSLA goes back up, the s&p isn’t going down anytime soon",thekingbun,0,/r/stocks/comments/ohrsq2/shorting_sp_500/h4r6xm1/,0.0,1.0,0.0,0.0
+135,TSLA, TSLA isn't singlehandedly keeping the S&P up,maz-o,0,/r/stocks/comments/ohrsq2/shorting_sp_500/h4sjoxs/,0.0,1.0,0.0,0.0

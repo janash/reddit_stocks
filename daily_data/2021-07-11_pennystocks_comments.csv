@@ -1,0 +1,258 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,ATOS," I'm still holding ATOS, so yeah I can take a joke.",SentryXCI,71,/r/pennystocks/comments/ohrvoq/did_you_know/h4rcyn2/,0.0,0.58,0.42,0.6207
+1,CTXR, CTXR has not done me dirty. Ready for round 2 later this year.,SlurpyBanana,4,/r/pennystocks/comments/ohrvoq/did_you_know/h4rtgw4/,0.0,0.671,0.329,0.6002
+2,DD," This sub used to be great, now it's just homework. I am doing DD on someone's potentially fake DD.",SethGekco,3,/r/pennystocks/comments/ohrvoq/did_you_know/h4rweoh/,0.134,0.69,0.177,0.25
+3,BNGO," What if that motherfucker Joker bought 1,000,000 shares of BNGO when it was a pennystock??",200milli-amps,2,/r/pennystocks/comments/ohrvoq/did_you_know/h4t5u1t/,0.252,0.56,0.188,-0.504
+4,ATOS, Well this bodes well for the $500 in ATOS weeklies I bought Friday...,Life_Whereas_3789,23,/r/pennystocks/comments/ohrvoq/did_you_know/h4rf3xk/,0.0,0.704,0.296,0.4939
+5,CTXR, My total return on CTXR so far is -$245 gonna keep holding 🤡,cherginer,2,/r/pennystocks/comments/ohrvoq/did_you_know/h4sr0pq/,0.0,1.0,0.0,0.0
+6,CTXR, *Sad CTXR noises*,zutrasimlo,8,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4u8ma4/,0.0,1.0,0.0,0.0
+7,API," Hey guys,  
+  
+It's u/nobjos back again with this week's post. I post a similar list every week.  
+  
+Some FAQ’s:  
+  
+How does the program work: The program is built using Python and uses both Twitter and Reddit API to stream comments and tweets and spot tickers that are exhibiting accelerated growth. I added sentiment analysis to the findings so as to check the general sentiment (whether what is being talked about the stock is positive or negative).  
+  
+Can I use the code/is it open source: Yes.  
+  
+What is sentiment: It's calculated using natural language processing with a modified version of vadersentiment. You get pre-trained models which classify whether a given statement is positive or negative. I have modified it to analyse financial comments also ( eg. Calls, puts, moon, gain, loss etc). It then classifies the statement between -100% and +100% depending on if it's negative or positive respectively. The numbers you are seeing here is the average across all the comments.  
+  
+Cheers!",nobjos,7,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4t2zxn/,0.054,0.791,0.155,0.9523
+8,SPRT, Where my SPRT homies at..,StopStalkingMeBitch1,7,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4t5lko/,0.0,1.0,0.0,0.0
+9,ACST, People should be doing their DD on ACST,1ChevySS,0,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4t4b5u/,0.0,1.0,0.0,0.0
+10,DD, People should be doing their DD on ACST,1ChevySS,0,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4t4b5u/,0.0,1.0,0.0,0.0
+11,SPRT," SPRT, XERS, made good money on XELA",Old_School_gamer69,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4t729e/,0.0,0.674,0.326,0.4404
+12,XELA," SPRT, XERS, made good money on XELA",Old_School_gamer69,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4t729e/,0.0,0.674,0.326,0.4404
+13,XERS," SPRT, XERS, made good money on XELA",Old_School_gamer69,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4t729e/,0.0,0.674,0.326,0.4404
+14,ACU, Watching ASTI AKMY.V ACU.V,green_stocks3,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4t7iy7/,0.0,1.0,0.0,0.0
+15,CMC," I'm banking on CMC.V. At $1.31 a share, positive outlook, and zero competition in Canada, its got tons of potential. The company has built 2 of 40 refineries to make biodiesel from landfill waste. It's innovative, solves a problem, and has great margins for profit.
+
+https://www.cielows.com/cielo-aldersyde-and-edmonton-progress-update-cielo-is-on-target-to-complete-next-steps/",SoccerStar1986,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4tz367/,0.094,0.6,0.305,0.9062
+16,ATOS, I bought 1 share of ATOS to feel the rush.  That and I didn't do any DD to put any real money on it.  Kind of like a scratch off.  Maybe I'll make enough for a bottle of soda.,pogkob,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4u041d/,0.0,0.872,0.128,0.5719
+17,DD, I bought 1 share of ATOS to feel the rush.  That and I didn't do any DD to put any real money on it.  Kind of like a scratch off.  Maybe I'll make enough for a bottle of soda.,pogkob,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4u041d/,0.0,0.872,0.128,0.5719
+18,CTO," Will continue to preach WLDFF. They turn a profit, and when CTO is lifted we'll get multiple earnings reports.
+
+Might dip Initially when trading is resumed, and with good earnings could then easily fly to .40.",Mas-Picante,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4u7hj0/,0.0,0.796,0.204,0.802
+19,ITRM, Bought into ITRM after the sell off last week. Will hold and see where they are in coming weeks with FDA label warning and approval. Also took a position in SONM. Fresh off a 52 week low after an offering for up to 10 million shares.,FiddleFacked,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4ujn2t/,0.088,0.763,0.149,0.4767
+20,SONM, Bought into ITRM after the sell off last week. Will hold and see where they are in coming weeks with FDA label warning and approval. Also took a position in SONM. Fresh off a 52 week low after an offering for up to 10 million shares.,FiddleFacked,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4ujn2t/,0.088,0.763,0.149,0.4767
+21,KGC, KGC,-Gol-D-Roger--,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4ukkup/,0.0,1.0,0.0,0.0
+22,NYC," SPRT is gtonna have a big week. the pps didn't adjust appropriately at all last week given all the great news (decrease in mining difficulty, new plant in SC, Eric Adams as NYC mayor, etc.)
+
+all that went up is the short interest, and they're going to regret it!",Joe_Mamr,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4ui3xq/,0.092,0.777,0.131,0.4926
+23,SC," SPRT is gtonna have a big week. the pps didn't adjust appropriately at all last week given all the great news (decrease in mining difficulty, new plant in SC, Eric Adams as NYC mayor, etc.)
+
+all that went up is the short interest, and they're going to regret it!",Joe_Mamr,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4ui3xq/,0.092,0.777,0.131,0.4926
+24,SPRT," SPRT is gtonna have a big week. the pps didn't adjust appropriately at all last week given all the great news (decrease in mining difficulty, new plant in SC, Eric Adams as NYC mayor, etc.)
+
+all that went up is the short interest, and they're going to regret it!",Joe_Mamr,1,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4ui3xq/,0.092,0.777,0.131,0.4926
+25,MMAT, TRCH is now MMAT.,SoccerStar1986,7,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4t3d6t/,0.0,1.0,0.0,0.0
+26,KTRA," KTRA has low volume, it makes me nervous to get in. I've been watching it for about two weeks now.",I_bake_you_cookies,5,/r/pennystocks/comments/oi4p3a/most_discussed_stocks_in_pennystocks_last_week/h4twed8/,0.189,0.811,0.0,-0.4939
+27,BTAI, BTAI. It's high risk biotech but they just raised capital at something like 31.70 and are now trading significantly below that.,quasiquant,6,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4sv80z/,0.065,0.798,0.137,0.4019
+28,CTXR, CTXR. We were expecting the boom to happen in early July but the phase 3 trial results won’t be happening until December now. Which isn’t bad news because it still looks really good. You can probably put it on your watchlist and see if drops more but the stock is still set to go up before and after the trials.,shifty_peanut,5,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4tm69z/,0.072,0.863,0.065,-0.1181
+29,DD," Technically no longer a penny stock (rose from 2 to 5USD over the last 2 weeks), NLST.
+
+Unlike all others mentioned here, there is very very low risk, and high reward. 
+
+Briefly- 
+
+1. stable company, around >10 years, makes profit, makes physical tangible product used by companies like GOOGLE, has very important patents, etc. 
+2. Recently won a 10-12 year patent battle, no more appeals, against 6-7 companies including google. The payout is expected to be 1-10Billion, and has not yet been priced in because the court case is still in discovery (this should conclude within 1-2 weeks, hence the large moves this past week), but there will be a payout, its just a matter of how much. The rough math is 4 dollar increase in share price per Billion (read the DD, theres plenty already posted), so there is a lot of room for movement.
+3. Personal expectation is 20USD by end of year (3-4x from current price), likely 50-100USD within 2-5 years. 
+4. There is a lot more information, like their products are, and will be, used in critical hardware for major electornics/serach engine/servers, and they will grow exponentially for a year or two, mainly because their hardware has been used without paying licensing fees, etc. Hence the lawsuit. Just an opinion, not advice.",1011010110001010,10,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4t7mea/,0.062,0.841,0.097,0.7744
+30,GSAT, TVPC/ VEEE. NBXG. GSAT.,wingnutbridges,3,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4sw8p1/,0.0,1.0,0.0,0.0
+31,NBXG, TVPC/ VEEE. NBXG. GSAT.,wingnutbridges,3,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4sw8p1/,0.0,1.0,0.0,0.0
+32,DD," $GMGI — it’s been held down by shorts and low volume recently. On track for NASDAQ uplist which should be a major catalyst into the $30s or $40s.
+
+Golden Matrix Group is an online gaming provider. 
+
+Please do your own DD as I am not a financial professional.",cmhead,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4sx5ao/,0.045,0.905,0.05,0.0516
+33,CDTX," CDTX, TTNP, TLGT are all at low points with decent projections. Feel free to look into those if interested.",LordFarquaad-DO,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4sy18m/,0.087,0.664,0.249,0.5994
+34,TLGT," CDTX, TTNP, TLGT are all at low points with decent projections. Feel free to look into those if interested.",LordFarquaad-DO,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4sy18m/,0.087,0.664,0.249,0.5994
+35,TTNP," CDTX, TTNP, TLGT are all at low points with decent projections. Feel free to look into those if interested.",LordFarquaad-DO,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4sy18m/,0.087,0.664,0.249,0.5994
+36,USWS," USWS might be good long term play, I also have syn shares waiting hodling those a couple years as well though less certainty in my brain",Bobyjoyride,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4t41c1/,0.0,0.627,0.373,0.8522
+37,ATHE," PONGF (Atari, less than .60) AABB (gold miner, crypto token, exchange coming) bouncing around .11 which is a steal, MJWL (acquired crypto exchange CGCX) bounced off .12 Thurs. if it happens again, I'd load. I averaged up at .12. All good prices for 3 month holds though I love all of them and am building long positions. That Atari VCS is under the radar, once people realize its potential as a pc and emulator things will get wild. Not to mention they announced they will be developing modern games, a virtual and a physical casino. There is an Atari Casino in Decentraland. The Atari token is supported by the MATIC network. These stocks also have good support at current levels mainly due to undying longs. MJWL is the only one on the high side at .18 but it did just run to .25 and their Twitter page is highly active. To the point Thurs it dipped to .12 and they tweeted ""Ones man loss is another man's gain"" Stock closed at .17 and make a quick recovery. AABB rock strong at .10 and PONGF CEO bought in at 0.42. Ran to 1.15 when everything else was red a month or two back. ATHE is my short term play based off volume and charts with an entry around 1.60 things look promising.",AVERSE_AVICE,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4t8xju/,0.022,0.852,0.126,0.974
+38,DD," What about $NSAV from what I get off their filings is they own part or all of a couple Chinese companies their hemp beer is in litigation they had to pay a former employee 56million restricted shares issued in feb and 5.9 billion outstanding shares, just got authorized 100% ownership of a new crypto exchange set to go live august 9th. Currently have no position in this looking if anyone else has pros or cons on them before I throw some money at it, lots of people on here a lot better at DD than me
+
+Edit: also saw they have filed a promise to not reverse split their stock for 10 years not sure if that could even be enforced",dikputinya,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4tgh44/,0.078,0.815,0.107,0.6846
+39,IBIO, IBIO,Extreme_Revenue_4898,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4ticyi/,0.0,1.0,0.0,0.0
+40,XELA, XELA,behindblueyes34,5,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4svhvb/,0.0,1.0,0.0,0.0
+41,GNUS, GNUS while it's below $2.00.,titusmorlad,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4ssevu/,0.0,1.0,0.0,0.0
+42,GHSI," GHSI > Waiting on the news for EPIQ-V drink
+Zom > waiting for better earnings
+
+Imo both at good prices
+
+MMAT +> Potential squeeze",knightrider311,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4t8w07/,0.0,0.775,0.225,0.7003
+43,MMAT," GHSI > Waiting on the news for EPIQ-V drink
+Zom > waiting for better earnings
+
+Imo both at good prices
+
+MMAT +> Potential squeeze",knightrider311,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4t8w07/,0.0,0.775,0.225,0.7003
+44,REI, REI looks ready to rip if it can break 3.36 on this 3rd attempt,DeadeyeDavie,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4tm97k/,0.0,0.839,0.161,0.3612
+45,DD," One that only needs eyes in a crazy hot sector- low float- etc.. 
+
+$cyrn pls do your DD",PAULSPICKS,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4tnbqr/,0.227,0.707,0.066,-0.4939
+46,AZRX, AZRX. $0.75 support. Compliance will bring it to $1 for take-profit,rxmanagerkobebeef,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4twi3s/,0.0,0.787,0.213,0.4019
+47,AEI, AEI,maschx,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4tyzdd/,0.0,1.0,0.0,0.0
+48,IMO," INND 
+It will 10x pretty soon IMO",DonkeySeeDonkeyDo,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4u0c36/,0.0,0.652,0.348,0.4939
+49,CLEU," I like CLEU. ATM they are trading below cash on hand  because facing headwinds from people scared of new regs from the CCP. Looks like will be a to squeeze past them though since technically not a school but a tutoring service. Confirmation of that could act as catalyst. Also expecting acquisition news soon which could be another catalyst. It does have a history of being pumped and then dumped though, so like all pennies I recommend getting your 30% and getting out.",starwatcher16253647,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4u2cxy/,0.063,0.799,0.138,0.6808
+50,BCTX," I really like BCTX. They have a good amount of cash, no debt and the results from their phase 2 trails are looking good. Very low float and the CEO was a director, VP at Glaxo Smith Kline. Lot of upside in my opinion",roomcart,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4u8zqh/,0.143,0.684,0.173,0.3612
+51,TELL, TELL next deal announcements are due in the next weeks. Easy 3-4 times growth in the next couple of weeks.,binkul,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4u9k8u/,0.0,0.766,0.234,0.6705
+52,KOPN, KOPN,IES199,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4uai7t/,0.0,1.0,0.0,0.0
+53,ADMP," For the last month I’ve been swinging ADMP. It jumped from .70 to 1.00 beginning of June which put it on my radar, it basically swings from around 1.00 to 1.20 (hit 1.33 last week) and then back down. Not huge trades, but Ive been making 50-75 a week on it pretty easy",moobearsayneigh,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4umldy/,0.025,0.836,0.139,0.8257
+54,RSI," it's quite interesting that $RAD and $MDNA have a same 3 months pattern as $BTAI. Look like there is a bounce back. And RSI is pretty low, so I will definitely put into my watchlist.",Due-Ad8459,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4tuxt4/,0.053,0.654,0.293,0.8615
+55,AGTC, A lot of people have recommended AGTC over the past six months or so and there’s a lot of bag holders at double the current cost so there’s a lot of bitterness to the ticker,RedMiah,2,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4u5xtx/,0.078,0.87,0.052,-0.2263
+56,GNUS, Just to be clear Disney owns Marvel rights to characters and future revenue.  Stan Lee gave those up to Marvel LONG TIME ago.  GNUS owns rights to Stan Lee stuff NOT Marvel.  Don't be misled.,10xwannabe,4,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4t7voj/,0.0,0.738,0.262,0.875
+57,RBLX, They must be competing with RBLX (Roblox),NPRjunkieDC,1,/r/pennystocks/comments/oi2s8g/any_stocks_that_got_a_good_entry_point_atm/h4t5ooc/,0.0,1.0,0.0,0.0
+58,DD," Thanks for your DD and sharing theories. Quick question: Why in particular purchase last 5 mins of July 12? Why not tomorrow at open, midday lull, etc?",LilRapCritic,2,/r/pennystocks/comments/oi08gy/a_theoretical_method_for_the_potential_valuation/h4u2chr/,0.0,0.798,0.202,0.7236
+59,AMC," The valuation Math alone my man, don't be shakin out on this.  Just think I bought AMC at 3.75 and I'm mad that I didn't buy 100k shares at 90 cents....",TemporalRecon177,2,/r/pennystocks/comments/oi08gy/a_theoretical_method_for_the_potential_valuation/h4sno72/,0.214,0.786,0.0,-0.7259
+60,GGG," ZEN Graphene Solutions is their name. Based in Guelph ON. [this](https://www.youtube.com/watch?v=2pocV0wKzEw) video does a good overview of what Graphene is and why it has so many applications.
+
+Graphene is considered a ""wonder"" material for its ability to enhance other materials such as concrete, plastics and glass with relative ease.
+
+ZEN has been working with Canadian universities such as McMaster University, University of Guelph, UBC and University of Toronto to find commercially viable uses for Graphene.
+
+Wild variation in IP is because the applications are more diverse than this company can utilize;
+
+Companies such as GGG.v, GMG.v, GRA.v, NANO.to, DTPKF and many more look to either supply Graphene or find novel applications for the material.
+
+I believe the industry will mature very nicely this decade. Graphene is of course being used as a buzzword specifically because of its properties, and many sell graphite posing it as graphene. Most popular usage of graphene is in the form of Graphene Oxide which is significantly easier to handle than graphene.
+
+Let me know what you think, I've been watching this company specifically for the past few months because Health Canada got involved back in April and lowered the share price significantly.",legoman102040,2,/r/pennystocks/comments/ohxiz9/zen_graphene_solutions_business_case/h4rx700/,0.007,0.87,0.123,0.9694
+61,GRA," ZEN Graphene Solutions is their name. Based in Guelph ON. [this](https://www.youtube.com/watch?v=2pocV0wKzEw) video does a good overview of what Graphene is and why it has so many applications.
+
+Graphene is considered a ""wonder"" material for its ability to enhance other materials such as concrete, plastics and glass with relative ease.
+
+ZEN has been working with Canadian universities such as McMaster University, University of Guelph, UBC and University of Toronto to find commercially viable uses for Graphene.
+
+Wild variation in IP is because the applications are more diverse than this company can utilize;
+
+Companies such as GGG.v, GMG.v, GRA.v, NANO.to, DTPKF and many more look to either supply Graphene or find novel applications for the material.
+
+I believe the industry will mature very nicely this decade. Graphene is of course being used as a buzzword specifically because of its properties, and many sell graphite posing it as graphene. Most popular usage of graphene is in the form of Graphene Oxide which is significantly easier to handle than graphene.
+
+Let me know what you think, I've been watching this company specifically for the past few months because Health Canada got involved back in April and lowered the share price significantly.",legoman102040,2,/r/pennystocks/comments/ohxiz9/zen_graphene_solutions_business_case/h4rx700/,0.007,0.87,0.123,0.9694
+62,IP," ZEN Graphene Solutions is their name. Based in Guelph ON. [this](https://www.youtube.com/watch?v=2pocV0wKzEw) video does a good overview of what Graphene is and why it has so many applications.
+
+Graphene is considered a ""wonder"" material for its ability to enhance other materials such as concrete, plastics and glass with relative ease.
+
+ZEN has been working with Canadian universities such as McMaster University, University of Guelph, UBC and University of Toronto to find commercially viable uses for Graphene.
+
+Wild variation in IP is because the applications are more diverse than this company can utilize;
+
+Companies such as GGG.v, GMG.v, GRA.v, NANO.to, DTPKF and many more look to either supply Graphene or find novel applications for the material.
+
+I believe the industry will mature very nicely this decade. Graphene is of course being used as a buzzword specifically because of its properties, and many sell graphite posing it as graphene. Most popular usage of graphene is in the form of Graphene Oxide which is significantly easier to handle than graphene.
+
+Let me know what you think, I've been watching this company specifically for the past few months because Health Canada got involved back in April and lowered the share price significantly.",legoman102040,2,/r/pennystocks/comments/ohxiz9/zen_graphene_solutions_business_case/h4rx700/,0.007,0.87,0.123,0.9694
+63,ON," ZEN Graphene Solutions is their name. Based in Guelph ON. [this](https://www.youtube.com/watch?v=2pocV0wKzEw) video does a good overview of what Graphene is and why it has so many applications.
+
+Graphene is considered a ""wonder"" material for its ability to enhance other materials such as concrete, plastics and glass with relative ease.
+
+ZEN has been working with Canadian universities such as McMaster University, University of Guelph, UBC and University of Toronto to find commercially viable uses for Graphene.
+
+Wild variation in IP is because the applications are more diverse than this company can utilize;
+
+Companies such as GGG.v, GMG.v, GRA.v, NANO.to, DTPKF and many more look to either supply Graphene or find novel applications for the material.
+
+I believe the industry will mature very nicely this decade. Graphene is of course being used as a buzzword specifically because of its properties, and many sell graphite posing it as graphene. Most popular usage of graphene is in the form of Graphene Oxide which is significantly easier to handle than graphene.
+
+Let me know what you think, I've been watching this company specifically for the past few months because Health Canada got involved back in April and lowered the share price significantly.",legoman102040,2,/r/pennystocks/comments/ohxiz9/zen_graphene_solutions_business_case/h4rx700/,0.007,0.87,0.123,0.9694
+64,ZEN," ZEN Graphene Solutions is their name. Based in Guelph ON. [this](https://www.youtube.com/watch?v=2pocV0wKzEw) video does a good overview of what Graphene is and why it has so many applications.
+
+Graphene is considered a ""wonder"" material for its ability to enhance other materials such as concrete, plastics and glass with relative ease.
+
+ZEN has been working with Canadian universities such as McMaster University, University of Guelph, UBC and University of Toronto to find commercially viable uses for Graphene.
+
+Wild variation in IP is because the applications are more diverse than this company can utilize;
+
+Companies such as GGG.v, GMG.v, GRA.v, NANO.to, DTPKF and many more look to either supply Graphene or find novel applications for the material.
+
+I believe the industry will mature very nicely this decade. Graphene is of course being used as a buzzword specifically because of its properties, and many sell graphite posing it as graphene. Most popular usage of graphene is in the form of Graphene Oxide which is significantly easier to handle than graphene.
+
+Let me know what you think, I've been watching this company specifically for the past few months because Health Canada got involved back in April and lowered the share price significantly.",legoman102040,2,/r/pennystocks/comments/ohxiz9/zen_graphene_solutions_business_case/h4rx700/,0.007,0.87,0.123,0.9694
+65,CTXR, DPLS CYBL CELZ and CTXR,PenaltyDistinct2632,6,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4sryll/,0.0,1.0,0.0,0.0
+66,MMAT, I pulled out of DPLS at +400% two weeks ago for MMAT. Lost all those gains.  Think I’m going back to DPLS?!... and staying in MMAT reluctantly,Pinkrenee57,4,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4t7r1j/,0.136,0.783,0.082,-0.1511
+67,ATOS, Would you invest in CARV or ATOS for this week? Which would have a higher chance of success + higher return rate by this Friday?,eskideji,4,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4txofh/,0.0,0.776,0.224,0.7236
+68,CARV, Would you invest in CARV or ATOS for this week? Which would have a higher chance of success + higher return rate by this Friday?,eskideji,4,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4txofh/,0.0,0.776,0.224,0.7236
+69,XELA, Do we expect XELA to run next week?,goforth1457,7,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4rvf51/,0.0,1.0,0.0,0.0
+70,AEI, AEI,Pinkrenee57,2,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4t5sqx/,0.0,1.0,0.0,0.0
+71,NAKD, Is everyone on the NAKD train this week?  And TBLT should be a good one also.,Gullible_Wolverine_1,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tv3c1/,0.0,0.828,0.172,0.4404
+72,TBLT, Is everyone on the NAKD train this week?  And TBLT should be a good one also.,Gullible_Wolverine_1,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tv3c1/,0.0,0.828,0.172,0.4404
+73,SGOC, Are we confident in SGOC or TPST for a short squeeze on Monday?,goforth1457,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4rv18g/,0.0,0.775,0.225,0.4939
+74,TPST, Are we confident in SGOC or TPST for a short squeeze on Monday?,goforth1457,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4rv18g/,0.0,0.775,0.225,0.4939
+75,OPK," Vero - Venus Concepts - Medical Spa Devices
+OPK - OPKO Health - Pharmaceuticals
+HTL - Hamilton Thorne - IVF clinics, and devices",maggyjoe,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4t39jj/,0.0,1.0,0.0,0.0
+76,GALT," GALT, XELA - short gains last week",GammaRay59,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tccpn/,0.0,0.676,0.324,0.34
+77,XELA," GALT, XELA - short gains last week",GammaRay59,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tccpn/,0.0,0.676,0.324,0.34
+78,AHT, All in on AHT,hoochiemama730,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tjx03/,0.0,1.0,0.0,0.0
+79,MRIN," Adding more MRIN on monday open, maybe some SPY shorts aswell",ggiziwegotthis,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tshpt/,0.0,1.0,0.0,0.0
+80,WWE," 
+$SBEV I’m swinging. They have 3 products: 1. Tapout sports drink (all natural) and use to partner with UFC but now WWE. 2. Pioneer in flavored tequila (think flavored soju, flavored vodka,) This can do well! 3. Wine by the glass via Copa di Vino. CEO was high-level executive for Red Bull and they know how to distribute (deals with Wal-Mart). Catalysts: Not found, good summer sales/earnings. I want 5 dollars! 
+
+Also, hardly anyone knows about it. Only 600 watchers on Stocktwits. Have not been pumped yet. I think this is a good time to load up.",Buddy723,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4uh6dw/,0.069,0.89,0.041,-0.5722
+81,AEI," I am thinking of going into MRIN and AEI massively. MRIN has SI on Ortex around 150%, but publicly it’s 1,x%. It’s weird but not uncommon?! Nasdaq will update the SI on Monday and I expect they will report a higher number of SI which should be a huge catalyst. There is a video from Dreamcoin on YouTube going into details. Also it’s on the SEC threshold list!! It’s risky though. But rewards are insane. ###### AEI for it’s momentum, the 121% Float borrowed, 88% SI, 1.4mn FTD and it’s also on NASDAQ threshold list. Cost to borrow on both are high, MRIN ca. 150%, AEI around 50%.
+
+Again: I do not know how this plays out but I want to take some risks. I will get both.
+
+The upside on both will be nuts.
+
+No financial advise.",Many-Coach6987,0,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4sscy7/,0.115,0.799,0.086,-0.6371
+82,MRIN," I am thinking of going into MRIN and AEI massively. MRIN has SI on Ortex around 150%, but publicly it’s 1,x%. It’s weird but not uncommon?! Nasdaq will update the SI on Monday and I expect they will report a higher number of SI which should be a huge catalyst. There is a video from Dreamcoin on YouTube going into details. Also it’s on the SEC threshold list!! It’s risky though. But rewards are insane. ###### AEI for it’s momentum, the 121% Float borrowed, 88% SI, 1.4mn FTD and it’s also on NASDAQ threshold list. Cost to borrow on both are high, MRIN ca. 150%, AEI around 50%.
+
+Again: I do not know how this plays out but I want to take some risks. I will get both.
+
+The upside on both will be nuts.
+
+No financial advise.",Many-Coach6987,0,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4sscy7/,0.115,0.799,0.086,-0.6371
+83,SI," I am thinking of going into MRIN and AEI massively. MRIN has SI on Ortex around 150%, but publicly it’s 1,x%. It’s weird but not uncommon?! Nasdaq will update the SI on Monday and I expect they will report a higher number of SI which should be a huge catalyst. There is a video from Dreamcoin on YouTube going into details. Also it’s on the SEC threshold list!! It’s risky though. But rewards are insane. ###### AEI for it’s momentum, the 121% Float borrowed, 88% SI, 1.4mn FTD and it’s also on NASDAQ threshold list. Cost to borrow on both are high, MRIN ca. 150%, AEI around 50%.
+
+Again: I do not know how this plays out but I want to take some risks. I will get both.
+
+The upside on both will be nuts.
+
+No financial advise.",Many-Coach6987,0,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4sscy7/,0.115,0.799,0.086,-0.6371
+84,CARV," CARV is still my current play. It's about 70% short by official data. I watched Ortex all of Friday and short interest only increased. After hours was super bullish. The average age of loans didn't decrease either, so the shorts that are underwater haven't covered. Brokers allow 2 to 5 days for margin calls most of the time, and I think shorts are hoping that people lose interest so that they don't have to cover to meet the margin call. If the price stays at this level for a few more days I'm expecting rockets.",meta-cognizant,0,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4su8hq/,0.042,0.792,0.166,0.9158
+85,ATOS," This week will be the make or break for ATOS, you may be glad you held if things pan out in our favor.",mr_guy22,7,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4t6wfl/,0.0,0.787,0.213,0.6908
+86,ATOS, ATOS,Historical_Handle_25,5,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4uajcn/,0.0,1.0,0.0,0.0
+87,IMO, It's supposed to be a great play.  I'm still holding 33% down. Great price IMO,NPRjunkieDC,2,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4t5z3a/,0.0,0.509,0.491,0.891
+88,NAKD," I sold NAKD last week, if it rockets imma be mad af",jaydacosta,2,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tyh32/,0.242,0.758,0.0,-0.4939
+89,TPST, I'm planning on trying my luck with TPST,rosedust666,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tg33f/,0.0,0.7,0.3,0.4588
+90,IMO, It’s in a great technical position IMO. Just needs some volume. Don’t feel bad if it takes off. I took a loss on 5000 blin stocks last week. I just got out Friday. It will probably do really good this week.,Gullible_Wolverine_1,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tzjl0/,0.126,0.716,0.158,0.3597
+91,IMO," Why don’t I think it will run?  Don’t u think people are going to move on from that. The smart ones anyways. They put up a hell of a fight last week, and really didn’t get far. I think the majority of people are moving on. There are some die hards that will hold bags. But that kind of thing doesn’t usually happen for weeks IMO. A week or days?  Yes. But a concentrated number of people stuck on one stock they fought hard for all week. I think there will be a new big thing this week. Volume will die on xela. But hey. If volume shows back up. It will continue. Keep your eye on that number. If it slacks early on, it’s over. IMO",Gullible_Wolverine_1,2,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tz5j5/,0.147,0.792,0.061,-0.9102
+92,ATRI," Ah, sorry I thought you meant PONGF, not the ATRI coin.",co_fragment,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4tobnc/,0.126,0.874,0.0,-0.0772
+93,IMO, IMO it’s tested bottom many times before starting a slight trend up Friday evening,Gullible_Wolverine_1,1,/r/pennystocks/comments/ohwwsh/the_loungedaily_plays_july_11_2021/h4ujwa1/,0.0,1.0,0.0,0.0
+94,RSI," idk i started off with penny stocks before diving into more established companies and i ended up doing pretty well ,  Sometimes being ""thrown into the fire"" is the best way to learn! 
+
+i think the best advice I could give to a new investor is to -
+
+Read and absorb everything you can! Knowledge is literally power in the trading game. Use it to your advantage! 
+
+I highly suggest doing research on Chart patterns (double bottoms, head and shoulders, triple top, etc) 
+
+then learning different chart indicators and knowing how to use them -
+
+Learn what the MACD and RSI indicators are
+Those 2 are easy to understand and are veryyy useful when deciding what a good ""buy in"" point is. 
+Like knowing what's a ""safe"" RSI level to buy in at , know about the MACD crossover, etc. 
+Other indicators i suggest are the Bollinger Bands , learning how to read Pivot Points , Supertrend is useful for day trading 
+
+I think just be careful not to buy in too high, that was something that took me a while to realize. 
+Like when to buy in , and when to just hold off for a cheaper price because the RSI or MACD show the stock is being overbought at the moment and should pull back very soon
+
+
+Schwab is what I use because they barely have any fees for anything on their platform and 
+WeBull desktop is what i use to keep track of my stocks in watchlists and to read charts with all those indicators I mentioned, their platform is by far my favorite 
+
+Best of luck on your new journey 🙏😁
+
+edit : ALSO ONE MORE IMPORTANT THING!!! Don't be afraid to just cut your losses on some plays. I know we're surrounded by ""diamond hands"" and ""buy and hold"" everywhere we look. but i promise you that sometimes it's best to just cut your losses early on, and go into a different ticker. 
+Rather than being stuck holding a bag that only keeps shrinking more by the day, but you're ""diamond hands"" and refuse to let go while watching ur money disappear. 
+This obviously applies to very specific situations though , volatility is expected in the market so you WILL go thru periods where you see your investments go in the red ! Just trust your investment. 
+If you believe in the company, stick with it. if you just followed high volume and hype you read, maybe it's time to rethink your position!",I_Eat_Booty,3,/r/pennystocks/comments/oi6udo/kind_of_a_dumb_question_but/h4u150d/,0.047,0.825,0.128,0.9816
+95,RH," Do you mean penny stocks as defined by sub-$5 or do you mean OTCs? Robinhood does not support OTC trading, so a lot (I would venture the overarching majority) of tickers listed here are not supported on RH. As others have said, I highly recommend Fidelity or Schwab, not just for the support of OTC markets, but also because their research tools are excellent.",StrategicBiscuit,3,/r/pennystocks/comments/oi9uow/robinhood_traders/h4u4l4b/,0.069,0.83,0.101,0.6378
+96,DD," “We” didn’t do anything with amc other than share information and opinions. Each investor as an individual bought a stock they happened to like. Same thing could happen here as well, but there is no “we”, and no “game plan”. Not on any kind of a team. That being clarified, imho, I just might like the stock. Have to do more DD though.",So011,3,/r/pennystocks/comments/ohwitk/gte_forced_margin_call_on_monday_july_12th_at/h4rwfnm/,0.083,0.797,0.12,0.1406
