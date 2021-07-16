@@ -1,0 +1,643 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,RE," Spot on.
+
+One thing to keep in mind is that you need to have a long enough timeline. During a market crash, it could take several years to recover.  I would think 30 years is a long enough time frame.  
+
+Also, no one says you can't take profits off the table.  Once this fund hits a $1,000,000 or more, it's going to be spitting off tens of thousands of dollars per day.  You can easily cash that out, live on it, invest in RE or other lower risk entities.  Lots of options here.  For me, it's totally worth it.",Last-Donut,8,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5ctuu1/,0.112,0.843,0.045,-0.7195
+1,MSCI," Leveraged ETFs can definitely be a great passively-managed long-term investment **as long as the underlying index is broadly diversified**. Too much idiosyncratic risk will cause too much volatility, which is bad due to the decay. I wrote [a post](https://www.reddit.com/r/investing/comments/m1hspa/a_case_for_leveraged_etfs/) about leveraged ETFs not too long ago.
+
+Personally I would opt for a leveraged ETF that tracks the MSCI USA or S&P 500 rather than the Nasdaq 100. Optimally the leveraged ETF would track the MSCI ACWI, but I don't think there is such a product yet.",ChengSkwatalot,4,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5dk9ua/,0.066,0.863,0.071,0.1027
+2,BABA," It will work as long as you can stick to your rule of DCA, regardless of what you feel when you see big swings in your portfolio. The problem is that many people won’t really be able to do that, even though they claim they have the stomach for a bear market. 
+
+There are a few risks. If US economy can steadily grow in the next 20-30 years, this strategy will reward you very well. If japan like contraction happens, well, not good for any investors, and this portfolio will be affected more. 
+
+There is also a liquidity risk associated with these LETFs. You know, even though the value cannot be wipe out in a single day, in a steady bear market there will be lots of money outflow. And at some point the management company might call “that’s it” and liquidate the entire fund.
+
+BTW: I also have TQQQ, within some % of my portfolio. I still hold other stocks/etfs, or buying undervalued stocks, i.e. BABA after the recent storm.",caelitina,2,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5dihlw/,0.062,0.863,0.076,0.5393
+3,EFT," if you can stomach the violent correction & crash risk, then sure. it's high risk & high return after all. if you have 33% correction, your investment goes to ZERO. EFT will go poof. The way ETF is structured is through leveraged return swap, so it's same thing of what Bill Hwang was doing.",mskamelot,1,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5ffn8o/,0.18,0.782,0.038,-0.8176
+4,MA," The issue a lot of people highlight is the 2000 bubble. Any simulated run shows a huge drop in price following this, and a lot of money would be lost. However, incorporating a MA strategy of switching when above/below the MA averaged returns of 15-20% backtested to the 1920s. On the Nasdaq 100, I think it averaged returns of something like 30% since inception.",Traditional_Fee_8828,19,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5dfyag/,0.067,0.823,0.11,0.4215
+5,ATH," There are 2x mutual funds by Rydex that has been running since the 2000s (and seen the dotcom + 2008):
+
+* [RYTNX](https://www.google.com/search?q=rytnx) for 2x S&P500 (even if you invested ATH, it kinda performed like a normal SPY)
+* [RYVYX](https://www.google.com/search?q=ryvyx)for 2x QQQ (which took 20 years to recover... in 2021; but if you invested/DCA after the crash... it's good)
+
+DCA-ing or moving in after a crash/bear (+ rebalancing with bonds)... is a pretty good move",blissrunner,3,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5ebzvx/,0.0,0.865,0.135,0.8785
+6,ATH," 3x untested on a deep crash/bear/lost decade, since most of it was created in 2009 after the financial crisis lows
+
+There are 2x mutual funds by Rydex that has been running since the 2000s (and seen the dotcom + 2008):
+
+* [RYTNX](https://www.google.com/search?q=rytnx) for 2x S&P500 (even if you invested ATH, it kinda performed like a normal SPY)
+* [RYVYX](https://www.google.com/search?q=ryvyx) for 2x QQQ (which took 20 years to recover... in 2021; but if you invested/DCA after the crash... it's good)
+
+DCA/rebalancing should work I guess, the hedging with bonds/other 1x ETFs is also important",blissrunner,3,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5ebl80/,0.043,0.895,0.062,0.183
+7,RSI," I just pushed my algo live a couple weeks ago, so we'll see what the performance is like.   
+I am using UPRO, although TQQQ would produce even better results.  Strategy is simple, compound as much as possible, but the implementation is a little more complicated.
+
+1) Buying opportunities.  This is optional, but I use RSI - triple exponential hourly and look for opportunities to buy.  
+
+2) Covered call opportunities.  The intent of this is to scrape a little off the top and buy back more shares with the premium.  I use the RSI again, but look for overbought opportunities.  Then I sell a call with a low probability of hitting (eg. delta < 10%).  I then use any premium to buy back in 1).
+
+3) Add protection against a massive downswing.  I use a combination short EMA - long SMA crossing + negative momentum percentage indicator to basically decide to 'get the hell out'.  This is essentially a kill switch set to liquidate everything.  
+
+4) Wait out any potential recession.  This is just a simple short EMA - mid SMA cross to the upside.  
+
+The backtesting will obviously not yield real results, but they were very encouraging.  There were a few shorter periods where it under performed UPRO, but still outperformed SPY.  But over longer periods of time you saw significant compounding. Eg. 2016-2021 saw 1800% vs UPRO 530% vs SPY 120%.
+
+Where this will likely underperform SPY is when you see 1) a really long downward environment (eg. Japan).  But it should still outperform just holding UPRO due to selling of the calls.  2) If there were major false positives of the downside protection.  Eg. Liquidating and then buying back in at a higher price.  There would need to be several significant movements to the downside followed by a quick recovery - spaced months apart for this to happen.",funktacular,5,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5d4rqo/,0.089,0.801,0.11,0.4649
+8,ATH," There's a probability it could be wiped out, especially 3x.. but the fund could lose -97% of it's value and function.
+
+The longest running leveraged fund you could search up is Rydex 2x Mutual Funds since the 2000s: you could see the aftermath after the **dotcom bubble + 2007/2008 Financial Crisis and how it affects the fund**
+
+* [RYTNX](https://www.google.com/search?q=rytnx) for 2x S&P500 (even if you invested ATH, it kinda performed like a normal SPY)
+* [RYVYX](https://www.google.com/search?q=ryvyx) for 2x QQQ (which took 20 years to recover... in 2021; but if you invested after the crash... it's good.)
+
+Another interesting thing it seems that leveraged etfs.. leverage down when crashing? (Idk if this is how it works..)
+
+* SPY fell -50% at 2008, but RYTNX only got -80%
+* QQQ fell -27% at 2020, but TQQQ only did -69%",blissrunner,10,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5easj5/,0.064,0.867,0.069,-0.3088
+9,MA," Like I said, without a strategy, it is a failing strategy. However, if you test that again, but with a MA strategy, you'll find that the average returns beat the market, by a pretty significant amount of 5%, If I remember correctly. I backtested it myself.",Traditional_Fee_8828,1,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5euwu3/,0.047,0.771,0.182,0.7269
+10,DTE," Just some food for thought:
+
+* Unclear what you mean by DCA. You DCA back in after you liquidated? Over how many periods? There's been many studies that show DCA actually underperforms lump sum. Here's the YTD performance of 50/50 UPRO/TMF lump sum start of the year vs legging in every Friday: [https://imgur.com/gallery/PAYNURL](https://imgur.com/gallery/PAYNURL). So DCA for sure missed the big TMF drawdown at the beginning of the year. But, if you can stomach the swings (which you need to with a leveraged strategy), it's better to lump sum.
+* There are also many studies that show time in market > timing the market, and big rebound days occur shortly after big drop days. If you miss those big rebound days, you miss out on a lot of return. EMA/SMA upside crossover is most likely too slow. I would consider not 100% liquidation. My own backtesting shows going to cash only 40-50% outperforms 100% cash.
+* 2020 w/ the V shaped recovery is an outlier. I wouldn't consider any backtest that includes 2020 as indicative of anything. If a 2020-like crash/rebound happens again, great, it was a huge buying opportunity, but I would discount 2020 as it completely skews the results.
+* What DTE is your covered call? How much of your position do you sell? I also sell +1 month 20 delta calls, but limit to 30% of my position. Again, time in market > timing the market. If I get called, I just sell weeklies at the same strike until I wheel the shares back in",sprezzatard,2,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5dji60/,0.043,0.873,0.083,0.937
+11,ATH," Anywho... 3x is untested IRL (except the March 2020, 1 month crash)
+
+But if you wanted to see 2x in action (google search) there are the Rydex 2x Mutual Funds (that's still alive) since the 2000s:
+
+* [RYTNX](https://www.google.com/search?q=rytnx) for 2x S&P500 (even if you invested ATH, it kinda performed like a normal SPY)
+* [RYVYX](https://www.google.com/search?q=ryvyx) for 2x QQQ (which took 20 years to recover... in 2021; but if you invested/DCA after the crash I guess it's good)
+
+I'd imagine 3x will have a rough time/wiped out in 2000s/2008s",blissrunner,1,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5ecjj9/,0.045,0.922,0.033,-0.268
+12,IRL," Anywho... 3x is untested IRL (except the March 2020, 1 month crash)
+
+But if you wanted to see 2x in action (google search) there are the Rydex 2x Mutual Funds (that's still alive) since the 2000s:
+
+* [RYTNX](https://www.google.com/search?q=rytnx) for 2x S&P500 (even if you invested ATH, it kinda performed like a normal SPY)
+* [RYVYX](https://www.google.com/search?q=ryvyx) for 2x QQQ (which took 20 years to recover... in 2021; but if you invested/DCA after the crash I guess it's good)
+
+I'd imagine 3x will have a rough time/wiped out in 2000s/2008s",blissrunner,1,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5ecjj9/,0.045,0.922,0.033,-0.268
+13,ETN," The ""decay"" (or compounding) works both ways... against you and in your favor. I haven't come across a single reason that a ""volatility decay/beta slippage"" monger can provide to actually prove it will ruin you. If 3x leverage is too scary, just go 2x. There will be decay... There is always decay. There's decay on normal, 1x leveraged ETFs. But this isn't an inverse/short ETN we're talking about. The market - for the most part - goes up. And leverage will help more often than it will hurt you. And if you're DCA'ing into a leverage fund, you'll be buying many many more shares when TQQQ falls compared to what you could get in QQQ. Then when it rebounds, you've got more shares + more leverage.
+
+I've run the numbers back to QQQs inception and 2x leverage with monthly DCA'ing results in over 2500% return on investment for the notional leveraged asset. Compared to just 550% on QQQ. I can only imagine that 3x would be even greater (albeit with scarier drawdowns).
+
+This investment is not for everyone, of course. But if you are young, have a stable job, a long runway, and can easily and firmly commit to DCA'ing into it every month and NOT TOUCHING IT, then you are going to be better off... Save for a never-ending bear market, in which case we're all F'd.",cwolf908,2,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5d1y7t/,0.051,0.807,0.141,0.9733
+14,IT," The ""decay"" (or compounding) works both ways... against you and in your favor. I haven't come across a single reason that a ""volatility decay/beta slippage"" monger can provide to actually prove it will ruin you. If 3x leverage is too scary, just go 2x. There will be decay... There is always decay. There's decay on normal, 1x leveraged ETFs. But this isn't an inverse/short ETN we're talking about. The market - for the most part - goes up. And leverage will help more often than it will hurt you. And if you're DCA'ing into a leverage fund, you'll be buying many many more shares when TQQQ falls compared to what you could get in QQQ. Then when it rebounds, you've got more shares + more leverage.
+
+I've run the numbers back to QQQs inception and 2x leverage with monthly DCA'ing results in over 2500% return on investment for the notional leveraged asset. Compared to just 550% on QQQ. I can only imagine that 3x would be even greater (albeit with scarier drawdowns).
+
+This investment is not for everyone, of course. But if you are young, have a stable job, a long runway, and can easily and firmly commit to DCA'ing into it every month and NOT TOUCHING IT, then you are going to be better off... Save for a never-ending bear market, in which case we're all F'd.",cwolf908,2,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5d1y7t/,0.051,0.807,0.141,0.9733
+15,DTE," Great points, and aligns well with what I observed.  
+
+The DCA I refer to is just available new funds, dripping in over time.  The 'buy' signals assume time in market > timing the market, so it actually targets maxing equity so that it can take advantage of the calls.  That is, at any buy signal it will try to utilize all the cash in the account - a small buffer for fees (data subscriptions etc).
+
+The EMA/SMA cross over is really only used in the case of a major drawdown, so the hope is that it shouldn't happen often.  My killswitch only triggered 6-7 times from 2014.  Definitely an area for optimization though, so I'll play around with the 40-50% cash (or even a leveled approach).
+
+Totally get the point of discounting 3/2020 -> now.  It does offer some great insight into the advantage of limiting the drawdown, and the power of the compounding though.
+
+The DTE is approx 2-3 weeks.  My entire portfolio is covered to try to max the premiums.  My current call strategy is a little odd, but we'll see how it goes.  I'm using the delta and a minimum % coverage to identify the strike, but also putting in a 5 day fill limit order at least $0.20. Right now this seems to limit the number of times that the contract is actually exercised, which is the ideal.  From my backtests rolling out the options to the same or higher strike underperformed just letting it exercise and buying back in with my signals.  It also complicated things which brings more edge cases and potential for issues. In the end I felt it was a much better decision to optimize around selling a contract that doesn't execute, over trying to manage an existing contract that was going to execute.",funktacular,1,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5ff991/,0.016,0.881,0.102,0.9733
+16,AAPL," …With ‘knowing’ that in the future QQQ would be up in 20 years over and above SPY which is already a huge stretch given that finance already knows that large cap growth underperforms large cap blend long term and the st.dev/volatility of a tight sector bet vs diversified 500 stocks is significantly worse so even 20 years ago, no one would have, from first principles, reasoned this out to work.
+
+Another way to think about it is, this strategy WORKED, against all odds, the unlikely will probably not happen again. You’ll need AAPL MSFT etc. To grow to 10 trillion dollar companies or more to get the same percentage gain as AAPL going from 400BN to 2TN. But from 2000s, these companies grew from like 10BN. How likely is it that we are going to get 100trillion dollar companies?
+
+It’s kind of like going where the fish have already been fished.",rbatra91,2,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5f60rq/,0.023,0.9,0.077,0.8176
+17,ATH," 2x/3x (leverage) is a good tool when used correctly (and on a bull run). So far UPRO & TQQQ is the standard paired with 1x stuff (QQQ, SPY, VTI) or bonds (e.g. TMF)
+
+I'm more a fan of UPRO since it's a much broader/stable ETF in the long run, and S&P500 holdings haven't disappoint
+
+P.S: Btw if you guys want to checkout there are examples of **2x Mutual Funds by Rydex** running **since the 2000s that survived** (the dotcom/2008s)
+
+* [RYTNX](https://www.google.com/search?q=rytnx) for 2x S&P500 (which is pretty stable after dotcom), and the motherload 
+* [RYVYX](https://www.google.com/search?q=ryvyx) for 2x Invesco's QQQ (which recently recovered from the 2000s ATH, lol)",blissrunner,3,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5eenly/,0.0,0.864,0.136,0.9155
+18,PLUS," I apologize - I left out the part where nobody in their right mind should be leveraged to the tits without a long runway ahead of them while being young with a stable job... oh wait, no I didn't.
+
+Even if you invested $1,000,000 in QLD riiiight before the dot-com bubble burst, you'd still be outperforming QQQ today. By about 200%. Yes, you would have lost a lot of your initial investment and lagged behind for quite a while. And if it weren't for the COVID rally, you wouldn't be outright ahead just yet. But these are all things that absolutely did happen and cannot be discounted.
+
+PLUS if $1,000,000 was - say - 20% of your overall assets  (maybe a reasonable allocation to leverage), then who gives a F if you are down on it for a majority of the time... you still did just fine with the other 80%. 
+
+Even in my calculations of $10,000 starting investment with $250/month DCA, you lag behind QQQ for about 7 years after the dot-com burst and then when the mortgage crisis hits, you lag behind for another 3. By 2011-2012, you're ahead again and never fall behind. So yea - if you are retiring in the next decade, maybe leverage isn't for you. If you're in your 20s or 30s, \*some\* exposure to leverage isn't a bad idea. **IF** I had lived through both the dot-com crash and the mortgage crisis and survived with my index and leveraged ETFs, I wouldn't still be utilizing a lot of leverage because I'd be old enough to be approaching retirement and I'd be sitting on almost $2M in equity from QLD after only $80k in lifetime investment... seems like a win to me.",cwolf908,1,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5e834b/,0.094,0.821,0.084,-0.4583
+19,DD," Yes, TLT does move, but I also learned the lesson not to fight the fed. A 3X strategy is not for everyone. You have to sign additional waivers to buy these products. But as with all investing, it’s about risk vs reward. By no means am I advocating everyone should pursue such a strategy, but I do dispel the myth that leveraged products can’t be held long term. Do your own DD/backtest before pursuing any strategy.",sprezzatard,3,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5e8r3w/,0.067,0.814,0.119,0.64
+20,ATH," >Even if you invested $1,000,000 in QLD 
+
+QLD ≠ TQQQ, in order to crash QLD like TQQQ we would need a massively improbable bubble of unheard proportions. We can argue all you want if we will ever see a bubble of this size, but in all honesty, we can't know.
+
+In any case, OP is talking about TQQQ and you said:
+
+>I can only imagine that 3x would be even greater.
+
+To which I'm replying that no, it's not greater, it's actually terrible. TQQQ would have been wiped out in the dot-com bubble, in the real world a fund losing 99.99% is dead.
+
+But even playing pretend and assuming that TQQQ wouldn't have closed down, it would still be at like 60% of its January 2000 value (not its pre-crash ATH, because obviously it would be dishonest to take that specific value). We are in 2021. More than 20 years and you still wouldn't be even. Doesn't sound like a great long term investment to me.
+
+Your DCAing argument **only** works because the crash is at the beginning of your calculation period. But that's a fluke.
+
+Assuming that you invest in TQQQ for 20 years (from 25yo to 45yo let's say), can you confidently say that no crash will happen in the second half of your investment period? If so you're a market wizard, and TQQQ is indeed a fantastic long term investment. If not, then you are running the not-so-unlikely risk of wiping out 10+ years of DCAed investments. That's a lot of money down the drain.
+
+Doesn't matter how young you are, you still picked a bad investment.",Perrin_Pseudoprime,1,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5ec8td/,0.164,0.728,0.108,-0.9587
+21,ATH," >Your DCAing argument only works because the crash is at the beginning of your calculation period. But that's a fluke.
+
+So you're just going to ignore the financial crisis? Which occurred well after the beginning of this scenario? Or is a 50% haircut to the NASDAQ not a crash?
+
+>But even playing pretend and assuming that TQQQ wouldn't have closed down, it would still be at like 60% of its January 2000 value (not its pre-crash ATH, because obviously it would be dishonest to take that specific value)
+
+Did you even effort this? Or did you just make an assumption? Assuming TQQQ didn't dissolve and you held the line and kept DCA'ing, you're sitting on 5600% ROI today. Compared to 544% in QQQ. **Of course** TQQQ won't reach it's historical share price after that kind of crash, but continuing to buy when it costs pennies a share would amass you **so many** shares that you come out ahead. Yes - you experience a 99.6% drawdown, but that only supports the idea of continuing to buy into it. You get all those shares and 3x leverage on the way up.
+
+Unfortunately, we're just not going to see eye-to-eye on this. I admit that TQQQ is too much (and not ideal) leverage to simply buy and hold and never rebalance your portfolio or not keep an eye on while just passively DCA'ing into it. It's probably exactly why there aren't any 3x leverage mutual funds, but there *are* 2x leverage mutual funds.",cwolf908,1,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5ehqfq/,0.117,0.772,0.111,-0.4159
+22,ATH," >So you're just going to ignore the financial crisis?
+
+It's not comparable to the dot com for TQQQ. It's honestly ridiculous to even suggest such a thing.
+
+TQQQ would have fallen to 0.07% of its ATH during the dot com. It would have fallen to 7% of its pre-GFC ATH in 2008.
+
+Meaning that you would have had 100x more money after a GFC-level crisis compared to after a dot com-level crisis.
+
+So yes, the GFC is definitely overshadowed by the dot com bubble (as far as TQQQ is concerned) because of how LETFs work.
+
+>Did you even effort this? Or did you just make an assumption? 
+
+You can easily check for yourself. TQQQ would now be at 60ish% of its value in January 2000 had it existed.
+
+>Assuming TQQQ didn't dissolve
+
+Lol.
+
+>and you held the line and kept DCA'ing
+
+How many time do I have to tell you that this comment is completely braindead? The fact that you make money **later** doesn't erase the fact that you lost money **before**... A 99% loss is a 99% loss, it doesn't matter how many times you repeat that you'll make it back later by DCAing, you still lost 99% of your investment.
+
+>you're sitting on 5600% ROI today. Compared to 544% in QQQ
+
+Total return is that good only because we are 20 years away from the last >99% loss crisis. You can't make that assumption for the future.
+
+Assume that two investors invested the same amounts in TQQQ/QQQ respectively. According to your numbers with DCAing, we can say that the TQQQ investor has $5600 and the QQQ investor has $544, right?
+
+Good, assume that this is the top and the dot com happened now, the TQQQ investor would have $3.80, the QQQ investor would have $95.80.
+
+Your ""greater investment"" is worth less than 4% of the benchmark. Great job.",Perrin_Pseudoprime,1,/r/investing/comments/ol6tza/does_tqqq_break_leverage_etfs_are_not_long_term/h5eydfj/,0.12,0.789,0.091,-0.8827
+23,TM," Yeah this is a very good point. Looking at TM and F a little differently as I don't know how well car manufacturers can scale up their prices with each of their individual components also going up in price. Although used Toyota's are incredibly expensive right now, the chip I think is the most valued part of the car",c4t_zz,1,/r/investing/comments/olof49/how_did_the_inflation_during_70s_impact_corporate/h5fzbrx/,0.03,0.828,0.142,0.7765
+24,GDP, Yeah but 20%+ money supply growth without corresponding GDP expansion and productivity growth doesn't bode well for long term capital gains.,DylPyckle6,3,/r/investing/comments/olof49/how_did_the_inflation_during_70s_impact_corporate/h5fucc1/,0.075,0.538,0.387,0.8511
+25,GDP," >	money supply growth without corresponding GDP expansion and productivity growth doesn’t bode well for long term capital gains.
+
+Explain your framework here please, because on the surface none of that makes sense at all.",MasterCookSwag,1,/r/investing/comments/olof49/how_did_the_inflation_during_70s_impact_corporate/h5fwoz8/,0.0,0.707,0.293,0.875
+26,GDP," GDP = money supply * money velocity
+
+(Oversimplifying a bit here, of course)
+
+Money velocity has been on a steady downward trend for decades.",ManBMitt,1,/r/investing/comments/olof49/how_did_the_inflation_during_70s_impact_corporate/h5fyc80/,0.0,1.0,0.0,0.0
+27,AMD," A lot of people here recommend SOXX but personally I prefer SMH I like TSMC, AMD, and Nvidia both are good but I’m constantly buying SMH",RGJ5,17,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5f0c83/,0.232,0.515,0.253,-0.0642
+28,AVGO," I never see AVGO mentioned, possibly because of the price point, but its done very well for me. They were even penalized for being a monopoly recently and the stock still went up.
+
+Disclaimer: I work for AVGO",Elbiotcho,5,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5ffbvy/,0.0,0.917,0.083,0.4748
+29,ATH," Been following it for a while but sold recently. Got in too late and the potential for short-term growth was gone. Semiconductors are what they call a ""crowded trade"" right now, theres definitely better buying opportunities in things that havent been mentioned in the news constantly.
+
+I have a price target in mind for re-entering, but with a margin of safety and not near ATH next time. Maybe it keeps gradually climbing up, but these Delta variant, China, and inflation fears have changed the risk-reward tradeoff for me.",dapperKillerWhale,3,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5f8tb5/,0.038,0.781,0.182,0.9349
+30,AMAT, What about semi conductor materials and chip machine bulders like AMAT and LRCX . I sold my AMAT in the 140's. Low enough now to buy back in. I worked for a company that supplies both of them and they can't keep up with orders to this date. They both make touch screen making machines too. AMAT even offered to buy the company to just make parts for them. (ferrites) Owner said no.,apophisdagod,3,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fm6af/,0.059,0.907,0.034,-0.2023
+31,LRCX, What about semi conductor materials and chip machine bulders like AMAT and LRCX . I sold my AMAT in the 140's. Low enough now to buy back in. I worked for a company that supplies both of them and they can't keep up with orders to this date. They both make touch screen making machines too. AMAT even offered to buy the company to just make parts for them. (ferrites) Owner said no.,apophisdagod,3,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fm6af/,0.059,0.907,0.034,-0.2023
+32,AAPL," simple economics here - when supply is constricted and demand continues to grow, the price WILL go up.  Look at NVDA's video card prices over a multi year timeline.  Semiconductor companies like INTC, NVDA, MU, IBM, TSC, AAPL will continue thriving",Whale_Whale_Whale,2,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fs40z/,0.037,0.902,0.061,0.25
+33,IBM," simple economics here - when supply is constricted and demand continues to grow, the price WILL go up.  Look at NVDA's video card prices over a multi year timeline.  Semiconductor companies like INTC, NVDA, MU, IBM, TSC, AAPL will continue thriving",Whale_Whale_Whale,2,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fs40z/,0.037,0.902,0.061,0.25
+34,INTC," simple economics here - when supply is constricted and demand continues to grow, the price WILL go up.  Look at NVDA's video card prices over a multi year timeline.  Semiconductor companies like INTC, NVDA, MU, IBM, TSC, AAPL will continue thriving",Whale_Whale_Whale,2,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fs40z/,0.037,0.902,0.061,0.25
+35,MU," simple economics here - when supply is constricted and demand continues to grow, the price WILL go up.  Look at NVDA's video card prices over a multi year timeline.  Semiconductor companies like INTC, NVDA, MU, IBM, TSC, AAPL will continue thriving",Whale_Whale_Whale,2,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fs40z/,0.037,0.902,0.061,0.25
+36,NVDA," simple economics here - when supply is constricted and demand continues to grow, the price WILL go up.  Look at NVDA's video card prices over a multi year timeline.  Semiconductor companies like INTC, NVDA, MU, IBM, TSC, AAPL will continue thriving",Whale_Whale_Whale,2,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fs40z/,0.037,0.902,0.061,0.25
+37,TSC," simple economics here - when supply is constricted and demand continues to grow, the price WILL go up.  Look at NVDA's video card prices over a multi year timeline.  Semiconductor companies like INTC, NVDA, MU, IBM, TSC, AAPL will continue thriving",Whale_Whale_Whale,2,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fs40z/,0.037,0.902,0.061,0.25
+38,AMD," I think that once COVID is over, semiconductor companies might decline(go down? idk how to say it). Stocks like NVDA are incredibly overvalued and just because AMD has nice growth and financials last year(because of COVID), it likely can't do as good next year once COVID ends. So, it might be a good short term but I would wait before doing a long term in semiconductors. Not saying that a long term is a bust though.",twomillioniq,1,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fix5h/,0.062,0.864,0.074,0.2129
+39,NVDA," I think that once COVID is over, semiconductor companies might decline(go down? idk how to say it). Stocks like NVDA are incredibly overvalued and just because AMD has nice growth and financials last year(because of COVID), it likely can't do as good next year once COVID ends. So, it might be a good short term but I would wait before doing a long term in semiconductors. Not saying that a long term is a bust though.",twomillioniq,1,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fix5h/,0.062,0.864,0.074,0.2129
+40,NVDA," It seems all the big nations are trying to be self-reliant and intend to have TSMC to run a factory in their respective country. Is technology transfer likely to happen, and that these countries could just support their own local semiconductor manufacturers to rival TSMC in the future, no? How likely is TSMC to stay in the lead for the next 10 years? I've TSM shares and a long call, but it seems their share price doesn't appreciate despite good earnings. Would be nice if it could surpass its all-time-high like NVDA did.",qazwsx1515,1,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fr8pn/,0.043,0.785,0.172,0.9106
+41,TSM," It seems all the big nations are trying to be self-reliant and intend to have TSMC to run a factory in their respective country. Is technology transfer likely to happen, and that these countries could just support their own local semiconductor manufacturers to rival TSMC in the future, no? How likely is TSMC to stay in the lead for the next 10 years? I've TSM shares and a long call, but it seems their share price doesn't appreciate despite good earnings. Would be nice if it could surpass its all-time-high like NVDA did.",qazwsx1515,1,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fr8pn/,0.043,0.785,0.172,0.9106
+42,AMD," Agreed. Being supply constrained means you cannot reasonably grow, it's just math. If there were less competition, then perhaps these companies can raise prices. But the competition between Nvidia, AMD, Intel, Apple, etc. makes raising prices a prisoner's dilemma",12A1313IT,1,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fsjqn/,0.082,0.879,0.039,-0.1779
+43,ACMR, ACMR is poised and priced for growth,EthicallyIlliterate,1,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5ftcz0/,0.0,0.521,0.479,0.5574
+44,ASML, Buy ASML.,Naggaz,1,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5g0zyn/,0.0,1.0,0.0,0.0
+45,AMD," Agree, just look at AMD or NVIDIA they have skyrocketed the last year, they just cant keep growing that much, NVIDIA are already worth around 550bn they cant grow as fast as they did before.",SonicOnMeth,3,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fqxf6/,0.04,0.844,0.116,0.4371
+46,AMD," AMD and nvidia success is very dependent on tsmc. If usa's fear of chinese interference in Taiwan continues, TSMC may suffer. Intel is a good counter to this especially if global foundries deal happens. SMH sounds like a good bet as high value nm  ic manufacturing is dominated by TSMC and intel.",ferg024,6,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fih9x/,0.147,0.635,0.218,0.5672
+47,GDP," The bear case is that this is the peak of the semiconductor cycle. The bull case is that the industry is no longer cyclical, other than minimally with respect to worldwide GDP fluctuations, and that most people do not understand this shift, including many “analysts”.",Yellowpainting52,3,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fl39g/,0.046,0.89,0.064,0.2263
+48,AMD, It seems people think semiconductors = Nvidia and AMD.,__iMAGiNATiON,2,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fs029/,0.0,1.0,0.0,0.0
+49,AMD, So you’re saying I can buy NVidia and AMD for 30-50% off in a year or two? I don’t mind waiting.,FantasmaTTR,1,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fz0dy/,0.0,1.0,0.0,0.0
+50,AI," the ARM deal will happen 100%. Intel is no competition. Have you check Xilinx. No comparison to Nvidia. The competition is dependent from Nvidia. Nvidia is leading in AI, Cloud and now they are entering the CPU market.",wetbetwet,0,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fjw6q/,0.109,0.891,0.0,-0.5267
+51,AMD," AMD and Intel have been fighting over market share for decades. Intel has been on top for a long time and they still are. Sure, recently AMD did a great job innovating but Intel will catch up in the next years. Chip design and manufacturing are incredibly complex. Intel has great expertise and much more resources compared to AMD. They are building several factories in the next years and are backed by western governments who fear over-dependence on TSMC, the company who produces for AMD.
+
+Don't get me wrong, I love AMD and Nvidia, but, considering the current valuations, Intel is at a discount while both of the others have very high expectations built into the stock price.",__iMAGiNATiON,2,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fv2p6/,0.045,0.781,0.174,0.944
+52,BC," Dude I’m completely with u on this one. You posted some great quality dd and I appreciate your time u put into this. I’m actually researching the semiconductor industry rn too. Unfortunately r/investing is not what it used to be. This subs just become an echo chamber of “LONG TERM INVESTING, TAKE UR SAVINGS AND PUT IT INTO S&P BC FREE LONG TERM MONEY”. Keep doing what ur doing, your ideas are always welcome :)",Weirdopwner,-5,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fjhqi/,0.028,0.774,0.197,0.9375
+53,IT," Dude I’m completely with u on this one. You posted some great quality dd and I appreciate your time u put into this. I’m actually researching the semiconductor industry rn too. Unfortunately r/investing is not what it used to be. This subs just become an echo chamber of “LONG TERM INVESTING, TAKE UR SAVINGS AND PUT IT INTO S&P BC FREE LONG TERM MONEY”. Keep doing what ur doing, your ideas are always welcome :)",Weirdopwner,-5,/r/investing/comments/oljzbt/semiconductor_stocks_boom_or_bust/h5fjhqi/,0.028,0.774,0.197,0.9375
+54,BBY," I think the “91% of employees approve of the CEO” is outdated information. The recent corporate and store level re-structures have left the corporate team decimated and struggling to accomplish basic work functions, and store employees are frustrated. Anyone I speak with at BBY from either level does not have many great things to say about Barry.
+
+I love a lot of things about BBY, but I’m holding off on buying more shares until the dust settles to see if the changes they’re making do in fact set them up for long-term success, or if these changes are a pendulum swing in a questionable direction. Have you been inside an updated Best Buy? They look great, but it took me 45min to get an employee to help me find the 2 small components I was looking for.",phonics_monkey,9,/r/investing/comments/ol9s4l/best_buy_company_research/h5dtsbo/,0.088,0.768,0.144,0.8922
+55,BBY," Things you’re missing:
+- They have been retracting their sales footprint by closing stores and shrinking floor space. This is impeding their ability to grow to gain lower expense.
+- Employee Sat is high at corporate functions due to profit sharing much lower down the ranks than most of their peers. Getting paid ‘extra’ always makes people happier.
+- The previous CEO was widely loved and seen as the only reason they didn’t go under. Current leadership is likely still riding that high.
+- Hands on price shopping: As you’ve said, lots of people want to touch and feel the product before they buy, however MANY will still go shop online for better prices and delivery after viewing the product. BBY does not offer competitive incentives to ‘stick with them’ to the register.
+- Almost half of their business comes from PC and Phone related sales yet those usually take up less than 1/3 of a store footprint and this revenue stream has STRONG competition from large, online, and boutique solutions. With material supply chain constraints in play, BBY’s purchasing power may be less than their peers (a matter of fact and perception combined) which will likely result in more OOS events and lost sales to those who have inventory. This is IMO the largest risk for the next 2 years.
+- Staffing: With the larger movement to increase staffing pay, and anemic margins to support increased pay, it’s very likely that staff will be lured away to other brick and mortar stores who can support such pay. This is especially true for places like Target and Walmart who offer competing products AND have more inelastic demand items like clothing, food, and home supplies which help during downturns.
+
+I personally watch BBY, heck I’ve interviewed there, but I don’t own them due to the level risk present in the retail space and their position within it",RigusOctavian,2,/r/investing/comments/ol9s4l/best_buy_company_research/h5e1ozw/,0.056,0.833,0.111,0.9323
+56,IMO," Things you’re missing:
+- They have been retracting their sales footprint by closing stores and shrinking floor space. This is impeding their ability to grow to gain lower expense.
+- Employee Sat is high at corporate functions due to profit sharing much lower down the ranks than most of their peers. Getting paid ‘extra’ always makes people happier.
+- The previous CEO was widely loved and seen as the only reason they didn’t go under. Current leadership is likely still riding that high.
+- Hands on price shopping: As you’ve said, lots of people want to touch and feel the product before they buy, however MANY will still go shop online for better prices and delivery after viewing the product. BBY does not offer competitive incentives to ‘stick with them’ to the register.
+- Almost half of their business comes from PC and Phone related sales yet those usually take up less than 1/3 of a store footprint and this revenue stream has STRONG competition from large, online, and boutique solutions. With material supply chain constraints in play, BBY’s purchasing power may be less than their peers (a matter of fact and perception combined) which will likely result in more OOS events and lost sales to those who have inventory. This is IMO the largest risk for the next 2 years.
+- Staffing: With the larger movement to increase staffing pay, and anemic margins to support increased pay, it’s very likely that staff will be lured away to other brick and mortar stores who can support such pay. This is especially true for places like Target and Walmart who offer competing products AND have more inelastic demand items like clothing, food, and home supplies which help during downturns.
+
+I personally watch BBY, heck I’ve interviewed there, but I don’t own them due to the level risk present in the retail space and their position within it",RigusOctavian,2,/r/investing/comments/ol9s4l/best_buy_company_research/h5e1ozw/,0.056,0.833,0.111,0.9323
+57,CRSR, Thoughts on CRSR recent stagnation and opinions on outlook,RepresentativeLeg343,6,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5dq9kd/,0.0,1.0,0.0,0.0
+58,AMC," Does anyone know why Small cap value index funds like VBR and FISVX own so many companies that are clearly not value? For the longest time they owned Gamestop even as the prices went above $300.
+
+I thought the 6/25 reconstitution process would fix this, but then I look at FISVX and apparently as of 6/30, their biggest holding was AMC... which at the valuations it was at in June, were not value at all.
+
+It's gotten to the point where I'd rather just ditch the size premium and invest in large cap value since they're shielded more from retail speculation, and then maybe buy REITs as they are a subset of small cap value that haven't seen much retail speculation yet.",skilliard7,4,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5ee5g7/,0.0,0.873,0.127,0.9231
+59,BP," **How to invest in solar/renewables.**
+
+I believe that most investors have a wrong mindset to how to invest into a greener future.  
+Solar companies are challenging the existence of Big Oil; that is the paradigm people inaccurately understand.
+
+  
+Big Oil isn't going anywhere. Big Oil's market cap is somewhere around $4T dollars. (Exxon is missing from the list for some inexplicable reason).
+
+  
+https://companiesmarketcap.com/oil-gas/largest-oil-and-gas-companies-by-market-cap/  
+Renewable Energy Market Cap is about $95 Billion dollars.
+
+  
+https://companiesmarketcap.com/renewable-energy/largest-companies-by-market-cap/  
+So let's think about this a moment.
+
+  
+People who want to make a Green Energy play are investing money in basically the national equivalent of Netherlands. And they are Expecting Netherlands to defeat an Imperial Japan in WW2.
+
+  
+Let me tell you what happened to the Netherlands in the Pacific in WW2. Another time.
+
+  
+The point is, Big Oil has massive power, massive. Political power, financial power, huge treasuries, cash flows. Collectively the Big Oil industry has more money to piss away on research than the entire value of the Renewable Sector.
+
+  
+Right now an Oil company spends a $1.00 to get oil, and make $1.20 on that oil.
+
+  
+Right now a Renewable company spends a $1.00 on their respective renewable, and makes about $1.15 on that productivity.
+
+  
+Renewables can't invade the territory of Big Oil, but WHEN THE PRICE IS RIGHT Big oil can, AND WILL invade the Renewables' territory.
+
+  
+See where I'm going with this?  
+Big Oil will:  
+\- Wait until oil vs. renewable margins are closer.  
+\- Invest in renewables.  
+\- Use their political power to shut out anyone else  
+\- Use their massive treasuries to shut out anyone else  
+\- Use their propaganda machines and sheer weight to reduce the value of renewables and buy and absorb those companies into them when the price is right.
+
+  
+I therefore think the actual renewable play is Big Oil.
+
+  
+**Today's Big Oil is the future's Big Green.**
+
+  
+The Green Energy stocks of today are simply going to be gobbled up or shut down by the weight of oil companies when the profit margin of oil becomes closer to the profit margin of renewables.
+
+  
+And every major oil company already has a strategy to accomplish this.  
+XOM - Carbon Capture technology  
+CVX - Green energy grid level storage technology.  
+BP - Green energy/offshore wind - storage and carbon capture. Basically the full monte.  
+To name a few.
+
+  
+Oil companies are also investing in alternatives to electric vehicles. Explanation:  
+**Because when EVs become popular, they will face massive headwind from energy grids and power production prices rising in response to new demand.**
+
+  
+Therefore when the EVs hit their first resistance to growth, Oil plans to enter with alternative combustion motors such as Hydrogen.
+
+  
+So in conclusion I think the future of Green Energy are the biggest Oil Companies today.",DarthTrader357,2,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fmkpx/,0.021,0.871,0.107,0.9885
+60,CVX," **How to invest in solar/renewables.**
+
+I believe that most investors have a wrong mindset to how to invest into a greener future.  
+Solar companies are challenging the existence of Big Oil; that is the paradigm people inaccurately understand.
+
+  
+Big Oil isn't going anywhere. Big Oil's market cap is somewhere around $4T dollars. (Exxon is missing from the list for some inexplicable reason).
+
+  
+https://companiesmarketcap.com/oil-gas/largest-oil-and-gas-companies-by-market-cap/  
+Renewable Energy Market Cap is about $95 Billion dollars.
+
+  
+https://companiesmarketcap.com/renewable-energy/largest-companies-by-market-cap/  
+So let's think about this a moment.
+
+  
+People who want to make a Green Energy play are investing money in basically the national equivalent of Netherlands. And they are Expecting Netherlands to defeat an Imperial Japan in WW2.
+
+  
+Let me tell you what happened to the Netherlands in the Pacific in WW2. Another time.
+
+  
+The point is, Big Oil has massive power, massive. Political power, financial power, huge treasuries, cash flows. Collectively the Big Oil industry has more money to piss away on research than the entire value of the Renewable Sector.
+
+  
+Right now an Oil company spends a $1.00 to get oil, and make $1.20 on that oil.
+
+  
+Right now a Renewable company spends a $1.00 on their respective renewable, and makes about $1.15 on that productivity.
+
+  
+Renewables can't invade the territory of Big Oil, but WHEN THE PRICE IS RIGHT Big oil can, AND WILL invade the Renewables' territory.
+
+  
+See where I'm going with this?  
+Big Oil will:  
+\- Wait until oil vs. renewable margins are closer.  
+\- Invest in renewables.  
+\- Use their political power to shut out anyone else  
+\- Use their massive treasuries to shut out anyone else  
+\- Use their propaganda machines and sheer weight to reduce the value of renewables and buy and absorb those companies into them when the price is right.
+
+  
+I therefore think the actual renewable play is Big Oil.
+
+  
+**Today's Big Oil is the future's Big Green.**
+
+  
+The Green Energy stocks of today are simply going to be gobbled up or shut down by the weight of oil companies when the profit margin of oil becomes closer to the profit margin of renewables.
+
+  
+And every major oil company already has a strategy to accomplish this.  
+XOM - Carbon Capture technology  
+CVX - Green energy grid level storage technology.  
+BP - Green energy/offshore wind - storage and carbon capture. Basically the full monte.  
+To name a few.
+
+  
+Oil companies are also investing in alternatives to electric vehicles. Explanation:  
+**Because when EVs become popular, they will face massive headwind from energy grids and power production prices rising in response to new demand.**
+
+  
+Therefore when the EVs hit their first resistance to growth, Oil plans to enter with alternative combustion motors such as Hydrogen.
+
+  
+So in conclusion I think the future of Green Energy are the biggest Oil Companies today.",DarthTrader357,2,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fmkpx/,0.021,0.871,0.107,0.9885
+61,XOM," **How to invest in solar/renewables.**
+
+I believe that most investors have a wrong mindset to how to invest into a greener future.  
+Solar companies are challenging the existence of Big Oil; that is the paradigm people inaccurately understand.
+
+  
+Big Oil isn't going anywhere. Big Oil's market cap is somewhere around $4T dollars. (Exxon is missing from the list for some inexplicable reason).
+
+  
+https://companiesmarketcap.com/oil-gas/largest-oil-and-gas-companies-by-market-cap/  
+Renewable Energy Market Cap is about $95 Billion dollars.
+
+  
+https://companiesmarketcap.com/renewable-energy/largest-companies-by-market-cap/  
+So let's think about this a moment.
+
+  
+People who want to make a Green Energy play are investing money in basically the national equivalent of Netherlands. And they are Expecting Netherlands to defeat an Imperial Japan in WW2.
+
+  
+Let me tell you what happened to the Netherlands in the Pacific in WW2. Another time.
+
+  
+The point is, Big Oil has massive power, massive. Political power, financial power, huge treasuries, cash flows. Collectively the Big Oil industry has more money to piss away on research than the entire value of the Renewable Sector.
+
+  
+Right now an Oil company spends a $1.00 to get oil, and make $1.20 on that oil.
+
+  
+Right now a Renewable company spends a $1.00 on their respective renewable, and makes about $1.15 on that productivity.
+
+  
+Renewables can't invade the territory of Big Oil, but WHEN THE PRICE IS RIGHT Big oil can, AND WILL invade the Renewables' territory.
+
+  
+See where I'm going with this?  
+Big Oil will:  
+\- Wait until oil vs. renewable margins are closer.  
+\- Invest in renewables.  
+\- Use their political power to shut out anyone else  
+\- Use their massive treasuries to shut out anyone else  
+\- Use their propaganda machines and sheer weight to reduce the value of renewables and buy and absorb those companies into them when the price is right.
+
+  
+I therefore think the actual renewable play is Big Oil.
+
+  
+**Today's Big Oil is the future's Big Green.**
+
+  
+The Green Energy stocks of today are simply going to be gobbled up or shut down by the weight of oil companies when the profit margin of oil becomes closer to the profit margin of renewables.
+
+  
+And every major oil company already has a strategy to accomplish this.  
+XOM - Carbon Capture technology  
+CVX - Green energy grid level storage technology.  
+BP - Green energy/offshore wind - storage and carbon capture. Basically the full monte.  
+To name a few.
+
+  
+Oil companies are also investing in alternatives to electric vehicles. Explanation:  
+**Because when EVs become popular, they will face massive headwind from energy grids and power production prices rising in response to new demand.**
+
+  
+Therefore when the EVs hit their first resistance to growth, Oil plans to enter with alternative combustion motors such as Hydrogen.
+
+  
+So in conclusion I think the future of Green Energy are the biggest Oil Companies today.",DarthTrader357,2,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fmkpx/,0.021,0.871,0.107,0.9885
+62,GME," Guys i have a question, i studied that naked short selling became illegal in 2008 after the financial crisis happened, but it says that since then it has never stopped going on (that's why, for example, GME short interest reached 120%). My question is: how did this kind of short selling went on and if it has something to do with CFDs",Naphas_,1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fnln1/,0.073,0.813,0.114,0.4116
+63,CAN," When should I transition into using **MARGIN**?
+
+I had a plan of how I want to go forward on moving from cash only, to margin, and I just don't know what criteria I should use.
+
+Let's start with the basic criteria. If my portfolio choices earns average market returns, is margin right for me?
+
+I would answer the con to that question, if I'm earning less than market returns then no, definitely not.
+
+But when does margin impact your timeline?
+
+Right now for instance, I have my money locked into a trade that wasn't the very bottom, fine, I have to hold it until I meet my targets. But the stock loses ground, let's say pulls back 4 or 5% in the time of my holding. **HOW CAN I TAKE ADVANTAGE** of a pullback when I believe the general trend is upward?
+
+Margin comes to mind, but what if I'm wrong and it retrenches another 1 or 2% before finally climbing out of the retrenchment?
+
+At what point do I get margin called, etc?
+
+Does the margin call for me to sell the stock, or to add money to pay off the loss of value, and how do I determine what that costs me if the retrenchment is just temporary, a matter of days?
+
+Thanks for any answers, it just helps me to formulate better questions later on.",DarthTrader357,1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fxpca/,0.057,0.848,0.095,0.8261
+64,JPM," **My thoughts on Bank sell-off**  
+
+
+Banks generally gave up a couple weeks' gain today, but with banks that could be over on Monday to new local-highs.  
+  
+So, what happened?  
+  
+I'm suspecting the expiration of options forced the price moves which were within their expected moves. Ironically, it appears, that open interest in the case of JPM was JUST outside the money for both calls and puts for where the most open interest was. EVERYONE had to delta hedge. (If my understanding is correct). So the result is a low-volume day mixed with a lot of people forced to cover their expiry's  
+  
+Can someone help evaluate this perception and see if I'm on the right track?  
+  
+I'm having trouble piecing together why delta hedging would force a stock's price in either direction.",DarthTrader357,1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5g04i9/,0.093,0.811,0.096,0.1306
+65,NVDA, Thoughts on NVDA for a buy.. Have a Fibonacci resistance at $680. Do you think it will break this resistance? NIce pull back in the last week..,Warthog133,-3,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5f0n8d/,0.0,0.896,0.104,0.4215
+66,AMC, Thoughts on AMC buy?,Head_Revolution_4102,-1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fqvuq/,0.0,1.0,0.0,0.0
+67,VERB, VERB baby VERB!,SweattyBug,2,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5eysby/,0.0,1.0,0.0,0.0
+68,BNTX," Announcement last night being added to S & P 500 and up 7.5% pre-market on that. You said: ""the other big names in vaccinations don't seem to follow the same trend"" - BNTX up slightly more YTD.",dvdmovie1,4,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5dvttv/,0.0,1.0,0.0,0.0
+69,RNA, Moderna seems to be riding its vaccine success bump. But I don't think it can play strongly in its future playground. It's going after RNA and Cancer. In which case it may trade along with the rest of the big boy pharma from now on?,DarthTrader357,3,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5ftmk6/,0.113,0.738,0.149,0.0
+70,MARA," Doing this in a ROTH will be advantageous if you are lucky enough to time it successfully.  I have done this and it works great…until it doesn’t. I was buying and selling MARA and RIOT, playing the dips. Made good money, until the recent crash. I sold off some for loss and bought in again recently to avg down. Overall I am down on the venture, hoping for a rebound. My advice, dont try to time the market. And if you invest in crypto, be willing to lose that cash.",International_Hat550,2,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5f2bfx/,0.118,0.725,0.157,0.4528
+71,RIOT," Doing this in a ROTH will be advantageous if you are lucky enough to time it successfully.  I have done this and it works great…until it doesn’t. I was buying and selling MARA and RIOT, playing the dips. Made good money, until the recent crash. I sold off some for loss and bought in again recently to avg down. Overall I am down on the venture, hoping for a rebound. My advice, dont try to time the market. And if you invest in crypto, be willing to lose that cash.",International_Hat550,2,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5f2bfx/,0.118,0.725,0.157,0.4528
+72,ETH," > in 6+ months, or when I ""think"" the crypto bottom is in
+
+At about -50% right now for BTC and ETH, you think there's another 6+ months for it to go down further?  Assuming, as you say below, that you aren't trying to get the precise bottom, why wouldn't you not enact your strategy *right now*?
+
+> Just the one trade out of VTSAX and into a crypto stock, and then later on when I'm happy with the gains, convert from the crypto stock back to VTSAX
+
+Crypto and stocks are uncorrelated assets, but they aren't *inversely* related. What makes you think that this is a good strategy at all?
+
+Also why wouldn't you just buy something that attempts to mirror crypto price movement (Greyscale products for example, not that I'm in love with Greyscale products) instead of Microstrategy?",silent_johnn,1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fp1m3/,0.0,0.89,0.11,0.9433
+73,JPM," Banks, not technically in oversold category but they are majorly discounted right now compared to their actual fundamental performance with historical bank sector performance.
+
+Basically JPM is trading at -20% to-30% of its normal PE.
+
+Banks also historically seem to make huge movements, so they bleed a little then snap up 12% or more.
+
+Right now seems to be shaping up for such a move.  
+
+
+Right now JPM's P/E is as bad as after the COVID sell off began. Do \*YOU\* believe banks should be trading as if in a recession given their recent earnings blow-outs?",DarthTrader357,2,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fixos/,0.083,0.871,0.046,-0.6966
+74,TA," People don't really like TA in here.
+
+I.e. This isnt hogwarts school of finance.",Hellkyte,2,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fvfs7/,0.152,0.848,0.0,-0.3241
+75,GME, Investopedia says it is still going on. Also SEC time to time is charging broker-dealers that violate the Regulation SHO. I'm writing a University Thesis about the GME short squeeze and I need to fully understand this part (can't find anything detailed),Naphas_,1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fqyn5/,0.076,0.924,0.0,-0.4939
+76,SHO, Investopedia says it is still going on. Also SEC time to time is charging broker-dealers that violate the Regulation SHO. I'm writing a University Thesis about the GME short squeeze and I need to fully understand this part (can't find anything detailed),Naphas_,1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fqyn5/,0.076,0.924,0.0,-0.4939
+77,NVDA," Sort of.  Its really specifically a distaste for technical analysis.  People here are more interested in fundamentals.
+
+Thats not to say that people don't watch charts, there is stuff there.  But TA is a pretty unscientific bit of nonsense to most of us.
+
+Take for instance the idea of looking for an entry point on NVDA based purely on its graph.  You have a set of data, the ticker for NVDA, that you are using to drive a conclusion.  And thats it.
+
+Here's the problem with that.  Are you at all considering the broader latent correlation with the market?  That graph does not exist in a vacuum, it is heavily related to the overall market.  What about considering it in relation to CPI?  Or the feds attitude to the CPI, both of which have a lot to do with valuations for tech firms.
+
+What about the financials?  Or the upcoming split and the implication of that.
+
+None of that is at all considered in the TA fibbonaci resistance calc.  
+
+Its basically people playing dress up as analysts, and it has bamboozled a lot of retail investors.",Hellkyte,1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fxnmv/,0.057,0.899,0.044,-0.5257
+78,TA," Sort of.  Its really specifically a distaste for technical analysis.  People here are more interested in fundamentals.
+
+Thats not to say that people don't watch charts, there is stuff there.  But TA is a pretty unscientific bit of nonsense to most of us.
+
+Take for instance the idea of looking for an entry point on NVDA based purely on its graph.  You have a set of data, the ticker for NVDA, that you are using to drive a conclusion.  And thats it.
+
+Here's the problem with that.  Are you at all considering the broader latent correlation with the market?  That graph does not exist in a vacuum, it is heavily related to the overall market.  What about considering it in relation to CPI?  Or the feds attitude to the CPI, both of which have a lot to do with valuations for tech firms.
+
+What about the financials?  Or the upcoming split and the implication of that.
+
+None of that is at all considered in the TA fibbonaci resistance calc.  
+
+Its basically people playing dress up as analysts, and it has bamboozled a lot of retail investors.",Hellkyte,1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fxnmv/,0.057,0.899,0.044,-0.5257
+79,TA," I wouldn’t say it’s complete nonsense, just that it’s mostly irrelevant to long term investing. TA can be good for playing the momentum game, but the longer the timeframe the more actual fundamentals start to matter.",deevee12,1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fyhkt/,0.05,0.83,0.12,0.1655
+80,PM," I will be messaging you in 1 year on [**2022-07-16 18:08:38 UTC**](http://www.wolframalpha.com/input/?i=2022-07-16%2018:08:38%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fap3z/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Finvesting%2Fcomments%2Fold2x9%2Fdaily_general_discussion_and_spitballin_thread%2Fh5fap3z%2F%5D%0A%0ARemindMe%21%202022-07-16%2018%3A08%3A38%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20old2x9)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",RemindMeBot,1,/r/investing/comments/old2x9/daily_general_discussion_and_spitballin_thread/h5fassi/,0.109,0.891,0.0,-0.6322
+81,IP," Wouldn't it make more sense for the big energy companies to simply acquire the green energy companies that do well, instead of trying to kill them? Isn't that how big established players with lots of cash deal with innovation? It's better to let startups do the research and take the risks, then buy up the talent and IP which is where the real value is.
+
+So from an investing point of view, it's still the young innovative companies that will grow your investment in the long term. Your shares don't go away when they get acquired.",falconne,11,/r/investing/comments/olo6xm/the_strategies_for_investing_in_green_energy_and/h5fq4ti/,0.06,0.744,0.197,0.9129
+82,UK, OP is 100% right about big oil but he's way off with the timelines because this is already happening in the UK. Search online for: oil company round 4 auction. They paid such an inflated price for development rights that it squeezed out traditional renewables players 👍,LordCambuslang,2,/r/investing/comments/olo6xm/the_strategies_for_investing_in_green_energy_and/h5frmfi/,0.0,1.0,0.0,0.0
+83,MNMD," I see and appreciate your logic here...  
+   
+I still think it's a decent idea to invest in these smaller companies doing the r&d because eventually some of them will hit ""pay dirt"" and even if that ensures their acquisition by the bigger companies you're still getting in at a lower cost and with the potential for a larger ROI... Helping them gain leverage while not necessarily giving the larger oil companies all of your money to do whatever... maybe less wholesome things they might be doing with it quite YET...    
+
+
+This is the type of tech we all want to see, regardless of who's making it- but if the bigger conglomerates have the power to make it happen and they're deliberately withholding it while making things worse and creating a bigger marketshare for themselves at everyone else's expense... and maybe in a way at the behest of their shareholders who at least at the moment are thinking more about short term gain than about overall life and ecological sustainablility... I guess I don't necessarily want to give them any more of my money than I already am atm...  
+
+
+idk...   
+
+
+TLDR; you're right, I think...   
+But they haven't earned my money yet...  
+
+
+Positions: all in MNMD (lol)",startfiresintl,1,/r/investing/comments/olo6xm/the_strategies_for_investing_in_green_energy_and/h5g0oe3/,0.049,0.876,0.075,0.6686
+84,BP," BP is regarded as pulling the trigger too early. It's share price has suffered for a number of reasons, one of them being they are transitioning too hard from better margin oil into lower margin green energy before their peers.",DarthTrader357,1,/r/investing/comments/olo6xm/the_strategies_for_investing_in_green_energy_and/h5fs69h/,0.144,0.677,0.18,0.1779
+85,IBM," If a big energy company was able to drive the cost of renewables down so much it crashes the green tech companies, then they wouldn't need to buy them out, discount or not, since that implies the big company has leapfrogged them in tech.
+
+Thing is, innovation and engineering is hard. You can't solve every problem by throwing money at it. If you're coming in to a field 10 or 20 years behind in research, just being big doesn't mean you're going to catch up in tech just like that. Look at what happened to IBM in the face of upstarts like Microsoft, Google, Amazon, etc.
+
+Even if big companies can fund their own research later, that will put them a decade or more behind. Meanwhile, another big energy competitor could buy up several successful startups and quickly become the dominant player. So like with tech startups, the big players won't be looking for discounts, they'll just wait to see who makes the best proven breakthroughs and then compete with each other to acquire the best tech first.",falconne,2,/r/investing/comments/olo6xm/the_strategies_for_investing_in_green_energy_and/h5g1ccl/,0.015,0.829,0.156,0.9787
+86,FI," **How do I calculate the prospective anual returns for a mutual fund in a given year?** This should be a % and include dividents returns.
+
+So for example I want to make a table for a specific fund with the year, and the % return. I want to go back and do this for the last 25 years of the fund.
+
+I see most people use ""5%"" for index fund portfolios, but I want to calculate it myself.
+
+I see for example the [Canadian Couch Potato Model Portfolio](https://cdn.canadiancouchpotato.com/wp-content/uploads/2021/02/CCP-Model-Portfolios-TD-e-Series-Dec2020.pdf) report do this for 2020, but it for the 10/15/20/25 year marks it only gives you the cumulative average. I want to have the actual anual lines, and do the averages myself.
+
+This is in a FI context where I can then use those historical returns to simulate future returns (yes I know past performance is no guarantee of future returns) and run various ""simulations"". I feel I have good reason for not use FIREcalc, where it doesn't handle my Canadian + pension + variable projected expenses situation well.
+
+/r/financialindependence deleted my post saying it wasn't FI specific enough of a question and that I should ask here...
+
+As another example [investopedia](https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp) has a page listing the year and ""annual total nominal returns (%, including dividends, but not accounting for inflation)"" for the S&P 500. I want to do that but for another fund.
+
+Specifically I want to do it for TDB909, TDB900, TDB902, and TDB911. But learning to do it for any fund would be a great help to me and potentially others.",ofb,1,/r/investing/comments/old2d4/daily_advice_thread_all_basic_help_or_advice/h5fugkp/,0.011,0.878,0.111,0.9696
+87,IR," TSM is not a US company. It's traded in the US as an ADR. They file a 20-F.
+
+Normally, the best place to look for those kinds of documents are on the investor relations site of a public company or the SEC Edgar site. 
+
+Link to TSM filings on their IR site here - [https://investor.tsmc.com/english/sec-filings](https://investor.tsmc.com/english/sec-filings)",greytoc,1,/r/investing/comments/old2d4/daily_advice_thread_all_basic_help_or_advice/h5fornb/,0.0,0.923,0.077,0.6369
+88,TSM," TSM is not a US company. It's traded in the US as an ADR. They file a 20-F.
+
+Normally, the best place to look for those kinds of documents are on the investor relations site of a public company or the SEC Edgar site. 
+
+Link to TSM filings on their IR site here - [https://investor.tsmc.com/english/sec-filings](https://investor.tsmc.com/english/sec-filings)",greytoc,1,/r/investing/comments/old2d4/daily_advice_thread_all_basic_help_or_advice/h5fornb/,0.0,0.923,0.077,0.6369
+89,GOOG," You carry basis risk. Say SPY is trading at a discount and IVV is at a premium. You go long SPY long and short IVV. If IVV stays high and goes higher while SPY stays low and goes lower, you'll be at a mark to market loss. If there's not enough pressure on the prices to converge, it could stay that way for longer than you can hold on to the trade. Or as a similar trade consider GOOG vs GOOGL.",kiwimancy,2,/r/investing/comments/old2d4/daily_advice_thread_all_basic_help_or_advice/h5fgqnt/,0.105,0.872,0.023,-0.7015
+90,GOOGL," You carry basis risk. Say SPY is trading at a discount and IVV is at a premium. You go long SPY long and short IVV. If IVV stays high and goes higher while SPY stays low and goes lower, you'll be at a mark to market loss. If there's not enough pressure on the prices to converge, it could stay that way for longer than you can hold on to the trade. Or as a similar trade consider GOOG vs GOOGL.",kiwimancy,2,/r/investing/comments/old2d4/daily_advice_thread_all_basic_help_or_advice/h5fgqnt/,0.105,0.872,0.023,-0.7015
+91,CAN," While the broker CAN make money on your losses, I think it’s something that’s said that isn’t particularly true (for the majority of the big CFD brokers), the broker would take your position and aim to remain delta neutral, making money from spreads and commissions while taking little risk themselves
+
+However, in the process of going delta neutral, they may bet against your position, and then bet against another trader who is going against you, effectively making their 2 bets cancel each other out, so although they did technically bet against you, it was merely a used to lock in being delta neutral rather than them make any money from you being wrong or right, (if they make money on you they then lose that amount to the person they bet against, so it’s not like they benefit from you losing)
+
+The price for a CFD shouldn’t be much different, if a stock is trading at 1025 bid and 1026 ask, the CFD broker might have 1024 and 1027 instead (adding this spread is where they make their money), so it’s close to the market price but there will be a difference, sometimes it’s practically not noticeable sometimes if the stock is highly volatile you will see it varying more widely
+
+And back to the first point, the broker CAN make money on your losses, but then instead of being delta neutral and raking in commission charges they’re taking risks of you being right and causing them losses, in which most avoid this and don’t want to be making directional trades, however since there’s no law against it I’d assume a lot of smaller CFD brokers do this, maybes some big ones too idk!
+
+If you want to buy actual stocks instead of cfds and your from the UK I think tastyworks interactive brokers and potentially td ameritrade are the best options",lavanderXXX,1,/r/investing/comments/olf350/uk_broker_for_gbp_and_usd_cfds/h5dyqmx/,0.098,0.863,0.038,-0.9405
+92,UK," While the broker CAN make money on your losses, I think it’s something that’s said that isn’t particularly true (for the majority of the big CFD brokers), the broker would take your position and aim to remain delta neutral, making money from spreads and commissions while taking little risk themselves
+
+However, in the process of going delta neutral, they may bet against your position, and then bet against another trader who is going against you, effectively making their 2 bets cancel each other out, so although they did technically bet against you, it was merely a used to lock in being delta neutral rather than them make any money from you being wrong or right, (if they make money on you they then lose that amount to the person they bet against, so it’s not like they benefit from you losing)
+
+The price for a CFD shouldn’t be much different, if a stock is trading at 1025 bid and 1026 ask, the CFD broker might have 1024 and 1027 instead (adding this spread is where they make their money), so it’s close to the market price but there will be a difference, sometimes it’s practically not noticeable sometimes if the stock is highly volatile you will see it varying more widely
+
+And back to the first point, the broker CAN make money on your losses, but then instead of being delta neutral and raking in commission charges they’re taking risks of you being right and causing them losses, in which most avoid this and don’t want to be making directional trades, however since there’s no law against it I’d assume a lot of smaller CFD brokers do this, maybes some big ones too idk!
+
+If you want to buy actual stocks instead of cfds and your from the UK I think tastyworks interactive brokers and potentially td ameritrade are the best options",lavanderXXX,1,/r/investing/comments/olf350/uk_broker_for_gbp_and_usd_cfds/h5dyqmx/,0.098,0.863,0.038,-0.9405
+93,LEAP, I think you could accomplish a 3x leverage in a safer way by using LEAP options. Go somewhere ATM - slightly ITM and you could get 3x exposure with less downside risk than using margin for shares. Also no margin call to worry about.,thecongocartel,6,/r/investing/comments/oldeow/leveraged_etfs_vs_leveraging_yourself_into_an_etf/h5doplh/,0.175,0.668,0.158,0.0442
+94,DD, Can you dm me a screenshot? Love to have some conformation bias on my DD,angry_hungover_hippo,3,/r/investing/comments/ol7ya1/tradingview_shows_me_future_price_action_of_xela/h5cr6cy/,0.08,0.682,0.239,0.5859
+95,AMC, I have also been seeing this. AMC for example has been showing up as $58 until I force a refresh. It's quite frustrating because now I can't rely on it to show me accurate data.,wwzd,1,/r/investing/comments/ol7ya1/tradingview_shows_me_future_price_action_of_xela/h5ctyc6/,0.096,0.904,0.0,-0.4927
+96,MRIN," How can you say the squeeze is over when the short interest is going up? You think being #1 ain't gonna do anything for it? MRIN also has a low market cap (around $100 million), and we saw how high it got. Wouldn't a low market cap *help* move this thing? Legitimately asking. No condescension.",chizbejoe,1,/r/investing/comments/olpsi8/why_investing_in_crtd_is_a_nobrainer_at_this/h5g08z7/,0.118,0.831,0.051,-0.4479
+97,CAT," > Solving this problem on a longer-term basis would include a lot of the policies the Liberals are pushing
+
+In my opinion, this post toes the line of the political posting guidelines, and may cross them. I'd like to offer some counterpoints to the above statement, in hopes that we can keep the discussion relevant. I'm sure there is more nuance to this discussion than I am able to provide.
+
+ - Increasing capital gains tax on the wealthiest does not, by itself, prop up the markets. There's an argument that it may reduce monetary velocity by increasing incentives for the wealthiest to never sell their holdings. At best, increased capital gains taxes may provide the government more money to either balance the budget or fund other initiatives. In the context of this sub, it's more interesting to discuss specific initiatives that could improve the economy.
+
+ - Reducing the pay gap within companies could refer to several different things. I assume you mean the gap between executive salaries and entry-level wages (as opposed to gender pay gaps). If so, this has surprisingly small benefits. Taking CAT as an arbitrary example, eliminating the entire CEO's compensation package and dividing by the number of employees gives you an average of a $133/yr raise. Sure, there's more than one executive - but it's also unfair to take away the CEO's *entire* compensation. The current worker shortage is driving up wages for many factory positions by a larger amount than you're likely to achieve from cutting executive salaries. 
+
+ - Are we sure that middle-to-lower class spending is down? It actually seems to be surging, driven by pent-up post-pandemic-lockdown demand. In my lcol area, there are plentiful entry-level jobs paying high $20's per hour. That's not riches, but in a low cost of living area that is enough to support a decent middle-class lifestyle. [Edit to clarify: I intended this to contrast with the ""keep doling out stimulus checks"" point. Many people seem to be finding higher-paying work instead of relying on stimulus checks.]
+
+The market is down a little right now, but I see this as a healthy pullback. It may be nothing more than a brief correction during an extended bull market.",FinalDevice,1,/r/investing/comments/olpst2/a_simple_reason_why_the_wheels_are_falling_off/h5g0qbb/,0.059,0.835,0.106,0.9055
+98,TV, I'm actually a market analyst (3+ years experience only). I've been on TV a couple times.,waynetr,0,/r/investing/comments/olpst2/a_simple_reason_why_the_wheels_are_falling_off/h5fywbz/,0.0,1.0,0.0,0.0
+99,TV," well, now we know what a market analyst on TV looks like",programmingguy,1,/r/investing/comments/olpst2/a_simple_reason_why_the_wheels_are_falling_off/h5g2b9d/,0.0,0.662,0.338,0.5574
+100,ESI," They’re in a market dominated by monopoly powers: ESI, Caremark, and Prime. Paying cash for generics is great but they’ll find it hard to incorporate high margin drugs where pharmacies make the most money. Volume is there though. If Amazons PillPack reaches the buying power discounts that GoodRx has they’ll have stiff competition there. I personally stay far away from retail pharmacy.",acihux,8,/r/investing/comments/ol94lk/possible_unicorn_stock_found/h5d2381/,0.044,0.895,0.062,0.2732
+101,NEGG," Oh jeez, idiot typing/transcribing error.  Had NEGG on my mind when I was typing.  Yes, will correct--thanks!",getpsychosocial,6,/r/investing/comments/ol94lk/possible_unicorn_stock_found/h5cya8d/,0.286,0.591,0.123,-0.5562
+102,DD, The greatest DD,YTChillVibesLofi,2,/r/investing/comments/ol94lk/possible_unicorn_stock_found/h5d04r6/,0.0,0.323,0.677,0.6369
+103,GME," Hey Dad go all in on GME. 400,000+ FTD on 06/18, T+35 is next week, they desperately shorted it this week and couldn’t bring it down past $160. What a sweet sweet dip.",Big_Iron_Cowboy,-1,/r/investing/comments/olomfv/ive_sold_out_of_most_of_my_stocks_the_last_couple/h5fs7k2/,0.069,0.771,0.16,0.5267
