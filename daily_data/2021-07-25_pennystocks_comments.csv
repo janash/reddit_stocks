@@ -1,0 +1,70 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,SPRT, SPRT to the moon and beyond!,AlRanger06,49,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6h2lh6/,0.0,1.0,0.0,0.0
+1,SPRT, Played SPRT the last 2 weeks… Love the gains,KingGrey_Dudebot,32,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6h4km8/,0.0,0.357,0.643,0.8402
+2,SPRT, SPRT has a unique setup.,Many-Coach6987,23,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6h66fv/,0.0,1.0,0.0,0.0
+3,API," Hey guys,
+
+It's u/nobjos back again with this week's post. I post a similar list every week.
+
+Some FAQ’s:
+
+How does the program work: The program is built using Python and uses both Twitter and Reddit API to stream comments and tweets and spot tickers that are exhibiting accelerated growth. I added sentiment analysis to the findings so as to check the general sentiment (whether what is being talked about the stock is positive or negative).  
+
+Can I use the code/is it open source: [Yes](https://github.com/marketsentiment/mslive_public).
+
+What is sentiment: It's calculated using natural language processing with a modified version of vadersentiment. You get pre-trained models which classify whether a given statement is positive or negative. I have modified it to analyse financial comments also ( eg. Calls, puts, moon, gain, loss etc). It then classifies the statement between -100% and +100% depending on if it's negative or positive respectively. The numbers you are seeing here is the average across all the comments. Please note that if the number of mentions is lesser than 30, the sentiment value shown might not have statistical significance. 
+
+Cheers!",nobjos,10,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6h0qs1/,0.057,0.79,0.153,0.9557
+4,ATOS, Holding ATOS because I like it.,Megastandard,33,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6h1yhb/,0.0,0.615,0.385,0.3612
+5,ATOS, ATOS will be in the double digits before the end of the year.,chikaca,22,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6hhexb/,0.0,1.0,0.0,0.0
+6,ATOS," Still in ATOS, not loving how volatile it's been but it should pick up again soon. Been looking into SPRT all morning, might hop in there if it dips a little tomorrow. GLTA",SentryXCI,20,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6h5qss/,0.063,0.937,0.0,-0.267
+7,SPRT," Still in ATOS, not loving how volatile it's been but it should pick up again soon. Been looking into SPRT all morning, might hop in there if it dips a little tomorrow. GLTA",SentryXCI,20,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6h5qss/,0.063,0.937,0.0,-0.267
+8,DARE, Don’t sleep on DARE either,Cmac33111133,3,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6i209t/,0.0,1.0,0.0,0.0
+9,SPRT, SPRT all day. #1 short squeeze candidate🥇,maschx,8,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6he4ju/,0.0,1.0,0.0,0.0
+10,VERB," XELA and VERB.  XELA had its pullback last week so it’s hopefully ready for another run up.  VERB has that nice bullish cup and handle, launched new product and the CEO has also stated there is no reason for dilution in the near future.",Jmonahan581,2,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6i6th2/,0.043,0.761,0.196,0.7809
+11,XELA," XELA and VERB.  XELA had its pullback last week so it’s hopefully ready for another run up.  VERB has that nice bullish cup and handle, launched new product and the CEO has also stated there is no reason for dilution in the near future.",Jmonahan581,2,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6i6th2/,0.043,0.761,0.196,0.7809
+12,RESN, More PQEFF AND RESN,Chairfucker69,1,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6hono5/,0.0,1.0,0.0,0.0
+13,SPRT," The last weeks I hyped in your posts about SPRT and said it will have a great future ahead and will rise in sentiment and share price for sure. And now I am looking at this chart and couldn't be happier. 
+
+There is still a lot to come for SPRT but I am really glad its finally gaining the attention it deserves. 
+
+And as always, thank you for the data!",dkbbroker,1,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6ia4a8/,0.024,0.75,0.226,0.9392
+14,TNXP, Sure hope so. Need a win. Been getting clobbered the last month... Definitely could have done without TNXP shitting the bed after hours Friday.,superlgn,2,/r/pennystocks/comments/orbof9/most_discussed_stocks_in_pennystocks_last_week/h6ic9sv/,0.0,0.557,0.443,0.9233
+15,GL," It's rough, started this Jan also, following what gets constantly repeated here helps, a lot. Take profits, profits is profits, buy the rumor sell the news, do your own dd, don't chase, there's always another play, don't invest what you can't afford to lose, to mention a few. GL out there!",common_loot,3,/r/pennystocks/comments/or08kl/certified_dip_loader_operator/h6g06w4/,0.0,0.685,0.315,0.9537
+16,MRIN," It's been tough the last ~5 months or so. December through early Feb was an insane bull run, easy to feel invincible in those conditions if you don't have the experience or recognize the extreme detachment from fundamentals at the time. I sized down then eased back in as market dropped, mostly tread water for months by taking profits quicker on pops. Unfortunately that kept me on the sidelines for probably 99% of MRIN move after nailing the entry, but there had been barely any big runners previous to that (market wide, not just my watchlist,) so it's tough to immediately recognize when the cycle is changing. The odds have definitely been stacked against novice traders over this stretch. What worked in the winter definitely hasn't been working. In the same sense that my statistics from early last year stopped being applicable in December or so, and I had to adapt to take advantage.
+
+Here's a very dense blog post on the subject - but it gives you a good idea of how much work it can take to be consistently successful through different cycles. This guy is a personal idol. Most furus don't give up much about their strategies; either they're trying to sell you something, or they figure it will reduce their edge. TradeTheMatrix1 goes the exact opposite way - he shares a ridiculous amount of information, knowing he needs to adapt dynamically with the market regardless of what he shares, and most people won't put in the work to follow in his footsteps anyway.
+
+https://www.tradethematrix.net/amp/small-cap-stocks-market-cycles?__twitter_impression=true",stompingllama,3,/r/pennystocks/comments/or08kl/certified_dip_loader_operator/h6gzymf/,0.044,0.831,0.126,0.9749
+17,DD," Welp, it's nice to know that the problem isn't just me being bad at this. I mean, I'm new at this and I'm definitely not doing it ""right"", though I try to do some DD. Portfolio is like a sinking iceberg right now. 
+
+Bright side is, I can afford to hold till things turn around.",Narwahl_Whisperer,3,/r/pennystocks/comments/or08kl/certified_dip_loader_operator/h6h8agw/,0.1,0.725,0.176,0.5719
+18,DD," I was actually thinking about this today.
+
+I relatively new and not sure if it’s beginners luck, but I’ve been doing a lot of YouTube research, DD on here and  Stocktwits, dd of the company itself.  This landed me to invest in DPLS, CYBL and FERN over the last 2 months or so. 
+
+I mean these company’s literally tell you when and what they are going to do, like acquiring other companies, getting current, and etc.   and sure enough, it happens and these tickers have at least doubled, tripled, over the last 2 months if not more.
+
+Because of the internet, social media and YouTube, I feel like the sharing, vetting, aggregation and flow of information is so much better than 10+ years ago.   So it’s almost a no brainer for me to invest in companies where they or the CEO is outright telling you the playbook and following through with it?  
+
+Maybe because I haven’t been burned before and it’s just a lucky streak.  One thing I have learned is that you need to be patient.",dxiao,9,/r/pennystocks/comments/oqykn6/i_may_not_have_the_best_choices/h6fqk8x/,0.036,0.854,0.11,0.9381
+19,RAM," Definitely. It's used in computer parts. Those... ahem... *gold colored* connectors on RAM, CPUs, etc? Tends to be actual gold plating.
+
+Gold is also an excellent heat barrier. you'll find it in high end cars and aerospace machinery.
+
+[https://www.designengineering.com/reflect-a-gold-24-x-150-heat-reflective-roll/](https://www.designengineering.com/reflect-a-gold-24-x-150-heat-reflective-roll/)
+
+https://geology.com/minerals/gold/uses-of-gold.shtml",Narwahl_Whisperer,1,/r/pennystocks/comments/or07m1/dscr_is_on_the_move_and_is_expecting_some_huge/h6iezjp/,0.033,0.824,0.143,0.7096
+20,DD," [https://www.otcmarkets.com/stock/DSCR/security](https://www.otcmarkets.com/stock/DSCR/security) yes. before you invest in something on the otc, go on [otcmarkets.com](https://otcmarkets.com) and look up the ticker. one of the first things you always have to do for your DD",Mandano89,1,/r/pennystocks/comments/or07m1/dscr_is_on_the_move_and_is_expecting_some_huge/h6glj6r/,0.0,0.917,0.083,0.4019
+21,IMO, Got to. I think folks just waiting on confirmation of mine purchase. It’s too late at that point IMO. Folks will be chasing.,Shizzledizzle71,0,/r/pennystocks/comments/or74q1/aabb_price_projection_once_bonanza_mine_is/h6hgwcv/,0.0,1.0,0.0,0.0
+22,SPRT, SPRT. It started.,Many-Coach6987,6,/r/pennystocks/comments/or42jh/the_loungedaily_plays_july_25_2021/h6grea8/,0.0,1.0,0.0,0.0
+23,SPRT, I want to invest in SPRT however I cannot find it on eToro. Is this exclusive to me or is it just etoro? If not where could I invest from. I'm in the UK btw.,beastmode-1,5,/r/pennystocks/comments/or42jh/the_loungedaily_plays_july_25_2021/h6h6mo2/,0.0,0.911,0.089,0.2323
+24,UK, I want to invest in SPRT however I cannot find it on eToro. Is this exclusive to me or is it just etoro? If not where could I invest from. I'm in the UK btw.,beastmode-1,5,/r/pennystocks/comments/or42jh/the_loungedaily_plays_july_25_2021/h6h6mo2/,0.0,0.911,0.089,0.2323
+25,CTXR, CELZ CYBL CTXR DPLS,PenaltyDistinct2632,3,/r/pennystocks/comments/or42jh/the_loungedaily_plays_july_25_2021/h6if4x4/,0.0,1.0,0.0,0.0
+26,SPRT," Monday will be another good day for SPRT. Momentum is still building up, and the merger is closer and closer. Bitcoin is also rising crazily. Elon Musk and Cathie Wood talked about using green energy to do cryptomining. 
+
+I see SPRT is going to be really bullish. Of course it has risen about 40-50% already, but it is still undervalued now.",steven10923,5,/r/pennystocks/comments/or42jh/the_loungedaily_plays_july_25_2021/h6heoix/,0.028,0.916,0.056,0.1901
+27,NOK, NOK upward and on ward!,Eatern-Republic5884,2,/r/pennystocks/comments/or42jh/the_loungedaily_plays_july_25_2021/h6h4t8e/,0.0,1.0,0.0,0.0
+28,DD," $CELZ is getting commented on more and more each day, in fact it just hit 500 members in the sub! People are doing DD there and seeing the short-term, but more importantly, the long-term potential this company has while it's still on the ground floor. There is risk involved, not saying there isn't, but if you're looking for something with a potentially immense upside down the road, do yourself a favor and check it out.",Cire_NojH,2,/r/pennystocks/comments/or42jh/the_loungedaily_plays_july_25_2021/h6hbo8l/,0.033,0.876,0.091,0.6789
+29,CRTD," CRTD is the play this week folks, it's gonna pop",zoo78,0,/r/pennystocks/comments/or42jh/the_loungedaily_plays_july_25_2021/h6hhnza/,0.0,0.789,0.211,0.34
+30,RCAT," RCAT down 21% last week alone,  my 100 shares took a beating past 2 weeks",TazMichael,1,/r/pennystocks/comments/oreefg/should_i_buy_redcat_rcat/h6i5ips/,0.291,0.581,0.128,-0.4215
