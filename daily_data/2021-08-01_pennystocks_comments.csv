@@ -1,0 +1,91 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,SPRT, SPRT is the play huh?,BluePhoenix7045,9,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7ck60x/,0.0,0.625,0.375,0.34
+1,SPRT, SPRT to the moon!,AlRanger06,36,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7c026g/,0.0,1.0,0.0,0.0
+2,API," Hey guys,
+
+It's u/nobjos back again with this week's post. I post a similar list every week.
+
+**I have launched a site where you can track this information in real-time. Please check it out if you are interested**
+
+Some FAQ’s:
+
+How does the program work: The program is built using Python and uses both Twitter and Reddit API to stream comments and tweets and spot tickers that are exhibiting accelerated growth. I added sentiment analysis to the findings so as to check the general sentiment (whether what is being talked about the stock is positive or negative).
+
+Can I use the code/is it open source: [Yes](https://github.com/marketsentiment/mslive_public).
+
+What is sentiment: It's calculated using natural language processing with a modified version of vadersentiment. You get pre-trained models which classify whether a given statement is positive or negative. I have modified it to analyse financial comments also ( eg. Calls, puts, moon, gain, loss etc). It then classifies the statement between -100% and +100% depending on if it's negative or positive respectively. The numbers you are seeing here is the average across all the comments. Please note that if the number of mentions is lesser than 30, the sentiment value shown might not have statistical significance.",nobjos,7,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7bt1i5/,0.052,0.805,0.143,0.9516
+3,SPRT, SPRT 😉,therealkelso1,7,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cpuhg/,0.0,1.0,0.0,0.0
+4,MARA, How is MARA a pennystock?,Matthiey,8,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7c1slh/,0.0,1.0,0.0,0.0
+5,DD," $SPRT is rdy to take off next week, they post earnings on thursday, so if you think about investing in it, do your own DD there are many good article in $SPRT subreddit, inform yourself and join the Party before that date if you like what you see!",Brilliant-Key8466,9,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7c68ci/,0.0,0.806,0.194,0.8622
+6,SPRT, SPRT Looking sus af on this sub or is that just me 😂,kaocwedelgnitoille,9,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7bv2zg/,0.0,1.0,0.0,0.0
+7,ATOS, ATOS was a great movement when I bought puts months ago... Everyone knew that shit was going down sooner than later hahaha,-Gol-D-Roger--,2,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cbrvn/,0.127,0.601,0.272,0.6249
+8,XELA, XELA bag holder here!,UncleBenji,3,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7bvszu/,0.0,1.0,0.0,0.0
+9,FOX," I am shocked that RSHN is not on the list. They have several major network financial shows highlighting RSHN. FOX Business Monday 10pm pst but search Rushnet on YouTube for today’s 1st of 6 Shows. Today’s was New on the Street. 
+RSHN is on a tear and over one cent now.",VerticleFoil,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7bvya8/,0.034,0.966,0.0,-0.1655
+10,SPRT," Tbh I bought a few 9p and 6p contracts
+on SPRT last Thursday. Seems like a cool company and all, but any time a stock that small is up 100% in a month, it's pretty guaranteed to not last.",KittenStapler,0,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cdf9y/,0.0,0.801,0.199,0.7717
+11,GTE, GTE. Earnings week.,airetupal,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7ci83w/,0.0,1.0,0.0,0.0
+12,THRM, What about THRM.V? UwU,joyousstupidyouth,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7copmk/,0.0,1.0,0.0,0.0
+13,NRXP," Why is NLST not on there? Research Netlist
+
+
+Also NRXP & RLFTF  EUA almost ready by FDA.",Fatherof10,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7coxqs/,0.0,0.872,0.128,0.2975
+14,CTXR, Bought my CTXR when it hit 4$. Planning on killing myself soon.,SummaryEye80019,25,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7c83pw/,0.286,0.714,0.0,-0.6597
+15,MARA," Well it is a former penny stock that used to be discussed here.   
+
+
+I played it for the first time last summer, following trevandezz on a play call here on this sub. I think he bought in at .99, and I was late to the play, but felt like there was still room. I got in at $1.12. Lol.  Imagine wondering if you are too late to play MARA at $1.12. 
+
+The play went as predicted, and of course I was happy to make money. Can’t coulda-woulda-shoulda about holding it, that is long in the past, but I have flipped it many times since then and am holding some now.
+
+So anyway, I wonder if some of us do remember it as a penny stock and maybe specifically remember it from this sub.",dragonfliesloveme,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cgheb/,0.0,0.821,0.179,0.9714
+16,HEPA, I’ve been in and out of HEPA some. What’s quite exiting is the disease they target is massive and has NO treatment. So if they get the drug going it’s a total addressable market is billiondel per year and they have no competition.,fiskemannen,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7ck2tt/,0.114,0.886,0.0,-0.6289
+17,SPRT," I’d be surprised if it didn’t at least reach $15, though I expect it to go even higher. Especially with the price of Bitcoin rising again and the hype around crypto. The low float,
+institutional ownership, and high short interest are big factors as well. According to finviz, SPRT and VIH are the only 2 stocks under $10 with 30% or more short interest, over 50% institutional ownership, and under 20mm float. I got in at around 8 dollars and feel pretty confident but we’ll see.",hanfook,2,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cnp25/,0.018,0.843,0.14,0.7717
+18,VIH," I’d be surprised if it didn’t at least reach $15, though I expect it to go even higher. Especially with the price of Bitcoin rising again and the hype around crypto. The low float,
+institutional ownership, and high short interest are big factors as well. According to finviz, SPRT and VIH are the only 2 stocks under $10 with 30% or more short interest, over 50% institutional ownership, and under 20mm float. I got in at around 8 dollars and feel pretty confident but we’ll see.",hanfook,2,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cnp25/,0.018,0.843,0.14,0.7717
+19,CTXR," Yeah, I’ve been following CTXR some time, that stock runs like clockwork up towards news/catalyst, then drops, then up towards news/catalyst. Feels like you could just swing it forever, just make sure you take profit before the drop then get in in this range somewhere below $2 before it runs up towards the buttcream news this fall or the December showdown with the FDA",fiskemannen,3,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cjkxu/,0.029,0.8,0.171,0.8519
+20,AGTC," Ya occasionally you have the stock that breaks the mold and actually goes nuclear but that’s definitely not the norm. 
+
+More often than not a ticker hits a big price point before what a lot of folks claim is the peak time and many continue to hold and buy and before you can react the rug gets pulled. 
+
+AGTC, OBSV, TRCH, ATOS, XELA, CTXR, and so much more. The stock looks unstoppable until it isn’t. No telling where SPRT will peak but if it goes anything like the norm, the time between the peak and bagholder city will not be long.",OKJMaster44,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cwali/,0.047,0.888,0.064,0.4215
+21,ATOS," Ya occasionally you have the stock that breaks the mold and actually goes nuclear but that’s definitely not the norm. 
+
+More often than not a ticker hits a big price point before what a lot of folks claim is the peak time and many continue to hold and buy and before you can react the rug gets pulled. 
+
+AGTC, OBSV, TRCH, ATOS, XELA, CTXR, and so much more. The stock looks unstoppable until it isn’t. No telling where SPRT will peak but if it goes anything like the norm, the time between the peak and bagholder city will not be long.",OKJMaster44,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cwali/,0.047,0.888,0.064,0.4215
+22,CTXR," Ya occasionally you have the stock that breaks the mold and actually goes nuclear but that’s definitely not the norm. 
+
+More often than not a ticker hits a big price point before what a lot of folks claim is the peak time and many continue to hold and buy and before you can react the rug gets pulled. 
+
+AGTC, OBSV, TRCH, ATOS, XELA, CTXR, and so much more. The stock looks unstoppable until it isn’t. No telling where SPRT will peak but if it goes anything like the norm, the time between the peak and bagholder city will not be long.",OKJMaster44,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cwali/,0.047,0.888,0.064,0.4215
+23,OBSV," Ya occasionally you have the stock that breaks the mold and actually goes nuclear but that’s definitely not the norm. 
+
+More often than not a ticker hits a big price point before what a lot of folks claim is the peak time and many continue to hold and buy and before you can react the rug gets pulled. 
+
+AGTC, OBSV, TRCH, ATOS, XELA, CTXR, and so much more. The stock looks unstoppable until it isn’t. No telling where SPRT will peak but if it goes anything like the norm, the time between the peak and bagholder city will not be long.",OKJMaster44,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cwali/,0.047,0.888,0.064,0.4215
+24,SPRT," Ya occasionally you have the stock that breaks the mold and actually goes nuclear but that’s definitely not the norm. 
+
+More often than not a ticker hits a big price point before what a lot of folks claim is the peak time and many continue to hold and buy and before you can react the rug gets pulled. 
+
+AGTC, OBSV, TRCH, ATOS, XELA, CTXR, and so much more. The stock looks unstoppable until it isn’t. No telling where SPRT will peak but if it goes anything like the norm, the time between the peak and bagholder city will not be long.",OKJMaster44,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cwali/,0.047,0.888,0.064,0.4215
+25,XELA," Ya occasionally you have the stock that breaks the mold and actually goes nuclear but that’s definitely not the norm. 
+
+More often than not a ticker hits a big price point before what a lot of folks claim is the peak time and many continue to hold and buy and before you can react the rug gets pulled. 
+
+AGTC, OBSV, TRCH, ATOS, XELA, CTXR, and so much more. The stock looks unstoppable until it isn’t. No telling where SPRT will peak but if it goes anything like the norm, the time between the peak and bagholder city will not be long.",OKJMaster44,1,/r/pennystocks/comments/ovv2f1/most_discussed_stocks_in_pennystocks_last_week/h7cwali/,0.047,0.888,0.064,0.4215
+26,SPRT," The sell the news event is when the merger goes through and SPRT becomes GREE which is several weeks away I believe. 
+
+This is definitely not a sell the news event. This is a publicity > inflow > violent short squeeze event.",Araphoren,5,/r/pennystocks/comments/ovn2fq/bbc_releases_sprt_greenidge_video_report_55k/h7bzhzb/,0.094,0.841,0.065,-0.296
+27,SPRT, SPRT,Many-Coach6987,7,/r/pennystocks/comments/ovkss9/the_loungedaily_plays_august_01_2021/h7amt3l/,0.0,1.0,0.0,0.0
+28,SPRT," Since i own stock i cant wait for monday :D
+
+Looking for this weeks SPRT performance... 9 of last 10 days were GREE(n) Baby",Brilliant-Key8466,2,/r/pennystocks/comments/ovkss9/the_loungedaily_plays_august_01_2021/h7bkzjn/,0.0,0.832,0.168,0.6166
+29,IMO," $LCLP Going to fly again IMO, insanely undervalued compared to $MJWL and $NSAV",l1lturbo,0,/r/pennystocks/comments/ovkss9/the_loungedaily_plays_august_01_2021/h7a7z93/,0.0,1.0,0.0,0.0
+30,IMO," Check the chart from last Monday + see the spike at the end of day Friday. + compare BTC price to $LCLP chart Friday, it
+Moves with BTC price and BTC has moved higher over the weekend. $LCLP should have a run IMO with $COIN too",l1lturbo,1,/r/pennystocks/comments/ovkss9/the_loungedaily_plays_august_01_2021/h7brx66/,0.0,1.0,0.0,0.0
+31,PT, What's your PT for EZGO?,lonelyimage90,2,/r/pennystocks/comments/ovld2l/calculated_speculation_a_way_you_can_get_better/h7a1tjn/,0.0,1.0,0.0,0.0
+32,AHPI, AHPI seems to be working out [https://www.sigmafinite.com/profiles/view/reddit:UltimateTraders](https://www.sigmafinite.com/profiles/view/reddit:UltimateTraders),ProfiledByMC,2,/r/pennystocks/comments/ovld2l/calculated_speculation_a_way_you_can_get_better/h7amlpk/,0.0,1.0,0.0,0.0
+33,DD, Dont understand how this small paragraph gets approved for a post but mine constantly gets denied when I wrote 2 pages worth of DD,I_Eat_Booty,2,/r/pennystocks/comments/ovw6by/jetr_is_a_great_squeeze_and_long_term_play/h7c0scj/,0.148,0.69,0.163,-0.1531
+34,DD," Joke of a subreddit lol they approve a post yesterday for the same ticker I wrote my DD on, and their post had zero actual information about the company , pretty much just said ""buy on monday""",I_Eat_Booty,0,/r/pennystocks/comments/ovw6by/jetr_is_a_great_squeeze_and_long_term_play/h7c24jt/,0.0,0.785,0.215,0.802
