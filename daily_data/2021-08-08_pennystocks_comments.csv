@@ -1,0 +1,133 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,SPRT, Still holding SPRT to the moon.,AlRanger06,43,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h863040/,0.0,1.0,0.0,0.0
+1,CTXR," Seriously, CTXR is going to ~4 in december, on expectations alone.
+
+Highly propable that we go to ~8 with good Phase 3 results.
+
+Disclaimer; I own a buttload of shares and a couple of handfulls of feb 22 calls.",krootzl88,26,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h866wxg/,0.093,0.779,0.128,0.34
+2,API," Hey guys,
+
+It's u/nobjos back again with this week's post. I post a similar list every week.
+
+**I have launched a site where you can track this information in real-time. Please check it out if you are interested**
+
+Some FAQ’s:
+
+How does the program work: The program is built using Python and uses both Twitter and Reddit API to stream comments and tweets and spot tickers that are exhibiting accelerated growth. I added sentiment analysis to the findings so as to check the general sentiment (whether what is being talked about the stock is positive or negative).
+
+Can I use the code/is it open source: [Yes](https://github.com/marketsentiment/mslive_public).
+
+What is sentiment: It's calculated using natural language processing with a modified version of vadersentiment. You get pre-trained models which classify whether a given statement is positive or negative. I have modified it to analyse financial comments also ( eg. Calls, puts, moon, gain, loss etc). It then classifies the statement between -100% and +100% depending on if it's negative or positive respectively. The numbers you are seeing here is the average across all the comments. Please note that if the number of mentions is lesser than 30, the sentiment value shown might not have statistical significance.",nobjos,10,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h862cwh/,0.052,0.805,0.143,0.9516
+3,SPRT, SPRT is unignorable these days! Stoked for the long term holders! Hold for $30+!,SnowPloughYourWife,6,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86dm0s/,0.0,1.0,0.0,0.0
+4,PM, $XELA will have 2 wild weeks ahead! The ER is coming the Tuesday PM. + The shorts have ~12 million shares to cover on the 19th!!!,tallesvmm,3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86v19e/,0.0,0.872,0.128,0.5216
+5,SPRT, Idk why this subreddit discriminates against SPRT but I’m still holding my 2500 shares to valhalla. This coming 2 weeks is going to be big for SPRT.,Erenio69,6,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h865ism/,0.043,0.857,0.1,0.3818
+6,XELA, XELA,Blaktraider15,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86gfl0/,0.0,1.0,0.0,0.0
+7,DD," $FERN idk if you guys go for OTC here but $FERN is a Good risk reward play with Reward being as high as 300% in the short term and a good long term stock that can probably make its way to the $10 range, DD is Required but a big reason is they just acquired perfect mine and are establishing a crypto mining operation. ( https://finance.yahoo.com/news/fernhill-corp-pleased-announce-acquisition-123000275.html )
+
+Stock still hasn’t reacted to this news and with an earnings in September there is more chance that the news reaches more investors and a big jump comes for $FERN, not financial advice but hop on the rocket ship before this goes ballistic!",andres00tapia,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86nyef/,0.03,0.73,0.239,0.9828
+8,CVS, SHMN. Deal with Walmart and CVS. Under 10 million market cap. No debt. Pink current. Such and undervalued play.,redrev0214,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86rf2a/,0.203,0.693,0.104,-0.3182
+9,XELA, Holding XELA and DPLS for awhile now. Patience is a virtue!,mountain_wildflowers,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h874y9n/,0.0,0.744,0.256,0.4753
+10,SENS, Is SENS dead?,V8sOnly,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nis2/,0.683,0.317,0.0,-0.6486
+11,XELA, I will buy more XELA because the earnings are Tuesday and I think the price will go up,KingNFA,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87pmht/,0.0,1.0,0.0,0.0
+12,XELA, I will buy more XELA because the earnings are Tuesday and I think the price will go up,KingNFA,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87pn2u/,0.0,1.0,0.0,0.0
+13,XELA, I will buy more XELA because the earnings are Tuesday and I think the price will go up,KingNFA,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87pnn1/,0.0,1.0,0.0,0.0
+14,XELA, I will buy more XELA because the earnings are Tuesday and I think the price will go up,KingNFA,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87prjz/,0.0,1.0,0.0,0.0
+15,ATOS," KXIN is my current big play that's taking off right now. Then CTXR in December or early 2022, followed with ATOS. Then I'll take my earnings and throw it in ABML.",Luciusslayer,0,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h871zyq/,0.0,0.926,0.074,0.34
+16,CTXR," KXIN is my current big play that's taking off right now. Then CTXR in December or early 2022, followed with ATOS. Then I'll take my earnings and throw it in ABML.",Luciusslayer,0,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h871zyq/,0.0,0.926,0.074,0.34
+17,KXIN," KXIN is my current big play that's taking off right now. Then CTXR in December or early 2022, followed with ATOS. Then I'll take my earnings and throw it in ABML.",Luciusslayer,0,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h871zyq/,0.0,0.926,0.074,0.34
+18,SPRT, Isn't SPRT no longer a penny stock though?,JDmexican_92,2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h877zzw/,0.0,0.761,0.239,0.2235
+19,CTXR, CTXR,PAstockTRADER,0,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n5tl/,0.0,1.0,0.0,0.0
+20,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n6gy/,0.0,1.0,0.0,0.0
+21,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n71s/,0.0,1.0,0.0,0.0
+22,ALOT, CTXR is gonna make ALOT of people rich!,YoungFishGaming,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86wq8w/,0.0,0.643,0.357,0.5983
+23,CTXR, CTXR is gonna make ALOT of people rich!,YoungFishGaming,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86wq8w/,0.0,0.643,0.357,0.5983
+24,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n7jw/,0.0,1.0,0.0,0.0
+25,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n84w/,0.0,1.0,0.0,0.0
+26,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n8ks/,0.0,1.0,0.0,0.0
+27,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n8yx/,0.0,1.0,0.0,0.0
+28,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n99e/,0.0,1.0,0.0,0.0
+29,XELA, flipped XELA from 0.37 to 0.8 and felt like a genuis.  WHELP,Tylernol11,2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86ik2g/,0.0,0.8,0.2,0.3612
+30,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87name/,0.0,1.0,0.0,0.0
+31,CTXR, CTXR,PAstockTRADER,-4,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87na9w/,0.0,1.0,0.0,0.0
+32,CTXR, CTXR,PAstockTRADER,-6,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n9w9/,0.0,1.0,0.0,0.0
+33,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nb3w/,0.0,1.0,0.0,0.0
+34,CTXR, CTXR,PAstockTRADER,-5,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nbi7/,0.0,1.0,0.0,0.0
+35,CTXR, CTXR,PAstockTRADER,-5,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nbvu/,0.0,1.0,0.0,0.0
+36,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87ncn5/,0.0,1.0,0.0,0.0
+37,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nd0z/,0.0,1.0,0.0,0.0
+38,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87ndzt/,0.0,1.0,0.0,0.0
+39,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87ndd6/,0.0,1.0,0.0,0.0
+40,ATOS," Lol the vast majority are praising SPRT and any reasonable take is somehow perceived as a dumb bear and downvoted. Dunno how you could consider that discriminating. The actual haters are certainly the minority - and probably bag holders from ATOS/TRCH so they have experience on their side when they talk so still should at least be listened to before being dismissed as a hater. GL hope y'all make that bank, the potential is there.",browow1,0,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86n97d/,0.106,0.728,0.166,0.6523
+41,GL," Lol the vast majority are praising SPRT and any reasonable take is somehow perceived as a dumb bear and downvoted. Dunno how you could consider that discriminating. The actual haters are certainly the minority - and probably bag holders from ATOS/TRCH so they have experience on their side when they talk so still should at least be listened to before being dismissed as a hater. GL hope y'all make that bank, the potential is there.",browow1,0,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86n97d/,0.106,0.728,0.166,0.6523
+42,SPRT," Lol the vast majority are praising SPRT and any reasonable take is somehow perceived as a dumb bear and downvoted. Dunno how you could consider that discriminating. The actual haters are certainly the minority - and probably bag holders from ATOS/TRCH so they have experience on their side when they talk so still should at least be listened to before being dismissed as a hater. GL hope y'all make that bank, the potential is there.",browow1,0,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86n97d/,0.106,0.728,0.166,0.6523
+43,SPRT," Just as a heads up support.com is in the works to become greenidge (probably). That's why it's so volatile. So if you short it you're not actually shorting support.com you're shorting a potential crypto thingy. Nothing wrong with that, just thought you might like to know that support.com ain't got shit to do with the stock. Unless the merger doesn't happen which doesn't seem likely.
+
+Edit: full disclosure I'm not in SPRT nor will I be getting in it. But I'm not shorting it either.",browow1,7,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86nmbr/,0.0,0.935,0.065,0.5406
+44,CTXR, CTXR,PAstockTRADER,-4,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87neda/,0.0,1.0,0.0,0.0
+45,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87neu2/,0.0,1.0,0.0,0.0
+46,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nccu/,0.0,1.0,0.0,0.0
+47,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nfbv/,0.0,1.0,0.0,0.0
+48,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nfsm/,0.0,1.0,0.0,0.0
+49,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87ngbo/,0.0,1.0,0.0,0.0
+50,CTXR, CTXR,PAstockTRADER,-3,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87ngq6/,0.0,1.0,0.0,0.0
+51,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nh5u/,0.0,1.0,0.0,0.0
+52,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nhja/,0.0,1.0,0.0,0.0
+53,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87nhun/,0.0,1.0,0.0,0.0
+54,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87ni5x/,0.0,1.0,0.0,0.0
+55,CTXR, CTXR,PAstockTRADER,-1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n4yd/,0.0,1.0,0.0,0.0
+56,CTXR, CTXR,PAstockTRADER,-1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n4ca/,0.0,1.0,0.0,0.0
+57,CTXR, CTXR,PAstockTRADER,-1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n3kv/,0.0,1.0,0.0,0.0
+58,CTXR, CTXR,PAstockTRADER,-1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n31f/,0.0,1.0,0.0,0.0
+59,CTXR, CTXR,PAstockTRADER,-1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n2lz/,0.0,1.0,0.0,0.0
+60,CTXR, CTXR,PAstockTRADER,-1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n27t/,0.0,1.0,0.0,0.0
+61,CTXR, CTXR,PAstockTRADER,-1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n1qz/,0.0,1.0,0.0,0.0
+62,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n0xl/,0.0,1.0,0.0,0.0
+63,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87n05t/,0.0,1.0,0.0,0.0
+64,CTXR, CTXR,PAstockTRADER,-2,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87mzla/,0.0,1.0,0.0,0.0
+65,CTXR, CTXR,PAstockTRADER,-1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h87myyk/,0.0,1.0,0.0,0.0
+66,ATOS," You weren’t here a few days ago. A few people were bashing this stock because they got burnt in ATOS which is hilarious. Not every stock performs the same way.
+
+Try not to play biotech penny stocks unless you have extensive knowledge in pharmaceutical",CapableScholar16,1,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86ivkf/,0.046,0.894,0.06,0.169
+67,RH," I use other brokers, just prefer the ease of RH, and they can't really rob you like most people claim, as long as you use limit orders. I can't find some of these stocks on any of the brokers I use though. They show up, but aren't supported.",Acrobatic_Ad_6204,-6,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86u2uz/,0.05,0.834,0.116,0.3092
+68,SPRT," I was here and saw it, it wasn’t really that bad though. This sub will always compare the most hyped current stock with the last one. If SPRT ends up crashing then a month from now the next hyped stock will inevitably be compared to SPRT instead. I just think it’s strange how defensive people get about tickers. The idea that people aren’t on board with SPRT means the sub is “discriminating” against it? I wish folks all the best with SPRT, but the way people act if you post anything  negative about the stock is just crazy.",Bael18,0,/r/pennystocks/comments/p0eszv/most_discussed_stocks_in_pennystocks_last_week/h86v43q/,0.114,0.833,0.053,-0.8146
+69,DCF, Great DD and I think your DCF analysis looks great!,BLACKFOURLOKO,10,/r/pennystocks/comments/p0i7wz/aabb_dcf_analysis_after_purchase_on_bonanza_mine/h86s7kg/,0.0,0.452,0.548,0.8588
+70,DD, Great DD and I think your DCF analysis looks great!,BLACKFOURLOKO,10,/r/pennystocks/comments/p0i7wz/aabb_dcf_analysis_after_purchase_on_bonanza_mine/h86s7kg/,0.0,0.452,0.548,0.8588
+71,TD, TD is the same for OTC.,MorienWynter,3,/r/pennystocks/comments/p0i7wz/aabb_dcf_analysis_after_purchase_on_bonanza_mine/h87cwqk/,0.0,1.0,0.0,0.0
+72,SESN, SESN could run big these next couple weeks before fda approval.,Balla_Calla,5,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h85e26j/,0.0,0.763,0.237,0.4767
+73,INFI, INFI. Large upside potential and will RUN once additional approvals come in. Just gotta be patient. Position: 950 at $2. (I know small amount but have other plays developing at the moment),SeaWind1370,3,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h8531f7/,0.0,0.925,0.075,0.3612
+74,RUN, INFI. Large upside potential and will RUN once additional approvals come in. Just gotta be patient. Position: 950 at $2. (I know small amount but have other plays developing at the moment),SeaWind1370,3,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h8531f7/,0.0,0.925,0.075,0.3612
+75,HGEN, HGEN / Humanigen: FDA approval for their COVID treatment drug expected this month. Will be massive catalyst. Look it up.,Many-Coach6987,4,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h84r6j3/,0.0,0.853,0.147,0.4767
+76,ATOS," HGEN good news long overdue, it's been a slow bleed, but I am still in and optimistic this week.
+
+SESN I am FOMOing in a small position, seems like August 18 is a binary event will clear up by August 18.  
+
+
+ATOS I miss the good old days and am holding, selling CCs, waiting for the share dilution vote to fail so we can start building upwards again.",-THX-1138,2,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h86m8p1/,0.084,0.685,0.231,0.8898
+77,HGEN," HGEN good news long overdue, it's been a slow bleed, but I am still in and optimistic this week.
+
+SESN I am FOMOing in a small position, seems like August 18 is a binary event will clear up by August 18.  
+
+
+ATOS I miss the good old days and am holding, selling CCs, waiting for the share dilution vote to fail so we can start building upwards again.",-THX-1138,2,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h86m8p1/,0.084,0.685,0.231,0.8898
+78,SESN," HGEN good news long overdue, it's been a slow bleed, but I am still in and optimistic this week.
+
+SESN I am FOMOing in a small position, seems like August 18 is a binary event will clear up by August 18.  
+
+
+ATOS I miss the good old days and am holding, selling CCs, waiting for the share dilution vote to fail so we can start building upwards again.",-THX-1138,2,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h86m8p1/,0.084,0.685,0.231,0.8898
+79,KXIN," KXIN is starting it's first bull run in 2021. The volume on it Friday was around 100x higher than it's 90 day average volume. Hoping to see this stock peak over $9 a shareas the previous high on it's last run was $10.20. Breaking past $3 a share is going to be a key point 
+
+
+Kaixin Auto Holdings announcing that they decided to establish a new energy vehicle (EV) business unit, which will quickly build up EV R&D, production, and marketing teams. 
+
+
+The corporate strategic move was made in the context of the Chinese government’s steady support for the accelerated development of EVs and the rapid growth of the EV market in China. An with Chinese consumers’ ever-increasing recognition of EVs, new energy vehicles are expected to become the mainstream consumer model in the auto industry.
+
+Kaixin has been engaged in negotiations of mergers and acquisitions with a number of EV manufacturers. And the company will announce the progress of major business transactions (if any) in a timely manner. And as a NASDAQ-listed company, Kaixin said it is committed to becoming another player in the EV business following Li Auto, Nio, and Xpeng.",Luciusslayer,1,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h86ukkw/,0.0,0.883,0.117,0.9607
+80,BITF," XELA, BITF for dailies. 
+
+BZWR, ASTA, DRNG buying monday selling friday 88energy will be interesting also.",Brainberry,1,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h874mzh/,0.0,0.847,0.153,0.4019
+81,XELA," XELA, BITF for dailies. 
+
+BZWR, ASTA, DRNG buying monday selling friday 88energy will be interesting also.",Brainberry,1,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h874mzh/,0.0,0.847,0.153,0.4019
+82,OCGN, Canada approval expected in the next 1-2 weeks I believe. There's already approval in a bunch of countries for the vaccine which is good.. There was even a post on the ocugen subreddit the other day which suggests perhaps OCGN will get global distribution rights..,qu83rt,2,/r/pennystocks/comments/p079pr/the_loungedaily_plays_august_08_2021/h86hgmk/,0.0,0.866,0.134,0.7351
