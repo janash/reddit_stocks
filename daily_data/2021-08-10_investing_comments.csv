@@ -1,0 +1,522 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,EDIT," I briefly looked at their financials and would really have to dig into it to understand whats going on however there is a large difference between GAAP and nonGAPP earnings.
+
+You would really have to dig through the filings to see the difference , I believe they have to report a reconciliation between the two that should spell it out.
+
+However in some cases a company can have negative GAAP earnings but be cash flow positive due to some non-cash expenses.
+
+Example lets say a company sold stock (or bonds) and raised a bunch of capital. It then invested the raised money in capital assets (buildings, equipment, software ect) .
+
+In a few years now they have large deprecation expenses , now these are non-cash expenses when you deprecate a building for 1 million per year, you actually already paid for the building you are just writing it off as deprecation, you don't have to pay anyone that 1 million dollars.
+
+So they can basically be cash flow positive but have to report a loss due to large non-cash expenses like deprecation. They may not be able to pay off debt as the debt may not be callable.
+
+EDIT  
+It looks like they sold a business unit and the proceeds of the sale will be paid out as a dividend",SirGlass,27,/r/investing/comments/p1r9mt/why_would_a_company_operating_at_a_loss_issue_a/h8f67gj/,0.052,0.853,0.094,0.8569
+1,DD," So many bad ""didn't read, still commented as a non-expert"" comments here.  
+
+A lot of y'all need to not answer when you don't actually know the story, I feel bad for the DD you don't perform.",MasterDave,5,/r/investing/comments/p1r9mt/why_would_a_company_operating_at_a_loss_issue_a/h8fnhat/,0.196,0.804,0.0,-0.8204
+2,SP," Typical dividend trap. Attracting new investors and they expect people to talk about it on social medias which will boost the SP prior to the dividemds and introduce more people that never heard of this company to it. 
+
+It could bounce back after the special dividend or just have trapped a bunch of people that will end up panic selling if they keep having net losses and cant substain their future non-special dividends.",PjjOnXbox,4,/r/investing/comments/p1r9mt/why_would_a_company_operating_at_a_loss_issue_a/h8f3wpi/,0.137,0.763,0.1,-0.4939
+3,ECVT," This is incorrect - ECVT doesn't need to encourage outsiders to buy/hold their stock via heavy dividend payout. In fact, I'm guessing they don't give a shit about the remaining public shareholders since [Ecovyst is ~75% controlled by two private equity firms - INEOS and CCMP](https://www.bamsec.com/filing/170803521000005/1?cik=1708035&hl=213215:214701&hl_id=4k1vdrsks). 
+
+**What is happening is a textbook example of a private equity approaching their exit horizon on a leveraged buyout and making moves to max out the returns they'll receive at exit.**
+
+Since (a) the sponsors exercise complete control over ECVT and (b) private equity LBOs are evaluated largely by IRR and what MOIC (multiple on invested capital) you receive at exit, they went ahead and used the two mechanisms at their disposal to max out their returns: hammered down debt + issuing a massive dividend recap.",trill_collins__,2,/r/investing/comments/p1r9mt/why_would_a_company_operating_at_a_loss_issue_a/h8ghwnt/,0.04,0.937,0.023,-0.3134
+4,FCF," FCF or Cash from operations is not a profitability measure. Net income is. 
+
+Not sure what you are getting at. You may not like it but net income is the pre-eminent determination of profitability not cash flow. 
+
+There is a reason the SEC doesn’t allow cash flow per share.",ofereverything,0,/r/investing/comments/p1r9mt/why_would_a_company_operating_at_a_loss_issue_a/h8g4qup/,0.12,0.722,0.157,0.6169
+5,CPA," Thanks. I understand given that I am a CPA and a director of financial reporting for multiple F500 organizations over the past 15 years. 
+
+My response was on “net income is not necessarily indicative of how…”",ofereverything,4,/r/investing/comments/p1r9mt/why_would_a_company_operating_at_a_loss_issue_a/h8fwfzz/,0.0,0.914,0.086,0.4404
+6,CC," OK, think we need to learn you the difference between National Debt and traditional debt like you're probably thinking of. See below:
+
+#Primer: Sovereign Debt vs CC Debt - Not the Same Thing
+
+>It's not that kind of debt.
+
+>If it were up to me, economists would invent an entirely new word for what we currently call ""sovereign debt."" Because what you think of as ""debt"" when you consider your personal finances — your upside-down mortgage, your monthly car payment, that credit card balance you've been chipping away at — operates under completely different principles and rules than those that govern sovereign debt.
+
+>Sovereign debt is, put simply, how money is created.
+
+>Have you ever wondered exactly why a dollar — not a dollar bill, but the intangible dollar itself — has value? A naive answer is that it has value simply because we all agree that it does, and while there are elements of that to it, that's not really the right answer.
+
+>A dollar that exists today has value because it's backed by debt. No other reason.
+
+>Imagine you wanted to start your own economy from scratch. I don't know, in Candyland or something, in a fantasy world completely isolated from the real one. How would you go about doing it?
+
+>Well, first you'd need a government of some kind. That's obvious. You need to have a state — with universally recognized authority and power — for a lot of other, non-economic reasons anyway, so that's okay. The first thing you do is somehow establish your state.
+
+>Since you've got a government, can you just decree some money into existence? Well, you could try, but because you've studied your economics, you know that won't actually work. A monetary unit you just invent out of nothing has no value; it's not backed by anything. So it doesn't work out in practice.
+
+>Instead, you establish for yourself two institutions, one a part of the government and one entirely separate from it. The first institution is the treasury, which is a part of the government that has the legal authority (backed by the legitimacy of your government) to buy and sell things, and to issue securities called bonds.
+
+>The other institution you create is a central bank. The central bank is established by (or with the sanction of, anyway) the government, and has a special power: It can create and destroy money. Literally out of nothing. The central bank is the one institution in your economy that can say ""Abracadabra, money now exists.""
+
+>So now you have an institution that can buy and sell (the treasury) and an institution that can create money (the central bank) … but there's no actual money. None has been created. So you aren't done.
+
+>The next step in the shake-and-bake-economy recipe is to have your treasury issue a series of bonds. A bond is a financial instrument that works under certain rules. The rules that matter here are that a bond is created on a certain date with a certain face value, sold for less than that face value, then redeemed on a specific future date at that face value. So we'll imagine you order your treasury to issue a bond today with a face value of $100, to offer it for sale for $90, and to give it a maturity date of one year from today.
+
+>Of course … nobody can buy that bond, because nobody has $90, because nobody has any dollars; no dollars have been created yet. Which means that bond you're trying to sell just sits there … until the old white guy in the suit you appointed to run your central bank wakes up from his nap and realizes the he can buy it. He has the power to create money out of nothing. So he does. He fiats — as the term goes — $90 into existence, and gives it to you, taking your bond in return.
+
+>Now your treasury has $90 in it, which means you can hire some of your impoverished citizens to start building a road or something.
+
+>Impoverished Citizen #3 takes his first week's pay and deposits it into a bank, which now has a lending reserve, and lends it out thus creating more money, and et cetera et cetera, you can look up the details on how fractional reserve lending works if you want, 'cause it's off the topic right now.
+
+>Thus have you started up your new economy. The central bank created a small amount of money (relatively) and bought your sovereign bonds with it, that money went into circulation, it spiraled around and around the fractional-reserve banking system creating more money, capital is now freely available, industry is booming, wealth is being created at a healthy rate, and everything's just fine.
+
+>Except — gasp! — your government is in debt! Those bonds you sold to the central bank are coming due soon! You're going to have to buy them back — repaying the debt you took on when you started up the economy! And you have no money to do that with! Whatever do you do!?
+
+>You issue a new round of bonds. You sell them just like you sold the last round: to anybody with money. Except last time the only entity in the whole economy that had any money was the central bank, while this time everybody has money. Some of the people with money want a way to store it for the long term, so they're more than happy to exchange their money for a bond, then sell that bond later to turn it back into spendable cash. So all you have to do is issue a new round of bonds, cash flows into the treasury, and when the central bank comes calling to have its bonds redeemed, you use your new cash to buy them back.
+
+>Except now the central bank has money … which it does not need or want. The central bank has no need of money, and money sitting on account at the central bank isn't doing anything useful. So the central bank turns right back around and knocks on your door and says ""Hey, got any bonds you want to sell?""
+
+>Which returns us to the normal condition again: The central bank holds bonds which back money, and the actual money those bonds back circulates throughout the economy, doing useful work.
+
+>Does the government still technically carry debt on its books? Yes … technically. But that isn't like household debt; it's not like having a balance on your credit card. The government doesn't have to, and in fact shouldn't, work to wipe that debt out. Instead, that debt — again, only in the most technical sense of the word — backs all the money in the economy. Every dollar that exists in your whole economy can trace its ""family tree,"" if you will, back to a bond your government issued. That's where the money comes from. If the bonds disappeared, so would the money, because there'd be nothing backing it.
+
+>So when people talk about the US public debt, do not, do not, do not think of that as a looming threat of bankruptcy. It isn't. Sovereign debt doesn't work like personal debt. When you get in debt, you want to get out of it as fast as you can … which is both sensible and wise. But debts held by governments are the very foundation of the economy.
+
+>So the straight answer to your question — why is the US in so much debt — is this: Because the US economy is so huge. There are so many dollars in the world — nearly ten and a half trillion of 'em as of last week — the US dollar economy needs a great big foundation.
+
+[Source](https://www.reddit.com/r/explainlikeimfive/comments/191r72/why_is_the_us_in_so_much_debt/c8k0cki/)",trill_collins__,3,/r/investing/comments/p1ilx3/are_there_any_studies_on_the_acceleration_of/h8ex9bm/,0.059,0.809,0.131,0.9981
+7,USA," I don't think there are any studies like that. To begin with assumptions about national debt acceleration always having the same results is a bit far fetched. Simply from an economical perspective you can theorize about debt like that. However national debt is intrinsically linked to politics. 
+
+This question ""how does national debt affect the economy of states?"" is too broad. To answer it we would first need to specify: What state? 
+
+.. Or at least what category of states. 
+What accelerating national debt means for the economy is tied to local national contexts. African 3rd world countries, Western Europe, Latin America, USA, China, Greece, Haiti, Japan and so on. Accelerated national debt would have vastly different effects for each of these countries and regions. Yes there is overlap but the more and bigger your sample pool of countries are, the harder it is to make any generalizations about the matter.",Apprehensive-Soil-47,1,/r/investing/comments/p1ilx3/are_there_any_studies_on_the_acceleration_of/h8gbtse/,0.069,0.889,0.042,-0.5204
+8,USA," No, because the interest payments are backed by the tax revenue of the United States tax payers. Seems like trusting the good people of the USA to pay their income taxes is a fairly riskless asset base for the US Treasury to auction off the cash flows to.
+
+Ponzi scheme returns are based on external capital funding, by convincing new investors that these ""guaranteed returns"" are being generated organically.",trill_collins__,17,/r/investing/comments/p1ilx3/are_there_any_studies_on_the_acceleration_of/h8exj1p/,0.043,0.667,0.29,0.9565
+9,GDP," True, its not a 1:1 comparison, but counterpoint is that the US economy will, almost certainly continue to grow. 
+
+If your house grew at the same rate of US GDP *AND* rates were as low as they are now, you would be a pretty dumb investor to not continuously refinance and use those funds for other GDP producing activity such as infrastructure etc...
+
+Either way, its not even close to a ""ponzi scheme."" And anyone with a high school level of economic understanding could see that.",DankChase,3,/r/investing/comments/p1ilx3/are_there_any_studies_on_the_acceleration_of/h8fb02k/,0.076,0.828,0.095,0.1927
+10,IT," Dude, it's the 21th century not the 19th. Foreign states have already done several successful attacks against the heart of America, infrastructure, via IT. Russian hacking groups (totally not tied to Putin) managed to stop the water supply in large areas for days and the American government, army, and *every single agency was unable to do shit about it*.
+
+
+
+
+A simple D-DOS attack can cripple US harder then any fleet of aircraft carriers ever could. A true foreign attack will target critical infrastructure and will be IT-based, not by grunts walking the streets. It'll be Q-anon bullshit, conspiracies and turning the people against their own president and leaders/constitution (see January 2021).
+
+
+
+As for military superiority the *best* of the US Navy were unable to detect a Swedish submarine harbouring New York waters for a good *2 weeks*. It was just a demonstration but imagine said submarine wasn't piloted by a friendly nation like Sweden, but a hostile one? Yeah, the US army is big and boastful yet lacks the defence necessary. It's all a smoke and mirrors show...the military is obviously not a decent enough defence.",KyivComrade,0,/r/investing/comments/p1ilx3/are_there_any_studies_on_the_acceleration_of/h8gap4n/,0.105,0.802,0.093,-0.5334
+11,ICE, The crazy thing is that Coinbase is actually relatively cheap compared to traditional brokerages in forward sales multiples because how fast Coinbase is growing.      This reminds me of Tesla and how so many people were using ICE auto maker multiples b for realizing Tesla can sustain much higher margins.,RajivChaudrii,25,/r/investing/comments/p1x594/coinbase_beats_earnings_estimates_for_q2/h8gc238/,0.048,0.918,0.034,-0.1779
+12,UI," As a Coinbase user.
+
+The UI is terrible for both web and mobile.
+
+The fees are high.
+
+They sell you on rewards, that they then don't honor.
+
+You have no control of limit pricing (buy or sell outside of Pro which jesus how to not get new users interested).
+
+I do like their mainstream support to alt coins.
+
+&#x200B;
+
+My roughly 9-ish months of using them and because thats been my experience its why I haven't touched the stock. It was cheap lesson to drop a few bucks in just to see what they were selling.",Harrigan_Raen,0,/r/investing/comments/p1x594/coinbase_beats_earnings_estimates_for_q2/h8gny50/,0.097,0.823,0.08,-0.1847
+13,COIN," Keep in mind, even though BTC has the highest volume in most exchanges out there, Coinbase does have alt coins where they can collect fees from, with that said, these alt coins are still not big enough to bring in the same amount compared to BTC....with that said, coinbase could be cyclical right now and maybe after this bigger bull run does out, expectations might be lowered due to decrease in demand. I could be wrong though and I hope I am because seeing how much more exposure crypto has all over the world right now, from television, ads, ads on the streets, crypto ATMs, sponsorship (like F1 having crypto.com ads), this might continue driving crypto awareness and higher prices and may expand the bull run even further. Am I still buying COIN and crypto? Yaaaa!!!",rudyae86,1,/r/investing/comments/p1x594/coinbase_beats_earnings_estimates_for_q2/h8grjdh/,0.05,0.913,0.037,0.2444
+14,CB," How is UI terrible? Of all the exchanges I have used, crypto or not, CB is one of the best at it. Even CB Pro has a great UI",wannabe_engineer69,1,/r/investing/comments/p1x594/coinbase_beats_earnings_estimates_for_q2/h8gqh9c/,0.088,0.678,0.234,0.7351
+15,UI," How is UI terrible? Of all the exchanges I have used, crypto or not, CB is one of the best at it. Even CB Pro has a great UI",wannabe_engineer69,1,/r/investing/comments/p1x594/coinbase_beats_earnings_estimates_for_q2/h8gqh9c/,0.088,0.678,0.234,0.7351
+16,COIN," When you compare the the charts, they aren’t that strongly correlated. It’s especially evident in July where BTC was trending downwards while COIN maintained/rose",voneahhh,1,/r/investing/comments/p1x594/coinbase_beats_earnings_estimates_for_q2/h8goq3q/,0.0,0.916,0.084,0.2732
+17,COIN," Crypto, like EV's are new business models and it may be decades before the technology curve flattens out and margins compress.  Remember, Autos used to be high margin, luxury products for decades before the Japanese commoditized and made everything dirt cheap.  And US banking used to be giant monopolies (JP morgan) before they were regulated and split decades later.
+
+COIN is also a combination of exchange/broker/bank, which is subject to the whims of government regulations.  As we keep seeing Binance get banned everywhere, Coinbase with its board of Andreseen Horowitz and ex government crypto regulators, might be the best positioned for compliance.  And that makes institutional investors trust & flock to Coinbase, giving them a unique early mover advantage.  You may be right that margins eventually compress, but it may be after deacdes of explosive growth and cash printing.",RajivChaudrii,2,/r/investing/comments/p1x594/coinbase_beats_earnings_estimates_for_q2/h8glb1b/,0.026,0.884,0.09,0.8126
+18,MS," Their current path towards profitability seems to involve asking small content creators to pay thousands of dollars so they can host their content on there. That, combined with the absolute dominance of Youtube makes me think that they have absolutely no chance with regular consumers and content creators. 
+
+I'm less knowledgeable about them using businesses as customers. Is there any reason why a business would choose to host their content on Vimeo rather than other platforms? I can see why businesses shell out big money for MS Office or Adobe Premiere licenses, as those programs are clearly number one, but what is the upside to Vimeo in this regard?",ThrowawayLegalNL,9,/r/investing/comments/p1di9t/vimeo_thoughts_on_holding_or_selling/h8e6hit/,0.027,0.902,0.072,0.4593
+19,SNAP," Vimeo is already worth >$5bn at today's prices. I really can't see any justification for it to be worth any more before becoming profitable, and as others have mentioned it doesn't look like there's a path to profitability.
+
+You keep mentioning Youtube in other comments and saying that Vimeo should be worth more, but I think you're missing a key point: YouTube is not a standalone service. YT is worth more to google than it is to outside investors because there are significant shared core competencies in the ad market. It's way easier for Google to monetize and make YT profitable than it is for Vimeo management to do the same with them.
+
+Maybe video streaming services are not viable standalone companies. Maybe there's a reason the market leader is a wholly owned subsidiary of an advertising giant. Maybe there's a reason that Vimeo's smaller business-focused competitors aren't public companies.
+
+If I were you, I'd begin scaling out my position and using the proceeds to fund investments in more promising growth enterprises. No need to sell all at once, but no sense riding Vimeo down to $0.
+
+One last thing: you never really propose WHY you think Vimeo is undervalued or how they can achieve profitability. If I were you I'd work through a timeline and see what that looks like. Do they need to optimize their current offerings & profit margins? Do they need to get more customers? Do they need to develop new products?
+
+For example: TWTR is very hard to monetize, and it looks like they will need to develop new products to gain profitability. SNAP is much easier to monetize and they just needed to grow their userbase to support their current products.",dumpsterfire_account,6,/r/investing/comments/p1di9t/vimeo_thoughts_on_holding_or_selling/h8efo9j/,0.054,0.77,0.177,0.9905
+20,TWTR," Vimeo is already worth >$5bn at today's prices. I really can't see any justification for it to be worth any more before becoming profitable, and as others have mentioned it doesn't look like there's a path to profitability.
+
+You keep mentioning Youtube in other comments and saying that Vimeo should be worth more, but I think you're missing a key point: YouTube is not a standalone service. YT is worth more to google than it is to outside investors because there are significant shared core competencies in the ad market. It's way easier for Google to monetize and make YT profitable than it is for Vimeo management to do the same with them.
+
+Maybe video streaming services are not viable standalone companies. Maybe there's a reason the market leader is a wholly owned subsidiary of an advertising giant. Maybe there's a reason that Vimeo's smaller business-focused competitors aren't public companies.
+
+If I were you, I'd begin scaling out my position and using the proceeds to fund investments in more promising growth enterprises. No need to sell all at once, but no sense riding Vimeo down to $0.
+
+One last thing: you never really propose WHY you think Vimeo is undervalued or how they can achieve profitability. If I were you I'd work through a timeline and see what that looks like. Do they need to optimize their current offerings & profit margins? Do they need to get more customers? Do they need to develop new products?
+
+For example: TWTR is very hard to monetize, and it looks like they will need to develop new products to gain profitability. SNAP is much easier to monetize and they just needed to grow their userbase to support their current products.",dumpsterfire_account,6,/r/investing/comments/p1di9t/vimeo_thoughts_on_holding_or_selling/h8efo9j/,0.054,0.77,0.177,0.9905
+21,IAC," Also for clarification, Vimeo is a recent spinoff from the holding company IAC (which has a pretty descent portfolio, suggest you look into IAC since they dipped after Vimeo IPO'd)",rgujjula-csdude,2,/r/investing/comments/p1di9t/vimeo_thoughts_on_holding_or_selling/h8d6338/,0.0,0.894,0.106,0.4939
+22,IAC," Yup, I bought IAC beforehand solely bc of Vimeo and sold for a gain. Perhaps I'll go back in but need to look into what they have",BurnerBurnerBurns20,1,/r/investing/comments/p1di9t/vimeo_thoughts_on_holding_or_selling/h8d660n/,0.0,0.916,0.084,0.296
+23,DD, Top tier DD,TheDazarooney,6,/r/investing/comments/p1di9t/vimeo_thoughts_on_holding_or_selling/h8f7lgh/,0.0,0.526,0.474,0.2023
+24,IAC," I've used it before and liked it first hand, also had bought IAC bc of them solely and made a nice profit with them before the split off. 
+
+I just think they have a huge marketshare over the video services for businesses that no one else is tapping into (YT and Vimeo are totally separate and barely even competitors). 
+
+A lot of the reason for the initial sell off (pre earnings) was bc people didnt even know what it was and just sold it lol.",BurnerBurnerBurns20,1,/r/investing/comments/p1di9t/vimeo_thoughts_on_holding_or_selling/h8cvpg9/,0.024,0.796,0.181,0.9274
+25,APPS," Nice, I hope it pops.  Great stock with awesome revenue and earnings growth.  I can't find another stock that is as good as APPS.",Exuberant-Investor,10,/r/investing/comments/p1mhw0/digital_turbine_reports_record_earnings_again/h8ejxd5/,0.0,0.452,0.548,0.9607
+26,IRS," There is a ton on information on the web about people purchasing LEGO sets for investment purposes. I just wanted to chime in with one often overlooked aspect of trying to beat traditional investments by doing this. 
+
+You have to consider the cost of selling the sets and taxes. If you list them on eBay, take 20% off the selling price for listing fees, packing materials and payment processing. You have few seller protections on eBay if the buyer receives a damaged set or decides to scam you. Also, included in the CARES Act was a provision requiring all payment processors like PayPal, Square, etc to report sales of over $600 in a calendar year to the IRS starting in 2022, so you will have to pay taxes on any gains you make from the sale of the sets. No hiding from the tax man.
+
+If you try to sell the sets on Facebook Marketplace or Craigslist for cash, the likelihood of receiving the same price as an online marketplace is slim. You are limited to your local market and in person, cash buyers are almost always looking for a discount over online prices. Selling on consignment through a dealer or auction is even more expensive than eBay, so the odds of making a profit are decreased by a substantial margin. 
+
+The cost of storage is also often overlooked. You need a climate controlled area to store the sets in because collectors are obsessed with the condition of the original packaging. Sticking them in a basement or attic for 10+ years is not a good idea because of this issue and renting a climate controlled storage unit for years at a time is expensive.",respectfulskeptic,3,/r/investing/comments/p1hh9q/anyone_tried_investing_with_lego/h8f3j1g/,0.071,0.875,0.054,-0.2437
+27,LEGO," There is a ton on information on the web about people purchasing LEGO sets for investment purposes. I just wanted to chime in with one often overlooked aspect of trying to beat traditional investments by doing this. 
+
+You have to consider the cost of selling the sets and taxes. If you list them on eBay, take 20% off the selling price for listing fees, packing materials and payment processing. You have few seller protections on eBay if the buyer receives a damaged set or decides to scam you. Also, included in the CARES Act was a provision requiring all payment processors like PayPal, Square, etc to report sales of over $600 in a calendar year to the IRS starting in 2022, so you will have to pay taxes on any gains you make from the sale of the sets. No hiding from the tax man.
+
+If you try to sell the sets on Facebook Marketplace or Craigslist for cash, the likelihood of receiving the same price as an online marketplace is slim. You are limited to your local market and in person, cash buyers are almost always looking for a discount over online prices. Selling on consignment through a dealer or auction is even more expensive than eBay, so the odds of making a profit are decreased by a substantial margin. 
+
+The cost of storage is also often overlooked. You need a climate controlled area to store the sets in because collectors are obsessed with the condition of the original packaging. Sticking them in a basement or attic for 10+ years is not a good idea because of this issue and renting a climate controlled storage unit for years at a time is expensive.",respectfulskeptic,3,/r/investing/comments/p1hh9q/anyone_tried_investing_with_lego/h8f3j1g/,0.071,0.875,0.054,-0.2437
+28,LEGO, You have more chance to flip Supreme merchandise  then LEGO,SlothInvesting1996,2,/r/investing/comments/p1hh9q/anyone_tried_investing_with_lego/h8dfsfm/,0.0,0.576,0.424,0.7089
+29,LEGO," I've been buying LEGO on clearance and then storing for a few years, started in 2015, as a side hussle/investment. The hardest part is selling, lots of scammers on the usual e-commerce website. However Stock-X recently started selling LEGO so I haven't had to deal w/ customers.",Captain_Shen,1,/r/investing/comments/p1hh9q/anyone_tried_investing_with_lego/h8ejnu0/,0.0,1.0,0.0,0.0
+30,HUGE," LEGO investing is tricky. I’ll list some pluses and minuses:
+
++ Excellent return. Stuff like old Pirates of the Caribbean sets aren’t even that old and already command massive returns.
+
++ Recognizable brand
+
++ Better return the more time you put in. Parting out a set (AKA selling individual pieces) on BrickLink can make your return back even faster
+
+- HUGE space commitment. These boxes are big.
+
+- Shipping orders is a hassle since boxes are so big.
+
+- LEGO is more than willing to pump out and print more sets, devaluing ones you might think are good investments. See: Amelia Earthart gift with purchase. Those looked really good for a month and then LEGO absolutely flooded the market with them, making them more and more available.",JLikesStats,1,/r/investing/comments/p1hh9q/anyone_tried_investing_with_lego/h8fdq2n/,0.012,0.813,0.175,0.9676
+31,LEGO," LEGO investing is tricky. I’ll list some pluses and minuses:
+
++ Excellent return. Stuff like old Pirates of the Caribbean sets aren’t even that old and already command massive returns.
+
++ Recognizable brand
+
++ Better return the more time you put in. Parting out a set (AKA selling individual pieces) on BrickLink can make your return back even faster
+
+- HUGE space commitment. These boxes are big.
+
+- Shipping orders is a hassle since boxes are so big.
+
+- LEGO is more than willing to pump out and print more sets, devaluing ones you might think are good investments. See: Amelia Earthart gift with purchase. Those looked really good for a month and then LEGO absolutely flooded the market with them, making them more and more available.",JLikesStats,1,/r/investing/comments/p1hh9q/anyone_tried_investing_with_lego/h8fdq2n/,0.012,0.813,0.175,0.9676
+32,IP," Which sets OP?
+
+
+Do you know how many hundreds if not thousands of Lego sets have been made. Something tells me the majority aren't worth much simply because *the demand isn't there*. Now if it's a famous IP like Star Wars or similar it could take off, that is if said IP is still popular 20 years from now. Its a gamble...",KyivComrade,1,/r/investing/comments/p1hh9q/anyone_tried_investing_with_lego/h8gfiv3/,0.101,0.82,0.079,-0.1195
+33,AMD," I currently have around 850$ invested (not much I know) buT I Have 500$ in nvda 250$  IN tsla and 100$ in HOOD
+
+I am thinking about selling my hood shares and buying more tesla, but I was wondering abouts nvdas future should I sell half and buy AMD or maybe invest in a new sector.
+
+BTW not an American an average job in Bulgaria brings about 5000$ usd so I am looking for jobs abroad",Hefty-Calendar-6313,3,/r/investing/comments/p1lgu7/daily_general_discussion_and_spitballin_thread/h8fhylx/,0.0,0.96,0.04,0.4215
+34,HOOD," I currently have around 850$ invested (not much I know) buT I Have 500$ in nvda 250$  IN tsla and 100$ in HOOD
+
+I am thinking about selling my hood shares and buying more tesla, but I was wondering abouts nvdas future should I sell half and buy AMD or maybe invest in a new sector.
+
+BTW not an American an average job in Bulgaria brings about 5000$ usd so I am looking for jobs abroad",Hefty-Calendar-6313,3,/r/investing/comments/p1lgu7/daily_general_discussion_and_spitballin_thread/h8fhylx/,0.0,0.96,0.04,0.4215
+35,USA," Quick beginner question. I searched online and didn't seem to get a clear answer.  
+  
+Is it dumb for my spouse and I to invest in the same fund in our own separate accounts? For example if I put $5,000 into QQQ and she also put the same, would it just be better for one of us to put $10,000 into QQQ instead? 
+
+  
+We are both early 30's USA, self-employed. IRA and 401k are maxed.. not sure how relevant all the other suggested information is.
+
+  
+TIA!",ohseven1098,3,/r/investing/comments/p1lgu7/daily_general_discussion_and_spitballin_thread/h8fs39m/,0.058,0.831,0.111,0.7116
+36,BMO," Investment banking company have their analyst covering certain companies. I am thinking about Stiffel, Cannacord, BMO. Is it possible to sign up to a service and receive their analyses for certain companies by mail ?",TyLeo3,2,/r/investing/comments/p1lgu7/daily_general_discussion_and_spitballin_thread/h8eigdg/,0.0,0.877,0.123,0.4939
+37,IS," > What is everyone doing to protect their portfolios from a possible downturn or crash? 
+
+This question has been asked since the last significant drawdown (March 2020) and then since the one before that (Deccember 2018) and the one before that. If it's ""economically sunny"" for long enough this sub starts obsessing over whether the slightest cloud could be rain. It's been that way for more than half a decade. The opposite end is also true - when it is actually raining (December 2018, March 2020) often right before the sun comes back out part of this sub is *certain* that the storm is going to get much worse.
+
+I invest what I'm comfortable with in companies I'm most long-term confident in. I lost a lot between the peak in Feb 2020 and the bottom in March 2020 and then went on to have an absolutely, very unexpectedly fantastic year. I got way more aggressive in March 2020 as the VIX got to levels higher than the worst of 2008 rather than selling or going more conservative. 
+
+Purchases at low levels in 2018 and 2020 resulted in having a much lower cost basis on a number of things, quite a bit of which was sold last year and early this year because they had so far exceeded what I'd expected in a very brief period of time (but even though those things were sold because they far exceeded expectations, I just used the proceeds to buy a number of stocks, just different ones.)
+
+ I own Sea (SE), which got to $288 earlier this year before it corrected back to the high $100's. If I bought Sea at $288 and it corrected, big bummer. If I bought SE on average much lower, bummer but far easier psychologically to deal with. The stock recently made new all time highs and making another one pre-market.
+
+People have this view of ""market crash around every corner"" and I think the concern with that is that people are going to sell winners at the slightest hint of volatility because even the slightest hint of volatility is going to lead to people going, ""OMG IS THIS ANOTHER 2008!?!?!"" and then they sell their winners and when the market rebounds, they get frustrated. You don't have to react to every little bit of news. Let signs of a more concerning market environment come to you and build up a bit rather than constantly be straining to come up with reasons and selling at the first sign of any sort of volatility. What is a ""action-worthy"" drawdown? You shouldn't feel as if you need to avoid every 5-10% correction.
+
+""commodities?""
+
+No. If you think there's a downturn coming, you're also thinking that there's going to be less commodity usage. Additionally, a lot of commodity futures products are structured as master limited partnerships, which you don't want especially if it's for a trade.
+
+""Are bonds a good bet with interest rates set to climb?""
+
+Opposite.
+
+People could find good alternative strategy funds but 1) there really aren't that many good alternative strategy funds available to retail investors and 2) the obsession with retail investors regarding fees would result in many retail investors wanting nothing to do with alternative strategies given that the nature of alternative strategies (long/short, etc) often results in higher fees. 
+
+Additionally, if you are a young person there is sort of the question of  if you're frequently trying to hedge and having attempts at conservatism because of the perception of a market crash around every corner, are you investing with a long investing time horizon, do you have more money invested than comfortable with or some other issue (risk tolerance?)
+
+There's going to be other 20-30% drawdowns in the future; I have no idea when the next one is but I choose not to invest as if they are potentially around every corner. The more people go through those kinds of periods, I think more people get somewhat used to them especially if they see success buying dips in the period after these sorts of declines. I don't think that they are ""around every corner"" and personally, I'd rather focus on finding new ideas. If the majority of your time related to investing is trying to determine when the next market crash might be I'd highly recommend trying to change - negative stories in financial media are going to easily sway you, you're going to sell winners at the slightest correction and events are going to be a potential ""sell everything"" (tons of ""i'm selling everything!"" posts before the election last year - the election happened, the market took off and then the vaccine news was not long after that.)",dvdmovie1,13,/r/investing/comments/p1lgu7/daily_general_discussion_and_spitballin_thread/h8e98bk/,0.07,0.85,0.08,0.9366
+38,SE," > What is everyone doing to protect their portfolios from a possible downturn or crash? 
+
+This question has been asked since the last significant drawdown (March 2020) and then since the one before that (Deccember 2018) and the one before that. If it's ""economically sunny"" for long enough this sub starts obsessing over whether the slightest cloud could be rain. It's been that way for more than half a decade. The opposite end is also true - when it is actually raining (December 2018, March 2020) often right before the sun comes back out part of this sub is *certain* that the storm is going to get much worse.
+
+I invest what I'm comfortable with in companies I'm most long-term confident in. I lost a lot between the peak in Feb 2020 and the bottom in March 2020 and then went on to have an absolutely, very unexpectedly fantastic year. I got way more aggressive in March 2020 as the VIX got to levels higher than the worst of 2008 rather than selling or going more conservative. 
+
+Purchases at low levels in 2018 and 2020 resulted in having a much lower cost basis on a number of things, quite a bit of which was sold last year and early this year because they had so far exceeded what I'd expected in a very brief period of time (but even though those things were sold because they far exceeded expectations, I just used the proceeds to buy a number of stocks, just different ones.)
+
+ I own Sea (SE), which got to $288 earlier this year before it corrected back to the high $100's. If I bought Sea at $288 and it corrected, big bummer. If I bought SE on average much lower, bummer but far easier psychologically to deal with. The stock recently made new all time highs and making another one pre-market.
+
+People have this view of ""market crash around every corner"" and I think the concern with that is that people are going to sell winners at the slightest hint of volatility because even the slightest hint of volatility is going to lead to people going, ""OMG IS THIS ANOTHER 2008!?!?!"" and then they sell their winners and when the market rebounds, they get frustrated. You don't have to react to every little bit of news. Let signs of a more concerning market environment come to you and build up a bit rather than constantly be straining to come up with reasons and selling at the first sign of any sort of volatility. What is a ""action-worthy"" drawdown? You shouldn't feel as if you need to avoid every 5-10% correction.
+
+""commodities?""
+
+No. If you think there's a downturn coming, you're also thinking that there's going to be less commodity usage. Additionally, a lot of commodity futures products are structured as master limited partnerships, which you don't want especially if it's for a trade.
+
+""Are bonds a good bet with interest rates set to climb?""
+
+Opposite.
+
+People could find good alternative strategy funds but 1) there really aren't that many good alternative strategy funds available to retail investors and 2) the obsession with retail investors regarding fees would result in many retail investors wanting nothing to do with alternative strategies given that the nature of alternative strategies (long/short, etc) often results in higher fees. 
+
+Additionally, if you are a young person there is sort of the question of  if you're frequently trying to hedge and having attempts at conservatism because of the perception of a market crash around every corner, are you investing with a long investing time horizon, do you have more money invested than comfortable with or some other issue (risk tolerance?)
+
+There's going to be other 20-30% drawdowns in the future; I have no idea when the next one is but I choose not to invest as if they are potentially around every corner. The more people go through those kinds of periods, I think more people get somewhat used to them especially if they see success buying dips in the period after these sorts of declines. I don't think that they are ""around every corner"" and personally, I'd rather focus on finding new ideas. If the majority of your time related to investing is trying to determine when the next market crash might be I'd highly recommend trying to change - negative stories in financial media are going to easily sway you, you're going to sell winners at the slightest correction and events are going to be a potential ""sell everything"" (tons of ""i'm selling everything!"" posts before the election last year - the election happened, the market took off and then the vaccine news was not long after that.)",dvdmovie1,13,/r/investing/comments/p1lgu7/daily_general_discussion_and_spitballin_thread/h8e98bk/,0.07,0.85,0.08,0.9366
+39,ELY," Without digging into ELY specifically, likely ""buy the rumor, sell the news"". It looks like it is up 31% YTD, outpacing the S&P500 by 12%. A positive report confirms the stocks sentiment and allows firms to start profit taking while volume is relatively high.",MGreymanN,5,/r/investing/comments/p1lgu7/daily_general_discussion_and_spitballin_thread/h8f3m93/,0.0,0.816,0.184,0.8402
+40,FMC," I've held LTHM since it split from FMC, and for some reason it gained 12% today. Not sure why. I also hold TAN, and try to minimize exposure to fossil fuels in general via SPYX.
+
+I bought COPX at $32.68 as a cyclical play, but I think I'm going to hold this one as well, since electrification is very copper intensive.
+
+Anytime I'm making a play on clean energy, I'm planning on holding on for a minimum of 10 years. With the way climate estimates are trending, if those stocks and funds don't gain value, we won't have much of an economy left anyway.",HubcapMotors,1,/r/investing/comments/p1lgu7/daily_general_discussion_and_spitballin_thread/h8g8aeu/,0.069,0.794,0.138,0.7751
+41,LTHM," I've held LTHM since it split from FMC, and for some reason it gained 12% today. Not sure why. I also hold TAN, and try to minimize exposure to fossil fuels in general via SPYX.
+
+I bought COPX at $32.68 as a cyclical play, but I think I'm going to hold this one as well, since electrification is very copper intensive.
+
+Anytime I'm making a play on clean energy, I'm planning on holding on for a minimum of 10 years. With the way climate estimates are trending, if those stocks and funds don't gain value, we won't have much of an economy left anyway.",HubcapMotors,1,/r/investing/comments/p1lgu7/daily_general_discussion_and_spitballin_thread/h8g8aeu/,0.069,0.794,0.138,0.7751
+42,WEBR, Well I went in pretty deep with WEBR and still believe in the company long term.  But the last few days it pumped pretty hard so I was worried about a sharp turn down.  I'm basically just waiting at this point for options to become available so I can start slinging covered calls.,numbhallow,1,/r/investing/comments/p1lgu7/daily_general_discussion_and_spitballin_thread/h8g9we2/,0.085,0.775,0.14,0.4823
+43,ONE," I am an old, semi- retired, midwestern US wanting to occasionally trade some crypto and was looking for a forum similar to this but with that as it's focus.
+
+I found ONE that isn't full of crypto kiddies looking to get rich in a week.
+
+I want to augment the money I have, put a little more back for my grandkids and kids, I don't have 20 years probably, but do have 15, or, a week, you never know. 
+
+I own several junk cars, some string, several sets of plastic shelves, some are complete, a Chrysler Town and Country all terrain motorhome/offroader.  I have no debt on any of the the salvage cars.  I own them and some even have titles to prove it.  Oh!  I own almost 20 pocket knives handed down for generations, many with all the blades. I have a collection of plastic sacks, of different colors, no I won't sell them so you can weave them into a purse. 
+
+Now, if you, or maybe your son or grandson know a calm, reasonable, realistic reddit or other forum where average joes can talk about crypto, holding it longer, or trading it when viable, I would love to know where.  (They tend to divide into camps and then just be mad if you talk about a competitor.  Some have jobs, though, and come out in daylight, even.  One has a girlfriend.)",Busy-Appearance-6077,2,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8e86jh/,0.057,0.877,0.066,0.501
+44,XOM, I purchased XOM near the end of last year and am up over 30 percent. Looking at historical range it doesn't have much upside potential and the main driver of keeping it is the dividend. Thinking of selling them and moving it into another position. If XOM recedes back to my starting amount it would take several years of dividends to just get back at the same point.,SaveTheAles,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8eazlv/,0.0,1.0,0.0,0.0
+45,BE," How old are you? 24
+
+What country do you live in? USA
+
+Are you employed/making income?- Yes, 52k
+
+What are your objectives with this money? (Buy a house? 
+Retirement savings?) -Utilize some of it to buy a home down the line 3-5 years. 
+-As well as maximize the 6k for Roth IRA account
+-Rolling over a previous employer 401k (~6k) into another Roth IRA.
+
+What is your time horizon? 3-5 years, + long term retirement 30-40 years
+
+
+Do you need this money next month? -no 
+
+
+Next 20yrs?
+
+ -No unless pulling out for buying another investment property, my retirement accounts probably wouldn’t be touched except pulling out my contributions again if trying to buy real estate. 
+
+
+What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+
+ —Prefer to be a passive investor in Index funds and leave 5-10% in high risk high reward 
+
+What are you current holdings?
+
+ —$2.7k in VTI for my Roth IRA
+
+(Do you already have exposure to specific funds and sectors? 
+
+Any other assets?) No, paid off car will not be used for any investment, running it into the ground. 
+
+Any big debts (include interest rate) or expenses?
+—$700 - no interest PayPal Credit
+—$4000 - grace period of student loan (starts December 2021) *** BOTH WILL BE PAID OFF BY in 1-2 months as if 8/10/2021
+
+
+And any other relevant financial information will be useful to give you a proper answer.
+
+Making $1920 bi weekly for work.
+Live at home (RENT FREE) 
+I minimize spending on eating out by making home meals for work and breakfast/dinner. 
+Bills: (monthly gas $100-150), phone bill $130 (pay for mom and grandma; mom in return pays my car insurance since it’s easier transaction)
+I’m under LA county (solid benefits) until 26 years old so 1 year 3 months) left before having to have my income deducted for a medical/dental plan.
+
+
+
+***Just set my auto invest in Vanguard $600 a month for my brokerage account + $100 for ROTH IRA (i plan on just throwing in $2-4k at random just to hit the 6k) 
+
+Mainly want to know what’s the best tax/game plan for the brokerage account if i plan down the line to pull out some if needed for a down payment in a home. But I’m really trying to just maximize my income with a decent return via index funds***",CampinHiker,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8es39o/,0.031,0.907,0.062,0.8948
+46,USA," How old are you? 24
+
+What country do you live in? USA
+
+Are you employed/making income?- Yes, 52k
+
+What are your objectives with this money? (Buy a house? 
+Retirement savings?) -Utilize some of it to buy a home down the line 3-5 years. 
+-As well as maximize the 6k for Roth IRA account
+-Rolling over a previous employer 401k (~6k) into another Roth IRA.
+
+What is your time horizon? 3-5 years, + long term retirement 30-40 years
+
+
+Do you need this money next month? -no 
+
+
+Next 20yrs?
+
+ -No unless pulling out for buying another investment property, my retirement accounts probably wouldn’t be touched except pulling out my contributions again if trying to buy real estate. 
+
+
+What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+
+ —Prefer to be a passive investor in Index funds and leave 5-10% in high risk high reward 
+
+What are you current holdings?
+
+ —$2.7k in VTI for my Roth IRA
+
+(Do you already have exposure to specific funds and sectors? 
+
+Any other assets?) No, paid off car will not be used for any investment, running it into the ground. 
+
+Any big debts (include interest rate) or expenses?
+—$700 - no interest PayPal Credit
+—$4000 - grace period of student loan (starts December 2021) *** BOTH WILL BE PAID OFF BY in 1-2 months as if 8/10/2021
+
+
+And any other relevant financial information will be useful to give you a proper answer.
+
+Making $1920 bi weekly for work.
+Live at home (RENT FREE) 
+I minimize spending on eating out by making home meals for work and breakfast/dinner. 
+Bills: (monthly gas $100-150), phone bill $130 (pay for mom and grandma; mom in return pays my car insurance since it’s easier transaction)
+I’m under LA county (solid benefits) until 26 years old so 1 year 3 months) left before having to have my income deducted for a medical/dental plan.
+
+
+
+***Just set my auto invest in Vanguard $600 a month for my brokerage account + $100 for ROTH IRA (i plan on just throwing in $2-4k at random just to hit the 6k) 
+
+Mainly want to know what’s the best tax/game plan for the brokerage account if i plan down the line to pull out some if needed for a down payment in a home. But I’m really trying to just maximize my income with a decent return via index funds***",CampinHiker,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8es39o/,0.031,0.907,0.062,0.8948
+47,USA," Through my current employer, I have a Roth 401(k) and an HSA with the ability to invest that money.  
+Employer contributions:  
+Roth 401(k): 100% of first 4% + 3.5% RAP  
+HSA: $1000 annually + $75-$200 quarterly depending on health goals  
+  
+I'm 26. USA. Married. No kids, no plans for it. I'm making roughly $62k annually.  
+My question: how would you divide your contributions between these two accounts? Obviously want to contribute at least 4% to the Roth 401(k) to get the match. But what about beyond that?",InterestedSwordfish,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8ev5fi/,0.042,0.925,0.033,-0.1926
+48,CLOV," Selling a loss or holding on.
+
+Basically self-explanatory. Generally speaking, I'd say that I am an investor who takes a good look at his potential investing targets and has an idea about what could go wrong, what could go right and what's danger zone.
+
+However, that's not true for all the stocks I've bought.
+
+Some have been speculative plays, and I'm not proud of that. Some I've made decent money on (EUCAR; although I did look into them before I'd still say it was a big gamble I took)
+
+Now I have one stock that's most certainly utter sh\*te, and that stock is CLOV.
+
+Yes, you got me - I'm embarrassed to say it, but I did take a gamble when Memestocks were about, and of course it backfired. 
+
+I put around $500 into CLOV and I am down about 51%. This means that my position is quite small, but it's not absolutely tiny.
+
+And now I'm thinking - do I actually take the huge hit or should I stay in and hope?
+
+I have since looked and CLOV, and truth be told, I don't really believe in it. I don't believe that CLOV's fair price on a fundamental basis will be above what I bought it ($18) within the next 2-3 years. (That said, I do have trouble valueing companies that are losing money, I find it much easier with profitable companies)
+
+But, and that's where the gambling comes in: I also don't see CLOV going bancrupt anytime soon and, well, it's a memestock. It's not the biggest of memestocks, but somehow there may be the off-chance of it having a rennaissance and getting hyped and overvalued massively again.
+
+That said, should I really wait for that to happen and bank on it when I don't have any conviction in the stock?",RoronoaZorro,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8evbsg/,0.059,0.838,0.103,0.9269
+49,NFLX, Have a small stake in NFLX...Have only gained 6% in over 14 months. I'm thinking of selling and redistributing those funds where I'm averaging 25-40% returns. My time frame is 15 years before retirement. I'm way behind saving for retirement and need big gains quickly. Thoughts?,worldaven,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8fgzuu/,0.0,0.896,0.104,0.6124
+50,BYD," Today, I read that Berkshire invested in Chinese EV maker BYD: [https://www.bloomberg.com/opinion/articles/2021-08-09/warren-buffet-and-berkshire-hathaway-call-it-right-on-ev-batteries](https://www.bloomberg.com/opinion/articles/2021-08-09/warren-buffet-and-berkshire-hathaway-call-it-right-on-ev-batteries)
+
+&#x200B;
+
+However, I cannot find BYD listed as an investment in Berkshire's most recent 13F report: [https://www.sec.gov/Archives/edgar/data/1067983/000095012321007024/xslForm13F\_X01/0000950123-21-007024-4471.xml](https://www.sec.gov/Archives/edgar/data/1067983/000095012321007024/xslForm13F_X01/0000950123-21-007024-4471.xml)
+
+&#x200B;
+
+Where else would Berkshire have to report this purchase if it's not in the 13F? Or is the original article wrong?",Chromosomaur,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8g1i0v/,0.066,0.891,0.044,-0.2869
+51,TFSA," I have 10-15k invested and available in a TFSA currently. 
+
+The account has averaged about 7-8% return over the last 3 years through Questrade. As i use these funds off and on to pay for my tuition the amount in there has fluctuated quite a bit. I believe this year I can keep that 10-15k amount invested until at least next May while i finish up school. 
+
+My question therefore is, does anyone have a better idea or advice of what to do with around 10k for a span of 10 months other than what I am currently? it must stay pretty liquid and of course it would have to beat at least 7-8% on average. 
+
+Thanks in advance for the thoughts you guys come up with",Blubbnut,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8g45f0/,0.011,0.915,0.074,0.8225
+52,TA, I'm new to this. But I just discovered a TA pattern called the golden cross. Is this worth betting on? Is there a reason I haven't really heard this talked about?,Terakahn,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8ghvyd/,0.0,0.895,0.105,0.4674
+53,ONE," >I am an old, semi- retired, midwestern US wanting to occasionally trade some crypto and was looking for a forum similar to this but with that as it's focus.
+
+>I found ONE that isn't full of crypto kiddies looking to get rich in a week.
+
+/r/ethfinance is the best choice.",silent_johnn,2,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8eb4ch/,0.0,0.811,0.189,0.9136
+54,DCF," Big oil is a cyclical.  Just because stocks have gone up doesn't mean that they can't go up more, so Now is the best time for you to do some valuation math/target setting for XOM and all of your stocks.  You should come up with a one year price target of your own based on current projected earnings, DCF, whatever you want to use.
+
+Compare that one year price target with where XOM is currently sitting.  if you see good appreciation available, stock is still a buy (for me that's 25% or more).  if stock is close or above your target, don't ask questions, just sell.  in between, up to you.  Given this sounds like a short term gain right now, there is a tax benefit if it is in the ""hold"" zone to hang on to it and sell it after it goes long term.  However, if you have better places to put the money, take your gains and move on to the next thing.",LiqCourage,2,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8f2dbw/,0.0,0.854,0.146,0.9747
+55,XOM," Big oil is a cyclical.  Just because stocks have gone up doesn't mean that they can't go up more, so Now is the best time for you to do some valuation math/target setting for XOM and all of your stocks.  You should come up with a one year price target of your own based on current projected earnings, DCF, whatever you want to use.
+
+Compare that one year price target with where XOM is currently sitting.  if you see good appreciation available, stock is still a buy (for me that's 25% or more).  if stock is close or above your target, don't ask questions, just sell.  in between, up to you.  Given this sounds like a short term gain right now, there is a tax benefit if it is in the ""hold"" zone to hang on to it and sell it after it goes long term.  However, if you have better places to put the money, take your gains and move on to the next thing.",LiqCourage,2,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8f2dbw/,0.0,0.854,0.146,0.9747
+56,DNOW," I'd move out of XOM and more into stuff that burry bought in Q1 (e.g. SXC, DNOW, etc.). SXC price to book is 1.34 currently, I think. Other than that think of merging markets. XOM is overpriced and bad, look more on the small cap side. Solar will outdue any other energy investment by far / very far. The reason is that nuclear is green, but people have bad stories in their mind with Nuclear.",stvaccount,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8fii8c/,0.089,0.891,0.02,-0.7543
+57,SXC," I'd move out of XOM and more into stuff that burry bought in Q1 (e.g. SXC, DNOW, etc.). SXC price to book is 1.34 currently, I think. Other than that think of merging markets. XOM is overpriced and bad, look more on the small cap side. Solar will outdue any other energy investment by far / very far. The reason is that nuclear is green, but people have bad stories in their mind with Nuclear.",stvaccount,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8fii8c/,0.089,0.891,0.02,-0.7543
+58,XOM," I'd move out of XOM and more into stuff that burry bought in Q1 (e.g. SXC, DNOW, etc.). SXC price to book is 1.34 currently, I think. Other than that think of merging markets. XOM is overpriced and bad, look more on the small cap side. Solar will outdue any other energy investment by far / very far. The reason is that nuclear is green, but people have bad stories in their mind with Nuclear.",stvaccount,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8fii8c/,0.089,0.891,0.02,-0.7543
+59,GME," I am assuming you are talking GME but its not really all that shorted ; looks to be about 13-14% what is pretty typical of stocks
+
+For example SPY short float is much higher at like 30% much higher than GME",SirGlass,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8eu4se/,0.0,0.831,0.169,0.8201
+60,CD," No capital gains after a year, yes. But investing 100% into the market for a year is risky. 
+
+I recommend about 85% into a CD or 1 year T-bill, and 15% into a total market fund. And even that is risky.",exe_virus,0,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8eew1u/,0.144,0.694,0.163,0.2023
+61,BCH," Don’t do this. If you want minimal risk and very likely high return, just buy BTC and ETH. 
+
+BCH, while not worthless, holds only a fraction of the potential of the 2 above and many other projects.",ColteesBigOleTits,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8gsdaa/,0.056,0.846,0.098,0.1546
+62,ETH," Don’t do this. If you want minimal risk and very likely high return, just buy BTC and ETH. 
+
+BCH, while not worthless, holds only a fraction of the potential of the 2 above and many other projects.",ColteesBigOleTits,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8gsdaa/,0.056,0.846,0.098,0.1546
+63,GME," It's not GME, it's Nel Asa.",ApeWithCoconut,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8fu8z6/,0.0,1.0,0.0,0.0
+64,FSLR," Technically I like FSLR, but not as a long term hold. The energy market is eventually a race to the bottom, so it's not great to invest in the long term in.",exe_virus,1,/r/investing/comments/p1lgbp/daily_advice_thread_all_basic_help_or_advice/h8gk6ga/,0.137,0.738,0.125,-0.3478
+65,HD," I think there's been a tremendous push into housing over the last year and I don't know that that's sustainable. There are going to be younger people who are buying houses, but I think there's going to be a lot of younger people who value mobility (and perhaps that will have more value in the next decade or two) who will rent.  I think there is some aspect of affordability that will also keep younger people out of buying.
+
+I don't own apartment REITs and don't have any interest in homebuilders really, although in terms of the former I have owned NXRT at times - that's a smaller apartment REIT that I do like because it's a little unique in its approach, buying troubled/mismanaged properties, revamping them and often selling and moving on.  In terms of plays on housing long-term, I'd rather buy and forget HD than own homebuilders.",dvdmovie1,3,/r/investing/comments/p1sltz/pros_and_cons_of_investing_in_homebuilding_etfs/h8fl3eq/,0.038,0.882,0.08,0.7491
+66,NXRT," I think there's been a tremendous push into housing over the last year and I don't know that that's sustainable. There are going to be younger people who are buying houses, but I think there's going to be a lot of younger people who value mobility (and perhaps that will have more value in the next decade or two) who will rent.  I think there is some aspect of affordability that will also keep younger people out of buying.
+
+I don't own apartment REITs and don't have any interest in homebuilders really, although in terms of the former I have owned NXRT at times - that's a smaller apartment REIT that I do like because it's a little unique in its approach, buying troubled/mismanaged properties, revamping them and often selling and moving on.  In terms of plays on housing long-term, I'd rather buy and forget HD than own homebuilders.",dvdmovie1,3,/r/investing/comments/p1sltz/pros_and_cons_of_investing_in_homebuilding_etfs/h8fl3eq/,0.038,0.882,0.08,0.7491
+67,HD," Is there an etf that focuses solely on home improvement? Like HD, Lowes, Sherwin Williams, Black and Decker?",r2002,1,/r/investing/comments/p1sltz/pros_and_cons_of_investing_in_homebuilding_etfs/h8g1k5a/,0.0,0.732,0.268,0.7059
+68,APTS," Haha thanks. And I should also say, be careful with APTS, it got crushed with Covid and hasn’t come back. My VNQ has outperformed all of my other REITs.",NovaStubble,3,/r/investing/comments/p1sltz/pros_and_cons_of_investing_in_homebuilding_etfs/h8feko9/,0.082,0.7,0.219,0.5719
+69,APTS," Why APTS?  There are other, higher quality, residential multifamily reits?   I don’t think APTS is even profitable as of this year.",BeginningOriginal0,1,/r/investing/comments/p1sltz/pros_and_cons_of_investing_in_homebuilding_etfs/h8fh0w7/,0.0,0.854,0.146,0.504
+70,MF," This will be probably a temporary thing.
+
+Right now vanguard has a patent that sort of marries ETF shares and MF shares to the same fund but different share classes
+
+This is why vangaurd MF have the same tax efficiency as MF. However their patent expires in 2023; I would assume after this other MF (schwab/fidelity) will basically do the same thing",SirGlass,3,/r/investing/comments/p1igkk/tax_implications_of_high_turnover_etfs/h8eqw6t/,0.0,0.856,0.144,0.8047
+71,CPA," Well I am not sure on this, a CPA cannot really do much about getting a capital gains distribution from an investment",SirGlass,1,/r/investing/comments/p1igkk/tax_implications_of_high_turnover_etfs/h8epd9h/,0.087,0.712,0.2,0.3691
+72,CPA," He will use more money hiring a CPA rather than study. I never had a financial advisor, is not 1995 anymore. You can get more of your money studying and investing by yourself. The "" they study for that"" is a lie. A banker told me once "" where can you know in which date the bill was made, tell me if you know more than me"" I pointed the date on the US bill...he was shocked...and he was a managet on a branch. Universities are useless these days. Study and invest.",Distinct-Average-949,1,/r/investing/comments/p1igkk/tax_implications_of_high_turnover_etfs/h8fl7wc/,0.033,0.967,0.0,-0.4215
+73,HUGE," I think this is too simplistic and it really depends on how much you have invested
+
+I mean lets say you make 50k a year but you have invested a lot of money over the years and have 500k invested in taxable accounts (maybe you sold your home, you are up there in age)
+
+I have seen MF pay out like a HUGE distribution of 30-40% some years; if you are making 50k and get hit with another 200k of taxable income you now may have a 30k tax bill coming do.
+
+Now if this is in a tax sheltered account (401k/IRA) you don't worry. So being aware of taxes has its benefits",SirGlass,1,/r/investing/comments/p1igkk/tax_implications_of_high_turnover_etfs/h8ercdh/,0.014,0.866,0.12,0.9218
+74,MF," I think this is too simplistic and it really depends on how much you have invested
+
+I mean lets say you make 50k a year but you have invested a lot of money over the years and have 500k invested in taxable accounts (maybe you sold your home, you are up there in age)
+
+I have seen MF pay out like a HUGE distribution of 30-40% some years; if you are making 50k and get hit with another 200k of taxable income you now may have a 30k tax bill coming do.
+
+Now if this is in a tax sheltered account (401k/IRA) you don't worry. So being aware of taxes has its benefits",SirGlass,1,/r/investing/comments/p1igkk/tax_implications_of_high_turnover_etfs/h8ercdh/,0.014,0.866,0.12,0.9218
+75,CPA," Thank you. In my experience a (good) CPA can looks across your portfolio and find ways to optimize that you wouldn’t ever think of. Some of the things I have found my cpa has surprised me with in past years are things like vehicle tax credits, Puerto Rican tax credits (and we got to support Puerto Rico after they got nailed by a hurricane which was awesome), etc. 
+
+I highly recommend at least exploring the option. I love that I’m being downvoted for advising professional advice from tax professionals.
+
+Have a great day.",Blarghnog,1,/r/investing/comments/p1igkk/tax_implications_of_high_turnover_etfs/h8g4oqr/,0.0,0.727,0.273,0.9796
+76,CPA," Respectfully, that’s not true at all’s Tax advisory and optimization is one of the main jobs a CPA can do, and finding ways to offset crypto or other capgains across a portfolio is something I have done consistently with my cpa for years.
+
+https://www.cpapracticeadvisor.com/accounting-audit/article/12411062/9-ways-to-manage-capital-gains",Blarghnog,1,/r/investing/comments/p1igkk/tax_implications_of_high_turnover_etfs/h8g0ktw/,0.051,0.833,0.116,0.453
+77,HP," I have bought into Motley Fool 2 times. Their track record is long & verifiable, but the stocks they recommended were sooo expensive! (to me) $200-$300/share. I started with only $1000 to invest. So I bought cheap stocks. Goodyear. (Because tRUMPY had railed against them.) & HP. I made money, I moved on up. 😁",gardenoflia,1,/r/investing/comments/p1rlwi/how_can_i_see_the_holdings_of_wellestablished/h8g80q3/,0.04,0.908,0.051,0.1386
+78,CCI, CCI  they own the towers,diatho,1,/r/investing/comments/p1wcz5/which_broadband_company_do_you_like_over_the_next/h8g97xb/,0.0,1.0,0.0,0.0
