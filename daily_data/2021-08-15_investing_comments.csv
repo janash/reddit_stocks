@@ -1,0 +1,738 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,IMO," What kind of mentality and personality do you bring to investing?
+
+IMO, disciplined analytical/mathematically intuitive minds that can focus on well defined short term ""bets"" have rhe possibility to do very well with options. Options provide leverage. If your bets are netting positive in a systematic fashion you can make your money grow faster. Alternately some big investors have used for making daring contrarian bets(those bets can be hard to maintain for small investors esp. If market is in a more irrational state, which can be common).
+
+I'm a long term investor, I don't rattle easily, and am reasonably disciplined, but I don't have the numerical bet mindset or time horizon which options investing is best suited for. I've had good luck at riding long term trends and building a diversified portfolio with buys at sensible times- that's been my model for collecting a portfolio of stocks that has modestly outperformed US indices for last 10 yr horizon.
+
+For me, options are not a tool I personally like for two reasons:
+1-time horizon is too short for the kinds of bets or predictions I'm comfortable with making. I prefer understanding a business and sticking with good ones. Options are more transactional, on horizons of weeks or months, rather than years.
+2-I find the mathematical abstractions of options to be a distraction of complexity which really requires a mind that can systematically consider a universe of option strategies in a coherent way. E.g. do you like games like chess and poker? Are you good at anticipating implications od future moves and anticipating probabilities so you won't likely regret your prior decisions?
+
+On doing it full time ""trading options"" or really any style of actively investing with your own small pool of money as if it was a day job is akin to pursuing modern day alchemy. A recipe for stress, as you are really reliant on pretty consistently outperforming the markets and not making any severe errors, as it's both your nest egg and cash flow. Especially if your strategy goes sideways due to a general shift of the markets.
+
+For me, any kind of investing is best done using supporting cash flow of a day job(until you have a serious nest egg and reserves), or with scale benefits of other people's money. As a private investor, I'd suggest keep working, and experiment with learning options strategies on the side with a limited portion of your portfolio. Learn for yourself if you have the temperament at all.",TheEverHumbled,42,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h902o4w/,0.059,0.804,0.137,0.9909
+1,TA, Learning TA for options is key imo. You need to have good entry points regardless of what expy you buy. Take profits quick (it’s easy to get greedy) and be careful of holding through earnings.,Apart-Seesaw-6047,2,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h913ydm/,0.0,0.751,0.249,0.8519
+2,AMC," Depends how you plan to use them.
+
+Consider:
+
+A)  Learning options so you can buy 5DTE OTM calls on mem stocks trying to 10x your portfolio in a year or less, or selling naked calls on AMC
+
+vs
+
+B)  Selling covered calls on stocks you already own, buying puts for insurance/hedging, or using LEAPs to gain leverage on broad indices
+
+Which one has a high probability of success and lower probability of getting blown up?",ThenIJizzedInMyPants,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h91gssj/,0.028,0.883,0.09,0.7096
+3,AMC," I’ll dumb it down for ya.  Options are terrible.  I know Iv been flipping options for about a year.  Sometimes you get lucky but imagine a pulling a rope from point a to b.  If it goes straight like you planned you make money.  If anything causes it to dip up or down, now your rope is to short.  The market is so volatile that that rope looks like a jump rope. I took all the losses and chopped it to being educated in the stock market. Let’s put it another way.  I lost 19k in one year doing options.  If I had just bought shares and held onto my Doge I would have been a millionaire.  I had shares of zoom, shares of GME, shares of AMC, and I had almost 1,000,000 doge when it was at like .0004 cents. I sold of all of it to gamble on options. Buying and holding is the only way you can truly feel safe in the market.  Trust me I kick myself all the time. I am now doing spreads which is way safer, but way more complicated. Hope this help.",LadiesNLambos,-10,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h8zqgrz/,0.05,0.72,0.23,0.9904
+4,GME," I’ll dumb it down for ya.  Options are terrible.  I know Iv been flipping options for about a year.  Sometimes you get lucky but imagine a pulling a rope from point a to b.  If it goes straight like you planned you make money.  If anything causes it to dip up or down, now your rope is to short.  The market is so volatile that that rope looks like a jump rope. I took all the losses and chopped it to being educated in the stock market. Let’s put it another way.  I lost 19k in one year doing options.  If I had just bought shares and held onto my Doge I would have been a millionaire.  I had shares of zoom, shares of GME, shares of AMC, and I had almost 1,000,000 doge when it was at like .0004 cents. I sold of all of it to gamble on options. Buying and holding is the only way you can truly feel safe in the market.  Trust me I kick myself all the time. I am now doing spreads which is way safer, but way more complicated. Hope this help.",LadiesNLambos,-10,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h8zqgrz/,0.05,0.72,0.23,0.9904
+5,BB," The best way to learn is to actually do. Buy a call and a put on a stock like BB. They’re fairly cheap since the price of BB is low. Cheapest options are those with the closest expiry. Youll very likely lose that money around 50-100$ but you can watch how the option values move relative to stock price. When you buy options, the most you’ll lose is what you put in. When you sell options depending on whether you hold the stock, the loss/gain are capped or infinite. So start with a cheap buy.",but-this-one-is-mine,0,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h906hzj/,0.075,0.847,0.079,0.101
+6,IMO," 100%. just an arrow in the quiver. I use options to supplement my regular investing, not that I don’t stray to wsb and throw some money at the wall from time to time too. knowing the difference is half the battle IMO",Pancakesex,3,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h9120qu/,0.062,0.938,0.0,-0.3818
+7,KO," It’s important to note certain strategies work better in high implied volatility vs low IV and the individual stocks I choose for options changes over time based on this. For instance, I bought leaps on PFE a few weeks ago when IV was near its 52 week low and IV rank is now over 30%. If I wanted to make a trade now, I’d sell a put/jade lizard or I would select a low IV rank stock for leaps like KO, PG, or VZ",GraysonMA,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h91gbaq/,0.074,0.816,0.11,0.4588
+8,PFE," It’s important to note certain strategies work better in high implied volatility vs low IV and the individual stocks I choose for options changes over time based on this. For instance, I bought leaps on PFE a few weeks ago when IV was near its 52 week low and IV rank is now over 30%. If I wanted to make a trade now, I’d sell a put/jade lizard or I would select a low IV rank stock for leaps like KO, PG, or VZ",GraysonMA,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h91gbaq/,0.074,0.816,0.11,0.4588
+9,PG," It’s important to note certain strategies work better in high implied volatility vs low IV and the individual stocks I choose for options changes over time based on this. For instance, I bought leaps on PFE a few weeks ago when IV was near its 52 week low and IV rank is now over 30%. If I wanted to make a trade now, I’d sell a put/jade lizard or I would select a low IV rank stock for leaps like KO, PG, or VZ",GraysonMA,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h91gbaq/,0.074,0.816,0.11,0.4588
+10,CAN," Margin = taking a loan.
+
+Option = promise to buy or sell something if certain criteria are met.  You and buy and sell options with a full cash account, absolutely no margin and no loans.
+
+You CAN combine the two and have your account blow up.  However the blow up would be due to margin, not options themselves.",msiekkinen,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h90zz5k/,0.084,0.842,0.074,-0.1496
+11,AAPL, What kind of company do you recommend? Ones like MSFT and AAPL or less established ones with more potential upside (and downside obviously),Ugandan_Karen,12,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h90b7ad/,0.074,0.741,0.185,0.4588
+12,MSFT, What kind of company do you recommend? Ones like MSFT and AAPL or less established ones with more potential upside (and downside obviously),Ugandan_Karen,12,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h90b7ad/,0.074,0.741,0.185,0.4588
+13,LEAP," I've always considered doing that... I'm curious to know - How do you size the position? Normally if you want to buy a sizeable LEAP on say, $MSFT, that's at least a $10/contract trade. 
+
+I could be out of my element here, but would appreciate your insight.",TGC_Tom,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h90zj7y/,0.0,0.863,0.137,0.6542
+14,IMO," This is true, but that also assumes that you sell at the right time during the spike.  For me personally, I'm at work during market hours, so being able to go into a trade with set profit/loss is a huge help.  You can also set BTC orders at 50% profit/loss on those covered calls.  Or whatever percentage makes sense for you.  That will mitigate some of that risk.
+
+But you are definitely correct in saying that it is not a free money glitch lol.  Still worth learning about IMO though. Just to know what strategies are available at least.",coolbreezeaaa,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h91q9gs/,0.055,0.784,0.16,0.8956
+15,AAPL," My 2 cents is the second one. While MSFT and AAPL will likely grow, I think your money would be better spent on a company that has good revenue prospects, large-ish market to take advantage of, and a clear path toward growth. Buying OTM LEAPS will get you more dollars the closer that contract gets to ITM and a deepish ITM LEAPS will give you moves similar to holding 100 shares but for notably less capital. That being said, options are like leverage in that you can spend not a lot and still get a ton of value so throwing a few bucks at a realistically striked LEAPS in AAPL and MSFT wouldn't be the end of the world either. Also a thing to note, if you buy LEAPS, you can sell shorter dated higher strike covered calls against them and whittle down your cost basis.",neverenough762,26,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h90l5hs/,0.012,0.861,0.127,0.9153
+16,MSFT," My 2 cents is the second one. While MSFT and AAPL will likely grow, I think your money would be better spent on a company that has good revenue prospects, large-ish market to take advantage of, and a clear path toward growth. Buying OTM LEAPS will get you more dollars the closer that contract gets to ITM and a deepish ITM LEAPS will give you moves similar to holding 100 shares but for notably less capital. That being said, options are like leverage in that you can spend not a lot and still get a ton of value so throwing a few bucks at a realistically striked LEAPS in AAPL and MSFT wouldn't be the end of the world either. Also a thing to note, if you buy LEAPS, you can sell shorter dated higher strike covered calls against them and whittle down your cost basis.",neverenough762,26,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h90l5hs/,0.012,0.861,0.127,0.9153
+17,MSFT," I like LEAPS on proven blue chips - MSFT is my favorite - because it's essentially holding 100 shares for way less than the actual share price.  Obviously past performance doesn't predict future results, but if you look at the big green chart going to the moon, you can throw a dart at a strike price you're fairly certain will get hit and just grab a LEAPy loo.",bear_beer_beard,5,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h90qmsm/,0.026,0.831,0.143,0.705
+18,AAPL," Yes. But longer term than your average weekly call. From a few months to 2 years out or more in some cases. If a big company like AAPL goes on a dive for some reason, it could be a good time to bet they’ll be back and then some 6 months down the road.",CoastingUphill,2,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h91o3aq/,0.0,0.834,0.166,0.8381
+19,GME," > but that 10th time it ends up costing you a huge amount of gains it can all be a wash. 
+
+I've never really been a fan of trying to introduce some kind of opportunity cost. It really seems pointless. Unless you are somehow at every moment at the supremum of all possible portfolio configurations, then you have opportunity cost. I don't see how missing possible profits 1/10 times somehow washes out against taking profit 9/10 times. By that logic, all of my gains this year are a wash because I didn't throw everything into GME at its year low and sell at its peak. Opportunity cost is one of those wishy-washy, sometimes helpful, but definitely very ""soft"" measures (or whatever you would call it.) It is applied sloppily, and often in the service of whatever someone already wanted to believe. I could apply it even further with an opportunity cost for some invisible path I didn't take towards at this point making 50% more income than I am currently.
+
+It's good to mention the taxes, but that is a separate sort of issue.",salfkvoje,0,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h92s8kf/,0.026,0.763,0.211,0.9901
+20,DTE,"  I suppose my point was that there can be more than one winner. With options I can quit the hand at any time and still be a winner and there can be many winners on that contract. I am not sure if both sides of the money have to even out if the options expires ITM. 
+
+i noticed many others agree with your point, so I concede.
+
+It doesn't matter to me since I mostly day trade ITM spy options 0-7 DTE, and so the whole zero sum is not relevant to my calculus.",y-lee-coyote,0,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h92hgi8/,0.03,0.8,0.169,0.9422
+21,GME," > I've never really been a fan of trying to introduce some kind of opportunity cost. It really seems pointless.
+
+Bro you **literally** said that not selling covered calls is “leaving money on the table” and then you spend a whole comment talking about how comparing the two scenarios doesn’t make sense. It’s almost comical, like either you forgot your comment or you’re trolling.
+
+Wtf? Opportunity cost is a core concept of investing, and one you invited discussion on by claiming that anyone not employing that strategy is leaving money on the table.
+
+> Unless you are somehow at every moment at the supremum of all possible portfolio configurations, then you have opportunity cost. 
+
+Nobody is trying to compare with being a perfect investor. Just with the method you claimed leaves money on the table. Just with the exact same thing you’re doing *minus* the calls. Acting like it’s the same thing as comparing to being the perfect investor is ridiculous. 
+
+> I don't see how missing possible profits 1/10 times somehow washes out against taking profit 9/10 times.
+
+Uh….. because… dude the math seems simple? Did you read my comment at all!? It was explained that most market gains come from large upward moves. So if you miss a potential 15% upswing, that could make you actually underperform someone who simply held the stock and never sold calls.
+
+> By that logic, all of my gains this year are a wash because I didn't throw everything into GME at its year low and sell at its peak. 
+
+No, stop being fucking ridiculous. You sold contracts which cap your gains on a stock you already own. And then you said people who don’t do that are leaving money on the table. It’s not even in the same universe as comparing with “what if I bought GME”. 
+
+> Opportunity cost is one of those wishy-washy, sometimes helpful, but definitely very ""soft"" measures (or whatever you would call it.) It is applied sloppily, and often in the service of whatever someone already wanted to believe. I could apply it even further with an opportunity cost for some invisible path I didn't take towards at this point making 50% more income than I am currently.
+
+This is such a fucking dumb stretch I don’t even know if I believe you believe it. Let’s try it this way - what is the point of selling covered calls? You yourself **literally said** if you don’t do it you are “leaving money on the table”. And now you’re acting like drawing a comparison between doing so and not doing so is “wishy washy”. What the fuck are you on about?",cristiano-potato,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h92vy5z/,0.051,0.863,0.085,0.8905
+22,LEAP," Yes, seems like the logical conclusion is that most LEAP strategies will underperform SPY buy and hold. The drawdown is pretty significant, underperforming for 6-7 years or so. We should always need to take backtests with a grain of salt since it is prone to overfitting, as is the case in this example of finding the 50 delta LEAPS that beats buy and hold. 
+
+Please note it was the 50 delta (not DTE) long calls, as this backtest was supposedly made of all 730DTE LEAPS.
+
+Finally, not sure if LEAPS make any sense in my long term portfolio. With hindsight it would have been a good move during sharp and short-lived drawdowns such as March 2020... but only with hindsight.",NotKumar,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h92mp6k/,0.012,0.901,0.087,0.7367
+23,AMD," Depends if you have cash to cover.
+
+Selling a higher price call on a leap is called diagonal spread.
+
+Let's say I have a leap with a strike at 80. I sell a call at 90. Stock is now 95. Usually people will just roll the call if it ends itm. If it's assigned in this scenario, you get paid $9k and need to buy $9.5k of stock (500 difference) So if have cash you can just buy the shares you are short and don't have to sell the leaps
+
+I bought AMD leaps when it was in the 70s in May",GGLSpidermonkey,6,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h90tg5r/,0.016,0.961,0.023,0.1779
+24,ASTS," Absolutely learn how to properly assess 10K's and 10Q's and figure out what you like to look for in a company as far as value goes. For example, for a tech company worrying about P/E or assets vs price (book value basically) becomes silly if they post consistent revenue beats, you like their product and can see it gaining steam, and can show continual improvement in regards to growth vs. a mining company you definitely want to focus on assets, cash on hand, debt, are they explorers or do they produce, what will they produce and what's the cash flow per year, etc. Your forward looking assessment should change based on the sector you're looking at. 
+
+As for contracts, ideally you have a broker that will exercise and liquidate your LEAPS to fulfill your short calls being exercised at time of expiration so you are not inadvertently shorting a stock. I'd call whoever you use and verify they will do this for you, being sure to figure out when specifically they would close a position. Some do it after hours, some do so many minutes before close on that Friday. Your other option is to roll your short calls up in date and out in strike before you hit expiration to avoid exercise or becoming in the money. You can also buy your short contracts back.
+
+As for a recommendation, I can't give one on a large company as I am in the middle of moving my money around, and haven't done a ton of research past my long time holds I already have. I will say I wanted exposure to ASTS without holding shares so I bought some LEAPS and am selling calls to lower my cost basis. This is a purely speculative play though as they are currently pre-revenue so I would not recommend them to someone like yourself new to LEAPS.",neverenough762,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h90usrw/,0.046,0.819,0.135,0.9769
+25,MSFT," ""Looks like MSFT went up 500% last year, let's say 250% next year.""  Boom done.",bear_beer_beard,1,/r/investing/comments/p4ltcs/is_learning_options_worth_it/h91874n/,0.0,0.848,0.152,0.3612
+26,CD," Emergency savings should be riskless. Otherwise there’s a good chance that your investment will be under performing exactly when you have an emergency (economic downturn). 
+
+Savings accounts are the best, although you could consider a laddered CD (3 months of expenses in cash, 3 months in a 3 month CD, 3 months in a 6 month CD). With interest rates this low I’ve not found a CD that’s higher interest than a high interest savings account. 
+
+ETFs, crypto, etc can be good secondary savings vehicles, but should not be for your emergency savings.",choll86,15,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91dy2o/,0.09,0.746,0.164,0.6249
+27,CD, I placed my emergency fund into a 5 year CD $30k @ 2.7%.  Current rates are less then 1% now.  You can withdraw any amount with a penalty of 6-12 months of interest.,myst99,2,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91v31h/,0.167,0.744,0.089,-0.3818
+28,NKLA, NKLA,OilBerta,-8,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91igo2/,0.0,1.0,0.0,0.0
+29,CD, you can do I bonds. only takes a few days to get the money out. I bonds are low risk and are protected from inflation. Will earn more than any HYSA or CD. Definitely the way to go for funds you may need quick and under $10K,TheJustBleedGod,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91khjo/,0.084,0.803,0.112,0.34
+30,GEL," A bank in Georgia.
+
+They pay 3-4% on USD deposits.
+
+If you are willing to take FOREX risk you can get 9% on GEL, but considering the USD prints more than Georgia does GEL might be safer.",thorium43,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91nzfq/,0.07,0.837,0.094,0.4497
+31,ACH," BlockFi pays 7.5% and FTX blockfolio pays 6.7% on US dollar, not FDIC insured though. Deposits all handled by ACH transfer. I’ve been using it since January without any problems and able to transfer money back-and-forth From their platform and my bank.Interest paid monthly",Boomer_1961,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h929irq/,0.0,0.95,0.05,0.3089
+32,IPOF, I have some in below NAV SPACs. Essentially a bond with a free call option. If it's still below NAV at redemption then take the $10. For example IPOF is below NAV. Can arbitrage the gap and know you'll get at least $10 if they must dissolve the fund.,anthonyjh21,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92dza7/,0.0,0.932,0.068,0.5106
+33,GME, Park it in GME,Bump_It_Louder,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92fk48/,0.0,1.0,0.0,0.0
+34,IMO," Emergency fund belongs in a high yield savings account IMO. It's not going to beat inflation, but it will be liquid and available when you need it. Putting it in the stock market defeats the purpose of having an emergency fund. There is no such thing as an ultra safe security.",RandolphE6,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92jmj3/,0.177,0.711,0.112,-0.4588
+35,AMC, AMC,Guilty-Contribution7,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92nx4y/,0.0,1.0,0.0,0.0
+36,CD, A HYSA or CD is the safest way. You can get higher yield with bonds but I did this last year and lost nearly 3%.,DillaVibes,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92p1ax/,0.114,0.814,0.072,-0.2732
+37,NXJ," I can't read through every comment here to see if there's an answer like this.
+If you want to see your cash do something more than a money market and are willing to take on some additional risk, then you can go for a low duration bond fund. 
+Low duration is key, so that you minimize your interest rate risk.  Make sure you're familiar with how bonds are priced and with how bond funds operate before investing. 
+
+In NJ, I have a few bond funds to choose from that aren't subject to federal or state taxes. The ETFs, like NXJ, are around 4-5 years (moderately sensitive) while the mutual funds, like FNJHX, have durations around 1-2 years (less sensitive). 
+
+Keep in mind the settlement time needed to get the funds out if you need them as well. Mutual fund sales can usually settle in 1 day, while ETFs will take 2 days.",Joecalledher,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92rb4e/,0.053,0.845,0.102,0.7783
+38,CD," CDs that mature every month.  I am not sure the duration for those CD rates, but I would put the bare minimum to get the max rates and set a new one up every month or two to keep a steady stream of maturing CDs.  Better than sitting in a savings account and better interest.  You can keep renewing them as they mature to keep the cycle going.",Najarians_Ponytail,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92sv4q/,0.02,0.752,0.228,0.9503
+39,GME, Putting it into GME is not only safe but you'll see a huge return almost guaranteed,GimmeTreeFiddy,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92took/,0.096,0.736,0.167,0.3065
+40,ETH," If you want any growth consider a barbell strategy with v low risk/zero growth on 1 end (e.g. 30% cash) and some higher growth on the other - say 10% ETH, 10% ARKK and 10% BTC. Then the middle 40% put it in Anchor protocol on Terra for 20% APY.",willbankmove37,-1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91f81h/,0.04,0.785,0.174,0.7184
+41,WMT, WMT.  Fight me,Isellcarsbro,0,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91n2ax/,0.565,0.435,0.0,-0.3818
+42,CD," Do you currently have a bond? I see that they claim the compound interest is applied biannually, but that if you need to take the money out prior to the 5 year maturity then you lose three months worth of interest. 
+
+It's currently better than any CD or savings account I've seen which are mainly at .50% interest.",Demon0fTh3Fall,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91xq51/,0.052,0.713,0.236,0.9127
+43,AC," Vet bills, repairing the AC, unexpected tax bills, other house stuff",artudetan,6,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91n3id/,0.0,1.0,0.0,0.0
+44,CC," >Nobody here seems to be talking about the 30-day+ window a credit card gets you.
+
+That assumes you still have a credit card.
+
+How many people in Feb-April 2020 lost their job and had their CC companies slash limits/close accounts outright at the same time?",Qel_Hoth,-2,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92he4w/,0.091,0.802,0.107,0.2023
+45,CD," What i did was if i dont see myself spending the money in 3-5 years.. it goes to my brokerage account. Just pick a good etf or mutual funds. A lot of youtubers have advice for this and pretty much all of them say if you are not spending that money in 3-5 years or more, put it in brokerage/stocks. 
+
+Like pick any 5 or more stretch of years in the history of the stock market, it is guaranteed you can make more than a savings or CD and beat inflation.
+
+I got 70+k in stocks and its been growing nicely. If the market dips i will just hold on and buy more from good companies.",UnObtainium17,3,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91xxmo/,0.0,0.864,0.136,0.9337
+46,CD," Ally Bank has also gone down to a .5% interest rate recently, I suspect most 'high yield savings accounts' are about the same. When I opened my account with Ally in 2018 the interest rate was 2% but as the federal reserve lowered rates retail banks followed.
+
+Yeah the interest rate is pretty bad and it's definitely lower than inflation this year but it's still better than the interest rate offered by most local banks which is around .03%.
+
+In short, even if you are losing a small bit of money to inflation it's still the safest place to park money that you might need within a day due to an emergency. Any investments with better interest rates like a Bond/CD tie up your money for a set period of time or an index fund can lose value unexpectedly.
+
+Emergency funds are meant to be easily accessible. Any massive global emergency that tanks the economy is equally likely to affect your own personal life too. How bad would it be to lose your job unexpectedly AND have your emergency fund drop to 30% of it's typical value right when you need it most?",Toribor,5,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91rzvm/,0.169,0.63,0.201,0.8422
+47,CC," It always comes down to your risk profile. If you need the funds with certainty in the next 1 year, HYSA is a perfect place. I use them for saving what extra i need to pay in income tax each year. If your emergency fund is a just in case one. I do the same as u/AmericanNinjaLawyer and just park it in a stock that i like and is safe. Pick any large company you want. If it pays a dividend even better. I dont own that single stock anywhere else individually its just a emergency fund stock. Over the decades of owning my emergency stock, i have never honestly had to touch. I have made quite a lot and when it does make money or is larger than needed i sell the excess and move it to retirement accounts. All other emergencies get put on CC (i hoard points) and then immediately paid off. Immediate to me is no more than 3 months (general 1 or less). If it takes longer than that i sell emergency stock to pay off then replenish as needed, but as stated have never had to use emergency fund.",mygirltien,3,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91rff8/,0.094,0.849,0.056,-0.6416
+48,AC," That one makes sense and I have been lucky enough to avoid that - anything else that comes up I have been able to use my credit card (and pay it off asap to minimize interest) or small enough I had enough cash for. Most places even let you open a line of credit, for example if I needed a new AC unit.",Ramrod45,4,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91qkuf/,0.058,0.815,0.128,0.6597
+49,FUND," Those of us pointing out that an EMERGENCY FUND is supposed to be LIQUID and ACCESSIBLE AT ALL TIMES precludes the fact that you’ll gain a fraction of a percent per year in interest while inflation erodes it.
+
+Your investment accounts are all about risk and trying to maximize returns. Your emergency fund is insurance: safe, accessible insurance",chomponthebit,32,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91yd1m/,0.119,0.743,0.138,0.3109
+50,CD," DCU in Mass (membership available to anyone) pays 6.0% on the first $1000 in a savings account and .50% on your checking account balance (yes, .50% on checking. Not money market (I believe their money market rate is .40% and CD rates are around .6%). I keep exactly $1000 in the account at all times, and transfer out the dividend each month to the checking account because it earns more there. It's likely that there are other credit unions with similar offerings, but DCU membership is available to everyone outside of their service area with an invite or by a $10 donation to their charity.",Successtaurant,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92sfz2/,0.0,0.93,0.07,0.7506
+51,CD," You are missing my point.
+
+The point is not to use the credit card as the emergency fund. The point is that a credit card allows you to make a purchase and not have to deal with interest for 30 days.
+
+Those 30 days are used to liquidate or otherwise get access to your emergency fund. Maybe it's a bank account that you don't have online access to.
+
+Or a rotating bond or CD structure. Either way, the card is just there to bridge the gap, not to shoulder the cost.",radeky,26,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91uzmf/,0.077,0.839,0.085,0.2023
+52,CC," I am very curious if/to what extent CC companies went through the process of closing accounts and how much that corresponded to job loss.
+
+Again, the CC is not a substitute for cash. It's designed to give you time and flexibility to get access to your cash, not that you don't have any.",radeky,8,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92i75i/,0.042,0.868,0.09,0.4005
+53,EQS," Very curious to know what the suggestion would be as well. But this question is likely more suited to an FA rather than Reddit.
+
+But if I was personally in that position. $5-$10k in the bank, high yield savings account. Maybe even an annual time deposit for that extra bip.
+
+Rest of it I’d allocate into a 60/40 split and work it like a target date fund on a much shorter time frame, change the allocation based on a much shorter glide path, the closer I get to the date I need it. Of course for these funds I’d put on a no leverage restriction, change my EQS and investable universe to account for the increased liquidity needs and stay a mile away from derivatives and shorting. 
+
+Could also use T-bills since those are generally perceived as the risk free rate. Although I wouldn’t in the state of this market. Might as well keep it in a HYSA at that point
+
+Just my $0.02.
+
+Edit: Obligatory this is not financial advice, I am not a financial advisor or planner. Investing has its risks.
+
+Edit2: forgot about T-bills",Miigs,6,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91pjwg/,0.056,0.858,0.086,0.6805
+54,FA," Very curious to know what the suggestion would be as well. But this question is likely more suited to an FA rather than Reddit.
+
+But if I was personally in that position. $5-$10k in the bank, high yield savings account. Maybe even an annual time deposit for that extra bip.
+
+Rest of it I’d allocate into a 60/40 split and work it like a target date fund on a much shorter time frame, change the allocation based on a much shorter glide path, the closer I get to the date I need it. Of course for these funds I’d put on a no leverage restriction, change my EQS and investable universe to account for the increased liquidity needs and stay a mile away from derivatives and shorting. 
+
+Could also use T-bills since those are generally perceived as the risk free rate. Although I wouldn’t in the state of this market. Might as well keep it in a HYSA at that point
+
+Just my $0.02.
+
+Edit: Obligatory this is not financial advice, I am not a financial advisor or planner. Investing has its risks.
+
+Edit2: forgot about T-bills",Miigs,6,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91pjwg/,0.056,0.858,0.086,0.6805
+55,CD, i'm struggling with this as well.  i have it in a money market account right now but losing pretty badly to inflation.  maybe a CD is the only decent alternative,ThenIJizzedInMyPants,4,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91osyz/,0.253,0.59,0.157,-0.5574
+56,IMO," I would.  I am in this exact boat too.  I did have a large amount of money in bond funds but it grew to the point where I am no longer comfortable having any part of that portfolio in the market.  I am getting married later this year and the last thing I want to think about is the possibility that I will have to say, ""sorry honey, our down payment fund took a hit because the market crashed, we're going to have to wait longer.""
+
+The risk you take losing a little bit to inflation is outweighed by the risk of a sharp correction over short timeframes, IMO.  I would still maybe invest a little bit in a more conservative fund (something with at least 40-60% fixed income) but the vast majority of it is going into a HYSA.  I guess there are also I-bonds but there are limitations on them.",ClamWaffleBurger,2,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92g61y/,0.088,0.873,0.04,-0.7227
+57,MA," DCU in MA pays 6.0% on the first $1000 in savings, then its almost nothing beyond $1000, but they also pay .50% on checking account balances. The money market rate is .35% or something like that. And they're available to anyone outside of their normal service area with a $10 one time donation to their nonprofit.",Successtaurant,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92srlx/,0.028,0.916,0.056,0.3919
+58,FUND," > Those of us pointing out that an EMERGENCY FUND is supposed to be LIQUID and ACCESSIBLE AT ALL TIMES
+
+Thinking about this a bit deeper - what emergency *actually* requires that much money to be accessible instantly? Unless you're dealing with the Mafia in a drug deal, I can't think of any emergency that you can't pay off 2-3 days later.",EliminateThePenny,4,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92pa62/,0.136,0.844,0.021,-0.804
+59,MA," Digital FCU in MA does 6.0% (not a typo) savings up to $1000 balance, then .50% on checking balances. $10 donation to their nonprofit gets membership if you're outside of their service area.",Successtaurant,3,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92t1v1/,0.0,1.0,0.0,0.0
+60,CD, Yeah my CU you get 0.45% on a 6 month CD over $10K.,HankSullivan48030,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92wnm3/,0.0,0.82,0.18,0.296
+61,IMO," I agree with the thought but IMO the goal of an EF isn't to ever use the whole balance.  Take covid for example, unforeseen furloughs and layoffs. I had recently switched jobs and we went full remote but there was a 3 month buffer where I didn't have salary I come. My EF literally made it so I could continue my savings contributions (ira, brokerage, etc), pay all bills, still enjoy life and never once worry about it. Then the income faucet turned back on and life continued as normal. EF contributions turned back on to rebuild it so we drew down discretionary spending by a small amount for a few months.
+
+I view the EF as a 3-6 mo lifestyle continuation fund.",schryptos,6,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h91z2q0/,0.013,0.909,0.077,0.8205
+62,EMP," Or a high-atmospheric nuke could be detonated above North America creating an EMP that would wipe all electronic accounts, including all Emergency Funds, from existence. So what",chomponthebit,0,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h927kmg/,0.09,0.833,0.076,-0.1027
+63,CC," Its all risk tolerance. I keep the hysa for true immediate needs, paying excess taxes every year. Because im in the process of diversifying a sizeable portion of the portfolio which is going to take the good part of 10 years (so i dont have a crazy gains tax). Now if i needed i could use those hysa funds for emergency but in todays world what emergency cant be handled with a CC? None that i can think of.  I save in an HYSA a little more then the amount I will need to pay the extra tax. My true emergency fund is parked in a stock and that just sits. Years its up, i pull out any excess and put it to work like any other savings. Years that its down, i just dont worry about it frankly, because if its a true emergency i have CC with ridiculous open ended credit so no matter what it is i can fund it. The idea basically came around after a few years of sitting on emergency funds i wasnt using then calculating the annualized avg return i was missing out on and that decided that. In my world, that emergency stock fund really is there to pay of any debt that pops up that is going to take me more than a couple months to otherwise pay off. I did have some crazy medical bills earlier this year, 6k out of pocket worth. Grabbed what i needed out of hysa to pay off then slowly added back to it to get it where it needed to be. Had i needed more from hysa than would have been able to refund prior to tax time next year. Then and only then i would have sold a little of the emergency stock fund to replenish hysa but only to the point it needed to be for this time of year.",mygirltien,1,/r/investing/comments/p4unkz/where_to_park_my_emergency_fund/h92mj4g/,0.131,0.767,0.102,-0.8346
+64,IS," Yesterday, today, and tomorrow are all good days to buy. Especially yesterday. 
+
+Corrections are great because everything is on sale, but everything IS on sale in even a 5-10 year timeline.",ElectricLotus,5,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h8z4xsr/,0.0,0.862,0.138,0.5423
+65,TSLA, so you're gate keeping investing? it's good people are getting interested in the markets. As long as your money isn't long TSLA you'll be fine.,VitaminGME,9,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h8yepcq/,0.0,0.748,0.252,0.7506
+66,HUGE," You're making HUGE assumptions about OP's question that simply aren't there.  We all know retail investors flocking into the tulip market can create/signal a bubble, OP is merely asking whether the sub thinks we're there.  
+
+Perfectly valid question, the only finger-pointing at retail investors seems to be in your overly-defensive reply.
+
+Also, why not stop downvoting every person who points out your erroneous conclusion?",dbc13543,20,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h8z6hyq/,0.039,0.832,0.129,0.7447
+67,AMC," Ah yes, the common gentleman buying GME at 300 and AMC at 70. 
+
+What a wise and studious crowd!
+
+At least the people working for hedge funds tend to try to connect their investment to some fundamental value",strawlion,3,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h8zs3f0/,0.0,0.8,0.2,0.8172
+68,GME," Ah yes, the common gentleman buying GME at 300 and AMC at 70. 
+
+What a wise and studious crowd!
+
+At least the people working for hedge funds tend to try to connect their investment to some fundamental value",strawlion,3,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h8zs3f0/,0.0,0.8,0.2,0.8172
+69,TSLA, My 20x return since 2013 in TSLA says otherwise.,thorium43,-1,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h91olb8/,0.0,1.0,0.0,0.0
+70,AMC, Did you double down on your AMC and GME shorts. I'd love to see your returns,SquiddyGO,0,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h8yx45p/,0.0,0.781,0.219,0.6369
+71,GME, Did you double down on your AMC and GME shorts. I'd love to see your returns,SquiddyGO,0,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h8yx45p/,0.0,0.781,0.219,0.6369
+72,RH," So someone is dumb just because they use RH? A lot of people got suckered into it and have a hard time leaving. For example, RH does not allow fractional shares to be transferred from it (say to Fidelity) even though Fidelity also supports fractional shares. You have to either sell your position or buy up to a whole share. So in my instance I transferred everything but Amazon because I dont have $2,750 just laying around to toss into Amazon at will. Also a lot of people are willing to put up with RH's bullshit simply because their UI is unmatched, and it's somewhat of a valid reason. Using Fidelity and Vanguard is a fucking joke on mobile.",SNIPES0009,1,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h8yz589/,0.131,0.784,0.085,-0.5666
+73,UI," So someone is dumb just because they use RH? A lot of people got suckered into it and have a hard time leaving. For example, RH does not allow fractional shares to be transferred from it (say to Fidelity) even though Fidelity also supports fractional shares. You have to either sell your position or buy up to a whole share. So in my instance I transferred everything but Amazon because I dont have $2,750 just laying around to toss into Amazon at will. Also a lot of people are willing to put up with RH's bullshit simply because their UI is unmatched, and it's somewhat of a valid reason. Using Fidelity and Vanguard is a fucking joke on mobile.",SNIPES0009,1,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h8yz589/,0.131,0.784,0.085,-0.5666
+74,MA," is it impossible to time? I've been saying since over a year ago the correction would come in Sept/Oct of this year. Probably go back to 3200. Yeah it's just a meaningless prediction, but people are talking about it now. But I base it on previous chart patterns over many years that market reverts back to prices at the beginning of the year from year prior. I don't have all the data in front of me, but you can see examples. Like 2016 it returned to Jan 2014 levels. In 2019 it returned to near Jan 2017 levels. 2020 returned to Jan 2017 levels, but that was a bit of a special case. 2018 returned to Jan 2017 levels too. I'm just saying I think we return to Jan 2020 levels. It's really not much of a stretch, since I just pointed out 2016, 2018, 2019, 2020 had major pullbacks. That's only 1 of the previous 5 years that didn't have the pullback. It's pretty easy to see it happening anyway since once the market breaks below the 50 day MA you are pretty much screwed. But the problem now is the market has run up so much that 50 day is almost 13% down from here. So you'll be at 15% loss before you figure out if we are screwed or rebounding. Not pretty. But you should be worried cause currently the 200 MA is 30% down from here. The peak of the 2000 bubble the 200 MA was 32.2% down, and it doesn't end pretty cause the bottom was 38.7% below the 200 MA.",Rich265,0,/r/investing/comments/p4fmom/is_the_stock_market_glut_changing_anyones_dca/h8zxyj5/,0.068,0.83,0.101,0.891
+75,MSFT," No, that's correct, MSFT has a net 48B cash position. So presumably in your formula you have the calculation of the future cash flows and then at the end you subtract net debt, but since net debt is negative in this case you'll add the 48B to the value of the future cash flows.",TheHiveMindSpeaketh,15,/r/investing/comments/p4fml4/question_about_the_calculation_of_net_borrowing/h8yczw8/,0.186,0.765,0.049,-0.8201
+76,DCF, His website is called investorsgrow.com i honestly have never seen such an informative and straight forward channel regarding finance like his. The excel spreadsheet I'm talking about is part of his 30 minute DCF calculation explanation video. Worth every second,Ugandan_Karen,1,/r/investing/comments/p4fml4/question_about_the_calculation_of_net_borrowing/h909wtk/,0.0,0.734,0.266,0.8834
+77,IMO," That is a good article.  Since I am recently retired with a 10 year bond tent as the plan it does not give me a warm, confident feeling but that is not a bad thing.  Plans need to be subject to criticism, not put on a pedestal.  
+
+IMO the real problem that we all have is that this situation of high market valuations and low interest rates is unprecedented in modern times.  So back testing may not be telling us much.",D74248,2,/r/investing/comments/p4f309/asset_allocation_strategies_best_way_of_achieving/h8zd8xu/,0.126,0.73,0.145,0.1759
+78,CBRE," Did you **search**?  Or are you asking us to do that for you?
+
+Here's -part- of what Fidelity shows for ""infrastructure"":
+
+Fund Name (63 matches)
+
+FNSTX - Fidelity Infrastructure Fund     
+AIAFX - Aberdeen Global Infrastructure Fund Class A     
+AIFRX - Aberdeen Global Infrastructure Fund Institutional Class     
+BGLAX - Brookfield Global Listed Infrastructure Fund Class A     
+BGLCX - Brookfield Global Listed Infrastructure Fund Class C     
+MLXAX - Catalyst Energy Infrastructure Fund Class A     
+MLXCX - Catalyst Energy Infrastructure Fund Class C     
+MLXIX - Catalyst Energy Infrastructure Fund Class I     
+DHINX - Centre Global Infrastructure Fund Institutional Class     
+DHIVX - Centre Global Infrastructure Fund Investor Class      
+RGIVX - ClearBridge Global Infrastructure Income Fund Class I     
+CSUAX - Cohen & Steers Global Infrastructure Fund, Inc. Class A      
+CSUIX - Cohen & Steers Global Infrastructure Fund, Inc. Class I     
+NXGAX - Cushing ® NextGen Infrastructure Fund Class A Shares     
+NXGNX - Cushing ® NextGen Infrastructure Fund Class I Shares     
+BILDX - DoubleLine Infrastructure Income Fund Class I     
+BILTX - DoubleLine Infrastructure Income Fund Class N      
+TOLLX - DWS RREEF Global Infrastructure Fund - Class A      
+TOLCX - DWS RREEF Global Infrastructure Fund - Class C     
+TOLIX - DWS RREEF Global Infrastructure Fund - Class Inst     
+ECOIX - Ecofin Global Renewables Infrastructure Fund Institutional Class     
+FMGIX - Frontier MFG Core Infrastructure Fund Institutional Class     
+FCIVX - Frontier MFG Core Infrastructure Fund Service Class     
+FMSSX - Frontier MFG Select Infrastructure Fund Service Class     
+GLEAX - Goldman Sachs Energy Infrastructure Fund Class A Shares      
+GLPAX - Goldman Sachs MLP Energy Infrastructure Fund Class A      
+GLPCX - Goldman Sachs MLP Energy Infrastructure Fund Class C     
+ICBMX - ICON Natural Resources and Infrastructure Fund Institutional     
+ICBAX - ICON Natural Resources and Infrastructure Fund Investor Class      
+GIZAX - Invesco Global Infrastructure Fund Class A      
+GIZCX - Invesco Global Infrastructure Fund Class C     
+JEEBX - JHancock Infrastructure Fund Class A      
+JEEIX - JHancock Infrastructure Fund Class I     
+GLIFX - Lazard Global Listed Infrastructure Portfolio Institutional Shares     
+GLFOX - Lazard Global Listed Infrastructure Portfolio Open Shares      
+KARIX - Kayne Anderson Renewable Infrastructure Fund Class I     
+KARRX - Kayne Anderson Renewable Infrastructure Fund Class Retail      
+VCRAX - MainStay CBRE Global Infrastructure Fund Class A      
+VCRCX - MainStay CBRE Global Infrastructure Fund Class C     
+VCRIX - MainStay CBRE Global Infrastructure Fund Class I     
+MGVAX - MainStay MacKay U.S. Infrastructure Bond Fund Class A      
+MGVCX - MainStay MacKay U.S. Infrastructure Bond Fund Class C     
+MCSGX - MainStay MacKay U.S. Infrastructure Bond Fund Class B     
+MGOIX - MainStay MacKay U.S. Infrastructure Bond Fund Class I     
+MTIPX - Morgan Stanley Institutional Fund, Inc. Global Infrastructure Portfolio Class A      
+MTIIX - Morgan Stanley Institutional Fund, Inc. Global Infrastructure Portfolio Class I     
+NMFIX - Northern Multi-Manager Global Listed Infrastructure Fund     
+FGIAX - Nuveen Global Infrastructure Fund Class A      
+FGNCX - Nuveen Global Infrastructure Fund Class C     
+PXDIX - Pax Global Sustainable Infrastructure Fund Institutional Class     
+PGJAX - PGIM Jennison Global Infrastructure Fund- Class A     
+PGJCX - PGIM Jennison Global Infrastructure Fund- Class C     
+PGJZX - PGIM Jennison Global Infrastructure Fund- Class Z     
+RMLPX - Recurrent MLP & Infrastructure Fund Class I     
+SMAPX - Salient MLP & Energy Infrastructure Fund Class A     
+SMFPX - Salient MLP & Energy Infrastructure Fund Class C     
+SMLPX - Salient MLP & Energy Infrastructure Fund Class I     
+TMLAX - Transamerica Energy Infrastructure Class A      
+TMCLX - Transamerica Energy Infrastructure Class C     
+TMLPX - Transamerica Energy Infrastructure Class I     
+PGUAX - Virtus Duff & Phelps Global Infrastructure Fund Class A      
+PGUCX - Virtus Duff & Phelps Global Infrastructure Fund Class C     
+PGIUX - Virtus Duff & Phelps Global Infrastructure Fund Class I",DeeDee_Z,2,/r/investing/comments/p4hb5c/infrastructure_deal_sp500_or_djia/h91tnzm/,0.0,0.904,0.096,0.989
+79,MFG," Did you **search**?  Or are you asking us to do that for you?
+
+Here's -part- of what Fidelity shows for ""infrastructure"":
+
+Fund Name (63 matches)
+
+FNSTX - Fidelity Infrastructure Fund     
+AIAFX - Aberdeen Global Infrastructure Fund Class A     
+AIFRX - Aberdeen Global Infrastructure Fund Institutional Class     
+BGLAX - Brookfield Global Listed Infrastructure Fund Class A     
+BGLCX - Brookfield Global Listed Infrastructure Fund Class C     
+MLXAX - Catalyst Energy Infrastructure Fund Class A     
+MLXCX - Catalyst Energy Infrastructure Fund Class C     
+MLXIX - Catalyst Energy Infrastructure Fund Class I     
+DHINX - Centre Global Infrastructure Fund Institutional Class     
+DHIVX - Centre Global Infrastructure Fund Investor Class      
+RGIVX - ClearBridge Global Infrastructure Income Fund Class I     
+CSUAX - Cohen & Steers Global Infrastructure Fund, Inc. Class A      
+CSUIX - Cohen & Steers Global Infrastructure Fund, Inc. Class I     
+NXGAX - Cushing ® NextGen Infrastructure Fund Class A Shares     
+NXGNX - Cushing ® NextGen Infrastructure Fund Class I Shares     
+BILDX - DoubleLine Infrastructure Income Fund Class I     
+BILTX - DoubleLine Infrastructure Income Fund Class N      
+TOLLX - DWS RREEF Global Infrastructure Fund - Class A      
+TOLCX - DWS RREEF Global Infrastructure Fund - Class C     
+TOLIX - DWS RREEF Global Infrastructure Fund - Class Inst     
+ECOIX - Ecofin Global Renewables Infrastructure Fund Institutional Class     
+FMGIX - Frontier MFG Core Infrastructure Fund Institutional Class     
+FCIVX - Frontier MFG Core Infrastructure Fund Service Class     
+FMSSX - Frontier MFG Select Infrastructure Fund Service Class     
+GLEAX - Goldman Sachs Energy Infrastructure Fund Class A Shares      
+GLPAX - Goldman Sachs MLP Energy Infrastructure Fund Class A      
+GLPCX - Goldman Sachs MLP Energy Infrastructure Fund Class C     
+ICBMX - ICON Natural Resources and Infrastructure Fund Institutional     
+ICBAX - ICON Natural Resources and Infrastructure Fund Investor Class      
+GIZAX - Invesco Global Infrastructure Fund Class A      
+GIZCX - Invesco Global Infrastructure Fund Class C     
+JEEBX - JHancock Infrastructure Fund Class A      
+JEEIX - JHancock Infrastructure Fund Class I     
+GLIFX - Lazard Global Listed Infrastructure Portfolio Institutional Shares     
+GLFOX - Lazard Global Listed Infrastructure Portfolio Open Shares      
+KARIX - Kayne Anderson Renewable Infrastructure Fund Class I     
+KARRX - Kayne Anderson Renewable Infrastructure Fund Class Retail      
+VCRAX - MainStay CBRE Global Infrastructure Fund Class A      
+VCRCX - MainStay CBRE Global Infrastructure Fund Class C     
+VCRIX - MainStay CBRE Global Infrastructure Fund Class I     
+MGVAX - MainStay MacKay U.S. Infrastructure Bond Fund Class A      
+MGVCX - MainStay MacKay U.S. Infrastructure Bond Fund Class C     
+MCSGX - MainStay MacKay U.S. Infrastructure Bond Fund Class B     
+MGOIX - MainStay MacKay U.S. Infrastructure Bond Fund Class I     
+MTIPX - Morgan Stanley Institutional Fund, Inc. Global Infrastructure Portfolio Class A      
+MTIIX - Morgan Stanley Institutional Fund, Inc. Global Infrastructure Portfolio Class I     
+NMFIX - Northern Multi-Manager Global Listed Infrastructure Fund     
+FGIAX - Nuveen Global Infrastructure Fund Class A      
+FGNCX - Nuveen Global Infrastructure Fund Class C     
+PXDIX - Pax Global Sustainable Infrastructure Fund Institutional Class     
+PGJAX - PGIM Jennison Global Infrastructure Fund- Class A     
+PGJCX - PGIM Jennison Global Infrastructure Fund- Class C     
+PGJZX - PGIM Jennison Global Infrastructure Fund- Class Z     
+RMLPX - Recurrent MLP & Infrastructure Fund Class I     
+SMAPX - Salient MLP & Energy Infrastructure Fund Class A     
+SMFPX - Salient MLP & Energy Infrastructure Fund Class C     
+SMLPX - Salient MLP & Energy Infrastructure Fund Class I     
+TMLAX - Transamerica Energy Infrastructure Class A      
+TMCLX - Transamerica Energy Infrastructure Class C     
+TMLPX - Transamerica Energy Infrastructure Class I     
+PGUAX - Virtus Duff & Phelps Global Infrastructure Fund Class A      
+PGUCX - Virtus Duff & Phelps Global Infrastructure Fund Class C     
+PGIUX - Virtus Duff & Phelps Global Infrastructure Fund Class I",DeeDee_Z,2,/r/investing/comments/p4hb5c/infrastructure_deal_sp500_or_djia/h91tnzm/,0.0,0.904,0.096,0.989
+80,MLP," Did you **search**?  Or are you asking us to do that for you?
+
+Here's -part- of what Fidelity shows for ""infrastructure"":
+
+Fund Name (63 matches)
+
+FNSTX - Fidelity Infrastructure Fund     
+AIAFX - Aberdeen Global Infrastructure Fund Class A     
+AIFRX - Aberdeen Global Infrastructure Fund Institutional Class     
+BGLAX - Brookfield Global Listed Infrastructure Fund Class A     
+BGLCX - Brookfield Global Listed Infrastructure Fund Class C     
+MLXAX - Catalyst Energy Infrastructure Fund Class A     
+MLXCX - Catalyst Energy Infrastructure Fund Class C     
+MLXIX - Catalyst Energy Infrastructure Fund Class I     
+DHINX - Centre Global Infrastructure Fund Institutional Class     
+DHIVX - Centre Global Infrastructure Fund Investor Class      
+RGIVX - ClearBridge Global Infrastructure Income Fund Class I     
+CSUAX - Cohen & Steers Global Infrastructure Fund, Inc. Class A      
+CSUIX - Cohen & Steers Global Infrastructure Fund, Inc. Class I     
+NXGAX - Cushing ® NextGen Infrastructure Fund Class A Shares     
+NXGNX - Cushing ® NextGen Infrastructure Fund Class I Shares     
+BILDX - DoubleLine Infrastructure Income Fund Class I     
+BILTX - DoubleLine Infrastructure Income Fund Class N      
+TOLLX - DWS RREEF Global Infrastructure Fund - Class A      
+TOLCX - DWS RREEF Global Infrastructure Fund - Class C     
+TOLIX - DWS RREEF Global Infrastructure Fund - Class Inst     
+ECOIX - Ecofin Global Renewables Infrastructure Fund Institutional Class     
+FMGIX - Frontier MFG Core Infrastructure Fund Institutional Class     
+FCIVX - Frontier MFG Core Infrastructure Fund Service Class     
+FMSSX - Frontier MFG Select Infrastructure Fund Service Class     
+GLEAX - Goldman Sachs Energy Infrastructure Fund Class A Shares      
+GLPAX - Goldman Sachs MLP Energy Infrastructure Fund Class A      
+GLPCX - Goldman Sachs MLP Energy Infrastructure Fund Class C     
+ICBMX - ICON Natural Resources and Infrastructure Fund Institutional     
+ICBAX - ICON Natural Resources and Infrastructure Fund Investor Class      
+GIZAX - Invesco Global Infrastructure Fund Class A      
+GIZCX - Invesco Global Infrastructure Fund Class C     
+JEEBX - JHancock Infrastructure Fund Class A      
+JEEIX - JHancock Infrastructure Fund Class I     
+GLIFX - Lazard Global Listed Infrastructure Portfolio Institutional Shares     
+GLFOX - Lazard Global Listed Infrastructure Portfolio Open Shares      
+KARIX - Kayne Anderson Renewable Infrastructure Fund Class I     
+KARRX - Kayne Anderson Renewable Infrastructure Fund Class Retail      
+VCRAX - MainStay CBRE Global Infrastructure Fund Class A      
+VCRCX - MainStay CBRE Global Infrastructure Fund Class C     
+VCRIX - MainStay CBRE Global Infrastructure Fund Class I     
+MGVAX - MainStay MacKay U.S. Infrastructure Bond Fund Class A      
+MGVCX - MainStay MacKay U.S. Infrastructure Bond Fund Class C     
+MCSGX - MainStay MacKay U.S. Infrastructure Bond Fund Class B     
+MGOIX - MainStay MacKay U.S. Infrastructure Bond Fund Class I     
+MTIPX - Morgan Stanley Institutional Fund, Inc. Global Infrastructure Portfolio Class A      
+MTIIX - Morgan Stanley Institutional Fund, Inc. Global Infrastructure Portfolio Class I     
+NMFIX - Northern Multi-Manager Global Listed Infrastructure Fund     
+FGIAX - Nuveen Global Infrastructure Fund Class A      
+FGNCX - Nuveen Global Infrastructure Fund Class C     
+PXDIX - Pax Global Sustainable Infrastructure Fund Institutional Class     
+PGJAX - PGIM Jennison Global Infrastructure Fund- Class A     
+PGJCX - PGIM Jennison Global Infrastructure Fund- Class C     
+PGJZX - PGIM Jennison Global Infrastructure Fund- Class Z     
+RMLPX - Recurrent MLP & Infrastructure Fund Class I     
+SMAPX - Salient MLP & Energy Infrastructure Fund Class A     
+SMFPX - Salient MLP & Energy Infrastructure Fund Class C     
+SMLPX - Salient MLP & Energy Infrastructure Fund Class I     
+TMLAX - Transamerica Energy Infrastructure Class A      
+TMCLX - Transamerica Energy Infrastructure Class C     
+TMLPX - Transamerica Energy Infrastructure Class I     
+PGUAX - Virtus Duff & Phelps Global Infrastructure Fund Class A      
+PGUCX - Virtus Duff & Phelps Global Infrastructure Fund Class C     
+PGIUX - Virtus Duff & Phelps Global Infrastructure Fund Class I",DeeDee_Z,2,/r/investing/comments/p4hb5c/infrastructure_deal_sp500_or_djia/h91tnzm/,0.0,0.904,0.096,0.989
+81,PLPC," Unpopular opinion 
+
+PLPC",GreatRip4045,1,/r/investing/comments/p4hb5c/infrastructure_deal_sp500_or_djia/h91tdj8/,0.0,1.0,0.0,0.0
+82,RSI, RSI is a lagging indicator.,BildoPhaggens,1,/r/investing/comments/p4hb5c/infrastructure_deal_sp500_or_djia/h91gvqs/,0.412,0.588,0.0,-0.2732
+83,UK," Any thoughts on a good low cost tracker for the S&P 500, for a UK investor please?",olderlifter99,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h90k7s0/,0.109,0.622,0.269,0.4767
+84,TDF," **TLDR: Desperately trying to avoid fees in a Roth IRA, low income and only able to contribute $25/month. Pursuing a hands-off approach in the form of a target date fund. Account currently at Merrill Edge, considering switching to Fidelity. What is the cheapest and most straightforward option?**
+
+My sister is just starting her retirement savings and can only afford to contribute $25 per month. Her Roth IRA is currently at Merrill Edge and she knows nothing about investing, her $200 balance is sitting in a money market and not invested. I would like her to move that money to a target date fund so she can be as hands-off as possible. She has less than $10k at Bank of America so she doesn't qualify for any type of rewards program or reduced fees with Merrill Edge.
+
+I cannot seem to find any information online about Merrill Edge's target date funds. I know she can buy into Fidelity/Vanguard funds through Merrill, but it seems like it would come with hefty fees. As far as I can tell, every $25 contribution would be eaten up by $6.95-19.95 fees. (If I'm wrong please correct me, I am having a hard time finding and understanding Merrill Edge's fee schedule.)
+
+I use Fidelity for my own Roth IRA and I think she could benefit from Fidelity's 2060 TDF (FDKLX). I considered Vanguard's but there seems to be a $1000 minimum and she does not have that much.
+
+I'm considering advising her to move her IRA from Merrill Edge to Fidelity to avoid fees, but Merrill also charges $50 to close the account, which is 25% of her current savings. 
+
+She just wants to throw her current $200 into a target date fund and add $25 monthly. How can she go about doing this in the most cost-effective way possible?",formalde_heidi,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92lnbh/,0.068,0.903,0.029,-0.8285
+85,AAPL," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92pds6/,0.0,0.913,0.087,0.685
+86,AMD," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92pds6/,0.0,0.913,0.087,0.685
+87,DIS," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92pds6/,0.0,0.913,0.087,0.685
+88,DKNG," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92pds6/,0.0,0.913,0.087,0.685
+89,FB," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92pds6/,0.0,0.913,0.087,0.685
+90,HOOD," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92pds6/,0.0,0.913,0.087,0.685
+91,NIO," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92pds6/,0.0,0.913,0.087,0.685
+92,SQ," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92pds6/,0.0,0.913,0.087,0.685
+93,TSLA," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92pds6/,0.0,0.913,0.087,0.685
+94,EM," It seems that the EM is undervalued compared
+to the US and if you buy now, you can buy them cheap. I am on the same boat - I am about 25% invested in EM so hopefully my optimism pays off in the next ten years but there is no guarantee… good luck!",a-ng,1,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h91jev9/,0.046,0.743,0.211,0.8741
+95,UPS," As the dividend increases the stock appreciates typically. A good example is UPS, they essentially always trade at a price of the current dividend / 0.04, i.e. they're yield is 4% a year. If the dividend increases next year, then you got 4% this year and a slight appreciation of probably 2-3%. So in line with market returns.",exe_virus,2,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h91b7f0/,0.0,0.84,0.16,0.8591
+96,CPA," You should definitely NOT be managing your uncle's retirement. You are far too young and not knowledgeable enough to manage anyone else's finance, especially considering your uncle's situation.
+
+Tell him to see a CPA and learn how taxes work, then pick Target Date Fund, keep contributing it it and don't touch it for the next 14 years.",cdude,2,/r/investing/comments/p4q2sp/daily_advice_thread_all_basic_help_or_advice/h92je27/,0.0,0.953,0.047,0.4019
+97,UK," Any thoughts on a decent low cost tracker for the S&P 500, for a UK based investor?",olderlifter99,2,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h90k3js/,0.13,0.87,0.0,-0.2732
+98,AMD, I’m pretty new to investing but I bought roughly 40 shares of each AMD and NXPI. I assume I’m supposed to hold these until around christmas time when all their tech is being massively purchased via devices that utilize their tech?,MaxEhrlich,2,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h90verp/,0.0,0.883,0.117,0.5994
+99,NXPI, I’m pretty new to investing but I bought roughly 40 shares of each AMD and NXPI. I assume I’m supposed to hold these until around christmas time when all their tech is being massively purchased via devices that utilize their tech?,MaxEhrlich,2,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h90verp/,0.0,0.883,0.117,0.5994
+100,RSI, $ALGN is all time buy based on the technical indicators & moving average. RSI is neutral and the bull bear power also indicates a buy. Feeling strong!,_GreenNorth,2,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h91r0ib/,0.0,0.819,0.181,0.6239
+101,OPRA," Can anyone help me find holes in my Opera thesis on why Opera is not undervalued. I think it is massively undervalued but apparently Mr. Market thinks otherwise.
+
+[https://www.reddit.com/r/OPRA/comments/okvxi6/my\_analysis\_on\_opra\_a\_massively\_undervalued\_stock/](https://www.reddit.com/r/OPRA/comments/okvxi6/my_analysis_on_opra_a_massively_undervalued_stock/)",Green_Wrap8531,2,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h92452k/,0.0,0.936,0.064,0.2144
+102,AAPL," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h92pesu/,0.0,0.913,0.087,0.685
+103,AMD," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h92pesu/,0.0,0.913,0.087,0.685
+104,DIS," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h92pesu/,0.0,0.913,0.087,0.685
+105,DKNG," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h92pesu/,0.0,0.913,0.087,0.685
+106,FB," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h92pesu/,0.0,0.913,0.087,0.685
+107,HOOD," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h92pesu/,0.0,0.913,0.087,0.685
+108,NIO," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h92pesu/,0.0,0.913,0.087,0.685
+109,SQ," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h92pesu/,0.0,0.913,0.087,0.685
+110,TSLA," Hey yall, just looking to get some input on my portfolio from this fine community. It is as follows:  
+  
+TSLA - 25%  
+AAPL - 15%  
+SQ - 12.5%  
+DKNG - 12.5%  
+DIS - 10%  
+AMD - 10%  
+NIO/SOFI/HOOD - 5% each  
+  
+What do you guys think? Also I've been thinking about adding a 10th stock. Leaning towards FB or U. But I'm open to any and all suggestions. Thanks !",CokePusha69,1,/r/investing/comments/p4q3a1/daily_general_discussion_and_spitballin_thread/h92pesu/,0.0,0.913,0.087,0.685
+111,COIN, Imagine if COIN bought Robinhood…,Farscape1477,9,/r/investing/comments/p4yvdv/robinhood_as_a_buy_out_opportunity/h929j3h/,0.0,1.0,0.0,0.0
+112,ID," I’m in Robinhood because I just started, no fees, easy to understand, and don’t need to use my ID. Think the platform has much room to grow. Not saying it’s the best platform but I’m fine with the risk of “not your keys not your crypto”.",ConmanSpaceHero,4,/r/investing/comments/p4yvdv/robinhood_as_a_buy_out_opportunity/h928eti/,0.083,0.784,0.132,0.3612
+113,GDP," In the legitimate world economy (not drug trade or human trafficking) Afghanistan is a blip on the map, maybe 1/100000 of the world GDP if that.   Having the US military there probably increased their GDP 10x.   Now we are leaving, there will be a big recession.  I was going to recommend burning the poppy fields on the way out to ensure they literally have no economy for another year and then sanctions after that.  You need to be thinking more about unrest in the US and disruption of the US economy as taxes are raised.   Another threat is China expanding it’s world power.   Eventually China will be making countries which oppose them very uncomfortable.",FriscoTXMan,4,/r/investing/comments/p4z7lh/gold_and_crypto_as_hedges_against_international/h929px7/,0.111,0.831,0.058,-0.7645
+114,CLF," If you want to invest in commodities as an inflation hedge, why not go with steel...like CLF.",gainbabygain,1,/r/investing/comments/p4z7lh/gold_and_crypto_as_hedges_against_international/h92tai8/,0.0,0.925,0.075,0.0772
+115,DHR," China/Russia/Turkey will immediately recognize the new power in Afghanistan. Biggest edge You can have is buying strong well managed companies like DHR,GOOG,MSFT,etc.
+As for crypto I find it too volatile to be an edge , although I hold some chain link just for fun since December",your_mother_Is_next,2,/r/investing/comments/p4z7lh/gold_and_crypto_as_hedges_against_international/h92e9sb/,0.0,0.777,0.223,0.8807
+116,MSFT," China/Russia/Turkey will immediately recognize the new power in Afghanistan. Biggest edge You can have is buying strong well managed companies like DHR,GOOG,MSFT,etc.
+As for crypto I find it too volatile to be an edge , although I hold some chain link just for fun since December",your_mother_Is_next,2,/r/investing/comments/p4z7lh/gold_and_crypto_as_hedges_against_international/h92e9sb/,0.0,0.777,0.223,0.8807
+117,DCF," Indeed, beta is different from market cap but starting from Buffet's criticism to beta, that a low price is not a risk for a value investor, my thoughts strayed to
+
+>Modern Market Theory considers a high beta a risk -> the risk consists in a low price -> a low price leads to a low market cap -> low market cap is a risk.
+
+ I was having this train of thoughts while I was trying to consider why is there a *cost of equity* at all for a value investor. 
+
+> I'm using Earnings Yield: *EBIT/(Equity+Interest Bearing Debt)*,  ROIC and DCF for the companies that have a proper EY and ROIC]. So I need to understand *cost of equity*.
+
+If anything, the only cost of equity for a company should be the dividend, not Mr. Market's offers.
+
+That's why I came up with this somehow silly question: because I was wondering if there is really a *cost* for a company if its stock is down in the gutter price-wise. And the low profit in emitting new shares (equity-borrowing) is a pretty compelling argument.
+
+Edit: I have a follow up question, regarding the corp finance pov of the whole small price issue: *Do you think it's a proper conservative measure to consider the cost of equity similar to the current cost of debt?*",OppositeFingat,1,/r/investing/comments/p4ubfl/why_is_a_low_market_capitalisation_so_bad/h92thuf/,0.123,0.776,0.102,-0.6979
+118,ROIC," Indeed, beta is different from market cap but starting from Buffet's criticism to beta, that a low price is not a risk for a value investor, my thoughts strayed to
+
+>Modern Market Theory considers a high beta a risk -> the risk consists in a low price -> a low price leads to a low market cap -> low market cap is a risk.
+
+ I was having this train of thoughts while I was trying to consider why is there a *cost of equity* at all for a value investor. 
+
+> I'm using Earnings Yield: *EBIT/(Equity+Interest Bearing Debt)*,  ROIC and DCF for the companies that have a proper EY and ROIC]. So I need to understand *cost of equity*.
+
+If anything, the only cost of equity for a company should be the dividend, not Mr. Market's offers.
+
+That's why I came up with this somehow silly question: because I was wondering if there is really a *cost* for a company if its stock is down in the gutter price-wise. And the low profit in emitting new shares (equity-borrowing) is a pretty compelling argument.
+
+Edit: I have a follow up question, regarding the corp finance pov of the whole small price issue: *Do you think it's a proper conservative measure to consider the cost of equity similar to the current cost of debt?*",OppositeFingat,1,/r/investing/comments/p4ubfl/why_is_a_low_market_capitalisation_so_bad/h92thuf/,0.123,0.776,0.102,-0.6979
+119,IMO," IMO business was clearly dying in popularity with streamable movies becoming more popular, then after WSB started coming around and buying it only became better for short sellers. They are buying their own dip because the stock can’t be this high for too much longer",Andrew3742,8,/r/investing/comments/p4h9pu/has_anyone_a_solid_bear_thesis_bull_cases_for_amc/h8yonnn/,0.0,0.777,0.223,0.8955
+120,AMC, AMC is about 500% overvalued,Immediate-Assist-598,2,/r/investing/comments/p4h9pu/has_anyone_a_solid_bear_thesis_bull_cases_for_amc/h8z0kir/,0.0,1.0,0.0,0.0
+121,AMC," Theaters in general is dying industry and it  has been in decline for a long time. 
+
+With that and covid amc was heavily shorted and for the reason that they were bleeding money. From here you can look it it two ways. 
+
+1. People saw it was heavily shorted and tried a short squeeze similar to GME which  clearly worked. It also allowed AMC to issue shares to cover their debts 
+
+2. People are banking on a strong increase in traffic after covid because people are tired of being cooped up watching movies on their tv. 
+
+I think the hype is keeping the stock up but it's going to tank again. I can't say when but if there is a post covid surge it will be short lived, profit will tank once again, and they will return to a failing industry.",Warlover1,1,/r/investing/comments/p4h9pu/has_anyone_a_solid_bear_thesis_bull_cases_for_amc/h8yzrvv/,0.044,0.879,0.077,0.4019
+122,GME," Theaters in general is dying industry and it  has been in decline for a long time. 
+
+With that and covid amc was heavily shorted and for the reason that they were bleeding money. From here you can look it it two ways. 
+
+1. People saw it was heavily shorted and tried a short squeeze similar to GME which  clearly worked. It also allowed AMC to issue shares to cover their debts 
+
+2. People are banking on a strong increase in traffic after covid because people are tired of being cooped up watching movies on their tv. 
+
+I think the hype is keeping the stock up but it's going to tank again. I can't say when but if there is a post covid surge it will be short lived, profit will tank once again, and they will return to a failing industry.",Warlover1,1,/r/investing/comments/p4h9pu/has_anyone_a_solid_bear_thesis_bull_cases_for_amc/h8yzrvv/,0.044,0.879,0.077,0.4019
+123,AMC," They where trying to short the company out of business beacuse obviously coronavirus forced shut downs, streaming services.are up like crazy and it was just the perfect storm to kill a company but ended up back firing.
+AMC is no longer I danger to go bankrupt in the near future. Shorts must cover at some point.",bisnexu,-5,/r/investing/comments/p4h9pu/has_anyone_a_solid_bear_thesis_bull_cases_for_amc/h8ytldt/,0.309,0.633,0.058,-0.9575
+124,LMAO, LMAO WELL… I mean that‘s a way to acquire capital as well?,xHeavyRain,2,/r/investing/comments/p4h9pu/has_anyone_a_solid_bear_thesis_bull_cases_for_amc/h91imx5/,0.0,0.543,0.457,0.7739
+125,PM," I will be messaging you in 16 hours on [**2021-08-15 14:16:38 UTC**](http://www.wolframalpha.com/input/?i=2021-08-15%2014:16:38%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/investing/comments/p4h9pu/has_anyone_a_solid_bear_thesis_bull_cases_for_amc/h8ynffg/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Finvesting%2Fcomments%2Fp4h9pu%2Fhas_anyone_a_solid_bear_thesis_bull_cases_for_amc%2Fh8ynffg%2F%5D%0A%0ARemindMe%21%202021-08-15%2014%3A16%3A38%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20p4h9pu)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",RemindMeBot,1,/r/investing/comments/p4h9pu/has_anyone_a_solid_bear_thesis_bull_cases_for_amc/h8ynj4v/,0.107,0.893,0.0,-0.6322
