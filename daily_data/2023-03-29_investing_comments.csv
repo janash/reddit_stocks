@@ -1,0 +1,334 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,PNC," > The Wall Street Journal identified six large U.S. banks including **Charles Schwab Corp. SCHW and PNC Financial Services Group Inc. PNC** that together switched the classifications on more than $500 billion of their bond investments last year.  
+
+I own both of those.",Stephen_1984,1,/r/investing/comments/125miyn/as_interest_rates_rose_banks_did_a_balancesheet/je6ngvw/,0.0,1.0,0.0,0.0
+1,SCHW," > The Wall Street Journal identified six large U.S. banks including **Charles Schwab Corp. SCHW and PNC Financial Services Group Inc. PNC** that together switched the classifications on more than $500 billion of their bond investments last year.  
+
+I own both of those.",Stephen_1984,1,/r/investing/comments/125miyn/as_interest_rates_rose_banks_did_a_balancesheet/je6ngvw/,0.0,1.0,0.0,0.0
+2,NIM," Everyone here is misunderstanding what happened, afaict. 
+
+A bank is supposed to buy short and lend long, because short term money costs little while long term money costs more, usually. So they buy money from depositors for some low rate and sell it as mortgages or whatever at much longer durations for higher rates. The difference is their profit: net interest margin or NIM.
+
+In these cases, these banks were holding long term money, so they in effect were buying long AND lending long. I mean the more I think about it the stupider it gets. You take in depositor money at 1% or something, and then you buy a 30 year bond that's yielding not much more than that? And if you know anything about the bond market you know the long end is far more volatile, price-wise, than the short end.
+
+Where was their common sense? Where were their risk managers? Who does this stupid stuff and expects to not get shafted?",BentonD_Struckcheon,1,/r/investing/comments/125miyn/as_interest_rates_rose_banks_did_a_balancesheet/je6vlmq/,0.089,0.877,0.034,-0.8611
+3,IMO," I don't think that's true. Sure, if they can continue paying low rates to depositors they can make a profit despite holding low rate bonds, but that's actually because depositor stickiness is an asset. When rates rose, their bonds lost value, and the asset of having depositors who don't seek competitive rates gained value, and these cancelled out to some extent. But depositors can leave, so IMO banks should be regulated to have sellable assets that are actually worth more than their deposits.",pithecium,1,/r/investing/comments/125miyn/as_interest_rates_rose_banks_did_a_balancesheet/je66xjr/,0.13,0.635,0.235,0.9154
+4,CPA," As a CPA, I can assure you it’s very possible and easy. It’s literally all management decision. If management wants to reclassify them from AFS to HTM, all they have to do is say so. It really should be harder to prevent instances like this",edclv2019woo,8,/r/investing/comments/125miyn/as_interest_rates_rose_banks_did_a_balancesheet/je5v3ld/,0.0,0.81,0.19,0.8
+5,CPA," >If management wants to reclassify them from AFS to HTM, all they have to do is say so.
+
+Fellow CPA here, it's more than just management's flip flopping from AFS to HTM at a whim.  If they are doing it due to existing liquidity issue, or material changes in interest rate, etc. then the reclassification would be difficult to do under the currently accounting guidance (ASC 320).  In times of rising rates and/or liquidity crunch, you'd have to go through the wringer to defend the intent.",xTETSUOx,2,/r/investing/comments/125miyn/as_interest_rates_rose_banks_did_a_balancesheet/je6l5jv/,0.028,0.938,0.034,0.128
+6,CPA," > SVB’s classifications should have been challenged, but weren’t.
+
+How do you know?  We now have the benefit of hindsight, these bank runs are next to impossible to stop and wildly unpredictable.  If anyone could have predicted that SVB would be taken down by customers withdrawing billions of deposits in one day, they could have made TONS of money by shorting the stock.
+
+Accounting treatment based on assumptions and judgements have huge grey area and, yes, I agree that it's easy to convince auditors to sign off by being convincing.  But if you're a CPA, you'd know that fair value measure of financial assets have a HUGE disclosure requirement for a reason... and it's because the accounting get scrutinized by regulators when shit hits the fan.
+
+Btw, I'd bet that the only reason why the big banks can reclassify AFS to HTM now is with the backing of the deposits in full.  Otherwise, they wouldn't have a snowball's chance in Hell in convincing their auditors to sign off.  I'll stand on the hill that says KPMG did not do anything wrong, but audit firms won't be that quick to sign off on the accounting treatment without an almost full guarantee that the assets are backed.
+
+Anyways, just my humbled opinion.  I've been on both sides, btw.",xTETSUOx,1,/r/investing/comments/125miyn/as_interest_rates_rose_banks_did_a_balancesheet/je6wbmq/,0.068,0.724,0.208,0.9848
+7,HUGE," > SVB’s classifications should have been challenged, but weren’t.
+
+How do you know?  We now have the benefit of hindsight, these bank runs are next to impossible to stop and wildly unpredictable.  If anyone could have predicted that SVB would be taken down by customers withdrawing billions of deposits in one day, they could have made TONS of money by shorting the stock.
+
+Accounting treatment based on assumptions and judgements have huge grey area and, yes, I agree that it's easy to convince auditors to sign off by being convincing.  But if you're a CPA, you'd know that fair value measure of financial assets have a HUGE disclosure requirement for a reason... and it's because the accounting get scrutinized by regulators when shit hits the fan.
+
+Btw, I'd bet that the only reason why the big banks can reclassify AFS to HTM now is with the backing of the deposits in full.  Otherwise, they wouldn't have a snowball's chance in Hell in convincing their auditors to sign off.  I'll stand on the hill that says KPMG did not do anything wrong, but audit firms won't be that quick to sign off on the accounting treatment without an almost full guarantee that the assets are backed.
+
+Anyways, just my humbled opinion.  I've been on both sides, btw.",xTETSUOx,1,/r/investing/comments/125miyn/as_interest_rates_rose_banks_did_a_balancesheet/je6wbmq/,0.068,0.724,0.208,0.9848
+8,UK," in the USA you can get better tax treatment with treasury bonds or exchange traded funds than bank investments. In the USA, the ETFS are SGOV and USFR if you think rates will continue to go up, GBIL if you think they will go down.
+
+I don't know what the UK treasury bond funds are or how that will impact your taxes, but it might be worth looking into.
+
+What about just investing in a dividend yielding stock with a high return? Altria looks good now.",idealistintherealw,3,/r/investing/comments/125jnb4/5_savings_account_vs_etfs_for_2023_investing/je63du8/,0.0,0.877,0.123,0.8381
+9,USA," in the USA you can get better tax treatment with treasury bonds or exchange traded funds than bank investments. In the USA, the ETFS are SGOV and USFR if you think rates will continue to go up, GBIL if you think they will go down.
+
+I don't know what the UK treasury bond funds are or how that will impact your taxes, but it might be worth looking into.
+
+What about just investing in a dividend yielding stock with a high return? Altria looks good now.",idealistintherealw,3,/r/investing/comments/125jnb4/5_savings_account_vs_etfs_for_2023_investing/je63du8/,0.0,0.877,0.123,0.8381
+10,UK," Hi I am in UK also, I am not British anyways. 
+
+What I have done is avoid those 4% saving accounts, first because you pay taxes in those 4% and then because it keeps your money for 1 year and you will for sure will miss the next bull run. 
+
+There is plenty of opportunities out there to do 4% this year, I have done 14% in EQGB since the year started, and even  I bought last week even being 14% up.  
+
+A correction can come, good, I will buy more stocks on sale. 
+
+All depends in your income, age and risk tolerance.",caollero,2,/r/investing/comments/125jnb4/5_savings_account_vs_etfs_for_2023_investing/je5as18/,0.07,0.834,0.096,0.5719
+11,TDF," Yeah I do 50/50 TDF and Manual ETF selection. I dont trust myself to do 100% but typically play it pretty safe so I’m not too worried.
+
+I do worry a little bit about overlap so I use a tool like [turtto.com](https://www.turtto.com) to view overlapping holdings between ETFs. Not that overlap is inherently bad but I just want to ensure I dont have too much exposure into individual holdings unexpectedly.
+
+That site is cool as well in the sense that you can set your position on each ETF as well and view what your total position would be in individual overlapping holdings.",fmotto,3,/r/investing/comments/125r0ww/anyone_using_a_selfdirected_brokerage_account_in/je5pgwb/,0.085,0.654,0.261,0.9611
+12,IBKR," Hello, quick question from a newbie: what specific assets do you need to buy to get a 4-5% yearly yield for 3/6 month treasury bonds? I am purchasing from IBKR and I wanna know what specific things to buy for those returns/time.",R3makea,1,/r/investing/comments/125suks/where_are_tbills_headed/je6s8fg/,0.0,0.911,0.089,0.3612
+13,CD, If state income tax is not an issue and you stay within FDIC limits a CD with a higher rate would be more valuable than a T-Bill. I agree that for other cases outside of this TBill is safer.,Indybones,1,/r/investing/comments/125suks/where_are_tbills_headed/je6yjnw/,0.0,0.786,0.214,0.8268
+14,CD," Cool. I saw a 5.3% from some obscure bank while looking in vanguard. It was a 1.5 year CD. The more reputable banks were all around 5%. I’m sure some banks believe that there will be more than one more hike, but this does not appear to be the consensus as far as I can tell.
+
+The other issue is if you are in a taxable account and pay state taxes… T-Bills beat a 5.3% CD",bluewave358,1,/r/investing/comments/125suks/where_are_tbills_headed/je6om9g/,0.022,0.932,0.046,0.1779
+15,KO, Still trying to decide if I want KO or PEP. Oh the decisions.,zooka19,1,/r/investing/comments/125hy54/daily_general_discussion_and_advice_thread_march/je4egnd/,0.0,0.894,0.106,0.0772
+16,PEP, Still trying to decide if I want KO or PEP. Oh the decisions.,zooka19,1,/r/investing/comments/125hy54/daily_general_discussion_and_advice_thread_march/je4egnd/,0.0,0.894,0.106,0.0772
+17,CSX," INRG - change of assets from solar to rail??
+
+Hi guys! I'm new here, let me know if there's anything up with this post ✌️
+I've held iShares ii global clean energy (INRG) for a couple of years now. I bought it as a pure play on my confidence in the growth of renewable energy in the next couple of decades. When I bought the fund, I had a look at the top 10 underlying assets, and they were very much renewable energy related (can't find the specific companies, but I checked them out at the time and they were solar, wind and tidal related). 
+This morning, I checked the top 10 underlying assets again. They're now:
+1. Nextera Energy (energy)
+2. Union pacific (trains)
+3. American tower corp (wireless comms)
+4. Enbridge (oil and gas pipelines)
+5. Duke Energy (energy)
+6. The Southern company (energy)
+7. Canadian pacific railway (trains)
+8. Canadian national railway (trains)
+9. CSX (trains)
+10.Crown castle (communications)
+
+Can anyone explain what's happened? How can a fund that's ostensibly to do with clean energy have such big holdings in companies only distantly related to renewable energy (in Enbridge's case directly competing with it?).
+And what's with the rail obsession? When did these changes happen, how can I find out?
+
+Appreciate any info that anyone might have about this, cheers folks.😎
+
+Tl/dr: why is INRG all about railways now??",Lostboi55,1,/r/investing/comments/125hy54/daily_general_discussion_and_advice_thread_march/je4eqly/,0.012,0.809,0.179,0.9865
+18,CD," If I buy a CD issued by another bank via my Schwab brokerage account, is that CDs value considered part of the FDIC insured deposits for Schwab or the other bank?
+
+So if I buy a $250,000 CD issued by four different banks this way, am I insured for all $1M or just $250,000 thru Schwab?",aheinzm,1,/r/investing/comments/125hy54/daily_general_discussion_and_advice_thread_march/je4rq5g/,0.0,0.948,0.052,0.4137
+19,SR," About to finally replenish my savings/efund after buying a house. Not sure where to go next. From a purely numbers standpoint, should I divert my savings budget to an IRA or pay off my wife’s student loans (4.5%)? I know classic logic would say investment returns are most likely to top this, but I’m unsure of how the current market conditions might effect this common advice, given the 4.5% is a guaranteed “ROI”.
+
+28, Engineer, SR is around 25% with funds mentioned. This is more of an interim plan for the next year before my wife finishes her PhD and our household income increases by 35-40%.",TheNappingGrappler,1,/r/investing/comments/125hy54/daily_general_discussion_and_advice_thread_march/je59u7b/,0.05,0.935,0.015,-0.3918
+20,IBKR," Which treasury bonds should I buy to achieve 4-5% yield in 3/6 months? is it guaranteed? I am gonna purchase through IBKR (interactive brokers) and I just wanna buy 4-5% profit US treasury bonds in 3-6 months, what are the specific assets to purchase?",R3makea,1,/r/investing/comments/125hy54/daily_general_discussion_and_advice_thread_march/je6nnos/,0.0,0.809,0.191,0.7744
+21,KO, Are you thirsty or investing? Honestly though either way I would go KO.,Interesting-Fuel238,1,/r/investing/comments/125hy54/daily_general_discussion_and_advice_thread_march/je5jgfi/,0.0,0.786,0.214,0.4588
+22,CD," When you buy a brokered CD or any other instrument through a broker, the investor's account is protected up to 500k with a 250k limit on cash by SIPC. Brokers like Schwab also carry what is known as excess of SIPC private insurance which protects accounts with higher limits. 
+
+If Schwab - the brokerage (not Schwab Bank) becomes insolvent, SIPC will make sure that the accounts and its holdings are orderly transferred to other brokers. So the CDs from different depositories are simply transferred. 
+
+A CD is a product issued by a depository. The CD product is insured by either FDIC or NCUA (if it's a credit union) up to 250k per depositor per depository. If a depository becomes insolvent, the CD value is insured and doesn't involve the broker's own SIPC membership.",greytoc,1,/r/investing/comments/125hy54/daily_general_discussion_and_advice_thread_march/je5bb13/,0.0,0.887,0.113,0.9186
+23,CD," This is simply an opinion, I would payoff the student loans. Unless they are deferred and you think here is some chance they will be forgiven, I would eliminate that. You could invest the money in a CD and earn 5% so you can get more if you want to play the arbitrage game. But for me personally I wouldn't want to be thinking about that debt.",Interesting-Fuel238,3,/r/investing/comments/125hy54/daily_general_discussion_and_advice_thread_march/je5iz9g/,0.048,0.834,0.119,0.2209
+24,KO, Hungry tbh. I'm leaning towards KO now.,zooka19,1,/r/investing/comments/125hy54/daily_general_discussion_and_advice_thread_march/je5n6w8/,0.0,1.0,0.0,0.0
+25,DLR, Number 3 it's not complicated at all. The risk is tiny. Use DLR,1UpUrBum,2,/r/investing/comments/125b3wk/im_a_uscad_dual_citizen_and_can_only_invest_in/je3m6l2/,0.157,0.746,0.097,-0.2023
+26,DLR," Norbert's Gambit specifically mentions using DLR.to and DLR.u.to which removes the risk you mention.
+
+Once you buy either, you lock in your exchange rate at that day's rate.
+
+The only ''risk'' is that by the time your funds are journalled to the other ticker, the rate may have become better, but your still getting the rate of when you bought.",DisturbedForever92,1,/r/investing/comments/125b3wk/im_a_uscad_dual_citizen_and_can_only_invest_in/je5ldky/,0.025,0.943,0.032,0.1027
+27,TD," Thanks for the suggestion! The main issue is that CAD to US conversion is usually 1.5%+ for conversion with banks. The fees are insane. Like I have TD Bank which has CAD/US accounts and it's just as bad.
+
+The fees they make are in the ""spreads"".",illusiveconsistence,1,/r/investing/comments/125b3wk/im_a_uscad_dual_citizen_and_can_only_invest_in/je6szfm/,0.123,0.775,0.102,-0.2714
+28,DLR," DLR is the currency ETF which can be used for this. Buy DLR in CAD$ account. Transfer to US$ account. Sell as DLR-U. That gives you US$ settlement. If you search on web it's a very common thing.
+
+You will pay 2 commission charges. One to buy and one to sell. Probably $5 each.
+
+You should also have look at long term average exchange rates US/CAD so you know where you're at. Right now CAD is very low.",1UpUrBum,1,/r/investing/comments/125b3wk/im_a_uscad_dual_citizen_and_can_only_invest_in/je4w0d6/,0.075,0.925,0.0,-0.5984
+29,PM," I will be messaging you in 2 years on [**2025-03-29 16:42:25 UTC**](http://www.wolframalpha.com/input/?i=2025-03-29%2016:42:25%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/investing/comments/125t8ih/aqst_huge_potential_nobody_knows/je5rgjz/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Finvesting%2Fcomments%2F125t8ih%2Faqst_huge_potential_nobody_knows%2Fje5rgjz%2F%5D%0A%0ARemindMe%21%202025-03-29%2016%3A42%3A25%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20125t8ih)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",RemindMeBot,1,/r/investing/comments/125t8ih/aqst_huge_potential_nobody_knows/je5rjja/,0.109,0.891,0.0,-0.6322
+30,AI," Sure, it could be.  Microsoft has gotten a little AI-love the past weeks but a 12% jump in the past month is just a sliver of what the eventual winners in the AI marketshare battle will get.
+
+In terms of wanting to invest in AI, there are a lot of small companies with higher upsides but far greater risks.  With Microsoft you basically risk nothing.  It's a hugely profitable company without a nickel from AI.  But it's not going to triple from AI either.",SnS2500,2,/r/investing/comments/125tvgx/would_bing_be_a_good_investment_with_its_new_ai/je62if1/,0.132,0.77,0.098,-0.4739
+31,AI," There’s so many companies that indirectly provide exposure to AI and automation. Uber, Amazon and Apple are three solid examples.
+
+Google is a better investment to me. It’s a monster of a business. They have the top 2 search engines in Google/Youtube. No other comes close. They’re well positioned to truly deliver AI at a mass scale. 
+
+Price is much more attractive than the overvalued Microsoft. Balance sheet looks great. Lots of cash on hand. If employee efficiency improves, sky is the limit.",Zealousideal_Main654,1,/r/investing/comments/125tvgx/would_bing_be_a_good_investment_with_its_new_ai/je65ou4/,0.023,0.678,0.299,0.9747
+32,HR," Please describe how it increases efficiencies.
+
+Generally merging separate companies into one larger one is done to create efficiencies. Eg. A single HR department, finance department, legal team, c-suite etc, a single set of operating procedures, single premises etc.
+
+Splitting into individual companies generally will create heaps of inefficiency.
+
+Easiest way to imagine it is having 5 people share a single house vs those 5 people living separately. There is so much wasted space and duplicate appliances going unused.
+
+Edit: you could argue each company gets more focus and as a result better productivity and better products. But it comes at a cost, that cost = inefficiency.",wballz,19,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je4g0og/,0.036,0.806,0.157,0.7941
+33,AMZN," Alphabet will do an IPO with Waymo relatively early, IMHO.   The videos of their latest driving are nothing short of spectacular.  Now handling really bad weather.
+
+https://youtu.be/S4aBNYcBoLI?t=16
+
+But I do not see AMZN, MSFT or GOOG breaking up into units otherwise.
+
+Not unless forced to.  But I think there is very little chance they will be forced to break up.  What is kind of ironic is that a company like Google would be worth a lot more in pieces.",bartturner,3,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je4pab4/,0.053,0.781,0.167,0.873
+34,GOOG," Alphabet will do an IPO with Waymo relatively early, IMHO.   The videos of their latest driving are nothing short of spectacular.  Now handling really bad weather.
+
+https://youtu.be/S4aBNYcBoLI?t=16
+
+But I do not see AMZN, MSFT or GOOG breaking up into units otherwise.
+
+Not unless forced to.  But I think there is very little chance they will be forced to break up.  What is kind of ironic is that a company like Google would be worth a lot more in pieces.",bartturner,3,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je4pab4/,0.053,0.781,0.167,0.873
+35,MSFT," Alphabet will do an IPO with Waymo relatively early, IMHO.   The videos of their latest driving are nothing short of spectacular.  Now handling really bad weather.
+
+https://youtu.be/S4aBNYcBoLI?t=16
+
+But I do not see AMZN, MSFT or GOOG breaking up into units otherwise.
+
+Not unless forced to.  But I think there is very little chance they will be forced to break up.  What is kind of ironic is that a company like Google would be worth a lot more in pieces.",bartturner,3,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je4pab4/,0.053,0.781,0.167,0.873
+36,AMZN," I think there are 2 angles here. 
+
+1 - As many have mentioned, 5 separate companies will have tons of overlap especially in management/overhead and so that adds inefficiency.
+
+2 - Someone else made a great reference to standard oil. When it was broken up into multiple companies, John Rockefeller became far wealthier than he ever would have if he had just owned standard oil.
+
+So I think from an investing perspective, if you own GOOG, AMZN, MSFT it actually would be beneficial for them to break up. The units that are more valuable will likely result in higher stock prices whereas the less efficient units could later be acquired in other mergers that cannot happen while part of the parent company. When you see how BABA stock jumped, I think there may be something to this.",Interesting-Fuel238,1,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je5l1mr/,0.022,0.863,0.115,0.9186
+37,BABA," I think there are 2 angles here. 
+
+1 - As many have mentioned, 5 separate companies will have tons of overlap especially in management/overhead and so that adds inefficiency.
+
+2 - Someone else made a great reference to standard oil. When it was broken up into multiple companies, John Rockefeller became far wealthier than he ever would have if he had just owned standard oil.
+
+So I think from an investing perspective, if you own GOOG, AMZN, MSFT it actually would be beneficial for them to break up. The units that are more valuable will likely result in higher stock prices whereas the less efficient units could later be acquired in other mergers that cannot happen while part of the parent company. When you see how BABA stock jumped, I think there may be something to this.",Interesting-Fuel238,1,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je5l1mr/,0.022,0.863,0.115,0.9186
+38,GOOG," I think there are 2 angles here. 
+
+1 - As many have mentioned, 5 separate companies will have tons of overlap especially in management/overhead and so that adds inefficiency.
+
+2 - Someone else made a great reference to standard oil. When it was broken up into multiple companies, John Rockefeller became far wealthier than he ever would have if he had just owned standard oil.
+
+So I think from an investing perspective, if you own GOOG, AMZN, MSFT it actually would be beneficial for them to break up. The units that are more valuable will likely result in higher stock prices whereas the less efficient units could later be acquired in other mergers that cannot happen while part of the parent company. When you see how BABA stock jumped, I think there may be something to this.",Interesting-Fuel238,1,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je5l1mr/,0.022,0.863,0.115,0.9186
+39,MSFT," I think there are 2 angles here. 
+
+1 - As many have mentioned, 5 separate companies will have tons of overlap especially in management/overhead and so that adds inefficiency.
+
+2 - Someone else made a great reference to standard oil. When it was broken up into multiple companies, John Rockefeller became far wealthier than he ever would have if he had just owned standard oil.
+
+So I think from an investing perspective, if you own GOOG, AMZN, MSFT it actually would be beneficial for them to break up. The units that are more valuable will likely result in higher stock prices whereas the less efficient units could later be acquired in other mergers that cannot happen while part of the parent company. When you see how BABA stock jumped, I think there may be something to this.",Interesting-Fuel238,1,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je5l1mr/,0.022,0.863,0.115,0.9186
+40,TV," > Please describe how it increases efficiencies.
+
+
+
+It won't.  It will be far less efficient and it will hurt the user experience.   Take YouTube.
+
+Today you can block ads.  That will go away almost immediately with an independent YouTube.
+
+Google could easily do it.    We have and love YouTube TV.  But there is no way to skip ads.",bartturner,3,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je4pizk/,0.106,0.749,0.145,0.1415
+41,CRM," Those inefficiencies you described (single HR/Finance/CSUIT) are a couple positions . For example take the EA/MSFT merger
+
+EA has their own accounting department, after the merger they will still have their own accounting department . Maybe a couple managers get let go but usually that does not even happen .  Also in the short term they probably need to actually hire extra people to integrate the two or change EA ERP system to what ever MSFT uses for their ERP (I think MSFT uses SAP despite having its own ERP systems) system what is no small task and will take years and incredibly expensive   most of the time.
+
+All the C-SUITE of EA will just become a VP of Microsoft.
+
+HR will be the same way sure EA has its own HR team and several HR employees after the merger they will still be there,  maybe 1-2 management jobs can be cut.
+
+So these efficiencies are largely way overblown and might come down to just a handful of jobs in the long run, and in the short run it costs a lot of money to get the companies integrated (Change ERP software / HR software/ CRM software) 
+
+Also there are in-efficiencies; EA on its own can make its own decisions now if you are stuck waiting on some VP at MSTF to approve your decisions it just slows everything down.",SirGlass,1,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je5h5wj/,0.034,0.936,0.029,-0.0471
+42,EA," Those inefficiencies you described (single HR/Finance/CSUIT) are a couple positions . For example take the EA/MSFT merger
+
+EA has their own accounting department, after the merger they will still have their own accounting department . Maybe a couple managers get let go but usually that does not even happen .  Also in the short term they probably need to actually hire extra people to integrate the two or change EA ERP system to what ever MSFT uses for their ERP (I think MSFT uses SAP despite having its own ERP systems) system what is no small task and will take years and incredibly expensive   most of the time.
+
+All the C-SUITE of EA will just become a VP of Microsoft.
+
+HR will be the same way sure EA has its own HR team and several HR employees after the merger they will still be there,  maybe 1-2 management jobs can be cut.
+
+So these efficiencies are largely way overblown and might come down to just a handful of jobs in the long run, and in the short run it costs a lot of money to get the companies integrated (Change ERP software / HR software/ CRM software) 
+
+Also there are in-efficiencies; EA on its own can make its own decisions now if you are stuck waiting on some VP at MSTF to approve your decisions it just slows everything down.",SirGlass,1,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je5h5wj/,0.034,0.936,0.029,-0.0471
+43,HR," Those inefficiencies you described (single HR/Finance/CSUIT) are a couple positions . For example take the EA/MSFT merger
+
+EA has their own accounting department, after the merger they will still have their own accounting department . Maybe a couple managers get let go but usually that does not even happen .  Also in the short term they probably need to actually hire extra people to integrate the two or change EA ERP system to what ever MSFT uses for their ERP (I think MSFT uses SAP despite having its own ERP systems) system what is no small task and will take years and incredibly expensive   most of the time.
+
+All the C-SUITE of EA will just become a VP of Microsoft.
+
+HR will be the same way sure EA has its own HR team and several HR employees after the merger they will still be there,  maybe 1-2 management jobs can be cut.
+
+So these efficiencies are largely way overblown and might come down to just a handful of jobs in the long run, and in the short run it costs a lot of money to get the companies integrated (Change ERP software / HR software/ CRM software) 
+
+Also there are in-efficiencies; EA on its own can make its own decisions now if you are stuck waiting on some VP at MSTF to approve your decisions it just slows everything down.",SirGlass,1,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je5h5wj/,0.034,0.936,0.029,-0.0471
+44,MSFT," Those inefficiencies you described (single HR/Finance/CSUIT) are a couple positions . For example take the EA/MSFT merger
+
+EA has their own accounting department, after the merger they will still have their own accounting department . Maybe a couple managers get let go but usually that does not even happen .  Also in the short term they probably need to actually hire extra people to integrate the two or change EA ERP system to what ever MSFT uses for their ERP (I think MSFT uses SAP despite having its own ERP systems) system what is no small task and will take years and incredibly expensive   most of the time.
+
+All the C-SUITE of EA will just become a VP of Microsoft.
+
+HR will be the same way sure EA has its own HR team and several HR employees after the merger they will still be there,  maybe 1-2 management jobs can be cut.
+
+So these efficiencies are largely way overblown and might come down to just a handful of jobs in the long run, and in the short run it costs a lot of money to get the companies integrated (Change ERP software / HR software/ CRM software) 
+
+Also there are in-efficiencies; EA on its own can make its own decisions now if you are stuck waiting on some VP at MSTF to approve your decisions it just slows everything down.",SirGlass,1,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je5h5wj/,0.034,0.936,0.029,-0.0471
+45,SAP," Those inefficiencies you described (single HR/Finance/CSUIT) are a couple positions . For example take the EA/MSFT merger
+
+EA has their own accounting department, after the merger they will still have their own accounting department . Maybe a couple managers get let go but usually that does not even happen .  Also in the short term they probably need to actually hire extra people to integrate the two or change EA ERP system to what ever MSFT uses for their ERP (I think MSFT uses SAP despite having its own ERP systems) system what is no small task and will take years and incredibly expensive   most of the time.
+
+All the C-SUITE of EA will just become a VP of Microsoft.
+
+HR will be the same way sure EA has its own HR team and several HR employees after the merger they will still be there,  maybe 1-2 management jobs can be cut.
+
+So these efficiencies are largely way overblown and might come down to just a handful of jobs in the long run, and in the short run it costs a lot of money to get the companies integrated (Change ERP software / HR software/ CRM software) 
+
+Also there are in-efficiencies; EA on its own can make its own decisions now if you are stuck waiting on some VP at MSTF to approve your decisions it just slows everything down.",SirGlass,1,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je5h5wj/,0.034,0.936,0.029,-0.0471
+46,HR," >A single HR department, finance department, legal team, c-suite etc, a single set of operating procedures, single premises etc.
+
+tells me you've never worked in a conglomerate, where this is the opposite of how it works.",this_guy_fks,1,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je6408m/,0.0,0.957,0.043,0.128
+47,AMZN," It's pretty easy,
+
+MSFT can split Azure, Blizzard etc.. into different companies.
+
+AMZN can split AWS for example
+
+Google and split into Youtube, Gmail etc..
+
+&#x200B;
+
+Such structure creates a separate workspace for each product, I believe it stops the spotlight competition between all products.",StockTrex,-9,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je4e67n/,0.033,0.799,0.168,0.765
+48,MSFT," It's pretty easy,
+
+MSFT can split Azure, Blizzard etc.. into different companies.
+
+AMZN can split AWS for example
+
+Google and split into Youtube, Gmail etc..
+
+&#x200B;
+
+Such structure creates a separate workspace for each product, I believe it stops the spotlight competition between all products.",StockTrex,-9,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je4e67n/,0.033,0.799,0.168,0.765
+49,BABA," Didn’t Microsoft just buy blizzard now it’s a good idea to split them?
+What profit would gmail make as a stand alone? Do we have any private company out there that is just email?
+I don’t know details on the companies books but I can only imagine that in big tech you have divisions that make big profits and other that operate at a loss which help to offset those gains. Splitting them up would probably cause some to fail in the end. 
+Also BABA is down 50% over the past 5 years. I feel like any news that is seen as a positive will make this run and I would not expect the same on a U.S. tech giant vs a ADR stock.",tc135605,14,/r/investing/comments/125go0j/will_amzn_msft_and_goog_follow_baba_and_split/je4fya1/,0.068,0.761,0.171,0.9311
+50,CS," I know it sounds like shit, but picking up a single stock then holding it for a longer time requires excessive knowledge on relevant topics as well as a well-built strategy. It could be ending up with an unrecoverable loss that retail guys can't afford if you were too confident on your capability of capturing ""alpha"".
+
+Seems you believe there is a high likelihood that a bank stock will outperform and reward you excessive return in the long run, as long as you can identify which bank stock will do so. Yet you still underestimate the underlying risks going forward: financial stability, monetary polices (mainly domestic but also include foreign ones), interest rate (both short and long), industrial changes, etc...any negative impact from these will result in a depreciation of stock price that destroy your holdings.
+
+Think about this: let's turn back the clock to 2020/2021, can you tell us, among SVB, CS, Signature Bank and First Republic, which one will be the long term winner? The fact is no matter how smart you are you will be punished in two years if you picked any one of the four. 
+
+Hindsight though, it can help us understand the tribulation of ""putting all eggs in one BROKEN basket"".",MihoGiggs11,11,/r/investing/comments/1259uph/looking_for_a_bank_stock_to_invest_in_and_hold/je3d2b6/,0.132,0.741,0.127,-0.329
+51,CM," I like Canadian banks- RY, TD, CM.",bockstock,2,/r/investing/comments/1259uph/looking_for_a_bank_stock_to_invest_in_and_hold/je43ic2/,0.0,0.667,0.333,0.3612
+52,RY," I like Canadian banks- RY, TD, CM.",bockstock,2,/r/investing/comments/1259uph/looking_for_a_bank_stock_to_invest_in_and_hold/je43ic2/,0.0,0.667,0.333,0.3612
+53,TD," I like Canadian banks- RY, TD, CM.",bockstock,2,/r/investing/comments/1259uph/looking_for_a_bank_stock_to_invest_in_and_hold/je43ic2/,0.0,0.667,0.333,0.3612
+54,JPM, JPM is and always will be in my portfolio. J P Morgan the man was the greatest banker to ever walk the earth and a damn fine American.,DorianCHoldingsworth,-2,/r/investing/comments/1259uph/looking_for_a_bank_stock_to_invest_in_and_hold/je3c9j2/,0.088,0.717,0.195,0.5106
+55,CFR," CFR -- $53+ billion in assets, pretty much the Texas equivalent of NJ/NY's Valley National Bank or Hawaii's First Hawaiian.",GroundForcesWTX,1,/r/investing/comments/1259uph/looking_for_a_bank_stock_to_invest_in_and_hold/je3fllv/,0.0,0.786,0.214,0.5994
+56,RH," Customer acquisition costs. They make money on your uninvested cash and on your trades, they’re just betting that over time they will make more money off that balance than the 1% interest they pay you. 
+
+If you are open to RH then I would go for it especially if you are a passive investor. Every brokerage collects money on the backend, they’re a business and need to make money some how, so if I am paying that hidden cost regardless I might as well get the 1% match. 
+
+If you’re wondering what the catch is it’s you need to keep your money with RH for 5 years to get the match, that’s 5 years of them making money from you. Just make sure to stay within the SIPC insurance limits.",Dstein99,12,/r/investing/comments/12582yd/my_brokerage_is_going_to_give_me_1_match_on_any/je329fg/,0.011,0.918,0.072,0.7783
+57,UI," How so? UI seems good, I dont need all the bellls and whstles i just need a place to park my money in index funds or execute trades on individual stocks if i feel spicy",realdealmiguel,1,/r/investing/comments/12582yd/my_brokerage_is_going_to_give_me_1_match_on_any/je5f62p/,0.0,0.905,0.095,0.4877
+58,RH," I never said I was sure about there being no risk.  The point of the post is to figure that out.  I was considering which brokerage I used to be irrelevant because the money is insured.  If you so much as mention RH on reddit you have to deal with a bandwagon of meme traders who got burned for gambling (evident by all the downvotes).  I wanted to avoid that because I'm a passive investor and the brokerage works for my purposes, though I'm unsure if I want to rollover retirement accounts to it.  Anyway, there were productive replies below... so moving on.",Pyrraxe,-2,/r/investing/comments/12582yd/my_brokerage_is_going_to_give_me_1_match_on_any/je3a656/,0.103,0.866,0.031,-0.7478
+59,AMC," “Analysts seem skeptical Amazon would buy AMC with it’s massive amounts of debt and overinflated price.”
+
+To be honest, I can’t tell if the article is referring to Amazon or AMC with this statement.",SpiritualAdvisor7952,1,/r/investing/comments/1256ity/amc_entertainment_shares_jump_on_report_amazon/je4icxg/,0.122,0.709,0.17,0.2263
+60,GME, GME squeezed... Lol.,sacdecorsair,-1,/r/investing/comments/1256ity/amc_entertainment_shares_jump_on_report_amazon/je3m8wd/,0.0,0.417,0.583,0.4215
+61,AGI," I think it's not out of the question, we are heading into some uncertain times with the potential of AGI causing some global disruption in the time-frames that you mention. It could reshape a lot of things we currently think are pretty stable.",commercialvalves,1,/r/investing/comments/1258l1i/if_usd_loses_status_as_global_reserve_currency/je39x2k/,0.1,0.786,0.115,0.1779
+62,USA," The world would be a shit show if that happened. It’s the military that backs the US dollar now. For the USD to not be the gold standard, the USA lost a war.",RDub661,1,/r/investing/comments/1258l1i/if_usd_loses_status_as_global_reserve_currency/je3gtr4/,0.289,0.711,0.0,-0.875
+63,UK," Compare what happened to the UK market after the dollar overtook the pound. They just reached ATHs, but returns are not as shiny as the US. Correlation not causation though.",wanderingmemory,1,/r/investing/comments/1258l1i/if_usd_loses_status_as_global_reserve_currency/je4ujg3/,0.0,0.96,0.04,0.0516
+64,USA, Only if USA implodes on itself. Historically many empires collapsed due to internal issues.,Ticket_Comprehensive,1,/r/investing/comments/1258l1i/if_usd_loses_status_as_global_reserve_currency/je6dos9/,0.139,0.861,0.0,-0.2732
+65,PM," I will be messaging you in 7 years on [**2030-03-29 21:03:40 UTC**](http://www.wolframalpha.com/input/?i=2030-03-29%2021:03:40%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/investing/comments/1258l1i/if_usd_loses_status_as_global_reserve_currency/je6wk9r/?context=3)
+
+[**1 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Finvesting%2Fcomments%2F1258l1i%2Fif_usd_loses_status_as_global_reserve_currency%2Fje6wk9r%2F%5D%0A%0ARemindMe%21%202030-03-29%2021%3A03%3A40%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201258l1i)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",RemindMeBot,1,/r/investing/comments/1258l1i/if_usd_loses_status_as_global_reserve_currency/je6wokr/,0.105,0.895,0.0,-0.6322
+66,AUD," Personally, I hedge by shorting AUD against YEN with 2:1 leverage.
+
+You can safely assume Yen to rise 10-20% against AUD during a crisis. So easily offset a S&P500 loss.",MoneynFitnessGainz,-3,/r/investing/comments/125f7ew/what_is_the_best_way_to_be_risk_averse_if_the_us/je41372/,0.181,0.652,0.167,-0.1298
+67,OP," No doubt that it is illegal, but it would be better, if possible, to help the OP. Is there a simple and fast way to legalize what he is doing? 
+
+What is the quickest and easiest way to do so? The family office, PIC (private equity), ETF, hedge fund,..? I watched a yt about setting up an ETF for a reasonable (approximately $10k) amount. Although I also read somewhere (not sure if it applies to the US) that it doesn't need a series 6, 7, or any other exam if it does not charge for its services.",FrankKnt,1,/r/investing/comments/1253w9a/not_legally_a_financial_advisor_but_investing_on/je4kgs2/,0.054,0.806,0.14,0.8988
+68,OP, Or smart for either OP or his 'clients'.,improbableyam,10,/r/investing/comments/1253w9a/not_legally_a_financial_advisor_but_investing_on/je2bs67/,0.0,0.722,0.278,0.4019
+69,API, Is POA access like API keys?,VoteForMonero,1,/r/investing/comments/1253w9a/not_legally_a_financial_advisor_but_investing_on/je2d3az/,0.0,0.667,0.333,0.3612
+70,API, POA is a legal document. API keys are a way for computers to talk to each other. They're similar in a very abstract way but not even a little like an API key.,rice_not_wheat,2,/r/investing/comments/1253w9a/not_legally_a_financial_advisor_but_investing_on/je2milc/,0.076,0.883,0.041,-0.2709
