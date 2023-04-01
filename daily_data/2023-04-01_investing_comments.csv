@@ -1,0 +1,175 @@
+,ticker,comment,username,score,permalink,neg,neu,pos,compound
+0,OP," I think OP is asking why the 30 day yield on some sites show show that 11% number directly, for example https://www.schwabassetmanagement.com/products/schp 
+
+OP, I'm not sure what's up with the number of Schwab's site, I would almost guess it's just a flat out error.",Droo99,23,/r/investing/comments/128qdg8/how_are_tips_etfs_at_almost_11_yield/jekb2cw/,0.105,0.836,0.059,-0.47
+1,HP," I never used the 12C but I had a HP engineering calculator in college.  Once you got used to RPN it was hard to go back.
+
+**Edit**: it was [this thing](https://www.hpmuseum.org/hp28c.htm)",quasifun,4,/r/investing/comments/128qdg8/how_are_tips_etfs_at_almost_11_yield/jekmod0/,0.056,0.944,0.0,-0.1531
+2,CD," Few things I'm aware of.
+
+1. Make sure the entity issuing the CD is fdic insured.   Not your broker but the bank that issued the CD.
+
+2.  Make sure it's not callable.  This means that if you open a 2-year cd at 4.5%, the bank can not recall the CD after 6 months and close your account.
+
+3.  Don't put more than 250k in each bank issuing the CD...not these days.
+
+4.  Make sure your broker isn't going to charge fees or be aware of what those are.",slick2hold,31,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jejijgu/,0.0,0.917,0.083,0.7615
+3,CD," Not a pitfall but CD interest is state / local taxable whereas Treasuries are not. So, it might be more favorable to buy treasuries via your brokerage at a lower rate than CDs depending on your tax situation.",sablerock7,13,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jejmg8i/,0.061,0.651,0.288,0.8883
+4,CD, If you have to sell the CD before maturity then you could be subject to interest rate risk and will get whatever it’s trading at the time plus accrued interest.,Splinter007-88,5,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jejv28g/,0.06,0.769,0.171,0.5994
+5,TD," Brokered CD's are marked to market, so will show losses in your portfolio until maturity. 
+
+Not sure if this was mentioned yet, but current money market rates can fall quickly if the Fed is forced to pivot. 
+
+Treasuries are the better instrument if you can get them in smaller quantities. Fidelity will allow single purchases but TD Ameritrade has a minimum of 5 (at least in my accounts)
+
+Bank CD's paying are little better at the moment.",Dependent-Change-899,2,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jekjf72/,0.085,0.774,0.141,0.7129
+6,CD," Something I’ve noticed is after the feds last rate raise, brokered CD rates dropped and so did availability.  There are hardly any available on Schwab when a few weeks ago there were millions of dollars worth available.",Awkward_Wing_2545,1,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jekyxeh/,0.0,0.949,0.051,0.2263
+7,CD," > Don't put more than 250k in each bank issuing the CD...not these days.
+
+Eh.  Just make sure it's the bank the governor of your state uses and you'll probably be fine.  I kid.  But not really. Going down the rabbit hole here how does it work with a joint account when purchasing it?  Would it be 500k?  Cause can't you get 1 million in coverage as single, single, married for checking accounts?",oldforester1920a,11,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jejojsn/,0.0,0.949,0.051,0.3798
+8,CD," Interesting. So for my CD at United Bank (Virginia) is going to be subject to Virginia state & local income taxes? Resident of a different state, purchased through Schwab",SerTimtheDuncan,1,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jek0x8m/,0.0,0.82,0.18,0.6705
+9,CD," ^ Was about to say this.  There is no early termination option on a brokered CD.  You would need to sell it.  The price “could” be worse than the early termination fee a bank would charge (could be better, too, depending on prevailing rates).",Stormy-Monday,2,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jek4uga/,0.115,0.823,0.063,-0.34
+10,CD," Isn’t that reflected in the APY? So if you compare a compounded bank CD to a simple interest brokered CD, won’t it be normalized in the quoted APY?
+
+I only do short term 3-6 mo brokered CDs now.",sablerock7,2,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jek4pwc/,0.0,0.91,0.09,0.5204
+11,TD," I don’t use TD for anything other than Series I bonds. They have a savings bond online calculator for bond interest which shows monthly. 
+
+However, I was referring to T-bills v. CDs, the which the former don’t have a coupon interest rate.",sablerock7,2,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jejxfbf/,0.0,0.854,0.146,0.7184
+12,TX," Interesting, I found this Intuit forum [post](https://ttlc.intuit.com/community/taxes/discussion/do-i-need-to-report-interest-income-in-nonresident-state/00/570954) which basically says interest income from another non-resident state is not taxable to that state unless you have some relationship to that state (e.g, business income). 
+
+I’m in TX and hold brokered CDs to other tax states.",sablerock7,3,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jek3iam/,0.0,0.817,0.183,0.8374
+13,CD," Yes, it's reflected in the quoted APY. But the APY only considers a single year. With a brokered CD you have to reinvest the coupons yourself at whatever rate is available when they are paid. With a bank CD the coupons are reinvested at the quoted APY automatically. The brokered CD has what's called ""reinvestment risk"", the risk that the yields available upon reinvestment in something else will be lower than the original APY.",renegaderunningdog,3,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jekab9j/,0.071,0.867,0.062,-0.1655
+14,CD," OK, but that's not responsive to what we're discussing,  which is brokered CDs vs. Money market accounts. OP wants to buy brokered CDs. Someone responded, Why, just put it in a MMA! My point was that someone considering brokered CDs is probably not planning to buy them with cash that could easily be moved into a high-yield MMA. Otherwise they would just buy the CD directly from the bank.  The reason for brokered CDs is that they (can) return a far better rate than uninvested cash *in a retirement account* (which cannot typically be moved into a worthwhile MMA). Obviously, if you're the kind of person who keeps 100% of your retirement funds fully invested at all times,  then none of this would apply to you.  But many people keep a portion of their funds in cash (and other non-equities) from time to time as the market ebbs and flows.",burghblast,1,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jekjb63/,0.017,0.903,0.08,0.8639
+15,OP," OK, but that's not responsive to what we're discussing,  which is brokered CDs vs. Money market accounts. OP wants to buy brokered CDs. Someone responded, Why, just put it in a MMA! My point was that someone considering brokered CDs is probably not planning to buy them with cash that could easily be moved into a high-yield MMA. Otherwise they would just buy the CD directly from the bank.  The reason for brokered CDs is that they (can) return a far better rate than uninvested cash *in a retirement account* (which cannot typically be moved into a worthwhile MMA). Obviously, if you're the kind of person who keeps 100% of your retirement funds fully invested at all times,  then none of this would apply to you.  But many people keep a portion of their funds in cash (and other non-equities) from time to time as the market ebbs and flows.",burghblast,1,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jekjb63/,0.017,0.903,0.08,0.8639
+16,BC," https://www.treasurydirect.gov/savings-bonds/savings-bond-calculator/
+
+https://www.treasurydirect.gov/BC/SBCPrice
+
+http://eyebonds.info/ibonds/",jfgjfgjfgjfg,1,/r/investing/comments/128nz9z/any_pitfall_with_a_brokered_cd/jel107g/,0.0,1.0,0.0,0.0
+17,CD, Thoughts on the Marcus by GS 10 month promo CD rate of 5.05% APY. Anyone doing it?,ComplexClock,2,/r/investing/comments/128ggag/daily_general_discussion_and_advice_thread_april/jekgsam/,0.0,1.0,0.0,0.0
+18,GS, Thoughts on the Marcus by GS 10 month promo CD rate of 5.05% APY. Anyone doing it?,ComplexClock,2,/r/investing/comments/128ggag/daily_general_discussion_and_advice_thread_april/jekgsam/,0.0,1.0,0.0,0.0
+19,CAN," > Can I combine in one account?
+
+No, do NOT do this, or allow it to happen.  Inherited money must be kept separate.
+
+----
+
+There's a balancing act to be done here, too.  You are rightly concerned about ""getting killed by taxes"" if you take the whole thing right now.  Don't forget, though, that you'll have the SAME problem, but WORSE, if you take the whole thing all at once ten years from now and the account value has grown another 50%.
+
+You'll want to ""do the math"" on your income and your income tax bracket, and see if you can take the distribution over the last 3, or 4, or 5 years -- filling up your **current** tax bracket but not overflowing into the **next** one.
+
+You want low risk; this is good.  You CAN reallocate the funds within the account, or within the new account, without triggering a taxable event.  (Only money coming OUT of the account is taxable.)  So, shift to bonds, or money market funds, or whatever else rings your chimes WITHIN the account, to manage your risk.",DeeDee_Z,2,/r/investing/comments/128myv8/inherited_401k_and_rith_ira/jek3962/,0.099,0.837,0.064,-0.8301
+20,OUT," > Can I combine in one account?
+
+No, do NOT do this, or allow it to happen.  Inherited money must be kept separate.
+
+----
+
+There's a balancing act to be done here, too.  You are rightly concerned about ""getting killed by taxes"" if you take the whole thing right now.  Don't forget, though, that you'll have the SAME problem, but WORSE, if you take the whole thing all at once ten years from now and the account value has grown another 50%.
+
+You'll want to ""do the math"" on your income and your income tax bracket, and see if you can take the distribution over the last 3, or 4, or 5 years -- filling up your **current** tax bracket but not overflowing into the **next** one.
+
+You want low risk; this is good.  You CAN reallocate the funds within the account, or within the new account, without triggering a taxable event.  (Only money coming OUT of the account is taxable.)  So, shift to bonds, or money market funds, or whatever else rings your chimes WITHIN the account, to manage your risk.",DeeDee_Z,2,/r/investing/comments/128myv8/inherited_401k_and_rith_ira/jek3962/,0.099,0.837,0.064,-0.8301
+21,USA," Get some tax advice. Here in Canada an RRSP is fully collapsed and taxed at death = heir gets the balance tax free. USA - ??
+https://www.annuityexpertadvice.com/what-happens-to-401k-when-you-die/#:~:text=This%20is%20called%20estate%20planning,of%20an%20inherited%20401K%20plan.
+
+and Roth stuff here.
+https://www.google.com/search?q=roth+ira+distribution+rules+after+death&rlz=1C1CHBF_enCA924CA924&sxsrf=APwXEdcdGi0kQEkJ65-K9GUY4Ccya-NyZA%3A1680357419399&ei=KzgoZPqCGM-rptQPkMyi0AE&oq=Roth+IRA+death&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgBMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB46BwgjELECECc6CAgAEIoFEJECOgsIABCKBRCxAxCRAkoECEEYAFAAWPA6YKFcaABwAHgAgAGVAYgB6AeSAQMzLjaYAQCgAQHAAQE&sclient=gws-wiz-serp",aurizon,2,/r/investing/comments/128myv8/inherited_401k_and_rith_ira/jejcpur/,0.184,0.727,0.089,-0.5473
+22,CD," At your age it is best to have stock brokerage to review your accounts. beneficiary, mandatory w/d amount as you are supposed to have withdraw money out not put into Roth etc.
+
+I can answer this amount. It is still better to buy Treasury notes, iBond than 1-2 year than putting into CDs if you are in a taxable state for income tax. Feds is state exampt. The gain is interest not capital gain.  You can also put some into a CD long term at prevailing rate using your Fidelity, Vanguard, Schwab, eTrade account with a checking account or credit card bundle package.  All the best.",Vast_Cricket,-1,/r/investing/comments/128myv8/inherited_401k_and_rith_ira/jejho3o/,0.0,0.755,0.245,0.9816
+23,CD," I’m not an accountant.   However, my best guess. 
+
+1.  You can’t combine.  One 401k is pre tax and Roth is post tax.  
+
+2.  You have 10 years to withdraw from the counts, and the Roth withdrawal are tax free. 
+
+3.  You can probably buy CDs in the Roth IRA.  You can also probably convert the 401k to a regular IRA and then buy a CD. 
+
+Ask a professional.",manhattanabe,1,/r/investing/comments/128myv8/inherited_401k_and_rith_ira/jekfapa/,0.0,0.878,0.122,0.8225
+24,EM," The upside of ETFs is that you are far more diversified than when you’re buying individual stocks while you are still harvesting the risk premium of being in the stock market. Since even a lot of professionals can’t pick the right individual stocks to outperform the market I think ETFs are a blessing to all private investors who have only a fraction of the skills and time to put into investing compared to professionals.
+
+If you want to take more risk in return for potentially higher rewards you could look into emerging markets stocks, which have historically outperformed the global market. You could get an EM ETF in your portfolio, most people who have this choose to have only a small portion of their portfolio in EM because it has a small risk of losing high amounts (see for instance Russian stock market collapse).",Jukbruk,1,/r/investing/comments/128t38t/to_stick_with_the_index_fund_or_go_for_individual/jekei9s/,0.06,0.888,0.052,-0.0772
+25,OP," Well, it’s a loser game for the average, above average person,decently smart person, and smart person(Smart here being someone who went or could get accepted at a top 3 public school, even the more than half of those couldn’t do it either). But unless you are one of those top guys, yea, got the index route. 
+
+Also, OP, you’re a teacher working at a public school, and the reality is, that you most likely aren’t even close to the level that others teachers, specifically professors here, that work at Renaissance and other places, because you have to have a PhD from a top school to work there. 
+
+Unless you truly know that you are incredibly smart, it is best not to do it.",Strict_Wasabi8682,-5,/r/investing/comments/128t38t/to_stick_with_the_index_fund_or_go_for_individual/jekv1ca/,0.017,0.789,0.194,0.9666
+26,OP," I forgot to mention this in my OP, but I’ve been maxing out my Roth IRA since I started teaching.",romjombo,2,/r/investing/comments/128t38t/to_stick_with_the_index_fund_or_go_for_individual/jek9bxv/,0.0,1.0,0.0,0.0
+27,OP," Sorry, meant to say someone that couldn’t get accepted into a top 3 public school, and that even then, half of those people wouldn’t do well. 
+
+Basically, what I meant was that unless you are truly smart, you will lose. And the point about half of the people who go to really top schools was to illustrate your point about how even a lot of people that get picked to go work at some of the Wall Street place, don’t do well either. 
+
+Felt like it was pretty obvious with me telling OP that he wasn’t a professor at a top school but instead a public school teacher so he doesn’t stand a chance…",Strict_Wasabi8682,1,/r/investing/comments/128t38t/to_stick_with_the_index_fund_or_go_for_individual/jel36gb/,0.026,0.828,0.145,0.8176
+28,CRSP," S&P has a profitability bias and screens many companies out whereas thr CRSP indicies largely do not.
+
+ITOT hypothetically should outperform VTI over the long run given that factor but the performance differences are likely negligible.  VTI should do better after recessions have ended and new bull markets start given that junk rallies the most early on.
+
+Fwiw my entire US allocation is made up of ITOT and my international IXUS.",probablywrongbutmeh,6,/r/investing/comments/128r58k/itot_vs_vti_any_reason_to_choose_one_over_the/jekb8g7/,0.016,0.91,0.073,0.6369
+29,VERY," VERY good resources, thank you!",Jukbruk,1,/r/investing/comments/128t5a7/investing_in_small_cap_value_etfs_as_european/jekgfrs/,0.0,0.282,0.718,0.8244
+30,OP," The first two are small caps but they are not value weighted and therefore not interesting to me. 
+
+The ZPRX looks like the European counterpart of the one I suggested in OP so I may take both to have more diversification. Thank you!",Jukbruk,1,/r/investing/comments/128t5a7/investing_in_small_cap_value_etfs_as_european/jekgxu4/,0.11,0.745,0.145,0.4154
+31,FA," Lol. No. You’ll never get above average returns long term. All your going to do is buy your FA a bigger boat. 
+
+3% should be criminal",brianmcg321,12,/r/investing/comments/128xt7z/are_above_average_returns_on_my_roth_ira_worth_a/jekxjog/,0.184,0.724,0.092,-0.4215
+32,SP," At the moment his firm picks the stocks. The 16% is after fee’s too. Very good returns.
+
+If I switched over I’d pick my own stocks (likely VOO) and get whatever the SP returns.
+
+I’m leaning towards keeping 70% of it with him and diversifying with the rest of it on my own.",Intrigued_iguana,1,/r/investing/comments/128xt7z/are_above_average_returns_on_my_roth_ira_worth_a/jekxb17/,0.0,0.941,0.059,0.4927
+33,FIX," Interactive brokers
+
+Also apis (particularly rest or websocket based) are painfully slow compared to a FIX connection. So if I were you I'd look at quickFIX and use that as an implementation because that's how every non retail broker communicates.",enginerd03,2,/r/investing/comments/128kiiq/seeking_roboadvisor_api_alternatives_with/jej34za/,0.084,0.916,0.0,-0.5267
+34,FIX, Thanks! I'll do some research on FIX and FIX providers. The current issue with IB is that I have to guide users to the white label IB page to register and I would have to instruct users on how to get the client id and token. Their process isn't as seamless as I would like.,williamp0044,1,/r/investing/comments/128kiiq/seeking_roboadvisor_api_alternatives_with/jejbmo5/,0.0,0.898,0.102,0.69
+35,FIX," FIX isn't necessarily going to be more cost effective for experimentation and development.
+
+Adviser APIs are generally expensive to support and operate.",greytoc,2,/r/investing/comments/128kiiq/seeking_roboadvisor_api_alternatives_with/jejqqu3/,0.0,0.767,0.233,0.7251
+36,UK," Vanguard has etf.s (in USA) that track everything but usa.
+
+Example. VXUS is everything but usa. I also like FRDM it is emerging market ETF not including china. (I don't trust Chinese government and banking system to fairly share true  info about their companies valuations. So I don't invest in china)
+
+Obviously these may not be available to UK investor but I am sure there are similar etf.s available over there.",crazybutthole,1,/r/investing/comments/128dps1/vanguard_ftse_global_all_cap_index/jejn3sz/,0.045,0.795,0.16,0.8461
+37,UK," Vanguard do a tracker called VUAG which tracks the S&P but naturally exchange rates affect the price too. E.g the pound was so weak in October because of political decisions in the UK and the S&P hit a bottom (touch wood) but if you bought the S&P then, because the pound has rebounded, you wouldn’t have actually made the same amount of gains",Life-Ambition1432,2,/r/investing/comments/128dps1/vanguard_ftse_global_all_cap_index/jej9u22/,0.076,0.878,0.046,-0.461
+38,AI," I’d believe you if I didn’t think the politicians IQ, on average, have dropped about 30 points since 2008, and they weren’t very smart then
+
+Edit: did you see the credit ratings for the failed banks? A+ before complete failure. Best thing to do is replace those agencies with AI bots to give ratings. Anything to get some real fundamentals back in the mix",ImPickleRickBytch,1,/r/investing/comments/128ph2j/is_the_current_market_a_rugpull_waiting_to_happen/jel3wt5/,0.089,0.78,0.132,0.4927
+39,IQ," I’d believe you if I didn’t think the politicians IQ, on average, have dropped about 30 points since 2008, and they weren’t very smart then
+
+Edit: did you see the credit ratings for the failed banks? A+ before complete failure. Best thing to do is replace those agencies with AI bots to give ratings. Anything to get some real fundamentals back in the mix",ImPickleRickBytch,1,/r/investing/comments/128ph2j/is_the_current_market_a_rugpull_waiting_to_happen/jel3wt5/,0.089,0.78,0.132,0.4927
+40,AI," > I wouldn't be surprised if Intuit went bankrupt within the next 10 years.
+
+Some ppl make truly brain dead claims here lol.
+
+The whole point of Turbo Tax is TO DO your taxes and whole the point of ChatGPT is to get info (two very different things). How is ChatGPT going to do your taxes for you? It can merely answer questions which you have to hope are correct. The info Turbo Tax provides on their website is verified by legal within Intuit. ChatGPT would never take on that same task to provide legal tax advice lol (it’s a whole different domain). The only viable solution is for Intuit to integrate some generative AI solutions into their products (Quick books, Mint, and Credit Karma), which they’re 100% working on.",BigTitsKeepMeHappy,37,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jejsyju/,0.066,0.79,0.144,0.8143
+41,UI," There’s nothing magical about Turbo. They have good UI, good integration with other platforms to pull in your W-2 and 1099. The value they offer is not teaching you how to do taxes, but literally doing them for you. 
+
+Their majority of the market is likely coming from slightly complex tax situations. Also CPAs also use turbo to help with filing their clients taxes too btw.",twrex67535,6,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jejz1ui/,0.0,0.871,0.129,0.7992
+42,AI," Ironically, Intuit is venturing more into the services business, so something like ML could limit their growth into tax services. (sorry, to me AI is a layman’s marketing term)
+
+Although the OP is somewhat poorly worded, something like ChatGPT could impact their future growth opportunities",sablerock7,1,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jejwiwh/,0.0,0.745,0.255,0.9073
+43,ML," Ironically, Intuit is venturing more into the services business, so something like ML could limit their growth into tax services. (sorry, to me AI is a layman’s marketing term)
+
+Although the OP is somewhat poorly worded, something like ChatGPT could impact their future growth opportunities",sablerock7,1,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jejwiwh/,0.0,0.745,0.255,0.9073
+44,OP," Ironically, Intuit is venturing more into the services business, so something like ML could limit their growth into tax services. (sorry, to me AI is a layman’s marketing term)
+
+Although the OP is somewhat poorly worded, something like ChatGPT could impact their future growth opportunities",sablerock7,1,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jejwiwh/,0.0,0.745,0.255,0.9073
+45,IRS," There's lots of tax products out there and a lot of them are free if you don't have complex taxes and make below a certain threshold. And if GPT does start doing taxes is it going to be free? Is it going to provide support or assistance when something goes wrong? Is it going to auto import your forms? Is it going to properly know what deductions you should take without you explicitly telling them? Is it going to make payments to the IRS on your behalf? 
+
+What you're paying for is convenience, not the ability to file taxes. You can literally file taxes with a pen and paper for free. The question you should be asking is not if it's a cheaper product, but is it a better one.",Itsmedudeman,1,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jek1yjx/,0.026,0.865,0.108,0.8787
+46,IRS," >You think the IRS is going to accept a tax application that is written by ChatGPT
+
+Do you think they would know?  The person likely just files it themself, ChatGPT just gives you the finished form.  A few free tax filing sites do the same thing.  If you get audited, you are on your own.",GaylrdFocker,5,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jek67st/,0.0,0.896,0.104,0.7096
+47,IRS," Didn't you hear him? The final results were exactly the same.
+
+ChatGPT processed his basic ass standard deduction and W-2 in 2 clicks instead of TurboTax's 3 clicks.
+
+Puts on Intuit and the IRS.",Meadhead81,13,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jek3fzf/,0.101,0.899,0.0,-0.5423
+48,TT," No. 
+
+There are programs like that, but some TT alternatives are just cheaper. 
+
+I use CashApp Taxes (formerly credit karma taxes), and it's free.",thewimsey,1,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jek4y8l/,0.053,0.629,0.318,0.8402
+49,AGI," IRS Free File offers free guided tax prep service to those under $73,000 AGI.  FreeTaxUSA is an alternative to TurboTax or HR Block that does free federal and $15 state taxes and doesn’t have an income limit as far as I’m aware. My wife and I have been using it for the last few years with no issue. It seemed like with TurboTax we always had one type of investment account or something that would force us to buy a higher version every year we did taxes before switching.",Crunchitize_Me_Capn,1,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jek6fnf/,0.052,0.822,0.126,0.8074
+50,HR," IRS Free File offers free guided tax prep service to those under $73,000 AGI.  FreeTaxUSA is an alternative to TurboTax or HR Block that does free federal and $15 state taxes and doesn’t have an income limit as far as I’m aware. My wife and I have been using it for the last few years with no issue. It seemed like with TurboTax we always had one type of investment account or something that would force us to buy a higher version every year we did taxes before switching.",Crunchitize_Me_Capn,1,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jek6fnf/,0.052,0.822,0.126,0.8074
+51,IRS," IRS Free File offers free guided tax prep service to those under $73,000 AGI.  FreeTaxUSA is an alternative to TurboTax or HR Block that does free federal and $15 state taxes and doesn’t have an income limit as far as I’m aware. My wife and I have been using it for the last few years with no issue. It seemed like with TurboTax we always had one type of investment account or something that would force us to buy a higher version every year we did taxes before switching.",Crunchitize_Me_Capn,1,/r/investing/comments/128q3wi/intu_intuit_turbotax_is_in_trouble/jek6fnf/,0.052,0.822,0.126,0.8074
